@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T04:38:07+00:00",
+ "updated": "2026-10-16T11:34:05+00:00",
  "events": [
   {
    "id": "mob-1061267",
@@ -1476,6 +1476,29 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x_20261013181947123962.png"
   },
   {
+   "id": "mob-1066679",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "10/19 - Voter Mobilization @ Texas State with Gina Hinojosa",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Powered by People",
+   "start": "2026-10-19T16:00:00+00:00",
+   "end": "2026-10-19T19:00:00+00:00",
+   "more_times": 0,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "San Marcos",
+   "zip": "78666",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/poweredxpeople/event/1066679/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/HINOJOSA%201019%20%281%29_20261016062156016080.png"
+  },
+  {
    "id": "mob-1056181",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -1706,6 +1729,21 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/03.02.26%20-%20tbtt%20%20-%20%2071%20%281%29_20261001231016447583.jpg"
   },
   {
+   "id": "news-ea637320bb09",
+   "source": "KVUE",
+   "kind": "reported",
+   "title": "Talarico rallies in San Marcos as high-stakes Texas Senate race enters final stretch",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-16T05:19:00+00:00",
+   "city": "San Marcos",
+   "lat": 29.8736,
+   "lng": -97.9367,
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVlNZNHVBZ1ZDdVIzNWdwbU5OcFBvekVKQTRMNG1fUE9VZlpXcGhubWI4OTVWVXFaSEtHbzBrWERzYTNCWDFxN3djMC1Qbkl3VFgxNVQtaWRLNlI0Z2Zja2hOdGJRMnh4WWRfVzZYMHRjRTZBX2t4TjFtNVNSeUlIanVpeGpVcWUyblNfbVdSWjdZM2NLVGtDa0l4ZkgyWlVoemdNQ0JFTXY3bDNsa0czRko0YW9PSURqZU9wMnU3MHJ1dzJFT2Q4bmxTWDl2ZUNqOWR0a0tPNE1OYXRKaDFmTXJqYWpsRW5VR1RkYWx1emQ4UFZGMVFITnhyTlFKTnVKRVNhcQ?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-0eeba45349a8",
    "source": "FOX 7 Austin",
    "kind": "reported",
@@ -1871,21 +1909,6 @@
    "virtual": false
   },
   {
-   "id": "news-48ed895ca5fd",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "Texas Comptroller Don Huffines speaks at historic GOP rally in Tyler",
-   "candidates": [
-    "don-huffines"
-   ],
-   "start": "2026-10-14T05:55:33+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0llcHROeFBqa1cyR3dMVWhfdzBxQUtkcTc2RDlYNGNJR3hRTjg5enkyeUNpbWFVU1ZRZThJa1hWamptN0puNXQwdWlkaUVVYjF6bFFvZktQMTd2VzJRNmFVX0ZJZ2F2c1BSXzJHelpMRnFYczlQX0ZjbFV4Wk94ckM3enJMd0ZWTWtTd25aUzBveVgya2h6ZG44YmladHBNMWRJ?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-6d6ac14b0555",
    "source": "12newsnow.com",
    "kind": "reported",
@@ -1946,6 +1969,36 @@
    "virtual": false
   },
   {
+   "id": "news-48ed895ca5fd",
+   "source": "KLTV.com",
+   "kind": "reported",
+   "title": "Texas Comptroller Don Huffines speaks at historic GOP rally in Tyler",
+   "candidates": [
+    "don-huffines"
+   ],
+   "start": "2026-10-13T17:05:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0llcHROeFBqa1cyR3dMVWhfdzBxQUtkcTc2RDlYNGNJR3hRTjg5enkyeUNpbWFVU1ZRZThJa1hWamptN0puNXQwdWlkaUVVYjF6bFFvZktQMTd2VzJRNmFVX0ZJZ2F2c1BSXzJHelpMRnFYczlQX0ZjbFV4Wk94ckM3enJMd0ZWTWtTd25aUzBveVgya2h6ZG44YmladHBNMWRJ?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-8f87b148c8dc",
+   "source": "KLTV.com",
+   "kind": "reported",
+   "title": "U.S. Senate candidate Ken Paxton speaks at historic GOP rally in Tyler",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-13T17:05:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM21BQUM0eWxVYzVMVXBjcnpoN2huWEVJdjhFSjkzYXhEZC1nWkhfV0tKeEVBbDdlYkY0VG1IbFVibWtPZ2FkNlg0NV9jY09VR3hXR1l5SXdQZUk3UUQzV2lPZEptYTRIQ2hsN1QyWWxIRGFkdWgxeVFtRlNEVmx6Tkl2Q285cTFjTTdJOVVvajRLcG1Tc0pvc0VhcTZwLVZYNXo4?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-4cd22eb096e9",
    "source": "KLTV.com",
    "kind": "reported",
@@ -1988,21 +2041,6 @@
    "lat": 32.4993,
    "lng": -94.5679,
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdUF0VFVFLU5oeDZNdm85ZjA5WEhmc2dGYkl3WC1zdWM1Y1JnMzRnUDRIVk9JR2Qta2RsZW5kVWJ6V1p4WWhPTWZZNHhxOURpTi1lbHY0R2RMS0dWZjJfSklRZEQyQS13T3dNWnVOemhfSDB2dzVnZXd3NE96Z1BMaFVTNGFDWmZQQTFQNUlJT3c3bmlFUDQ0VGdHaUktR2RrSUxCbWNBRk1sSjdtUnJVeDRlR2piaXUwVzVPTTRmX1pfY04yb0l2ZWd0bG1vdw?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-8f87b148c8dc",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "U.S. Senate candidate Ken Paxton speaks at historic GOP rally in Tyler",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-13T00:17:15+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM21BQUM0eWxVYzVMVXBjcnpoN2huWEVJdjhFSjkzYXhEZC1nWkhfV0tKeEVBbDdlYkY0VG1IbFVibWtPZ2FkNlg0NV9jY09VR3hXR1l5SXdQZUk3UUQzV2lPZEptYTRIQ2hsN1QyWWxIRGFkdWgxeVFtRlNEVmx6Tkl2Q285cTFjTTdJOVVvajRLcG1Tc0pvc0VhcTZwLVZYNXo4?oc=5",
    "virtual": false
   },
   {
