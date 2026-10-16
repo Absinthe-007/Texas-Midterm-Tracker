@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T04:18:05+00:00",
+ "updated": "2026-10-16T04:32:52+00:00",
  "bios": {
   "Dan_Patrick_(politician)": {
    "title": "Dan Patrick (politician)",
@@ -421,6 +421,48 @@
    "url": "https://en.wikipedia.org/wiki/Veronica_Escobar",
    "fetched": "2026-10-16T04:18:02+00:00",
    "scrutiny": []
+  },
+  "Steve_Toth": {
+   "title": "Steve Toth",
+   "description": "American businessman and politician (born 1960)",
+   "extract": "Steven Hixson Toth is an American businessman, pastor, and politician serving as a member of the Texas House of Representatives from District 15, The Woodlands area. Toth is the Republican nominee for Texas's 2nd congressional district, having defeated incumbent representative Dan Crenshaw in the March 2026 Republican primary.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/SteveToth--EagleForum--TX2Debate--GraceChurch--SpringTX--08Jan2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "url": "https://en.wikipedia.org/wiki/Steve_Toth",
+   "fetched": "2026-10-16T04:32:39+00:00",
+   "scrutiny": []
+  },
+  "Joaquin_Castro": {
+   "title": "Joaquin Castro",
+   "description": "American politician (born 1974)",
+   "extract": "Joaquin Castro is an American lawyer and Democratic politician who has represented Texas's 20th congressional district in the United States House of Representatives since 2013. The district includes just over half of his native San Antonio. He currently serves on the United States House Committee on Foreign Affairs and the United States House Permanent Select Committee on Intelligence.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg/330px-Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "url": "https://en.wikipedia.org/wiki/Joaquin_Castro",
+   "fetched": "2026-10-16T04:32:42+00:00",
+   "scrutiny": []
+  },
+  "John_Carter_(Texas_politician)": {
+   "title": "John Carter (Texas politician)",
+   "description": "American politician (born 1941)",
+   "extract": "John Rice Carter is an American politician serving as a U.S. representative representing Texas's 31st congressional district since 2003. The district includes the northern suburbs of Austin, as well as Fort Hood. He is a Republican. If elected for another term, Carter is set to become the dean of Texas's congressional delegation when Representative Lloyd Doggett and Senator John Cornyn leave office in 2027.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/John_Carter%2C_official_portrait_114th_Congress_%28cropped%29.jpg/330px-John_Carter%2C_official_portrait_114th_Congress_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "url": "https://en.wikipedia.org/wiki/John_Carter_(Texas_politician)",
+   "fetched": "2026-10-16T04:32:45+00:00",
+   "scrutiny": []
+  },
+  "Pete_Sessions": {
+   "title": "Pete Sessions",
+   "description": "American politician (born 1955)",
+   "extract": "Peter Anderson Sessions is an American politician who serves in the United States House of Representatives for Texas's 17th congressional district as a member of the Republican Party. He chaired the House Rules Committee from 2013 to 2019 and is a former chair of the National Republican Congressional Committee.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Pete_Sessions_Congressional_ID_photo_117.jpg/330px-Pete_Sessions_Congressional_ID_photo_117.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "url": "https://en.wikipedia.org/wiki/Pete_Sessions",
+   "fetched": "2026-10-16T04:32:48+00:00",
+   "scrutiny": [
+    {
+     "title": "Connection to Ukraine influence investigation",
+     "summary": "On October 10, 2019, the Texas Tribune , among other news outlets, reported that Sessions was identifiable as \"Congressman-1\" in an indictment by the Southern District of New York charging Lev Parnas and Igor Fruman with illegal campaign contributions aimed at removing former U.S.",
+     "url": "https://en.wikipedia.org/wiki/Pete_Sessions#Connection_to_Ukraine_influence_investigation"
+    }
+   ]
   }
  }
 }
