@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TX '26 Tracker</title>
+<meta name="description" content="Texas 2026 midterms: live candidate stops, polls, and the red/blue map.">
+<meta name="theme-color" content="#0b0d17">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%233b82f6'/><stop offset='1' stop-color='%23ef4444'/></linearGradient></defs><rect width='100' height='100' rx='26' fill='url(%23g)'/><text x='50' y='66' font-size='46' font-family='Arial' font-weight='900' fill='white' text-anchor='middle'>TX</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <div class="logo">TX</div>
+    <div>
+      <h1>TX '26 <span class="grad">Tracker</span></h1>
+      <div class="sub" id="updated">Loading live data…</div>
+    </div>
+  </div>
+  <div class="top-right">
+    <div class="pill countdown" id="countdown"></div>
+    <div class="pill ev" id="evpill"></div>
+    <button class="icon-btn" id="themeBtn" aria-label="Toggle light/dark mode">◐</button>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button data-tab="trail" class="active"><span class="ti">📍</span><span>Trail</span></button>
+  <button data-tab="polls"><span class="ti">📊</span><span>Polls</span></button>
+  <button data-tab="shift"><span class="ti">🗺️</span><span>Red/Blue</span></button>
+  <button data-tab="forecast"><span class="ti">🔮</span><span>Forecast</span></button>
+  <button data-tab="races"><span class="ti">🏁</span><span>Races</span></button>
+</nav>
+
+<main>
+  <!-- CAMPAIGN TRAIL -->
+  <section class="view active" id="view-trail">
+    <div class="stories" id="stories"></div>
+    <div class="trail-layout">
+      <div class="map-wrap"><div id="trailMap" class="map"></div>
+        <div class="map-legend">
+          <span><i class="dot d"></i>Dem</span><span><i class="dot r"></i>GOP</span>
+          <span><i class="sq"></i>Scheduled</span><span><i class="sq dash"></i>Reported in news</span>
+        </div>
+      </div>
+      <aside class="panel">
+        <div class="chips" id="partyChips">
+          <button data-v="all" class="on">All</button>
+          <button data-v="D">Dems</button>
+          <button data-v="R">GOP</button>
+        </div>
+        <div class="chips" id="kindChips">
+          <button data-v="all" class="on">Everything</button>
+          <button data-v="speak">Speaking</button>
+          <button data-v="volunteer">Volunteer</button>
+          <button data-v="reported">In the news</button>
+        </div>
+        <div class="chips" id="levelChips">
+          <button data-v="all" class="on">All races</button>
+          <button data-v="statewide">Statewide</button>
+          <button data-v="house">U.S. House</button>
+        </div>
+        <div class="list" id="eventList"></div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- POLLS -->
+  <section class="view" id="view-polls">
+    <div class="chips scroll" id="pollRaceChips"></div>
+    <div class="grid2">
+      <div class="card big" id="pollHero"></div>
+      <div class="card" id="pollChart"></div>
+    </div>
+    <div class="row-between">
+      <h3 class="h">Every poll</h3>
+      <label class="toggle"><input type="checkbox" id="hidePartisan"><span>Hide partisan-sponsored polls</span></label>
+    </div>
+    <div class="poll-list" id="pollList"></div>
+    <p class="fine">Average = newest poll from each pollster in the last 30 days (likely-voter version when both exist). Polls compiled from Wikipedia's race pages, each linked to the original release.</p>
+  </section>
+
+  <!-- RED / BLUE -->
+  <section class="view" id="view-shift">
+    <div class="shift-controls">
+      <div class="seg" id="geoSeg"><button data-v="county" class="on">Counties</button><button data-v="district">Districts</button></div>
+      <select id="layerSel"></select>
+    </div>
+    <div class="trail-layout">
+      <div class="map-wrap"><div id="shiftMap" class="map"></div><div class="scale" id="scale"></div></div>
+      <aside class="panel">
+        <div class="stat-cards" id="shiftStats"></div>
+        <div class="card info" id="shiftInfo"><p class="muted">Tap a county or district for details.</p></div>
+        <p class="fine" id="shiftNote"></p>
+      </aside>
+    </div>
+  </section>
+
+  <!-- FORECAST -->
+  <section class="view" id="view-forecast">
+    <div class="grid2">
+      <div class="card big" id="fcHouse"></div>
+      <div class="card"><div class="hero-k">How to read this</div><p class="fine" id="fcNote" style="margin:10px 0 0;font-size:13px"></p>
+        <p class="fine" style="font-size:13px">Tap a face to open that candidate's loadout. Percentages are chances of winning, not vote shares.</p></div>
+    </div>
+    <h3 class="h">Statewide races</h3>
+    <div class="fc-grid" id="fcGrid"></div>
+    <h3 class="h">Closest House races</h3>
+    <div class="fc-grid" id="fcHouseGrid"></div>
+  </section>
+
+  <!-- RACES -->
+  <section class="view" id="view-races">
+    <div class="chips" id="raceFilter">
+      <button data-v="statewide" class="on">Statewide</button>
+      <button data-v="competitive">Competitive House</button>
+      <button data-v="house">All 38 districts</button>
+    </div>
+    <div class="race-grid" id="raceGrid"></div>
+  </section>
+</main>
+
+<!-- CANDIDATE LOADOUT -->
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <button class="close" id="drawerClose" aria-label="Close">✕</button>
+  <div id="drawerBody"></div>
+</aside>
+
+<footer class="foot">
+  Data: Texas Legislative Council · Texas SOS-certified results · Wikipedia race pages (poll + ratings tables, each sourced) · Mobilize public events · established news outlets via Google News.
+  Built for personal use; updates every 6 hours. <a href="https://github.com/Absinthe-007/Texas-Midterm-Tracker">Source on GitHub</a>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
