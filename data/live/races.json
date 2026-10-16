@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T11:28:43+00:00",
+ "updated": "2026-10-16T16:42:36+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -86,22 +86,22 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Ken Paxton": {
-      "raised": 9248699,
-      "spent": 7492915,
-      "cash": 1755783
+      "raised": 19489694,
+      "spent": 14564589,
+      "cash": 4925105
      },
      "James Talarico": {
-      "raised": 68560930,
-      "spent": 47012775,
-      "cash": 21548155
+      "raised": 122837181,
+      "spent": 114178603,
+      "cash": 14594231
      },
      "Ted Brown": {
-      "raised": 7460,
-      "spent": 6376,
-      "cash": 1151
+      "raised": 26661,
+      "spent": 23712,
+      "cash": 2948
      }
     }
    },
@@ -119,6 +119,8 @@
       "R": 49.0,
       "D": 48.0
      },
+     "other": 2.0,
+     "undecided": 1.0,
      "margin": -1.0
     },
     {
@@ -5062,8 +5064,8 @@
     },
     {
      "source": "Inside Elections",
-     "rating": "Tilt R",
-     "as_of": "August 20, 2026"
+     "rating": "Tossup",
+     "as_of": "October 15, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
