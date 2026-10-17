@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:38:56+00:00",
+ "updated": "2026-10-17T20:39:26+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -89,18 +89,18 @@
     "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Ken Paxton": {
-      "raised": 19489694,
-      "spent": 14564589,
+      "raised": 19497809,
+      "spent": 14572704,
       "cash": 4925105
      },
      "James Talarico": {
-      "raised": 122837181,
+      "raised": 128772835,
       "spent": 114178603,
       "cash": 14594231
      },
      "Ted Brown": {
-      "raised": 26661,
-      "spent": 23712,
+      "raised": 12667,
+      "spent": 9787,
       "cash": 2948
      }
     }
