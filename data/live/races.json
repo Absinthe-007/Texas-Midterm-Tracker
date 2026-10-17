@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:31:14+00:00",
+ "updated": "2026-10-17T10:48:31+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -5746,7 +5746,24 @@
      "R": 42.0
     }
    ],
-   "debates": [],
+   "debates": [
+    {
+     "date": "Jan. 17, 2026",
+     "host": "State Democratic Committee CD 23",
+     "moderator": "Reagan Stone",
+     "link_text": "YouTube",
+     "url": "https://www.youtube.com/watch?v=2k1_EzLrxdQ",
+     "participants": []
+    },
+    {
+     "date": "Oct. 13, 2026",
+     "host": "",
+     "moderator": "Robert Holguin Yami Virgin",
+     "link_text": "YouTube",
+     "url": "https://www.youtube.com/watch?v=LmLTlDPvoZc",
+     "participants": []
+    }
+   ],
    "key": "tx23",
    "type": "house",
    "district": "23",
