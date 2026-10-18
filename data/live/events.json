@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:46:37+00:00",
+ "updated": "2026-10-18T11:18:49+00:00",
  "events": [
   {
    "id": "mob-1067311",
@@ -2211,6 +2211,213 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Candidate%20DVC%20Templates%20%2841%29_20260708193711142313.png"
   },
   {
+   "id": "mob-985796",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Team Barrios Block Walk",
+   "type": "CANVASS",
+   "candidates": [
+    "dan-barrios"
+   ],
+   "host": "Dan Barrios for Congress",
+   "start": "2026-10-24T14:30:00+00:00",
+   "end": "2026-10-24T16:00:00+00:00",
+   "more_times": 1,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Richardson",
+   "zip": "75080",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/danbarriosforcongress/event/985796/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Sat930amdan_20260722004832030126.jpg"
+  },
+  {
+   "id": "mob-1067110",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Texas Together Block walk with Gina Hinojosa",
+   "type": "COMMUNITY_CANVASS",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Texas Together",
+   "start": "2026-10-24T15:00:00+00:00",
+   "end": "2026-10-24T18:00:00+00:00",
+   "more_times": 0,
+   "venue": "MLk Center",
+   "address": "2707 Martin Luther King Jr Blvd",
+   "city": "Dallas",
+   "zip": "75215",
+   "lat": 32.7685461,
+   "lng": -96.769637,
+   "virtual": true,
+   "url": "https://www.mobilize.us/texasdemocrats/event/1067110/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20Mobilize%20Graphic%20%281%29_20261016201112809451.png"
+  },
+  {
+   "id": "mob-1067009",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Block Walk for Gina - East End (Mason Park)",
+   "type": "CANVASS",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-24T15:00:00+00:00",
+   "end": "2026-10-24T17:30:00+00:00",
+   "more_times": 0,
+   "venue": "Mason Park",
+   "address": "Tipps Street & South 75th Street",
+   "city": "Houston",
+   "zip": "77023",
+   "lat": 29.7226008,
+   "lng": -95.29499,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1067009/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/GINA%20BLOCKWALK_20261016185352185913.png"
+  },
+  {
+   "id": "mob-1066019",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Team Lizzie Day of Action with Staci Childs and Dr. Darlene Breaux",
+   "type": "CANVASS",
+   "candidates": [
+    "lizzie-fletcher"
+   ],
+   "host": "Lizzie Pannill Fletcher for Congress",
+   "start": "2026-10-24T15:00:00+00:00",
+   "end": "2026-10-24T18:00:00+00:00",
+   "more_times": 0,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Houston",
+   "zip": "77072",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/fletcherforcongress/event/1066019/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/a465cf399930723a5c7cb5c3ccc076fadeffa2e9d87bf7073cc2f81c583a11b3_20261015173920437998.jpg"
+  },
+  {
+   "id": "mob-1058592",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Blockwalk for Johnny Garcia",
+   "type": "CANVASS",
+   "candidates": [
+    "johnny-garcia"
+   ],
+   "host": "Johnny Garcia for Congress",
+   "start": "2026-10-24T15:00:00+00:00",
+   "end": "2026-10-24T17:30:00+00:00",
+   "more_times": 0,
+   "venue": "Johnny for Congress HQ",
+   "address": "1913 Pleasanton Rd",
+   "city": "San Antonio",
+   "zip": "78221",
+   "lat": 29.3625434,
+   "lng": -98.5042709,
+   "virtual": false,
+   "url": "https://www.mobilize.us/garciaforcongress/event/1058592/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/10-24%20Blockwalk%20%28AM%29_20261007204527997624.png"
+  },
+  {
+   "id": "mob-1055101",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Texas Together Block Walk in Frisco With Jason Pearce",
+   "type": "CANVASS",
+   "candidates": [
+    "jason-pearce"
+   ],
+   "host": "Texas Together",
+   "start": "2026-10-24T15:00:00+00:00",
+   "end": "2026-10-24T18:00:00+00:00",
+   "more_times": 1,
+   "venue": "Behind 1845 Mercantile",
+   "address": "6726 Main St, Suite 430",
+   "city": "Frisco",
+   "zip": "75033",
+   "lat": 33.1512975,
+   "lng": -96.8270188,
+   "virtual": false,
+   "url": "https://www.mobilize.us/texasdemocrats/event/1055101/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Jason%20Pearce%20TT%20Blockwalking%20Graphic_20261010044520454915.png"
+  },
+  {
+   "id": "mob-1053162",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Texas Together Blockwalk on Teasley for Steven Shook for TX-26",
+   "type": "CANVASS",
+   "candidates": [
+    "steven-shook"
+   ],
+   "host": "Texas Together",
+   "start": "2026-10-24T15:00:00+00:00",
+   "end": "2026-10-24T18:00:00+00:00",
+   "more_times": 5,
+   "venue": "DCDP Office",
+   "address": "2220 San Jacinto Blvd Suite 340",
+   "city": "Denton",
+   "zip": "76205",
+   "lat": 33.1926198,
+   "lng": -97.1101483,
+   "virtual": false,
+   "url": "https://www.mobilize.us/texasdemocrats/event/1053162/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Corinth_20261016170314051793.png"
+  },
+  {
+   "id": "mob-998981",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Blockwalk with the Henry Cuellar for Congress Campaign!",
+   "type": "CANVASS",
+   "candidates": [
+    "henry-cuellar"
+   ],
+   "host": "Henry Cuellar for Congress",
+   "start": "2026-10-24T15:00:00+00:00",
+   "end": "2026-10-24T18:00:00+00:00",
+   "more_times": 1,
+   "venue": "Hidalgo Democrats HQ",
+   "address": "800 N Main St, Suite 110",
+   "city": "McAllen",
+   "zip": "78501",
+   "lat": 26.2116878,
+   "lng": -98.2324064,
+   "virtual": false,
+   "url": "https://www.mobilize.us/henrycuellarforcongress/event/998981/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/henry_cuellar_logo_16x8_20260728213711696338.png"
+  },
+  {
+   "id": "mob-996588",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Blockwalk with the Henry Cuellar for Congress Campaign!",
+   "type": "CANVASS",
+   "candidates": [
+    "henry-cuellar"
+   ],
+   "host": "Henry Cuellar for Congress",
+   "start": "2026-10-24T15:00:00+00:00",
+   "end": "2026-10-24T18:00:00+00:00",
+   "more_times": 1,
+   "venue": "",
+   "address": "7511 McPherson Rd Suite 1B",
+   "city": "Laredo",
+   "zip": "78041",
+   "lat": 27.5718907,
+   "lng": -99.4720737,
+   "virtual": false,
+   "url": "https://www.mobilize.us/henrycuellarforcongress/event/996588/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/henry_cuellar_logo_16x8_20260724174717227768.png"
+  },
+  {
    "id": "news-81cf4d319101",
    "source": "KXXV",
    "kind": "reported",
@@ -2218,7 +2425,7 @@
    "candidates": [
     "ken-paxton"
    ],
-   "start": "2026-10-17T22:52:49+00:00",
+   "start": "2026-10-17T23:36:31+00:00",
    "city": "Killeen",
    "lat": 31.0777,
    "lng": -97.732,
@@ -2418,6 +2625,21 @@
    "lat": 31.558,
    "lng": -97.1898,
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3d6ZE9xVzJjckI4My1Yejh4OThpby1CLW52UjJDX3V0ZloteHRDcWJvOEcxQVRQdWJUVkhPTE1GM185V0FHbmQ1b1JuODNIcGhSQ201ZE1sR1I5RDJHdjNWRk8xWS1Td1VIeHNvNHQyNUNCdUxBU3puYnNseVFlQVgwNDJ5RlAyeFI4UkowZU1CUzBiRDNPd1dqTUJFNVY1djhJNl94TmZqaW5sdXJvVjhqZW5PN3VteWFfSnhVc19JbFNlRVUtWHpKakZ6MmtkZ0NUUVRJekxYcndnTWRrNg?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-045f8ba1557b",
+   "source": "KXXV",
+   "kind": "reported",
+   "title": "Lt. Gov. Dan Patrick speaks at Waco luncheon, touts Texas economy and outlines plans for next legislative session",
+   "candidates": [
+    "dan-patrick"
+   ],
+   "start": "2026-10-15T23:26:31+00:00",
+   "city": "Waco",
+   "lat": 31.558,
+   "lng": -97.1898,
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFdkWHRPUGRjV1F2UUdlUWFKT0RjTGxsb2RNVC1aQmRLMFh2Q3V3UG9scVp0VklyeTctWS03d3I5YzByck9PbkNyc3JjZGM2bFRiVGJ4MHNDV2NQQmxXeVhQSm85R3M3ZzN4VWlIU3JHSGtHd2hlWkpGMG1HcVFObVBfUTNpOWtCZ0xUVEdMLUg1MTNZTWlFUlUwamhXZHhZbVE0M0NSZDNuSk01dWZzci1rYk5wbV9RSzVwa1FWOTdHOVZ3amVYLVVULXBtanVENmR6c1ZsaWtQbWp4YlJqLXdWczJ5VXdWWkE?oc=5",
    "virtual": false
   },
   {
