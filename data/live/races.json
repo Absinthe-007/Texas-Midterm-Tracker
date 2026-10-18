@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:10:32+00:00",
+ "updated": "2026-10-18T15:55:18+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -106,6 +106,21 @@
     }
    },
    "polls": [
+    {
+     "pollster": "CBS News/YouGov",
+     "partisan": null,
+     "start": "2026-10-08",
+     "end": "2026-10-16",
+     "n": 1492,
+     "pop": "LV",
+     "moe": 3.5,
+     "url": "https://www.cbsnews.com/news/texas-senate-talarico-paxton-poll/",
+     "results": {
+      "R": 49.0,
+      "D": 51.0
+     },
+     "margin": 2.0
+    },
     {
      "pollster": "InsiderAdvantage",
      "partisan": "R",
@@ -1072,13 +1087,13 @@
     }
    ],
    "average": {
-    "D": 48.1,
-    "R": 45.9,
+    "D": 48.2,
+    "R": 46.1,
     "margin": 2.1,
-    "n_polls": 18,
+    "n_polls": 19,
     "window_days": 30,
     "from": "2026-09-19",
-    "to": "2026-10-14"
+    "to": "2026-10-16"
    },
    "trend": [
     {
@@ -1305,6 +1320,11 @@
      "date": "2026-10-14",
      "D": 48.0,
      "R": 45.9
+    },
+    {
+     "date": "2026-10-16",
+     "D": 48.2,
+     "R": 46.1
     }
    ],
    "key": "senate",
@@ -1404,6 +1424,21 @@
     }
    },
    "polls": [
+    {
+     "pollster": "CBS News/YouGov",
+     "partisan": null,
+     "start": "2026-10-08",
+     "end": "2026-10-16",
+     "n": 1492,
+     "pop": "LV",
+     "moe": 3.5,
+     "url": "https://www.cbsnews.com/news/texas-senate-talarico-paxton-poll/",
+     "results": {
+      "R": 52.0,
+      "D": 48.0
+     },
+     "margin": -4.0
+    },
     {
      "pollster": "ActiVote",
      "partisan": null,
@@ -2233,13 +2268,13 @@
     }
    ],
    "average": {
-    "D": 46.4,
-    "R": 48.4,
-    "margin": -2.1,
-    "n_polls": 14,
+    "D": 46.5,
+    "R": 48.7,
+    "margin": -2.2,
+    "n_polls": 15,
     "window_days": 30,
     "from": "2026-09-19",
-    "to": "2026-10-14"
+    "to": "2026-10-16"
    },
    "trend": [
     {
@@ -2436,6 +2471,11 @@
      "date": "2026-10-14",
      "D": 46.3,
      "R": 48.5
+    },
+    {
+     "date": "2026-10-16",
+     "D": 46.5,
+     "R": 48.7
     }
    ],
    "key": "governor",
