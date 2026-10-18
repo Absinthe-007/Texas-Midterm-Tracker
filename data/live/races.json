@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:39:26+00:00",
+ "updated": "2026-10-18T04:38:19+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -3839,6 +3839,21 @@
    },
    "polls": [
     {
+     "pollster": "ActiVote",
+     "partisan": null,
+     "start": "2026-09-25",
+     "end": "2026-10-17",
+     "n": 400,
+     "pop": "LV",
+     "moe": 4.9,
+     "url": "https://www.activote.net/polls/2026/tx-railroad-commissioner/",
+     "results": {
+      "R": 52.0,
+      "D": 48.0
+     },
+     "margin": -4.0
+    },
+    {
      "pollster": "University of Texas/Texas Politics Project",
      "partisan": null,
      "start": "2026-09-25",
@@ -3940,13 +3955,13 @@
     }
    ],
    "average": {
-    "D": 44.2,
-    "R": 45.2,
-    "margin": -1.0,
-    "n_polls": 4,
+    "D": 45.0,
+    "R": 46.6,
+    "margin": -1.6,
+    "n_polls": 5,
     "window_days": 30,
     "from": "2026-09-19",
-    "to": "2026-10-05"
+    "to": "2026-10-17"
    },
    "trend": [
     {
@@ -3978,6 +3993,11 @@
      "date": "2026-10-05",
      "D": 44.2,
      "R": 45.2
+    },
+    {
+     "date": "2026-10-17",
+     "D": 45.0,
+     "R": 46.6
     }
    ],
    "key": "railroad",
@@ -4113,17 +4133,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of April 26, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Steve Toth": {
-      "raised": 698325,
-      "spent": 574007,
-      "cash": 124318
+      "raised": 976355,
+      "spent": 808744,
+      "cash": 167611
      },
      "Shaun Finnie": {
-      "raised": 2560873,
-      "spent": 1017793,
-      "cash": 1543081
+      "raised": 3131705,
+      "spent": 2717536,
+      "cash": 414170
      }
     }
    },
@@ -4542,17 +4562,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of April 26, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Jessica Steinmann": {
-      "raised": 1824372,
-      "spent": 1693236,
-      "cash": 131136
+      "raised": 2366299,
+      "spent": 2149365,
+      "cash": 216934
      },
      "Laura Jones": {
-      "raised": 13394,
-      "spent": 9682,
-      "cash": 6213
+      "raised": 29899,
+      "spent": 26830,
+      "cash": 5570
      }
     }
    },
@@ -4606,17 +4626,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Leticia Gutierrez": {
-      "raised": 55358,
-      "spent": 36700,
-      "cash": 18658
+      "raised": 152003,
+      "spent": 59037,
+      "cash": 92966
      },
      "Alex Mealer": {
-      "raised": 2080514,
-      "spent": 1718474,
-      "cash": 362040
+      "raised": 2676806,
+      "spent": 2197456,
+      "cash": 479350
      }
     }
    },
@@ -5079,17 +5099,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Monica De La Cruz": {
-      "raised": 5273960,
-      "spent": 3424607,
-      "cash": 2463323
+      "raised": 6551097,
+      "spent": 6362072,
+      "cash": 802995
      },
      "Bobby Pulido": {
-      "raised": 2960462,
-      "spent": 1804526,
-      "cash": 1155936
+      "raised": 6213369,
+      "spent": 4839657,
+      "cash": 1373712
      }
     }
    },
@@ -5698,17 +5718,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Brandon Herrera": {
-      "raised": 1937719,
-      "spent": 1636736,
-      "cash": 309023
+      "raised": 3108608,
+      "spent": 2562475,
+      "cash": 554174
      },
      "Katy Padilla Stout": {
-      "raised": 488814,
-      "spent": 311557,
-      "cash": 176111
+      "raised": 976704,
+      "spent": 548625,
+      "cash": 428078
      }
     }
    },
@@ -5941,17 +5961,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Brandon Gill": {
-      "raised": 4217213,
-      "spent": 2933524,
-      "cash": 1411512
+      "raised": 7293891,
+      "spent": 5466469,
+      "cash": 1955246
      },
      "Steven Shook": {
-      "raised": 17227,
-      "spent": 14623,
-      "cash": 3807
+      "raised": 32061,
+      "spent": 29214,
+      "cash": 2515
      }
     }
    },
@@ -6080,17 +6100,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Henry Cuellar": {
-      "raised": 2231952,
-      "spent": 1150307,
-      "cash": 1129604
+      "raised": 2992065,
+      "spent": 1989930,
+      "cash": 1050094
      },
      "Tano Tijerina": {
-      "raised": 1399881,
-      "spent": 631693,
-      "cash": 768188
+      "raised": 1778798,
+      "spent": 1564568,
+      "cash": 214230
      }
     }
    },
@@ -6387,17 +6407,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Dan Barrios": {
-      "raised": 94438,
-      "spent": 90572,
-      "cash": 6043
+      "raised": 150470,
+      "spent": 122598,
+      "cash": 27872
      },
      "Jace Yarbrough": {
-      "raised": 865911,
-      "spent": 740499,
-      "cash": 86057
+      "raised": 1211319,
+      "spent": 918755,
+      "cash": 292565
      }
     }
    },
@@ -6504,17 +6524,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Vicente Gonzalez": {
-      "raised": 3773915,
-      "spent": 1523563,
-      "cash": 2532412
+      "raised": 4956873,
+      "spent": 3404113,
+      "cash": 1834820
      },
      "Eric Flores": {
-      "raised": 2874990,
-      "spent": 2188633,
-      "cash": 686332
+      "raised": 3830063,
+      "spent": 3544942,
+      "cash": 285096
      }
     }
    },
@@ -6645,17 +6665,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of June 30, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Johnny Garcia": {
-      "raised": 931699,
-      "spent": 608591,
-      "cash": 323108
+      "raised": 1917104,
+      "spent": 1407347,
+      "cash": 509758
      },
      "Carlos de la Cruz": {
-      "raised": 1048751,
-      "spent": 776362,
-      "cash": 272389
+      "raised": 1892231,
+      "spent": 1415736,
+      "cash": 476496
      }
     }
    },
@@ -6871,17 +6891,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of April 26, 2026",
+    "as_of": "Campaign finance reports as of September 30, 2026",
     "candidates": {
      "Jon Bonck": {
-      "raised": 1524375,
-      "spent": 1224750,
-      "cash": 299625
+      "raised": 2171138,
+      "spent": 1840998,
+      "cash": 330140
      },
      "Melissa McDonough": {
-      "raised": 47898,
-      "spent": 33295,
-      "cash": 37303
+      "raised": 117069,
+      "spent": 79696,
+      "cash": 60074
      }
     }
    },
