@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:21:56+00:00",
+ "updated": "2026-10-19T22:23:39+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -132,11 +132,28 @@
      "url": "https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/",
      "results": {
       "R": 49.0,
-      "D": 48.0
+      "D": 48.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 1.0,
      "margin": -1.0
+    },
+    {
+     "pollster": "University of Houston",
+     "partisan": null,
+     "start": "2026-10-10",
+     "end": "2026-10-14",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.uh.edu/hobby/texas2026/index.php",
+     "results": {
+      "R": 46.0,
+      "D": 48.0,
+      "L": 3.0
+     },
+     "undecided": 3.0,
+     "margin": 2.0
     },
     {
      "pollster": "ActiVote",
@@ -164,9 +181,9 @@
      "url": "https://drive.google.com/file/d/1awt_8mANYVHZ0UlMxkit8QAVLpDe8k5R/view",
      "results": {
       "R": 47.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 4.0,
      "margin": 0.0
     },
@@ -215,9 +232,9 @@
      "url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/TX-Midterms-Report-1009.pdf",
      "results": {
       "R": 44.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 8.0,
      "margin": 3.0
     },
@@ -266,9 +283,10 @@
      "url": "http://texaspolitics.utexas.edu/blog/latest-ut-texas-politics-poll-finds-historic-levels-of-competition-in-texas-midterm-elections",
      "results": {
       "R": 47.0,
-      "D": 50.0
+      "D": 50.0,
+      "L": 1.0
      },
-     "other": 3.0,
+     "other": 2.0,
      "margin": 3.0
     },
     {
@@ -299,9 +317,9 @@
      "url": "https://www.rasmussenreports.com/public_content/politics/public_surveys/toplines_texas_senate_september_28_29_2026",
      "results": {
       "R": 45.0,
-      "D": 46.0
+      "D": 46.0,
+      "L": 4.0
      },
-     "other": 4.0,
      "undecided": 5.0,
      "margin": 1.0
     },
@@ -348,9 +366,9 @@
      "url": "https://static01.nyt.com/newsgraphics/documenttools/b31cf2744465b8b7/1a8b655b-full.pdf",
      "results": {
       "R": 44.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 4.0
      },
-     "other": 4.0,
      "undecided": 5.0,
      "margin": 3.0
     },
@@ -365,9 +383,10 @@
      "url": "https://www.uml.edu/news/press-releases/2026/10092026-texas-poll.aspx",
      "results": {
       "R": 45.0,
-      "D": 45.0
+      "D": 45.0,
+      "L": 2.0
      },
-     "other": 4.0,
+     "other": 2.0,
      "undecided": 7.0,
      "margin": 0.0
     },
@@ -398,9 +417,9 @@
      "url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/",
      "results": {
       "R": 45.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 8.0
      },
-     "other": 8.0,
      "margin": 2.0
     },
     {
@@ -414,9 +433,9 @@
      "url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/",
      "results": {
       "R": 44.0,
-      "D": 46.0
+      "D": 46.0,
+      "L": 10.0
      },
-     "other": 10.0,
      "margin": 2.0
     },
     {
@@ -446,9 +465,10 @@
      "url": "https://texaspublicopinionresearch.substack.com/p/new-poll-in-texas-general-election-662",
      "results": {
       "R": 44.0,
-      "D": 49.0
+      "D": 49.0,
+      "L": 3.0
      },
-     "other": 4.0,
+     "other": 1.0,
      "undecided": 3.0,
      "margin": 5.0
     },
@@ -480,9 +500,9 @@
      "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6ab15cb39e4cc420b9ef07f5/1790008500236/TSUSept2026_TXStatewideRaces.pdf",
      "results": {
       "R": 46.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 3.0
      },
-     "other": 3.0,
      "undecided": 4.0,
      "margin": 1.0
     },
@@ -497,9 +517,9 @@
      "url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/TX-Midterms-Full-Report-0918.pdf",
      "results": {
       "R": 45.0,
-      "D": 46.0
+      "D": 46.0,
+      "L": 3.0
      },
-     "other": 3.0,
      "undecided": 6.0,
      "margin": 1.0
     },
@@ -514,9 +534,9 @@
      "url": "https://emersoncollegepolling.com/texas-2026-poll-talarico-and-paxton-in-dead-heat-abbott-maintains-edge/",
      "results": {
       "R": 46.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 4.0,
      "margin": 1.0
     },
@@ -564,9 +584,9 @@
      "url": "https://s3.documentcloud.org/documents/28623723/tx926allvoterresults.pdf",
      "results": {
       "R": 43.0,
-      "D": 46.0
+      "D": 46.0,
+      "L": 3.0
      },
-     "other": 3.0,
      "undecided": 8.0,
      "margin": 3.0
     },
@@ -581,9 +601,9 @@
      "url": "https://insideradvantage.com/top-line-tabs-texas/",
      "results": {
       "R": 46.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 5.0,
      "margin": 1.0
     },
@@ -646,9 +666,10 @@
      "url": "https://texaspublicopinionresearch.substack.com/p/new-poll-in-texas-general-election",
      "results": {
       "R": 42.0,
-      "D": 48.0
+      "D": 48.0,
+      "L": 1.0
      },
-     "other": 2.0,
+     "other": 1.0,
      "undecided": 7.0,
      "margin": 6.0
     },
@@ -663,9 +684,10 @@
      "url": "https://texaspolitics.utexas.edu/files/202608_POLL_TOPLINE-c5d4ba53.pdf",
      "results": {
       "R": 39.0,
-      "D": 42.0
+      "D": 42.0,
+      "L": 3.0
      },
-     "other": 4.0,
+     "other": 1.0,
      "undecided": 14.0,
      "margin": 3.0
     },
@@ -746,9 +768,9 @@
      "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6a713767d4ed824b91ea090d/1785804647961/Texas+Statewide+August2026.pdf",
      "results": {
       "R": 45.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 6.0,
      "margin": 2.0
     },
@@ -779,9 +801,9 @@
      "url": "https://texaspublicopinionresearch.substack.com/p/new-poll-james-talaricos-lead-over",
      "results": {
       "R": 40.0,
-      "D": 45.0
+      "D": 45.0,
+      "L": 1.0
      },
-     "other": 1.0,
      "undecided": 14.0,
      "margin": 5.0
     },
@@ -846,9 +868,10 @@
      "url": "https://texaspolitics.utexas.edu/files/202606_POLL_TOPLINE-723970a4.pdf",
      "results": {
       "R": 43.0,
-      "D": 42.0
+      "D": 42.0,
+      "L": 3.0
      },
-     "other": 6.0,
+     "other": 3.0,
      "undecided": 10.0,
      "margin": -1.0
     },
@@ -897,7 +920,8 @@
      "url": "https://mailchi.mp/06e052a423d6/tpor-talarico-leads-gen-elect-5-29",
      "results": {
       "R": 44.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 1.0
      },
      "other": 3.0,
      "undecided": 7.0,
@@ -914,9 +938,9 @@
      "url": "https://static.politico.com/c0/7c/2c2db3c14c74946fa393d9e485cc/texas-gen-results-ppp-5-26-1.pdf",
      "results": {
       "R": 38.0,
-      "D": 45.0
+      "D": 45.0,
+      "L": 3.0
      },
-     "other": 3.0,
      "undecided": 14.0,
      "margin": 7.0
     },
@@ -931,9 +955,9 @@
      "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6a0addffcba58d0751053542/1779097087749/TSUTexasNov2026.pdf",
      "results": {
       "R": 45.0,
-      "D": 45.0
+      "D": 45.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 8.0,
      "margin": 0.0
     },
@@ -981,9 +1005,9 @@
      "url": "https://www.politico.com/live-updates/2026/03/20/congress/texas-senate-talarico-cornyn-paxton-poll-00837336",
      "results": {
       "R": 43.0,
-      "D": 44.0
+      "D": 44.0,
+      "L": 5.0
      },
-     "other": 5.0,
      "undecided": 7.0,
      "margin": 1.0
     },
@@ -1014,9 +1038,9 @@
      "url": "https://www.uh.edu/hobby/primary2026/senate.pdf",
      "results": {
       "R": 46.0,
-      "D": 44.0
+      "D": 44.0,
+      "L": 3.0
      },
-     "other": 3.0,
      "undecided": 7.0,
      "margin": -2.0
     },
@@ -1090,7 +1114,7 @@
     "D": 48.2,
     "R": 46.1,
     "margin": 2.1,
-    "n_polls": 19,
+    "n_polls": 20,
     "window_days": 30,
     "from": "2026-09-19",
     "to": "2026-10-16"
@@ -1319,7 +1343,7 @@
     {
      "date": "2026-10-14",
      "D": 48.0,
-     "R": 45.9
+     "R": 46.0
     },
     {
      "date": "2026-10-16",
@@ -1440,6 +1464,23 @@
      "margin": -4.0
     },
     {
+     "pollster": "University of Houston",
+     "partisan": null,
+     "start": "2026-10-10",
+     "end": "2026-10-14",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.uh.edu/hobby/texas2026/index.php",
+     "results": {
+      "R": 49.0,
+      "D": 46.0,
+      "L": 2.0
+     },
+     "undecided": 3.0,
+     "margin": -3.0
+    },
+    {
      "pollster": "ActiVote",
      "partisan": null,
      "start": "2026-09-30",
@@ -1499,9 +1540,9 @@
      "url": "https://ginafortexas.com/wp-content/uploads/2026/10/TX-Gov-Poll-Memo-101226.pdf",
      "results": {
       "R": 45.0,
-      "D": 47.0
+      "D": 47.0,
+      "L": 4.0
      },
-     "other": 4.0,
      "undecided": 4.0,
      "margin": 2.0
     },
@@ -1550,9 +1591,10 @@
      "url": "http://texaspolitics.utexas.edu/blog/latest-ut-texas-politics-poll-finds-historic-levels-of-competition-in-texas-midterm-elections",
      "results": {
       "R": 48.0,
-      "D": 49.0
+      "D": 49.0,
+      "L": 1.0
      },
-     "other": 3.0,
+     "other": 2.0,
      "margin": 1.0
     },
     {
@@ -1614,9 +1656,9 @@
      "url": "https://static01.nyt.com/newsgraphics/documenttools/b31cf2744465b8b7/1a8b655b-full.pdf",
      "results": {
       "R": 46.0,
-      "D": 44.0
+      "D": 44.0,
+      "L": 4.0
      },
-     "other": 4.0,
      "undecided": 5.0,
      "margin": -2.0
     },
@@ -1631,9 +1673,10 @@
      "url": "https://www.uml.edu/news/press-releases/2026/10092026-texas-poll.aspx",
      "results": {
       "R": 48.0,
-      "D": 44.0
+      "D": 44.0,
+      "L": 1.0
      },
-     "other": 2.0,
+     "other": 1.0,
      "undecided": 6.0,
      "margin": -4.0
     },
@@ -1648,9 +1691,9 @@
      "url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/",
      "results": {
       "R": 49.0,
-      "D": 44.0
+      "D": 44.0,
+      "L": 6.0
      },
-     "other": 6.0,
      "margin": -5.0
     },
     {
@@ -1664,9 +1707,9 @@
      "url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/",
      "results": {
       "R": 48.0,
-      "D": 44.0
+      "D": 44.0,
+      "L": 8.0
      },
-     "other": 8.0,
      "margin": -4.0
     },
     {
@@ -1696,9 +1739,10 @@
      "url": "https://texaspublicopinionresearch.substack.com/p/new-poll-in-texas-general-election-662",
      "results": {
       "R": 50.0,
-      "D": 46.0
+      "D": 46.0,
+      "L": 2.0
      },
-     "other": 3.0,
+     "other": 1.0,
      "undecided": 2.0,
      "margin": -4.0
     },
@@ -1730,9 +1774,9 @@
      "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6ab15cb39e4cc420b9ef07f5/1790008500236/TSUSept2026_TXStatewideRaces.pdf",
      "results": {
       "R": 49.0,
-      "D": 45.0
+      "D": 45.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 4.0,
      "margin": -4.0
     },
@@ -1747,9 +1791,9 @@
      "url": "https://emersoncollegepolling.com/texas-2026-poll-talarico-and-paxton-in-dead-heat-abbott-maintains-edge/",
      "results": {
       "R": 49.0,
-      "D": 46.0
+      "D": 46.0,
+      "L": 2.0
      },
-     "other": 2.0,
      "undecided": 4.0,
      "margin": -3.0
     },
@@ -1797,9 +1841,10 @@
      "url": "https://s3.documentcloud.org/documents/28623723/tx926allvoterresults.pdf",
      "results": {
       "R": 48.0,
-      "D": 41.0
+      "D": 41.0,
+      "L": 1.0
      },
-     "other": 3.0,
+     "other": 2.0,
      "undecided": 8.0,
      "margin": -7.0
     },
@@ -1862,9 +1907,10 @@
      "url": "https://texaspublicopinionresearch.substack.com/p/new-poll-in-texas-general-election",
      "results": {
       "R": 49.0,
-      "D": 42.0
+      "D": 42.0,
+      "L": 1.0
      },
-     "other": 3.0,
+     "other": 2.0,
      "undecided": 6.0,
      "margin": -7.0
     },
@@ -1879,9 +1925,10 @@
      "url": "https://texaspolitics.utexas.edu/files/202608_POLL_TOPLINE-c5d4ba53.pdf",
      "results": {
       "R": 45.0,
-      "D": 40.0
+      "D": 40.0,
+      "L": 3.0
      },
-     "other": 5.0,
+     "other": 2.0,
      "undecided": 10.0,
      "margin": -5.0
     },
@@ -1978,9 +2025,9 @@
      "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6a713767d4ed824b91ea090d/1785804647961/Texas+Statewide+August2026.pdf",
      "results": {
       "R": 49.0,
-      "D": 43.0
+      "D": 43.0,
+      "L": 3.0
      },
-     "other": 3.0,
      "undecided": 5.0,
      "margin": -6.0
     },
@@ -2059,9 +2106,10 @@
      "url": "https://texaspolitics.utexas.edu/files/202606_POLL_TOPLINE-723970a4.pdf",
      "results": {
       "R": 47.0,
-      "D": 40.0
+      "D": 40.0,
+      "L": 1.0
      },
-     "other": 3.0,
+     "other": 2.0,
      "undecided": 10.0,
      "margin": -7.0
     },
@@ -2110,9 +2158,10 @@
      "url": "https://drive.google.com/file/d/1lCiaC7xw4VTmc2I4aHRZ-Pi3McLOwsrI/view",
      "results": {
       "R": 46.0,
-      "D": 41.0
+      "D": 41.0,
+      "L": 1.0
      },
-     "other": 3.0,
+     "other": 2.0,
      "undecided": 9.0,
      "margin": -5.0
     },
@@ -2143,9 +2192,9 @@
      "url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6a0addffcba58d0751053542/1779097087749/TSUTexasNov2026.pdf",
      "results": {
       "R": 49.0,
-      "D": 43.0
+      "D": 43.0,
+      "L": 3.0
      },
-     "other": 3.0,
      "undecided": 5.0,
      "margin": -6.0
     },
@@ -2227,9 +2276,9 @@
      "url": "https://drive.google.com/file/d/1HcKBWzElxg9AUOzaOXitYKVMwyc1M4sB/view",
      "results": {
       "R": 46.0,
-      "D": 43.0
+      "D": 43.0,
+      "L": 6.0
      },
-     "other": 6.0,
      "undecided": 5.0,
      "margin": -3.0
     },
@@ -2244,9 +2293,9 @@
      "url": "https://www.uh.edu/hobby/primary2026/state.pdf",
      "results": {
       "R": 49.0,
-      "D": 42.0
+      "D": 42.0,
+      "L": 3.0
      },
-     "other": 3.0,
      "undecided": 6.0,
      "margin": -7.0
     },
@@ -2268,10 +2317,10 @@
     }
    ],
    "average": {
-    "D": 46.5,
+    "D": 46.4,
     "R": 48.7,
     "margin": -2.2,
-    "n_polls": 15,
+    "n_polls": 16,
     "window_days": 30,
     "from": "2026-09-19",
     "to": "2026-10-16"
@@ -2474,7 +2523,7 @@
     },
     {
      "date": "2026-10-16",
-     "D": 46.5,
+     "D": 46.4,
      "R": 48.7
     }
    ],
@@ -2538,6 +2587,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "University of Houston",
+     "partisan": null,
+     "start": "2026-10-10",
+     "end": "2026-10-14",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.uh.edu/hobby/texas2026/index.php",
+     "results": {
+      "R": 47.0,
+      "D": 42.0
+     },
+     "other": 2.0,
+     "undecided": 7.0,
+     "margin": -5.0
+    },
     {
      "pollster": "University of Texas/Texas Politics Project",
      "partisan": null,
@@ -2824,13 +2890,13 @@
     }
    ],
    "average": {
-    "D": 44.5,
+    "D": 44.0,
     "R": 47.2,
-    "margin": -2.8,
-    "n_polls": 4,
+    "margin": -3.2,
+    "n_polls": 5,
     "window_days": 30,
     "from": "2026-09-19",
-    "to": "2026-10-05"
+    "to": "2026-10-14"
    },
    "trend": [
     {
@@ -2912,6 +2978,11 @@
      "date": "2026-10-05",
      "D": 45.0,
      "R": 47.0
+    },
+    {
+     "date": "2026-10-14",
+     "D": 44.0,
+     "R": 47.2
     }
    ],
    "key": "ltgov",

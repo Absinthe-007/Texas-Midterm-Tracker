@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:30:28+00:00",
+ "updated": "2026-10-19T22:31:58+00:00",
  "days_to_election": 15,
  "environment": {
   "generic_ballot": -0.7,
@@ -14,7 +14,7 @@
    "hi": 7.6,
    "inputs": {
     "polls": 2.1,
-    "n_polls": 19,
+    "n_polls": 20,
     "fundamentals": -4.6,
     "experts": 0.0,
     "weights": {
@@ -33,7 +33,7 @@
    "hi": 3.1,
    "inputs": {
     "polls": -2.2,
-    "n_polls": 15,
+    "n_polls": 16,
     "fundamentals": -7.1,
     "experts": -5.0,
     "weights": {
@@ -45,23 +45,23 @@
    "p_dem_sim": 0.269
   },
   "ltgov": {
-   "mean": -4.2,
-   "sd": 6.2,
-   "p_dem": 0.247,
-   "lo": -12.1,
-   "hi": 3.7,
+   "mean": -4.3,
+   "sd": 4.7,
+   "p_dem": 0.182,
+   "lo": -10.4,
+   "hi": 1.8,
    "inputs": {
-    "polls": -2.8,
-    "n_polls": 4,
+    "polls": -3.2,
+    "n_polls": 5,
     "fundamentals": -7.1,
     "experts": null,
     "weights": {
-     "polls": 0.67,
-     "fundamentals": 0.33,
+     "polls": 0.71,
+     "fundamentals": 0.29,
      "experts": 0
     }
    },
-   "p_dem_sim": 0.244
+   "p_dem_sim": 0.176
   },
   "ag": {
    "mean": -5.2,
