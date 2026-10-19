@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:46:54+00:00",
+ "updated": "2026-10-19T04:44:32+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -155,7 +155,7 @@
     },
     {
      "pollster": "Quantus Insights",
-     "partisan": "R",
+     "partisan": null,
      "start": "2026-10-09",
      "end": "2026-10-11",
      "n": 854,
@@ -854,7 +854,7 @@
     },
     {
      "pollster": "Quantus Insights",
-     "partisan": "R",
+     "partisan": null,
      "start": "2026-06-03",
      "end": "2026-06-04",
      "n": 800,
