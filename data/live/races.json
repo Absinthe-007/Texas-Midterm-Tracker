@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:11:28+00:00",
+ "updated": "2026-10-20T21:39:56+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -128,7 +128,7 @@
     },
     {
      "pollster": "InsiderAdvantage",
-     "partisan": "R",
+     "partisan": null,
      "start": "2026-10-13",
      "end": "2026-10-14",
      "n": 1200,
@@ -5934,8 +5934,8 @@
     },
     {
      "source": "Sabato's Crystal Ball",
-     "rating": "Likely R",
-     "as_of": "May 6, 2026"
+     "rating": "Lean R",
+     "as_of": "October 20, 2026"
     },
     {
      "source": "Silver Bulletin",
@@ -6881,8 +6881,8 @@
     },
     {
      "source": "Sabato's Crystal Ball",
-     "rating": "Lean R (flip)",
-     "as_of": "May 27, 2026"
+     "rating": "Tossup",
+     "as_of": "October 20, 2026"
     },
     {
      "source": "Silver Bulletin",
