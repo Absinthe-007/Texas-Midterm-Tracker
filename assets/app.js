@@ -83,8 +83,9 @@ function setTiles() {
 Promise.all([
   get("data/live/races.json"), get("data/live/bios.json"), get("data/live/events.json"), get("data/live/news.json"), get("data/live/meta.json"),
   get("data/static/tx_counties.geojson"), get("data/static/tx_cd2025.geojson"), get("data/static/county_results.json"), get("data/static/district_results.json"),
-  get("data/live/profiles.json"), get("data/live/forecast.json"),
-]).then(([races, bios, events, news, meta, cgeo, dgeo, cres, dres, profiles, forecast]) => {
+  get("data/live/profiles.json"), get("data/live/forecast.json"), get("data/live/turnout.json"), get("data/static/ev_history.json"),
+]).then(([races, bios, events, news, meta, cgeo, dgeo, cres, dres, profiles, forecast, turnout, evhist]) => {
+  S.turnout = turnout; S.evhist = evhist || {};
   S.profiles = profiles?.profiles || {}; S.forecast = forecast;
   S.races = races?.races || {}; S.bios = bios?.bios || {}; S.events = events?.events || []; S.news = news?.news || {}; S.meta = meta || {};
   S.static = {cgeo, dgeo, cres, dres};
@@ -92,7 +93,7 @@ Promise.all([
   const up = meta?.updated || races?.updated;
   $("#updated").textContent = up ? `Live · updated ${ago(up)}` : "Live data";
   headerInfo(); setTiles();
-  renderStories(); renderTrail(); setupPolls(); setupShift(); renderRaces(); renderForecast();
+  renderStories(); renderTrail(); setupPolls(); setupShift(); renderRaces(); renderForecast(); checkCelebration();
   const h = location.hash.match(/^#c\/(.+)/); if (h && S.cands[h[1]]) openLoadout(h[1]);
 });
 
@@ -467,6 +468,9 @@ function ratingStyle(r, textOnly) {
 let shiftLayer = null;
 const LAYERS = {
   county: [
+    {k:"ev26", t:"Early vote 2026: turnout so far (% of registered)", type:"ev"},
+    {k:"ev_vs22", t:"Early vote 2026 vs. 2022 midterm (same day)", type:"evcmp", base:"2022"},
+    {k:"ev_vs24", t:"Early vote 2026 vs. 2024 presidential (same day)", type:"evcmp", base:"2024"},
     {k:"proj_sen", t:"2026 Senate projection (polls + 2024 baseline)", type:"proj"},
     {k:"proj_gov", t:"2026 Governor projection (polls + 2024 baseline)", type:"proj"},
     {k:"pres24", t:"2024 result (President)", type:"margin"},
@@ -508,8 +512,68 @@ function swingFor(raceKey, base) {
   const r = S.races[raceKey]; const a = r?.polls ? pollAverage(r.polls, false) : null; if (!a) return null;
   return {avg:a.margin, base, swing:a.margin - base};
 }
+/* ---------- early vote turnout ---------- */
+const ckey = n => (n || "").toUpperCase().replace(/[^A-Z]/g, "");
+let EVIDX = null;
+function evIndex() {
+  if (EVIDX) return EVIDX;
+  EVIDX = {};
+  const add = (yr, src) => { if (!src?.counties) return; for (const [n, c] of Object.entries(src.counties)) (EVIDX[ckey(n)] ||= {})[yr] = c; };
+  add("2026", S.turnout); add("2022", S.evhist["2022"]); add("2024", S.evhist["2024"]);
+  return EVIDX;
+}
+const evDay = () => S.turnout?.latest_day || 0;          // day N of early voting (1-based)
+const cmpDay = () => Math.max(0, evDay() - (S.turnout?.partial ? 1 : 0));  // last complete day, for fair comparisons
+function evStats(name, day = evDay(), cday = cmpDay()) {   // county turnout now + comparisons at the last complete day
+  const e = evIndex()[ckey(name)]; if (!e?.["2026"] || !day) return null;
+  const v = e["2026"].cum[day-1], reg = e["2026"].reg; if (v == null) return null;
+  const o = {votes:v, reg, pct: reg ? v/reg*100 : null, cday};
+  const vc = cday ? e["2026"].cum[cday-1] : null;
+  for (const y of ["2022","2024"]) { const h = e[y]; const hv = cday ? h?.cum?.[cday-1] : null;
+    if (hv && vc != null) o[y] = {votes:hv, now:vc, pct: h.reg ? hv/h.reg*100 : null, change:(vc/hv-1)*100}; }
+  return o;
+}
+function evStatewide(day = evDay(), filter = () => true) {
+  const idx = evIndex(), t = {v:0, reg:0, v22:0, v24:0};
+  for (const [k, e] of Object.entries(idx)) { if (!e["2026"] || !filter(k)) continue;
+    t.v += e["2026"].cum[day-1] || 0; t.reg += e["2026"].reg || 0;
+    t.v22 += e["2022"]?.cum?.[day-1] || 0; t.v24 += e["2024"]?.cum?.[day-1] || 0; }
+  return t;
+}
+const pctChg = (a, b) => b ? (a/b - 1) * 100 : null;
+const fmtChg = c => c == null ? "—" : (c >= 0 ? "+" : "−") + Math.abs(c).toFixed(0) + "%";
+function seqColor(v, max) {                                  // turnout: pale → violet (not a party color)
+  if (v == null || isNaN(v)) return "#555";
+  const t = Math.max(0, Math.min(1, v / max)), dark = document.documentElement.dataset.theme === "dark";
+  const a = dark ? [40,38,66] : [243,240,252], b = [168,85,247];
+  return `rgb(${a.map((x,i)=>Math.round(x+(b[i]-x)*Math.pow(t,.8))).join(",")})`;
+}
+function cmpColor(v, max) {                                  // vs. past: orange (behind) ← → teal (ahead)
+  if (v == null || isNaN(v)) return "#555";
+  const t = Math.max(-1, Math.min(1, v / max)), dark = document.documentElement.dataset.theme === "dark";
+  const mid = dark ? [58,52,80] : [240,236,248], up = [20,184,166], dn = [249,115,22];
+  const end = t > 0 ? up : dn, k = Math.pow(Math.abs(t), .75);
+  return `rgb(${mid.map((m,i)=>Math.round(m+(end[i]-m)*k)).join(",")})`;
+}
+function evSpark(name) {
+  const e = evIndex()[ckey(name)]; if (!e) return "";
+  const W = 300, H = 120, P = {l:30, r:8, t:8, b:18}, n = 12;
+  const series = [["2022","var(--muted)","2022"],["2024","#fb923c","2024"],["2026","var(--acc)","2026"]]
+    .filter(([y]) => e[y]).map(([y,col,l]) => ({y, col, l, pts: e[y].cum.map(v => v != null && e[y].reg ? v/e[y].reg*100 : null)}));
+  const max = Math.max(5, ...series.flatMap(s => s.pts.filter(v => v != null)));
+  const x = i => P.l + i/(n-1)*(W-P.l-P.r), y = v => P.t + (1 - v/max)*(H-P.t-P.b);
+  const path = pts => pts.map((v,i) => v == null ? null : `${x(i).toFixed(1)},${y(v).toFixed(1)}`).filter(Boolean).map((p,i)=>(i?"L":"M")+p).join("");
+  const ticks = [0, max/2, max].map(v => `<text x="${P.l-4}" y="${y(v)+3}" font-size="9" text-anchor="end" fill="var(--muted)">${v.toFixed(0)}%</text><line x1="${P.l}" x2="${W-P.r}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)"/>`).join("");
+  return `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto;margin-top:6px" role="img" aria-label="Early vote turnout by day">${ticks}
+    <text x="${P.l}" y="${H-4}" font-size="9" fill="var(--muted)">Day 1</text><text x="${W-P.r}" y="${H-4}" font-size="9" text-anchor="end" fill="var(--muted)">Day 12</text>
+    ${series.map(s => `<path d="${path(s.pts)}" fill="none" stroke="${s.col}" stroke-width="${s.y==="2026"?3:2}" stroke-linecap="round"/>`).join("")}</svg>
+    <div class="ev-legend">${series.map(s => `<span><i style="background:${s.col}"></i>${s.l}</span>`).join("")}</div>`;
+}
+
 function featValue(layer, rec, geo) {
   if (!rec) return null;
+  if (layer.type === "ev") { const st = evStats(rec.name); return st?.pct ?? null; }
+  if (layer.type === "evcmp") { const st = evStats(rec.name); return st?.[layer.base]?.change ?? null; }
   if (layer.type === "margin") return rec[layer.k]?.margin;
   if (layer.type === "shift") return rec[layer.b] && rec[layer.a] ? rec[layer.b].margin - rec[layer.a].margin : null;
   if (layer.type === "proj") {
@@ -525,29 +589,30 @@ function drawShift() {
   const gj = geo === "county" ? S.static.cgeo : S.static.dgeo, res = geo === "county" ? S.static.cres : S.static.dres;
   if (!gj || !res) return;
   const key = f => geo === "county" ? f.properties.fips : f.properties.district;
-  const max = layer.type === "shift" ? 25 : 50;
+  const max = layer.type === "shift" ? 25 : layer.type === "evcmp" ? 60 : layer.type === "ev" ? Math.max(5, ...Object.keys(res).map(k => evStats(res[k]?.name)?.pct || 0)) : 50;
   const vals = {};
   gj.features.forEach(f => {
     const k = key(f);
     vals[k] = layer.type === "rating" ? RATING_SCORE(ratingConsensus(S.races["tx"+k]?.ratings)) : featValue(layer, res[k], geo);
   });
-  const color = k => layer.type === "rating" ? (vals[k] == null ? "#555" : divColor(vals[k], 4)) : divColor(vals[k], max);
+  const color = k => layer.type === "rating" ? (vals[k] == null ? "#555" : divColor(vals[k], 4)) : layer.type === "ev" ? seqColor(vals[k], max) : layer.type === "evcmp" ? cmpColor(vals[k], max) : divColor(vals[k], max);
   shiftLayer = L.geoJSON(gj, {
     style: f => ({fillColor:color(key(f)), fillOpacity:.88, color: document.documentElement.dataset.theme==="dark" ? "#0b0d17" : "#ffffff", weight: geo==="county" ? .6 : 1.4}),
     onEachFeature: (f, lyr) => {
       const k = key(f), name = geo === "county" ? `${f.properties.name || res[k]?.name} County` : `TX-${k}`;
       const v = vals[k];
-      const label = layer.type === "rating" ? (ratingConsensus(S.races["tx"+k]?.ratings) || "No rating") : layer.type === "shift" ? (v==null?"—":`${v>0?"Bluer":"Redder"} by ${Math.abs(v).toFixed(1)} pts`) : fmtMargin(v);
+      const label = layer.type === "ev" ? (v == null ? "No data yet" : `${v.toFixed(1)}% of registered voters`) : layer.type === "evcmp" ? (v == null ? "No data yet" : `${fmtChg(v)} early votes vs. ${layer.base}`) : layer.type === "rating" ? (ratingConsensus(S.races["tx"+k]?.ratings) || "No rating") : layer.type === "shift" ? (v==null?"—":`${v>0?"Bluer":"Redder"} by ${Math.abs(v).toFixed(1)} pts`) : fmtMargin(v);
       lyr.bindTooltip(`<b>${esc(name)}</b><br>${esc(label)}`, {sticky:true});
       lyr.on({ mouseover: () => lyr.setStyle({weight:3, color:"#a855f7"}), mouseout: () => shiftLayer.resetStyle(lyr), click: () => shiftDetail(k, name, geo) });
     },
   }).addTo(shiftMap);
   // scale + stats + note
-  const scaleTxt = layer.type === "shift" ? ["Redder", "No change", "Bluer"] : layer.type === "rating" ? ["Safe R", "Toss-up", "Safe D"] : ["R+50", "Even", "D+50"];
-  $("#scale").innerHTML = `<b>${esc(layer.t)}</b><div class="bar" style="background:linear-gradient(90deg,${divColor(-max,max)},${divColor(0,max)},${divColor(max,max)})"></div><div class="ends"><span>${scaleTxt[0]}</span><span>${scaleTxt[1]}</span><span>${scaleTxt[2]}</span></div>`;
+  const scaleTxt = layer.type === "ev" ? ["0%", (max/2).toFixed(0) + "%", max.toFixed(0) + "%"] : layer.type === "evcmp" ? ["Behind", "Same", "Ahead"] : layer.type === "shift" ? ["Redder", "No change", "Bluer"] : layer.type === "rating" ? ["Safe R", "Toss-up", "Safe D"] : ["R+50", "Even", "D+50"];
+  $("#scale").innerHTML = `<b>${esc(layer.t)}</b><div class="bar" style="background:linear-gradient(90deg,${layer.type==="ev" ? seqColor(0,max)+","+seqColor(max/2,max)+","+seqColor(max,max) : layer.type==="evcmp" ? cmpColor(-max,max)+","+cmpColor(0,max)+","+cmpColor(max,max) : divColor(-max,max)+","+divColor(0,max)+","+divColor(max,max)})"></div><div class="ends"><span>${scaleTxt[0]}</span><span>${scaleTxt[1]}</span><span>${scaleTxt[2]}</span></div>`;
   const vs = Object.values(vals).filter(v => v != null);
   let stats = "";
-  if (layer.type === "shift") stats = `<div class="stat D"><div class="n">${vs.filter(v=>v>0).length}</div><div class="l">${geo==="county"?"counties":"districts"} got bluer</div></div><div class="stat R"><div class="n">${vs.filter(v=>v<0).length}</div><div class="l">got redder</div></div>`;
+  if (layer.type === "ev" || layer.type === "evcmp") stats = evSummaryHtml();
+  else if (layer.type === "shift") stats = `<div class="stat D"><div class="n">${vs.filter(v=>v>0).length}</div><div class="l">${geo==="county"?"counties":"districts"} got bluer</div></div><div class="stat R"><div class="n">${vs.filter(v=>v<0).length}</div><div class="l">got redder</div></div>`;
   else if (layer.type === "rating") stats = `<div class="stat D"><div class="n">${vs.filter(v=>v>0).length}</div><div class="l">lean/likely/safe D seats</div></div><div class="stat R"><div class="n">${vs.filter(v=>v<0).length}</div><div class="l">lean/likely/safe R seats</div></div><div class="stat"><div class="n">${vs.filter(v=>v===0).length}</div><div class="l">toss-ups</div></div><div class="stat"><div class="n">${vs.filter(v=>Math.abs(v)<=2).length}</div><div class="l">competitive (tilt/lean/toss-up)</div></div>`;
   else {
     const flips = layer.type === "proj" ? Object.entries(vals).filter(([k,v]) => v != null && res[k]?.pres24 && Math.sign(v) !== Math.sign(res[k].pres24.margin) && v > 0).length : null;
@@ -556,7 +621,9 @@ function drawShift() {
   }
   $("#shiftStats").innerHTML = stats;
   let note = "";
-  if (layer.type === "proj") {
+  if (layer.type === "ev" || layer.type === "evcmp") {
+    note = `Early votes = in-person plus mail ballots received, from the Texas Secretary of State's daily county reports. Comparisons line up the last fully reported day of early voting this year (day ${cmpDay() || 1}) with the same day in 2022 and 2024.${S.turnout?.partial ? " Today's polls are still open, so today's numbers are partial until counties report tonight." : ""} Texas doesn't register voters by party, so turnout shows who's voting, not how they voted.`;
+  } else if (layer.type === "proj") {
     const isSen = layer.k === "proj_sen", sw = swingFor(isSen ? "senate" : "governor", 0);
     const r = S.races[isSen ? "senate" : "governor"];
     const baseTxt = geo === "county" ? "the 2024 presidential result" : isSen ? "the 2024 Senate result" : "the 2022 governor result";
@@ -577,11 +644,102 @@ function shiftDetail(k, name, geo) {
       `<div class="kv" style="cursor:pointer" onclick="window.__lo('${slug(n.name)}')"><span><span class="tag ${n.party}">${n.party}</span> ${esc(n.name)}${n.incumbent?" (inc.)":""}</span><span>loadout →</span></div>`).join("") +
       `<div class="kv"><span>Rating</span><b>${esc(ratingConsensus(r.ratings) || "—")}</b></div>`;
   }
-  $("#shiftInfo").innerHTML = `<h4>${esc(name)}</h4>${rows}
+  const ev = geo === "county" ? evStats(rec.name) : null;
+  const evHtml = geo === "county" && S.turnout ? `<div class="hero-k" style="margin:4px 0 6px">Early voting · day ${evDay()}${S.turnout.partial ? " (in progress)" : ""}</div>
+    ${ev ? `<div class="kv"><span>Early votes so far</span><b>${ev.votes.toLocaleString()}</b></div>
+    <div class="kv"><span>Share of registered voters</span><b>${ev.pct?.toFixed(1)}%</b></div>
+    ${!ev.cday ? `<p class="muted small">Comparisons with past years start once day 1 is fully reported.</p>` : ""}
+    ${ev["2022"] ? `<div class="kv"><span>vs. 2022 midterm, after day ${ev.cday}</span><b style="color:${ev["2022"].change>=0?"#14b8a6":"#f97316"}">${fmtChg(ev["2022"].change)} <span class="muted small">(${ev["2022"].votes.toLocaleString()})</span></b></div>` : ""}
+    ${ev["2024"] ? `<div class="kv"><span>vs. 2024 presidential, after day ${ev.cday}</span><b style="color:${ev["2024"].change>=0?"#14b8a6":"#f97316"}">${fmtChg(ev["2024"].change)} <span class="muted small">(${ev["2024"].votes.toLocaleString()})</span></b></div>` : ""}
+    ${evSpark(rec.name)}` : `<p class="muted small">No early votes reported yet.</p>`}
+    <div class="hero-k" style="margin:14px 0 6px">Past results</div>` : "";
+  $("#shiftInfo").innerHTML = `<h4>${esc(name)}</h4>${evHtml}${rows}
     ${projS != null ? `<div class="kv"><span>2026 Senate (projection)</span><b style="color:${projS>0?"var(--dem2)":"var(--rep2)"}">${fmtMargin(projS)}</b></div>` : ""}
     ${projG != null ? `<div class="kv"><span>2026 Governor (projection)</span><b style="color:${projG>0?"var(--dem2)":"var(--rep2)"}">${fmtMargin(projG)}</b></div>` : ""}
     ${race}`;
   if (innerWidth < 900) $("#shiftInfo").scrollIntoView({behavior:"smooth", block:"center"});
+}
+
+function evSummaryHtml() {
+  const d = evDay(); if (!d) return `<div class="stat" style="grid-column:1/-1"><div class="l">Early voting numbers appear here after the first day is reported.</div></div>`;
+  const cd = cmpDay(), now = evStatewide(d);
+  if (!cd) return `<div class="stat"><div class="n">${now.v.toLocaleString()}</div><div class="l">early votes so far · day 1 in progress</div></div>
+    <div class="stat"><div class="l">Comparisons with 2022 and 2024 start once day 1 is fully reported, usually the next morning.</div></div>`;
+  const cres = S.static.cres || {}, lean = {};
+  for (const c of Object.values(cres)) if (c.pres24) lean[ckey(c.name)] = c.pres24.margin > 0 ? "D" : "R";
+  const all = evStatewide(cd), blue = evStatewide(cd, k => lean[k] === "D"), red = evStatewide(cd, k => lean[k] === "R");
+  const c22 = pctChg(all.v, all.v22), b22 = pctChg(blue.v, blue.v22), r22 = pctChg(red.v, red.v22);
+  const col = c => c == null ? "" : c >= 0 ? "color:#14b8a6" : "color:#f97316";
+  return `<div class="stat"><div class="n">${now.v.toLocaleString()}</div><div class="l">early votes statewide · day ${d}${S.turnout.partial ? " (in progress)" : ""}</div></div>
+    <div class="stat"><div class="n" style="${col(c22)}">${fmtChg(c22)}</div><div class="l">vs. 2022 midterm after day ${cd} (${all.v.toLocaleString()} vs ${all.v22.toLocaleString()})</div></div>
+    <div class="stat D"><div class="n" style="${col(b22)}">${fmtChg(b22)}</div><div class="l">counties Harris won in 2024, vs. 2022</div></div>
+    <div class="stat R"><div class="n" style="${col(r22)}">${fmtChg(r22)}</div><div class="l">counties Trump won in 2024, vs. 2022</div></div>`;
+}
+
+/* ---------- Democratic win celebration ---------- */
+function checkCelebration() {
+  const test = /[?&]celebrate=test/.test(location.search);
+  const wins = Object.values(S.races).filter(r => r.result?.winner_party === "D").map(r => {
+    const w = Object.entries(r.result.votes).filter(([,v]) => v.party === "D").sort((a,b)=>b[1].votes-a[1].votes)[0];
+    return w ? {key: r.key, label: r.label, name: w[0]} : null; }).filter(Boolean);
+  if (test) wins.unshift({key:"test", label:"Test", name:"Celebration test"});
+  if (!wins.length) return;
+  let seen = []; try { seen = JSON.parse(localStorage.getItem("tx26-celebrated") || "[]"); } catch {}
+  const fresh = test ? wins.slice(0,1) : wins.filter(w => !seen.includes(w.key));
+  if (!fresh.length) return;
+  const b = document.createElement("div"); b.className = "celebrate-banner";
+  b.innerHTML = `<div><b>🎉 ${esc(fresh.map(w => w.name + (w.key==="test" ? "" : " wins " + w.label)).join(" · "))}</b><span>Democratic win called</span></div><button>Celebrate 🎆</button><button class="x" aria-label="Dismiss">✕</button>`;
+  document.body.appendChild(b);
+  const mark = () => { try { localStorage.setItem("tx26-celebrated", JSON.stringify([...new Set([...seen, ...fresh.map(w=>w.key).filter(k=>k!=="test")])])); } catch {} };
+  b.querySelector(".x").onclick = () => { mark(); b.remove(); };
+  b.querySelector("button").onclick = () => { mark(); b.remove(); celebrate(30); };
+}
+function celebrate(seconds) {
+  const cv = document.createElement("canvas"); cv.className = "fireworks"; document.body.appendChild(cv);
+  const ctx = cv.getContext("2d"), dpr = Math.min(2, devicePixelRatio || 1);
+  const size = () => { cv.width = innerWidth*dpr; cv.height = innerHeight*dpr; }; size(); addEventListener("resize", size);
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const cols = ["#60a5fa","#3b82f6","#22d3ee","#a855f7","#ffffff","#facc15"];
+  let parts = [], rockets = [], t0 = performance.now(), last = 0;
+  const burst = (x, y) => { const c = cols[Math.random()*cols.length|0], n = 70 + Math.random()*40;
+    for (let i = 0; i < n; i++) { const a = Math.random()*Math.PI*2, s = (2 + Math.random()*4)*dpr;
+      parts.push({x, y, vx:Math.cos(a)*s, vy:Math.sin(a)*s, life:1, c}); } };
+  const tick = now => {
+    const el = (now - t0)/1000; ctx.fillStyle = "rgba(0,0,0,.18)"; ctx.globalCompositeOperation = "destination-out"; ctx.fillRect(0,0,cv.width,cv.height); ctx.globalCompositeOperation = "lighter";
+    if (el < seconds - 2 && now - last > (reduce ? 1400 : 420)) { last = now; rockets.push({x:(0.15+Math.random()*0.7)*cv.width, y:cv.height, vy:-(9+Math.random()*4)*dpr, ty:(0.15+Math.random()*0.35)*cv.height}); }
+    rockets = rockets.filter(r => { r.y += r.vy; ctx.fillStyle = "#fff"; ctx.fillRect(r.x, r.y, 2*dpr, 6*dpr); if (r.y <= r.ty) { burst(r.x, r.y); return false; } return true; });
+    parts = parts.filter(p => { p.x += p.vx; p.y += p.vy; p.vy += 0.05*dpr; p.vx *= .985; p.vy *= .985; p.life -= .012;
+      ctx.globalAlpha = Math.max(0, p.life); ctx.fillStyle = p.c; ctx.beginPath(); ctx.arc(p.x, p.y, 2.2*dpr, 0, 7); ctx.fill(); return p.life > 0; });
+    ctx.globalAlpha = 1;
+    if (el < seconds || parts.length) requestAnimationFrame(tick); else { cv.remove(); removeEventListener("resize", size); }
+  };
+  requestAnimationFrame(tick);
+  playAnthem(seconds);
+}
+function playAnthem(seconds) {   // an original upbeat party tune, synthesized in the browser
+  const AC = window.AudioContext || window.webkitAudioContext; if (!AC) return;
+  const ac = new AC(), master = ac.createGain(); master.gain.value = .22; master.connect(ac.destination);
+  const note = (f, t, d, type = "square", g = .5) => { const o = ac.createOscillator(), v = ac.createGain();
+    o.type = type; o.frequency.value = f; v.gain.setValueAtTime(0, t); v.gain.linearRampToValueAtTime(g, t + .01); v.gain.exponentialRampToValueAtTime(.001, t + d);
+    o.connect(v); v.connect(master); o.start(t); o.stop(t + d + .02); };
+  const hz = m => 440 * Math.pow(2, (m - 69) / 12), beat = 60 / 124, start = ac.currentTime + .05;
+  const chords = [[60,64,67],[65,69,72],[67,71,74],[65,69,72]];               // C  F  G  F
+  const melody = [72,74,76,79,76,74,72,74, 77,76,74,72,74,76,74,72, 79,81,79,76,74,76,79,81, 77,76,74,72,71,72,74,72];
+  for (let bar = 0, t = start; t < start + seconds - .5; bar++) {
+    const ch = chords[bar % 4];
+    for (let b = 0; b < 4; b++, t += beat) {
+      if (t > start + seconds - .5) break;
+      note(hz(ch[0] - 24), t, beat * .9, "triangle", .7);                      // bass
+      if (b % 2) ch.forEach(m => note(hz(m), t, beat * .45, "sawtooth", .12)); // off-beat stabs
+      note(hz(melody[(bar*4 + b*2) % melody.length]), t, beat*.45, "square", .18);
+      note(hz(melody[(bar*4 + b*2 + 1) % melody.length]), t + beat/2, beat*.45, "square", .18);
+      const n = ac.createBufferSource(), buf = ac.createBuffer(1, ac.sampleRate*.05, ac.sampleRate), dta = buf.getChannelData(0);
+      for (let i = 0; i < dta.length; i++) dta[i] = (Math.random()*2-1) * (1 - i/dta.length);
+      const hg = ac.createGain(); hg.gain.value = b % 2 ? .25 : .12; n.buffer = buf; n.connect(hg); hg.connect(master); n.start(t + beat/2);  // hi-hat
+    }
+  }
+  master.gain.setValueAtTime(.22, start + seconds - 1.5); master.gain.linearRampToValueAtTime(0, start + seconds);
+  setTimeout(() => ac.close(), (seconds + 1) * 1000);
 }
 
 /* ---------- races grid ---------- */
