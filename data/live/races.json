@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:23:39+00:00",
+ "updated": "2026-10-20T03:51:03+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -1111,12 +1111,12 @@
     }
    ],
    "average": {
-    "D": 48.2,
+    "D": 48.3,
     "R": 46.1,
-    "margin": 2.1,
-    "n_polls": 20,
+    "margin": 2.2,
+    "n_polls": 19,
     "window_days": 30,
-    "from": "2026-09-19",
+    "from": "2026-09-22",
     "to": "2026-10-16"
    },
    "trend": [
@@ -2317,12 +2317,12 @@
     }
    ],
    "average": {
-    "D": 46.4,
+    "D": 46.5,
     "R": 48.7,
-    "margin": -2.2,
-    "n_polls": 16,
+    "margin": -2.1,
+    "n_polls": 15,
     "window_days": 30,
-    "from": "2026-09-19",
+    "from": "2026-09-22",
     "to": "2026-10-16"
    },
    "trend": [
@@ -2890,12 +2890,12 @@
     }
    ],
    "average": {
-    "D": 44.0,
+    "D": 44.8,
     "R": 47.2,
-    "margin": -3.2,
-    "n_polls": 5,
+    "margin": -2.5,
+    "n_polls": 4,
     "window_days": 30,
-    "from": "2026-09-19",
+    "from": "2026-09-22",
     "to": "2026-10-14"
    },
    "trend": [
@@ -3035,6 +3035,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "University of Houston",
+     "partisan": null,
+     "start": "2026-10-10",
+     "end": "2026-10-14",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.uh.edu/hobby/texas2026/",
+     "results": {
+      "R": 47.0,
+      "D": 42.0
+     },
+     "other": 3.0,
+     "undecided": 8.0,
+     "margin": -5.0
+    },
     {
      "pollster": "University of Texas/Texas Politics Project",
      "partisan": null,
@@ -3260,8 +3277,8 @@
     "margin": -3.0,
     "n_polls": 4,
     "window_days": 30,
-    "from": "2026-09-19",
-    "to": "2026-10-05"
+    "from": "2026-09-22",
+    "to": "2026-10-14"
    },
    "trend": [
     {
@@ -3323,6 +3340,11 @@
      "date": "2026-10-05",
      "D": 43.8,
      "R": 46.4
+    },
+    {
+     "date": "2026-10-14",
+     "D": 43.4,
+     "R": 46.8
     }
    ],
    "key": "ag",
@@ -3546,12 +3568,12 @@
     }
    ],
    "average": {
-    "D": 42.8,
-    "R": 47.2,
-    "margin": -4.5,
-    "n_polls": 4,
+    "D": 44.0,
+    "R": 47.3,
+    "margin": -3.3,
+    "n_polls": 3,
     "window_days": 30,
-    "from": "2026-09-19",
+    "from": "2026-09-22",
     "to": "2026-10-05"
    },
    "trend": [
@@ -3965,6 +3987,23 @@
      "margin": -4.0
     },
     {
+     "pollster": "University of Houston",
+     "partisan": null,
+     "start": "2026-10-10",
+     "end": "2026-10-14",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.uh.edu/hobby/texas2026/",
+     "results": {
+      "R": 45.0,
+      "D": 43.0
+     },
+     "other": 2.0,
+     "undecided": 10.0,
+     "margin": -2.0
+    },
+    {
      "pollster": "University of Texas/Texas Politics Project",
      "partisan": null,
      "start": "2026-09-25",
@@ -4066,12 +4105,12 @@
     }
    ],
    "average": {
-    "D": 45.0,
-    "R": 46.6,
+    "D": 45.2,
+    "R": 46.8,
     "margin": -1.6,
     "n_polls": 5,
     "window_days": 30,
-    "from": "2026-09-19",
+    "from": "2026-09-22",
     "to": "2026-10-17"
    },
    "trend": [
@@ -4106,9 +4145,14 @@
      "R": 45.2
     },
     {
+     "date": "2026-10-14",
+     "D": 44.0,
+     "R": 45.2
+    },
+    {
      "date": "2026-10-17",
-     "D": 45.0,
-     "R": 46.6
+     "D": 44.7,
+     "R": 46.3
     }
    ],
    "key": "railroad",

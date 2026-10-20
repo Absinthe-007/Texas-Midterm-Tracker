@@ -1,98 +1,6 @@
 {
- "updated": "2026-10-19T22:31:58+00:00",
+ "updated": "2026-10-20T03:59:26+00:00",
  "events": [
-  {
-   "id": "mob-1065269",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Blockwalk for Evan Hunt - McKinney",
-   "type": "CANVASS",
-   "candidates": [
-    "evan-hunt"
-   ],
-   "host": "Elect Evan Hunt",
-   "start": "2026-10-19T22:30:00+00:00",
-   "end": "2026-10-20T01:30:00+00:00",
-   "more_times": 0,
-   "venue": "",
-   "address": "6301 Grand Ranch Pkwy",
-   "city": "McKinney",
-   "zip": "75070",
-   "lat": 33.141719,
-   "lng": -96.715863,
-   "virtual": false,
-   "url": "https://www.mobilize.us/electevanhunt/event/1065269/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Blockwalk_20260730194350577972.png"
-  },
-  {
-   "id": "mob-1062828",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Blockwalk with Team Gina and Odus Evbagharu!",
-   "type": "CANVASS",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-19T22:30:00+00:00",
-   "end": "2026-10-20T00:30:00+00:00",
-   "more_times": 1,
-   "venue": "Richard & Meg Weekley Park",
-   "address": "8440 Greenhouse Rd",
-   "city": "Harris County",
-   "zip": "77433",
-   "lat": 29.9013739,
-   "lng": -95.7046316,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1062828/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/GOTV_Blockwalk_Cypress_10.19_20261014235802279984.png"
-  },
-  {
-   "id": "mob-1053043",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Gina Hinojosa GOTV Rally",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-19T23:00:00+00:00",
-   "end": "2026-10-20T02:00:00+00:00",
-   "more_times": 0,
-   "venue": "Hangar 9",
-   "address": "8081 Inner Circle Rd",
-   "city": "San Antonio",
-   "zip": "78235",
-   "lat": 29.3440162,
-   "lng": -98.4441283,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1053043/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/GOTV_Tour_SanAntonio_10.19B_20261013213255386279.png"
-  },
-  {
-   "id": "mob-1056192",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🌟 Rally in Fort Worth with James Talarico",
-   "type": "RALLY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-20T00:30:00+00:00",
-   "end": "2026-10-20T02:30:00+00:00",
-   "more_times": 0,
-   "venue": "North Crowley HS",
-   "address": "9100 S Hulen St",
-   "city": "Fort Worth",
-   "zip": "76123",
-   "lat": 32.6104288,
-   "lng": -97.3943752,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056192/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261016064433556083.png"
-  },
   {
    "id": "mob-1064435",
    "source": "Mobilize",
@@ -298,7 +206,7 @@
    "lng": -98.6196102,
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1066633/",
-   "image": ""
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-03-31-07-58-12-794_20261020015421334470.jpg"
   },
   {
    "id": "mob-1063564",
@@ -471,7 +379,7 @@
     "james-talarico"
    ],
    "host": "Talarico for Texas",
-   "start": "2026-10-20T18:00:00+00:00",
+   "start": "2026-10-20T18:30:00+00:00",
    "end": "2026-10-20T19:30:00+00:00",
    "more_times": 0,
    "venue": "Canvas Special Events Center",
@@ -483,6 +391,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/talaricofortexas/event/1063573/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261016064942100116.png"
+  },
+  {
+   "id": "mob-1069246",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "🌟 March to the Polls with James Talarico and Wiley University Students",
+   "type": "COMMUNITY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-20T21:00:00+00:00",
+   "end": "2026-10-20T22:00:00+00:00",
+   "more_times": 0,
+   "venue": "Legends",
+   "address": "303 N Columbus",
+   "city": "Marshall",
+   "zip": "75670",
+   "lat": 32.5469534,
+   "lng": -94.3646602,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1069246/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/IMG_1766_20261019222942204645.png"
   },
   {
    "id": "mob-1064681",
@@ -1173,6 +1104,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/talaricofortexas/event/1056503/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261016072708804215.png"
+  },
+  {
+   "id": "mob-1062828",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Blockwalk with Team Gina and Odus Evbagharu!",
+   "type": "CANVASS",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-22T22:30:00+00:00",
+   "end": "2026-10-23T00:30:00+00:00",
+   "more_times": 0,
+   "venue": "Richard & Meg Weekley Park",
+   "address": "8440 Greenhouse Rd",
+   "city": "Harris County",
+   "zip": "77433",
+   "lat": 29.9013739,
+   "lng": -95.7046316,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1062828/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/GOTV_Blockwalk_Cypress_10.19_20261014235802279984.png"
   },
   {
    "id": "mob-1063285",
@@ -2233,142 +2187,49 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/justin_truck_1200x630_20261012211708370739.jpg"
   },
   {
-   "id": "mob-1066638",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Get Out the Early Vote with Gina at Texas A&M!",
-   "type": "MEET_GREET",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-25T17:00:00+00:00",
-   "end": "2026-10-25T17:30:00+00:00",
-   "more_times": 0,
-   "venue": "Texas A&M University",
-   "address": "400 Bizzell St",
-   "city": "College Station",
-   "zip": "77840",
-   "lat": 30.6186625,
-   "lng": -96.3364251,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1066638/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-03-31-07-58-12-794_20261018171729238422.jpg"
-  },
-  {
-   "id": "mob-1056686",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "📋 Talarico for Texas: Volunteer in Laredo",
-   "type": "MEET_GREET",
+   "id": "news-ae611c5880ed",
+   "source": "Fox News",
+   "kind": "reported",
+   "title": "WATCH LIVE: Texas Senate candidate James Talarico speaks at Fort Worth campaign rally",
    "candidates": [
     "james-talarico"
    ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-25T17:00:00+00:00",
-   "end": "2026-10-25T21:00:00+00:00",
-   "more_times": 0,
-   "venue": "Golondrina Food Park",
-   "address": "10211 Golondrina Dr",
-   "city": "Laredo",
-   "zip": "78045",
-   "lat": 27.6019112,
-   "lng": -99.477074,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056686/",
-   "image": ""
+   "start": "2026-10-20T00:07:28+00:00",
+   "city": "Fort Worth",
+   "lat": 32.782,
+   "lng": -97.3486,
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NWpUWE1ad3pFWWhtN0JrcEpySVZiamxvNlZSbFp1SGwtZkdEMXd1RWRWWVBwRHgxUWFuRzlUNUJnNHVZQnU1eGdxQWRoZWYtT1k3TGl3?oc=5",
+   "virtual": false
   },
   {
-   "id": "mob-1067095",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Blockwalk for Johnny Garcia",
-   "type": "CANVASS",
+   "id": "news-a94c71ec43b8",
+   "source": "Fox News",
+   "kind": "reported",
+   "title": "WATCH LIVE: Ken Paxton holds 'Come and Take It' tour event in Fort Worth",
    "candidates": [
-    "johnny-garcia"
+    "ken-paxton"
    ],
-   "host": "Johnny Garcia for Congress",
-   "start": "2026-10-25T18:00:00+00:00",
-   "end": "2026-10-25T20:30:00+00:00",
-   "more_times": 0,
-   "venue": "Johnny Garcia for Congress HQ",
-   "address": "1913 Pleasanton Rd",
-   "city": "San Antonio",
-   "zip": "78221",
-   "lat": 29.3625434,
-   "lng": -98.5042709,
-   "virtual": false,
-   "url": "https://www.mobilize.us/garciaforcongress/event/1067095/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/10-25%20Blockwalk%20%28PM%29_20261016200535134319.png"
+   "start": "2026-10-19T23:47:35+00:00",
+   "city": "Fort Worth",
+   "lat": 32.782,
+   "lng": -97.3486,
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OUlJxUUJ0di1UbFRIay03eXZ2bUNVSHllQkVyNGFvTUZvRFktRkdrT3RuVjlKQTZjN0RZcU1TRjJ2TGViYm5JdDFZT3RrSVNHbEl4Wkhn?oc=5",
+   "virtual": false
   },
   {
-   "id": "mob-1066036",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Team Lizzie Day of Action",
-   "type": "CANVASS",
+   "id": "news-ec8bbb95aca1",
+   "source": "Houston Chronicle",
+   "kind": "reported",
+   "title": "Jasmine Crockett, Greg Abbott visit Houston as early voting begins",
    "candidates": [
-    "lizzie-fletcher"
+    "greg-abbott"
    ],
-   "host": "Lizzie Pannill Fletcher for Congress",
-   "start": "2026-10-25T18:00:00+00:00",
-   "end": "2026-10-25T21:00:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
+   "start": "2026-10-19T23:34:16+00:00",
    "city": "Houston",
-   "zip": "77098",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/fletcherforcongress/event/1066036/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/0e1a112d45b6a66a60b89f9f95c7eaf7a22bf75b233752f851793396a6e9d50f_20261015175406207911.jpg"
-  },
-  {
-   "id": "mob-1016532",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "JDCA Canvass in Dallas, TX for James Talarico",
-   "type": "CANVASS",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Jewish Democratic Council of America",
-   "start": "2026-10-25T18:00:00+00:00",
-   "end": "2026-10-25T21:00:00+00:00",
-   "more_times": 1,
-   "venue": "Dallas",
-   "address": "",
-   "city": "Dallas",
-   "zip": "75201",
-   "lat": 32.788993,
-   "lng": -96.7989312,
-   "virtual": false,
-   "url": "https://www.mobilize.us/jewishdems/event/1016532/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Canvass%20%2828%29_20260824024310664241.png"
-  },
-  {
-   "id": "mob-1056667",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🌟 Meet and Greet James Talarico in Laredo",
-   "type": "MEET_GREET",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-25T19:00:00+00:00",
-   "end": "2026-10-25T20:00:00+00:00",
-   "more_times": 0,
-   "venue": "Golondrina Food Park",
-   "address": "10211 Golondrina Dr",
-   "city": "Laredo",
-   "zip": "78045",
-   "lat": 27.6019112,
-   "lng": -99.477074,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056667/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261017215907481795.png"
+   "lat": 29.7857,
+   "lng": -95.3888,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC1SbkxBUjRjdzdTU21lSVBPenpQTy1pSWVxcDIyZDhnZFpGWVA3S1pYS256QlY0WjRKS3RTU29IbXozTEdkWlVzeG1jYk5DaURYbEpZUEYxak8tSjhTQjE2OGhTNl9nOTVLdExDYjh5MmV6MnE3ZmVTSHlBZUpndHFQWHgySGNmU0F5RTBIbW9jcXEyblI5NDhwV1M0ZkR0MTBOVHY3OXdVNkZQWGRoOHZ3aw?oc=5",
+   "virtual": false
   },
   {
    "id": "news-55ca4f817e73",
@@ -3241,6 +3102,21 @@
    "virtual": false
   },
   {
+   "id": "news-effdc4edd66d",
+   "source": "The Killeen Daily Herald",
+   "kind": "reported",
+   "title": "Ag commissioner candidate Nate Sheets visits Jefferson",
+   "candidates": [
+    "nate-sheets"
+   ],
+   "start": "2026-09-08T07:00:00+00:00",
+   "city": "Jefferson",
+   "lat": 32.7635,
+   "lng": -94.3508,
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS2VHSXNpeG80Q2szVElMWjB1YXNEMm1pU0dld0tKX3VMSmdlek9LcmlBSm9OMWswRmZyQWpHMmFYOWd6eWJVSjhYS01GVmxaZ2N5RjlPOGt3MFA2RFk0VkJuOTlaamV3U25xU1g5eDNGdDFFa1pOMHpDVUdXSDNTUjdPck5CUkxhSldIWTZ4dDBBMGJDV0lQamlheC0wUW10bzNPOXZsYVoxRjltODlwMnRRSENEeGlVY3FzNmNKQ1lKSEt2YXFKSU5fZlgzcGFH?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-c5224ffb8511",
    "source": "KTSM 9 News",
    "kind": "reported",
@@ -3268,6 +3144,21 @@
    "lat": 31.8478,
    "lng": -106.4311,
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXBPakRtcFV4V1lqN1ozclhBQUV2bGJkVFJ4WFE4WDJsQzRGb1gwMDEwUVBmT3VYWndONGY0dVFNQVlta1RYYnA4R2Z5QVlXLTdkenN2U25YVG40bG1LVGZQRUczNVNoZl8yanpDOVctckt6ZER4LWdWdEFtQkczNGF4b0trSjM5STdhVGpIMWJxOC1xcUZkMTZxQzltQjNyUjdnaFZDXzR5cUFLdV82SEFxMEFMQm8xMXZsMHA2UnBIOGZvWkZJZ2tnU1FydnoxZVNtak1XUnB6YjAyNE1YRnQ4eHQ?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-c083942f0944",
+   "source": "BorderReport",
+   "kind": "reported",
+   "title": "US Rep Joaquin Castro visited ICE detention facility in Dilley Texas says numbers up",
+   "candidates": [
+    "joaquin-castro"
+   ],
+   "start": "2026-08-28T07:00:00+00:00",
+   "city": "Dilley",
+   "lat": 28.6675,
+   "lng": -99.1765,
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmxiZlFuTEU0d2FBaXVQa2hUS0tYUnc0TEhOQTFMdDJWMnptanAxLWJIWXNWZUJUVlFXU2ZnRk5DOVVnWlZaMlB2MWI3djdxNmJzLWJ1MzVvd2JRSnU5WVZ1bXBkMnZ2aHJkSTl1REY3TkJBMGVrTWtaakN3ZkhzbDEtSEV6ZHpyZFVmUE1YTlV0Z1VVeFNuTExVeGFrUUFBc082VkZodXUzVTJIdnFlYmhkQXlabzl5N3ZBVnJDRGt4al9FTE9iVg?oc=5",
    "virtual": false
   },
   {
