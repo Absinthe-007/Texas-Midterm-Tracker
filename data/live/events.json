@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:18:36+00:00",
+ "updated": "2026-10-20T05:03:09+00:00",
  "events": [
   {
    "id": "mob-1064435",
@@ -2369,6 +2369,21 @@
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1067515/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x%20%281%29_20261007201721352094.png"
+  },
+  {
+   "id": "news-856b9302e958",
+   "source": "kiiitv.com",
+   "kind": "reported",
+   "title": "Ken Paxton to hold rally in Corpus Christi Wednesday",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-20T04:23:00+00:00",
+   "city": "Corpus Christi",
+   "lat": 27.7543,
+   "lng": -97.1734,
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMURfWk1vck9PWElRcnR2azRMdktIOURKM0Y2VzY4cnF5NnQxb3VkT3E5c3RMTGE4S2tpQ20tdEZCZUpPMFhzdHZ3dDZxcmM0VzV4Y3dXX1A1N0hwUTRUaHJkekFwdjFoN1lmN3pvdzA2YUZKYmx3UUpYaHNmLWhhV09na19DMXdFTTJuSHRCOHhzWWJOb0JkYW5Qa2s1QUR0WjhQOGw3N2VEWkx5M1ZPb3dURnl0NzRjc29SWFlpanJOSU1mMnJkQ2hBNklrQQ?oc=5",
+   "virtual": false
   },
   {
    "id": "news-ae611c5880ed",

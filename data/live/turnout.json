@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:18:37+00:00",
+ "updated": "2026-10-20T05:03:12+00:00",
  "label": "2026 midterm",
  "days": [
   "2026-10-19",
@@ -20,145 +20,6 @@
    "reg": 31222,
    "cum": [
     1,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "ANDREWS": {
-   "reg": 10820,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "ANGELINA": {
-   "reg": 56330,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "ARANSAS": {
-   "reg": 19867,
-   "cum": [
-    2,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "ARCHER": {
-   "reg": 7093,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "ARMSTRONG": {
-   "reg": 1436,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "ATASCOSA": {
-   "reg": 32925,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "AUSTIN": {
-   "reg": 22824,
-   "cum": [
     1,
     null,
     null,
@@ -169,18 +30,165 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "ANDREWS": {
+   "reg": 10820,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "ANGELINA": {
+   "reg": 56330,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "ARANSAS": {
+   "reg": 19867,
+   "cum": [
+    2,
+    2,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "ARCHER": {
+   "reg": 7093,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "ARMSTRONG": {
+   "reg": 1436,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "ATASCOSA": {
+   "reg": 32925,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "AUSTIN": {
+   "reg": 22824,
+   "cum": [
+    1,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BAILEY": {
    "reg": 3239,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -193,14 +201,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BANDERA": {
    "reg": 19330,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -213,32 +222,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BASTROP": {
    "reg": 65427,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "BAYLOR": {
-   "reg": 2387,
-   "cum": [
     0,
     null,
     null,
@@ -249,16 +240,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "BAYLOR": {
+   "reg": 2387,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BEE": {
    "reg": 15758,
    "cum": [
+    145,
     145,
     null,
     null,
@@ -269,16 +282,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BELL": {
    "reg": 246817,
    "cum": [
+    640,
     640,
     null,
     null,
@@ -289,16 +303,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BEXAR": {
    "reg": 1325780,
    "cum": [
+    9,
     9,
     null,
     null,
@@ -309,96 +324,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BLANCO": {
    "reg": 11369,
    "cum": [
     3,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "BORDEN": {
-   "reg": 477,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "BOSQUE": {
-   "reg": 13761,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "BOWIE": {
-   "reg": 61596,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "BRAZORIA": {
-   "reg": 261323,
-   "cum": [
     3,
     null,
     null,
@@ -409,36 +345,101 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "BORDEN": {
+   "reg": 477,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "BOSQUE": {
+   "reg": 13761,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "BOWIE": {
+   "reg": 61596,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "BRAZORIA": {
+   "reg": 261323,
+   "cum": [
+    3,
+    3,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BRAZOS": {
    "reg": 147077,
    "cum": [
     1,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "BREWSTER": {
-   "reg": 7119,
-   "cum": [
     1,
     null,
     null,
@@ -449,36 +450,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "BREWSTER": {
+   "reg": 7119,
+   "cum": [
+    1,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BRISCOE": {
    "reg": 1022,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "BROOKS": {
-   "reg": 4735,
-   "cum": [
     0,
     null,
     null,
@@ -489,16 +492,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "BROOKS": {
+   "reg": 4735,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BROWN": {
    "reg": 25916,
    "cum": [
+    279,
     279,
     null,
     null,
@@ -509,16 +534,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BURLESON": {
    "reg": 14321,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -529,16 +555,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "BURNET": {
    "reg": 39466,
    "cum": [
+    202,
     202,
     null,
     null,
@@ -549,18 +576,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CALDWELL": {
    "reg": 28491,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -573,32 +600,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CALHOUN": {
    "reg": 13031,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "CALLAHAN": {
-   "reg": 10636,
-   "cum": [
     0,
     null,
     null,
@@ -609,16 +618,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "CALLAHAN": {
+   "reg": 10636,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CAMERON": {
    "reg": 244070,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -629,16 +660,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CAMP": {
    "reg": 8510,
    "cum": [
+    278,
     278,
     null,
     null,
@@ -649,18 +681,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 274
+    "2026-10-19": 274,
+    "2026-10-20": 0
    }
   },
   "CARSON": {
    "reg": 4253,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -673,14 +705,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CASS": {
    "reg": 21881,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -693,14 +726,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CASTRO": {
    "reg": 3467,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -713,32 +747,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CHAMBERS": {
    "reg": 39119,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "CHEROKEE": {
-   "reg": 32796,
-   "cum": [
     0,
     null,
     null,
@@ -749,16 +765,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "CHEROKEE": {
+   "reg": 32796,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CHILDRESS": {
    "reg": 3580,
    "cum": [
+    3,
     3,
     null,
     null,
@@ -769,36 +807,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CLAY": {
    "reg": 8340,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "COCHRAN": {
-   "reg": 1486,
-   "cum": [
     0,
     null,
     null,
@@ -809,16 +828,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "COCHRAN": {
+   "reg": 1486,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "COKE": {
    "reg": 2532,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -829,16 +870,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "COLEMAN": {
    "reg": 6144,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -849,16 +891,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "COLLIN": {
    "reg": 788729,
    "cum": [
+    1251,
     1251,
     null,
     null,
@@ -869,16 +912,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "COLLINGSWORTH": {
    "reg": 1857,
    "cum": [
+    36,
     36,
     null,
     null,
@@ -889,16 +933,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 36
+    "2026-10-19": 36,
+    "2026-10-20": 0
    }
   },
   "COLORADO": {
    "reg": 14766,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -909,16 +954,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "COMAL": {
    "reg": 151987,
    "cum": [
+    562,
     562,
     null,
     null,
@@ -929,36 +975,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "COMANCHE": {
    "reg": 10336,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "CONCHO": {
-   "reg": 1814,
-   "cum": [
     0,
     null,
     null,
@@ -969,36 +996,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "CONCHO": {
+   "reg": 1814,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "COOKE": {
    "reg": 31222,
    "cum": [
     1,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "CORYELL": {
-   "reg": 47037,
-   "cum": [
     1,
     null,
     null,
@@ -1009,16 +1038,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "CORYELL": {
+   "reg": 47037,
+   "cum": [
+    1,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "COTTLE": {
    "reg": 979,
    "cum": [
+    4,
     4,
     null,
     null,
@@ -1029,36 +1080,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CRANE": {
    "reg": 2756,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "CROCKETT": {
-   "reg": 2259,
-   "cum": [
     0,
     null,
     null,
@@ -1069,16 +1101,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "CROCKETT": {
+   "reg": 2259,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "CROSBY": {
    "reg": 3557,
    "cum": [
+    87,
     87,
     null,
     null,
@@ -1089,36 +1143,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 69
+    "2026-10-19": 69,
+    "2026-10-20": 0
    }
   },
   "CULBERSON": {
    "reg": 1732,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "DALLAM": {
-   "reg": 2836,
-   "cum": [
     0,
     null,
     null,
@@ -1129,16 +1164,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "DALLAM": {
+   "reg": 2836,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "DALLAS": {
    "reg": 1493955,
    "cum": [
+    8444,
     8444,
     null,
     null,
@@ -1149,18 +1206,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "DAWSON": {
    "reg": 6481,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -1173,32 +1230,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "DEAF SMITH": {
    "reg": 8821,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "DELTA": {
-   "reg": 4116,
-   "cum": [
     0,
     null,
     null,
@@ -1209,16 +1248,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "DELTA": {
+   "reg": 4116,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "DENTON": {
    "reg": 688032,
    "cum": [
+    3040,
     3040,
     null,
     null,
@@ -1229,16 +1290,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "DEWITT": {
    "reg": 11657,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -1249,16 +1311,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "DICKENS": {
    "reg": 1363,
    "cum": [
+    27,
     27,
     null,
     null,
@@ -1269,16 +1332,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 14
+    "2026-10-19": 14,
+    "2026-10-20": 0
    }
   },
   "DIMMIT": {
    "reg": 6567,
    "cum": [
+    71,
     71,
     null,
     null,
@@ -1289,18 +1353,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "DONLEY": {
    "reg": 2463,
    "cum": [
     1,
-    null,
+    1,
     null,
     null,
     null,
@@ -1313,32 +1377,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "DUVAL": {
    "reg": 7777,
    "cum": [
     1,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "EASTLAND": {
-   "reg": 12664,
-   "cum": [
     1,
     null,
     null,
@@ -1349,36 +1395,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "EASTLAND": {
+   "reg": 12664,
+   "cum": [
+    1,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 1
+    "2026-10-19": 1,
+    "2026-10-20": 0
    }
   },
   "ECTOR": {
    "reg": 84739,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "EDWARDS": {
-   "reg": 1488,
-   "cum": [
     0,
     null,
     null,
@@ -1389,16 +1437,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "EDWARDS": {
+   "reg": 1488,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "ELLIS": {
    "reg": 159133,
    "cum": [
+    835,
     835,
     null,
     null,
@@ -1409,16 +1479,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "EL PASO": {
    "reg": 530978,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -1429,16 +1500,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "ERATH": {
    "reg": 26965,
    "cum": [
+    3,
     3,
     null,
     null,
@@ -1449,16 +1521,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "FALLS": {
    "reg": 10771,
    "cum": [
+    135,
     135,
     null,
     null,
@@ -1469,16 +1542,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 135
+    "2026-10-19": 135,
+    "2026-10-20": 0
    }
   },
   "FANNIN": {
    "reg": 24550,
    "cum": [
+    67,
     67,
     null,
     null,
@@ -1489,18 +1563,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "FAYETTE": {
    "reg": 18401,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -1513,14 +1587,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "FISHER": {
    "reg": 2739,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -1533,32 +1608,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "FLOYD": {
    "reg": 3582,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "FOARD": {
-   "reg": 779,
-   "cum": [
     0,
     null,
     null,
@@ -1569,16 +1626,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "FOARD": {
+   "reg": 779,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "FORT BEND": {
    "reg": 581636,
    "cum": [
+    346,
     346,
     null,
     null,
@@ -1589,36 +1668,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "FRANKLIN": {
    "reg": 7801,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "FREESTONE": {
-   "reg": 13538,
-   "cum": [
     0,
     null,
     null,
@@ -1629,16 +1689,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "FREESTONE": {
+   "reg": 13538,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "FRIO": {
    "reg": 9650,
    "cum": [
+    138,
     138,
     null,
     null,
@@ -1649,16 +1731,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 138
+    "2026-10-19": 138,
+    "2026-10-20": 0
    }
   },
   "GAINES": {
    "reg": 10888,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -1669,16 +1752,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "GALVESTON": {
    "reg": 251059,
    "cum": [
+    206,
     206,
     null,
     null,
@@ -1689,16 +1773,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "GARZA": {
    "reg": 2528,
    "cum": [
+    26,
     26,
     null,
     null,
@@ -1709,18 +1794,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "GILLESPIE": {
    "reg": 22570,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -1733,52 +1818,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "GLASSCOCK": {
    "reg": 857,
    "cum": [
     5,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "GOLIAD": {
-   "reg": 5747,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "GONZALES": {
-   "reg": 13364,
-   "cum": [
     5,
     null,
     null,
@@ -1789,18 +1836,60 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "GOLIAD": {
+   "reg": 5747,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "GONZALES": {
+   "reg": 13364,
+   "cum": [
+    5,
+    5,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "GRAY": {
    "reg": 12303,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -1813,32 +1902,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "GRAYSON": {
    "reg": 104013,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "GREGG": {
-   "reg": 74495,
-   "cum": [
     0,
     null,
     null,
@@ -1849,16 +1920,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "GREGG": {
+   "reg": 74495,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "GRIMES": {
    "reg": 22206,
    "cum": [
+    3,
     3,
     null,
     null,
@@ -1869,18 +1962,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "GUADALUPE": {
    "reg": 138088,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -1893,32 +1986,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HALE": {
    "reg": 18374,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "HALL": {
-   "reg": 1831,
-   "cum": [
     0,
     null,
     null,
@@ -1929,16 +2004,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "HALL": {
+   "reg": 1831,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HAMILTON": {
    "reg": 6348,
    "cum": [
+    215,
     215,
     null,
     null,
@@ -1949,16 +2046,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 215
+    "2026-10-19": 215,
+    "2026-10-20": 0
    }
   },
   "HANSFORD": {
    "reg": 2977,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -1969,16 +2067,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HARDEMAN": {
    "reg": 2191,
    "cum": [
+    50,
     50,
     null,
     null,
@@ -1989,16 +2088,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 50
+    "2026-10-19": 50,
+    "2026-10-20": 0
    }
   },
   "HARDIN": {
    "reg": 43968,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -2009,16 +2109,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HARRIS": {
    "reg": 2746177,
    "cum": [
+    18162,
     18162,
     null,
     null,
@@ -2029,18 +2130,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HARRISON": {
    "reg": 47906,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2053,32 +2154,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HARTLEY": {
    "reg": 2821,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "HASKELL": {
-   "reg": 3445,
-   "cum": [
     0,
     null,
     null,
@@ -2089,16 +2172,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "HASKELL": {
+   "reg": 3445,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HAYS": {
    "reg": 203490,
    "cum": [
+    198,
     198,
     null,
     null,
@@ -2109,18 +2214,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HEMPHILL": {
    "reg": 2290,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2133,14 +2238,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HENDERSON": {
    "reg": 61329,
    "cum": [
     1,
-    null,
+    1,
     null,
     null,
     null,
@@ -2153,112 +2259,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HIDALGO": {
    "reg": 466208,
    "cum": [
     1,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "HILL": {
-   "reg": 27866,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "HOCKLEY": {
-   "reg": 14373,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "HOOD": {
-   "reg": 54192,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "HOPKINS": {
-   "reg": 25858,
-   "cum": [
-    0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "HOUSTON": {
-   "reg": 13919,
-   "cum": [
     1,
     null,
     null,
@@ -2269,16 +2277,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
-  "HOWARD": {
-   "reg": 16861,
+  "HILL": {
+   "reg": 27866,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -2289,16 +2298,122 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "HOCKLEY": {
+   "reg": 14373,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "HOOD": {
+   "reg": 54192,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "HOPKINS": {
+   "reg": 25858,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "HOUSTON": {
+   "reg": 13919,
+   "cum": [
+    1,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "HOWARD": {
+   "reg": 16861,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HUDSPETH": {
    "reg": 2103,
    "cum": [
+    5,
     5,
     null,
     null,
@@ -2309,18 +2424,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HUNT": {
    "reg": 77012,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2333,14 +2448,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "HUTCHINSON": {
    "reg": 13404,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2353,14 +2469,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "IRION": {
    "reg": 1221,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2373,14 +2490,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "JACK": {
    "reg": 5967,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2393,14 +2511,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "JACKSON": {
    "reg": 10054,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2413,32 +2532,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "JASPER": {
    "reg": 24585,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "JEFF DAVIS": {
-   "reg": 1539,
-   "cum": [
     0,
     null,
     null,
@@ -2449,16 +2550,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "JEFF DAVIS": {
+   "reg": 1539,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "JEFFERSON": {
    "reg": 148754,
    "cum": [
+    576,
     576,
     null,
     null,
@@ -2469,16 +2592,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "JIM HOGG": {
    "reg": 3405,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -2489,16 +2613,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "JIM WELLS": {
    "reg": 26107,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -2509,16 +2634,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "JOHNSON": {
    "reg": 135277,
    "cum": [
+    106,
     106,
     null,
     null,
@@ -2529,36 +2655,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 104
+    "2026-10-19": 104,
+    "2026-10-20": 0
    }
   },
   "JONES": {
    "reg": 11231,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "KARNES": {
-   "reg": 8281,
-   "cum": [
     0,
     null,
     null,
@@ -2569,16 +2676,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "KARNES": {
+   "reg": 8281,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KAUFMAN": {
    "reg": 119211,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -2589,16 +2718,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KENDALL": {
    "reg": 41174,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -2609,16 +2739,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KENEDY": {
    "reg": 269,
    "cum": [
+    11,
     11,
     null,
     null,
@@ -2629,18 +2760,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 11
+    "2026-10-19": 11,
+    "2026-10-20": 0
    }
   },
   "KENT": {
    "reg": 566,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2653,14 +2784,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KERR": {
    "reg": 39762,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2673,14 +2805,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KIMBLE": {
    "reg": 3353,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2693,14 +2826,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KING": {
    "reg": 179,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2713,14 +2847,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KINNEY": {
    "reg": 2195,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2733,14 +2868,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KLEBERG": {
    "reg": 18028,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2753,14 +2889,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "KNOX": {
    "reg": 2262,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2773,32 +2910,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LAMAR": {
    "reg": 33431,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "LAMB": {
-   "reg": 7668,
-   "cum": [
     0,
     null,
     null,
@@ -2809,16 +2928,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "LAMB": {
+   "reg": 7668,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LAMPASAS": {
    "reg": 17556,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -2829,16 +2970,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LASALLE": {
    "reg": 4096,
    "cum": [
+    106,
     106,
     null,
     null,
@@ -2849,16 +2991,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 106
+    "2026-10-19": 106,
+    "2026-10-20": 0
    }
   },
   "LAVACA": {
    "reg": 14463,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -2869,16 +3012,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LEE": {
    "reg": 12262,
    "cum": [
+    2,
     2,
     null,
     null,
@@ -2889,16 +3033,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 2
+    "2026-10-19": 2,
+    "2026-10-20": 0
    }
   },
   "LEON": {
    "reg": 12449,
    "cum": [
+    4,
     4,
     null,
     null,
@@ -2909,36 +3054,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LIBERTY": {
    "reg": 59345,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "LIMESTONE": {
-   "reg": 14484,
-   "cum": [
     0,
     null,
     null,
@@ -2949,16 +3075,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "LIMESTONE": {
+   "reg": 14484,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LIPSCOMB": {
    "reg": 1878,
    "cum": [
+    17,
     17,
     null,
     null,
@@ -2969,18 +3117,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LIVE OAK": {
    "reg": 7686,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -2993,32 +3141,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LLANO": {
    "reg": 18564,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "LOVING": {
-   "reg": 148,
-   "cum": [
     0,
     null,
     null,
@@ -3029,16 +3159,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "LOVING": {
+   "reg": 148,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LUBBOCK": {
    "reg": 204340,
    "cum": [
+    8,
     8,
     null,
     null,
@@ -3049,16 +3201,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "LYNN": {
    "reg": 4475,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -3069,18 +3222,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MADISON": {
    "reg": 8576,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -3093,14 +3246,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MARION": {
    "reg": 7878,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -3113,14 +3267,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MARTIN": {
    "reg": 3589,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -3133,14 +3288,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MASON": {
    "reg": 3320,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -3153,14 +3309,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MATAGORDA": {
    "reg": 22526,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -3173,32 +3330,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MAVERICK": {
    "reg": 37239,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "MCCULLOCH": {
-   "reg": 5380,
-   "cum": [
     0,
     null,
     null,
@@ -3209,16 +3348,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "MCCULLOCH": {
+   "reg": 5380,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MCLENNAN": {
    "reg": 161164,
    "cum": [
+    1089,
     1089,
     null,
     null,
@@ -3229,16 +3390,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MCMULLEN": {
    "reg": 644,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -3249,16 +3411,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MEDINA": {
    "reg": 40743,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -3269,16 +3432,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MENARD": {
    "reg": 1474,
    "cum": [
+    53,
     53,
     null,
     null,
@@ -3289,16 +3453,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 50
+    "2026-10-19": 50,
+    "2026-10-20": 0
    }
   },
   "MIDLAND": {
    "reg": 99805,
    "cum": [
+    24,
     24,
     null,
     null,
@@ -3309,16 +3474,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MILAM": {
    "reg": 17565,
    "cum": [
+    2,
     2,
     null,
     null,
@@ -3329,16 +3495,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MILLS": {
    "reg": 3643,
    "cum": [
+    94,
     94,
     null,
     null,
@@ -3349,16 +3516,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 94
+    "2026-10-19": 94,
+    "2026-10-20": 0
    }
   },
   "MITCHELL": {
    "reg": 4473,
    "cum": [
+    11,
     11,
     null,
     null,
@@ -3369,16 +3537,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MONTAGUE": {
    "reg": 15801,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -3389,16 +3558,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MONTGOMERY": {
    "reg": 487323,
    "cum": [
+    2060,
     2060,
     null,
     null,
@@ -3409,36 +3579,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MOORE": {
    "reg": 10247,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "MORRIS": {
-   "reg": 8815,
-   "cum": [
     0,
     null,
     null,
@@ -3449,16 +3600,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "MORRIS": {
+   "reg": 8815,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "MOTLEY": {
    "reg": 829,
    "cum": [
+    41,
     41,
     null,
     null,
@@ -3469,16 +3642,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 41
+    "2026-10-19": 41,
+    "2026-10-20": 0
    }
   },
   "NACOGDOCHES": {
    "reg": 40402,
    "cum": [
+    317,
     317,
     null,
     null,
@@ -3489,16 +3663,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 7
+    "2026-10-19": 7,
+    "2026-10-20": 0
    }
   },
   "NAVARRO": {
    "reg": 33825,
    "cum": [
+    3,
     3,
     null,
     null,
@@ -3509,16 +3684,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "NEWTON": {
    "reg": 9424,
    "cum": [
+    30,
     30,
     null,
     null,
@@ -3529,16 +3705,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 30
+    "2026-10-19": 30,
+    "2026-10-20": 0
    }
   },
   "NOLAN": {
    "reg": 8835,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -3549,16 +3726,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "NUECES": {
    "reg": 217666,
    "cum": [
+    1133,
     1133,
     null,
     null,
@@ -3569,18 +3747,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "OCHILTREE": {
    "reg": 5221,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -3593,14 +3771,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "OLDHAM": {
    "reg": 1395,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -3613,32 +3792,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "ORANGE": {
    "reg": 56955,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "PALO PINTO": {
-   "reg": 20923,
-   "cum": [
     0,
     null,
     null,
@@ -3649,16 +3810,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "PALO PINTO": {
+   "reg": 20923,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "PANOLA": {
    "reg": 17896,
    "cum": [
+    2,
     2,
     null,
     null,
@@ -3669,18 +3852,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "PARKER": {
    "reg": 133925,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -3693,32 +3876,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "PARMER": {
    "reg": 4516,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "PECOS": {
-   "reg": 8431,
-   "cum": [
     0,
     null,
     null,
@@ -3729,16 +3894,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "PECOS": {
+   "reg": 8431,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "POLK": {
    "reg": 44574,
    "cum": [
+    3,
     3,
     null,
     null,
@@ -3749,16 +3936,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "POTTER": {
    "reg": 59103,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -3769,16 +3957,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "PRESIDIO": {
    "reg": 4373,
    "cum": [
+    19,
     19,
     null,
     null,
@@ -3789,16 +3978,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "RAINS": {
    "reg": 9772,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -3809,16 +3999,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "RANDALL": {
    "reg": 102715,
    "cum": [
+    52,
     52,
     null,
     null,
@@ -3829,36 +4020,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "REAGAN": {
    "reg": 1808,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "REAL": {
-   "reg": 2701,
-   "cum": [
     0,
     null,
     null,
@@ -3869,16 +4041,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "REAL": {
+   "reg": 2701,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "RED RIVER": {
    "reg": 8664,
    "cum": [
+    8,
     8,
     null,
     null,
@@ -3889,36 +4083,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 8
+    "2026-10-19": 8,
+    "2026-10-20": 0
    }
   },
   "REEVES": {
    "reg": 8030,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "REFUGIO": {
-   "reg": 4922,
-   "cum": [
     0,
     null,
     null,
@@ -3929,16 +4104,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "REFUGIO": {
+   "reg": 4922,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "ROBERTS": {
    "reg": 713,
    "cum": [
+    14,
     14,
     null,
     null,
@@ -3949,16 +4146,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 14
+    "2026-10-19": 14,
+    "2026-10-20": 0
    }
   },
   "ROBERTSON": {
    "reg": 12971,
    "cum": [
+    4,
     4,
     null,
     null,
@@ -3969,16 +4167,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 4
+    "2026-10-19": 4,
+    "2026-10-20": 0
    }
   },
   "ROCKWALL": {
    "reg": 91659,
    "cum": [
+    6,
     6,
     null,
     null,
@@ -3989,36 +4188,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 3
+    "2026-10-19": 3,
+    "2026-10-20": 0
    }
   },
   "RUNNELS": {
    "reg": 6848,
    "cum": [
     2,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "RUSK": {
-   "reg": 34488,
-   "cum": [
     2,
     null,
     null,
@@ -4029,36 +4209,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "RUSK": {
+   "reg": 34488,
+   "cum": [
+    2,
+    3,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SABINE": {
    "reg": 8393,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "SAN AUGUSTINE": {
-   "reg": 6045,
-   "cum": [
     0,
     null,
     null,
@@ -4069,16 +4251,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "SAN AUGUSTINE": {
+   "reg": 6045,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SAN JACINTO": {
    "reg": 21104,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -4089,16 +4293,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SAN PATRICIO": {
    "reg": 45611,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -4109,16 +4314,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SAN SABA": {
    "reg": 3774,
    "cum": [
+    33,
     33,
     null,
     null,
@@ -4129,36 +4335,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SCHLEICHER": {
    "reg": 1779,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "SCURRY": {
-   "reg": 9254,
-   "cum": [
     0,
     null,
     null,
@@ -4169,16 +4356,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "SCURRY": {
+   "reg": 9254,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SHACKELFORD": {
    "reg": 2467,
    "cum": [
+    43,
     43,
     null,
     null,
@@ -4189,36 +4398,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SHELBY": {
    "reg": 16476,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "SHERMAN": {
-   "reg": 1366,
-   "cum": [
     0,
     null,
     null,
@@ -4229,16 +4419,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "SHERMAN": {
+   "reg": 1366,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SMITH": {
    "reg": 164156,
    "cum": [
+    1301,
     1301,
     null,
     null,
@@ -4249,16 +4461,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "SOMERVELL": {
    "reg": 7577,
    "cum": [
+    2,
     2,
     null,
     null,
@@ -4269,16 +4482,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 2
+    "2026-10-19": 2,
+    "2026-10-20": 0
    }
   },
   "STARR": {
    "reg": 36485,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -4289,16 +4503,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "STEPHENS": {
    "reg": 5908,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -4309,16 +4524,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "STERLING": {
    "reg": 902,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -4329,16 +4545,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "STONEWALL": {
    "reg": 960,
    "cum": [
+    32,
     32,
     null,
     null,
@@ -4349,36 +4566,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 32
+    "2026-10-19": 32,
+    "2026-10-20": 0
    }
   },
   "SUTTON": {
    "reg": 2284,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "SWISHER": {
-   "reg": 3882,
-   "cum": [
     0,
     null,
     null,
@@ -4389,16 +4587,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "SWISHER": {
+   "reg": 3882,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "TARRANT": {
    "reg": 1228367,
    "cum": [
+    7516,
     7516,
     null,
     null,
@@ -4409,16 +4629,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "TAYLOR": {
    "reg": 90886,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -4429,36 +4650,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "TERRELL": {
    "reg": 622,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "TERRY": {
-   "reg": 6202,
-   "cum": [
     0,
     null,
     null,
@@ -4469,16 +4671,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "TERRY": {
+   "reg": 6202,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "THROCKMORTON": {
    "reg": 1192,
    "cum": [
+    4,
     4,
     null,
     null,
@@ -4489,16 +4713,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "TITUS": {
    "reg": 18307,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -4509,16 +4734,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "TOM GREEN": {
    "reg": 73870,
    "cum": [
+    874,
     874,
     null,
     null,
@@ -4529,16 +4755,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "TRAVIS": {
    "reg": 945505,
    "cum": [
+    5217,
     5217,
     null,
     null,
@@ -4549,16 +4776,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "TRINITY": {
    "reg": 12380,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -4569,16 +4797,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "TYLER": {
    "reg": 14992,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -4589,36 +4818,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "UPSHUR": {
    "reg": 31152,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "UPTON": {
-   "reg": 2079,
-   "cum": [
     0,
     null,
     null,
@@ -4629,16 +4839,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "UPTON": {
+   "reg": 2079,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "UVALDE": {
    "reg": 17679,
    "cum": [
+    2,
     2,
     null,
     null,
@@ -4649,18 +4881,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "VAL VERDE": {
    "reg": 31026,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4673,14 +4905,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "VAN ZANDT": {
    "reg": 43058,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4693,14 +4926,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "VICTORIA": {
    "reg": 58190,
    "cum": [
     1,
-    null,
+    1,
     null,
     null,
     null,
@@ -4713,14 +4947,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WALKER": {
    "reg": 40280,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4733,14 +4968,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WALLER": {
    "reg": 46110,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4753,14 +4989,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WARD": {
    "reg": 7027,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4773,14 +5010,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WASHINGTON": {
    "reg": 26247,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4793,14 +5031,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WEBB": {
    "reg": 150324,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4813,14 +5052,15 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WHARTON": {
    "reg": 26520,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4833,32 +5073,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WHEELER": {
    "reg": 3347,
    "cum": [
     1,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "WICHITA": {
-   "reg": 78749,
-   "cum": [
     1,
     null,
     null,
@@ -4869,36 +5091,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "WICHITA": {
+   "reg": 78749,
+   "cum": [
+    1,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WILBARGER": {
    "reg": 8256,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "WILLACY": {
-   "reg": 11578,
-   "cum": [
     0,
     null,
     null,
@@ -4909,16 +5133,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "WILLACY": {
+   "reg": 11578,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WILLIAMSON": {
    "reg": 472191,
    "cum": [
+    976,
     976,
     null,
     null,
@@ -4929,18 +5175,18 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WILSON": {
    "reg": 40405,
    "cum": [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -4953,32 +5199,14 @@
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WINKLER": {
    "reg": 4190,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "WISE": {
-   "reg": 59841,
-   "cum": [
     0,
     null,
     null,
@@ -4989,16 +5217,38 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "WISE": {
+   "reg": 59841,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "WOOD": {
    "reg": 36213,
    "cum": [
+    29,
     29,
     null,
     null,
@@ -5009,16 +5259,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "YOAKUM": {
    "reg": 4340,
    "cum": [
+    0,
     0,
     null,
     null,
@@ -5029,16 +5280,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "YOUNG": {
    "reg": 12892,
    "cum": [
+    1,
     1,
     null,
     null,
@@ -5049,36 +5301,17 @@
     null,
     null,
     null,
-    null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   },
   "ZAPATA": {
    "reg": 8263,
    "cum": [
     0,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
-   ],
-   "in_person_today": {
-    "2026-10-19": 0
-   }
-  },
-  "ZAVALA": {
-   "reg": 7580,
-   "cum": [
     0,
     null,
     null,
@@ -5089,15 +5322,36 @@
     null,
     null,
     null,
+    null
+   ],
+   "in_person_today": {
+    "2026-10-19": 0,
+    "2026-10-20": 0
+   }
+  },
+  "ZAVALA": {
+   "reg": 7580,
+   "cum": [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null
    ],
    "in_person_today": {
-    "2026-10-19": 0
+    "2026-10-19": 0,
+    "2026-10-20": 0
    }
   }
  },
- "latest_day": 1,
+ "latest_day": 2,
  "partial": true,
  "source": "https://goelect.txelections.civixapps.com/ivis-evr-ui/evr"
 }
