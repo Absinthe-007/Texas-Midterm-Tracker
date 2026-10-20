@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:54:49+00:00",
+ "updated": "2026-10-20T11:42:14+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -3438,6 +3438,23 @@
    },
    "polls": [
     {
+     "pollster": "University of Houston",
+     "partisan": null,
+     "start": "2026-10-10",
+     "end": "2026-10-14",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.uh.edu/hobby/texas2026/statewide26.pdf",
+     "results": {
+      "R": 47.0,
+      "D": 40.0
+     },
+     "other": 2.0,
+     "undecided": 11.0,
+     "margin": -7.0
+    },
+    {
      "pollster": "University of Texas/Texas Politics Project",
      "partisan": null,
      "start": "2026-09-25",
@@ -3573,13 +3590,13 @@
     }
    ],
    "average": {
-    "D": 44.0,
-    "R": 47.3,
-    "margin": -3.3,
-    "n_polls": 3,
+    "D": 43.0,
+    "R": 47.2,
+    "margin": -4.2,
+    "n_polls": 4,
     "window_days": 30,
     "from": "2026-09-22",
-    "to": "2026-10-05"
+    "to": "2026-10-14"
    },
    "trend": [
     {
@@ -3620,6 +3637,11 @@
     {
      "date": "2026-10-05",
      "D": 42.8,
+     "R": 47.2
+    },
+    {
+     "date": "2026-10-14",
+     "D": 42.2,
      "R": 47.2
     }
    ],
@@ -3672,6 +3694,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "University of Houston",
+     "partisan": null,
+     "start": "2026-10-10",
+     "end": "2026-10-14",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.uh.edu/hobby/texas2026/statewide26.pdf",
+     "results": {
+      "R": 47.0,
+      "D": 40.0
+     },
+     "other": 2.0,
+     "undecided": 11.0,
+     "margin": -7.0
+    },
     {
      "pollster": "Texas Public Opinion Research",
      "partisan": null,
@@ -3742,13 +3781,13 @@
     }
    ],
    "average": {
-    "D": 41.0,
-    "R": 46.5,
-    "margin": -5.5,
-    "n_polls": 2,
+    "D": 40.7,
+    "R": 46.7,
+    "margin": -6.0,
+    "n_polls": 3,
     "window_days": 30,
     "from": "2026-09-19",
-    "to": "2026-09-22"
+    "to": "2026-10-14"
    },
    "trend": [
     {
@@ -3770,6 +3809,11 @@
      "date": "2026-09-22",
      "D": 41.0,
      "R": 46.5
+    },
+    {
+     "date": "2026-10-14",
+     "D": 40.7,
+     "R": 46.7
     }
    ],
    "key": "land",
@@ -3816,6 +3860,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "University of Houston",
+     "partisan": null,
+     "start": "2026-10-10",
+     "end": "2026-10-14",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.uh.edu/hobby/texas2026/statewide26.pdf",
+     "results": {
+      "R": 46.0,
+      "D": 40.0
+     },
+     "other": 2.0,
+     "undecided": 12.0,
+     "margin": -6.0
+    },
     {
      "pollster": "Stratus Intelligence",
      "partisan": "R",
@@ -3885,13 +3946,13 @@
     }
    ],
    "average": {
-    "D": 41.3,
-    "R": 46.0,
+    "D": 41.7,
+    "R": 46.3,
     "margin": -4.7,
     "n_polls": 3,
     "window_days": 30,
-    "from": "2026-09-19",
-    "to": "2026-09-24"
+    "from": "2026-09-22",
+    "to": "2026-10-14"
    },
    "trend": [
     {
@@ -3912,6 +3973,11 @@
     {
      "date": "2026-09-24",
      "D": 41.3,
+     "R": 46.0
+    },
+    {
+     "date": "2026-10-14",
+     "D": 41.0,
      "R": 46.0
     }
    ],

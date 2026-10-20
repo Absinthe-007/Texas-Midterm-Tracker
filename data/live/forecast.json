@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T05:03:12+00:00",
+ "updated": "2026-10-20T11:50:38+00:00",
  "days_to_election": 14,
  "environment": {
   "generic_ballot": -0.7,
@@ -83,15 +83,34 @@
    "p_dem_sim": 0.201
   },
   "comptroller": {
-   "mean": -3.8,
+   "mean": -4.3,
    "sd": 6.2,
-   "p_dem": 0.268,
-   "lo": -11.7,
-   "hi": 4.1,
+   "p_dem": 0.241,
+   "lo": -12.2,
+   "hi": 3.6,
    "inputs": {
-    "polls": -3.3,
-    "n_polls": 3,
+    "polls": -4.2,
+    "n_polls": 4,
     "fundamentals": -4.6,
+    "experts": null,
+    "weights": {
+     "polls": 0.67,
+     "fundamentals": 0.33,
+     "experts": 0
+    }
+   },
+   "p_dem_sim": 0.247
+  },
+  "land": {
+   "mean": -6.4,
+   "sd": 6.2,
+   "p_dem": 0.148,
+   "lo": -14.3,
+   "hi": 1.4,
+   "inputs": {
+    "polls": -6.0,
+    "n_polls": 3,
+    "fundamentals": -7.1,
     "experts": null,
     "weights": {
      "polls": 0.6,
@@ -99,26 +118,7 @@
      "experts": 0
     }
    },
-   "p_dem_sim": 0.274
-  },
-  "land": {
-   "mean": -6.3,
-   "sd": 6.2,
-   "p_dem": 0.153,
-   "lo": -14.2,
-   "hi": 1.6,
-   "inputs": {
-    "polls": -5.5,
-    "n_polls": 2,
-    "fundamentals": -7.1,
-    "experts": null,
-    "weights": {
-     "polls": 0.5,
-     "fundamentals": 0.5,
-     "experts": 0
-    }
-   },
-   "p_dem_sim": 0.159
+   "p_dem_sim": 0.156
   },
   "agriculture": {
    "mean": -4.7,

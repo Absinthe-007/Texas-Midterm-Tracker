@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T05:03:09+00:00",
+ "updated": "2026-10-20T11:50:36+00:00",
  "events": [
   {
    "id": "mob-1064435",
@@ -2187,188 +2187,19 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/justin_truck_1200x630_20261012211708370739.jpg"
   },
   {
-   "id": "mob-1066638",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Get Out the Early Vote with Gina at Texas A&M!",
-   "type": "MEET_GREET",
+   "id": "news-77125f269cb8",
+   "source": "kiiitv.com",
+   "kind": "reported",
+   "title": "Gov. Greg Abbott, Ken Paxton to hold rallies in Corpus Christi",
    "candidates": [
-    "gina-hinojosa"
+    "greg-abbott"
    ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-25T17:00:00+00:00",
-   "end": "2026-10-25T17:30:00+00:00",
-   "more_times": 0,
-   "venue": "Texas A&M University",
-   "address": "400 Bizzell St",
-   "city": "College Station",
-   "zip": "77840",
-   "lat": 30.6186625,
-   "lng": -96.3364251,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1066638/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-03-31-07-58-12-794_20261018171729238422.jpg"
-  },
-  {
-   "id": "mob-1056686",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "📋 Talarico for Texas: Volunteer in Laredo",
-   "type": "MEET_GREET",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-25T17:00:00+00:00",
-   "end": "2026-10-25T21:00:00+00:00",
-   "more_times": 0,
-   "venue": "Golondrina Food Park",
-   "address": "10211 Golondrina Dr",
-   "city": "Laredo",
-   "zip": "78045",
-   "lat": 27.6019112,
-   "lng": -99.477074,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056686/",
-   "image": ""
-  },
-  {
-   "id": "mob-1067095",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Blockwalk for Johnny Garcia",
-   "type": "CANVASS",
-   "candidates": [
-    "johnny-garcia"
-   ],
-   "host": "Johnny Garcia for Congress",
-   "start": "2026-10-25T18:00:00+00:00",
-   "end": "2026-10-25T20:30:00+00:00",
-   "more_times": 0,
-   "venue": "Johnny Garcia for Congress HQ",
-   "address": "1913 Pleasanton Rd",
-   "city": "San Antonio",
-   "zip": "78221",
-   "lat": 29.3625434,
-   "lng": -98.5042709,
-   "virtual": false,
-   "url": "https://www.mobilize.us/garciaforcongress/event/1067095/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/10-25%20Blockwalk%20%28PM%29_20261016200535134319.png"
-  },
-  {
-   "id": "mob-1066036",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Team Lizzie Day of Action",
-   "type": "CANVASS",
-   "candidates": [
-    "lizzie-fletcher"
-   ],
-   "host": "Lizzie Pannill Fletcher for Congress",
-   "start": "2026-10-25T18:00:00+00:00",
-   "end": "2026-10-25T21:00:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Houston",
-   "zip": "77098",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/fletcherforcongress/event/1066036/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/0e1a112d45b6a66a60b89f9f95c7eaf7a22bf75b233752f851793396a6e9d50f_20261015175406207911.jpg"
-  },
-  {
-   "id": "mob-1016532",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "JDCA Canvass in Dallas, TX for James Talarico",
-   "type": "CANVASS",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Jewish Democratic Council of America",
-   "start": "2026-10-25T18:00:00+00:00",
-   "end": "2026-10-25T21:00:00+00:00",
-   "more_times": 1,
-   "venue": "Dallas",
-   "address": "",
-   "city": "Dallas",
-   "zip": "75201",
-   "lat": 32.788993,
-   "lng": -96.7989312,
-   "virtual": false,
-   "url": "https://www.mobilize.us/jewishdems/event/1016532/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Canvass%20%2828%29_20260824024310664241.png"
-  },
-  {
-   "id": "mob-1056667",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🌟 Meet and Greet James Talarico in Laredo",
-   "type": "MEET_GREET",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-25T19:00:00+00:00",
-   "end": "2026-10-25T20:00:00+00:00",
-   "more_times": 0,
-   "venue": "Golondrina Food Park",
-   "address": "10211 Golondrina Dr",
-   "city": "Laredo",
-   "zip": "78045",
-   "lat": 27.6019112,
-   "lng": -99.477074,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056667/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261017215907481795.png"
-  },
-  {
-   "id": "mob-1067100",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Blockwalk for Johnny Garcia",
-   "type": "CANVASS",
-   "candidates": [
-    "johnny-garcia"
-   ],
-   "host": "Johnny Garcia for Congress",
-   "start": "2026-10-25T21:00:00+00:00",
-   "end": "2026-10-25T23:30:00+00:00",
-   "more_times": 0,
-   "venue": "Johnny Garcia for Congress HQ",
-   "address": "1913 Pleasanton Rd",
-   "city": "San Antonio",
-   "zip": "78221",
-   "lat": 29.3625434,
-   "lng": -98.5042709,
-   "virtual": false,
-   "url": "https://www.mobilize.us/garciaforcongress/event/1067100/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/10-25%20Blockwalk%20%28PM%29%20-%202%20%281%29_20261016200656687384.png"
-  },
-  {
-   "id": "mob-1067515",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Volunteer at the Edinburg/RGV Get Out The Vote Rally with Gina Hinojosa",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-25T22:45:00+00:00",
-   "end": "2026-10-26T02:00:00+00:00",
-   "more_times": 0,
-   "venue": "78539",
-   "address": "",
-   "city": "Edinburg",
-   "zip": "78539",
-   "lat": 26.268255,
-   "lng": -98.1884949,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1067515/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x%20%281%29_20261007201721352094.png"
+   "start": "2026-10-20T04:56:00+00:00",
+   "city": "Corpus Christi",
+   "lat": 27.7543,
+   "lng": -97.1734,
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdTFwSXJwS2ZTWnY4N19JVXc0RXltWm1HblFUZUF6S0x0Zl83QXZ5cXE0aXRZcXRYRHIzc3UyY0FGMmctY29kUnFEWVFNdzJLZ1BPUWl6MHBpQ0xIZ3RQY1dPTmVDY1Y4VGRISGlXSENaV1lLM2d0M3BWaHdEbTFLTDBUMHBtMmVuS3VLd2REWXcyREtuUWJmck9CSE14cXpBMjlNeGJDZUpSaEwzTXN5ZUlXdDk3aExaTGMxdG9aVnhiZUdyTkZ4TnFvQldfcGJDcTZkbFdWVlRUQWVCRkpTd1VvLWY1dkllTE1fNw?oc=5",
+   "virtual": false
   },
   {
    "id": "news-856b9302e958",
@@ -3286,18 +3117,18 @@
    "virtual": false
   },
   {
-   "id": "news-ef0014e3bd19",
-   "source": "newswest9.com",
+   "id": "news-8b61c6ba2909",
+   "source": "KCBD",
    "kind": "reported",
-   "title": "Lt. Gov Patrick visits Midland ahead of the midterm election",
+   "title": "Lt. Gov. Dan Patrick campaigns in Lubbock",
    "candidates": [
     "dan-patrick"
    ],
-   "start": "2026-09-29T07:00:00+00:00",
-   "city": "Midland",
-   "lat": 32.0246,
-   "lng": -102.1135,
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYXJWVUNtaDZNWVpRTE1aTElaLUplOGZVc3dKQk16LVdEaGw5U29FbXRpZUFoWWpNbHpYaEl3XzRGZTg3UnNFSmV6b3hfbEZ0U3dfUnQ3NTZGN3JfdU5OMDI3QnhjZ041SlZnTV9iZXg2QTJXX2Q1VUNvZFVxaWt5YTB0OWQ3YTNPM0FoUUZCejMzRnJRVF9lazFwcF9lTmlBX19CNFZ0MUIwZlYxTV9iLUJBOUFvU2dhc19kcktGZm9meGVaaTZ5b3Bobw?oc=5",
+   "start": "2026-09-30T07:00:00+00:00",
+   "city": "Lubbock",
+   "lat": 33.5619,
+   "lng": -101.8889,
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2tkTC1pcnZuY3labHE0RF9oclRnY0UtQm1aY0htOWhXamVYYUNoNi1DNlZtMkIySmRKLTFHOHFzLW1TTG15Wi05TnN5ZHBjZEJkQ1N3Mm4zRGpHWHAwdVZqNGZ2Q0FvM19GVzRDM3RnZjBFZ19naDNSMm5LN2hqZg?oc=5",
    "virtual": false
   },
   {
@@ -3358,21 +3189,6 @@
    "lat": 28.6675,
    "lng": -99.1765,
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmxiZlFuTEU0d2FBaXVQa2hUS0tYUnc0TEhOQTFMdDJWMnptanAxLWJIWXNWZUJUVlFXU2ZnRk5DOVVnWlZaMlB2MWI3djdxNmJzLWJ1MzVvd2JRSnU5WVZ1bXBkMnZ2aHJkSTl1REY3TkJBMGVrTWtaakN3ZkhzbDEtSEV6ZHpyZFVmUE1YTlV0Z1VVeFNuTExVeGFrUUFBc082VkZodXUzVTJIdnFlYmhkQXlabzl5N3ZBVnJDRGt4al9FTE9iVg?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-ddacc35ffcba",
-   "source": "Beaumont Enterprise",
-   "kind": "reported",
-   "title": "Lt. Gov candidate Vikki Goodwin holds town hall in Beaumont",
-   "candidates": [
-    "vikki-goodwin"
-   ],
-   "start": "2026-08-21T07:00:00+00:00",
-   "city": "Beaumont",
-   "lat": 30.0849,
-   "lng": -94.1453,
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFFjUEY5Ul94MUFTOGJySzNzbkFWZUFZMFRwdExTMHk4UnhwTnJ6S0IwSGsyNFRjLVNsQjRXWk4xcWd4Q2xuaXc1dVh5N1RJa3Y2UU1XTVkwUUZITXR4Y3phVU1sWVRHWVM0R2ZTd2ctUGdYdmxQSjN3TWJEUUU4TTluVnBPejRpTEwxUFpEQmpjaXFpVU9JUG4xeWtrMWt3SHRPYWt4ZVNJQQ?oc=5",
    "virtual": false
   },
   {
