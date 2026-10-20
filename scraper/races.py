@@ -246,6 +246,26 @@ def parse_nominees(tables):
     return []
 
 
+def parse_result(tables):
+    """After election night Wikipedia fills in votes and adds a "<Party> hold/gain" row once a race
+    is decided. Only then do we mark a winner (used for the celebration on the site)."""
+    for t in reversed(tables):
+        rows = [[clean(c.get_text(" ")) for c in tr.find_all(["td", "th"])] for tr in t.find_all("tr")]
+        flat = " ".join(" ".join(r) for r in rows)
+        m = re.search(r"\b(Democratic|Republican|Libertarian|Green|Independent)\s+(hold|gain)\b", flat)
+        if not m or "candidate" not in flat.lower(): continue
+        votes = {}
+        for r in rows:
+            party = next((PARTY[x.lower()] for x in r if x.lower() in PARTY), None)
+            nums = [int(x.replace(",", "")) for x in r if re.fullmatch(r"\d{1,3}(,\d{3})+|\d+", x)]
+            if party and nums and max(nums) > 0:
+                name = next((x for x in r if x and x.lower() not in PARTY and not re.fullmatch(r"[\d,.%+\u2212-]+", x)), None)
+                if name: votes[name.replace("(incumbent)", "").strip()] = {"party": party, "votes": max(nums)}
+        if votes:
+            return {"winner_party": PARTY[m.group(1).lower()], "type": m.group(2), "votes": votes}
+    return None
+
+
 def parse_general(sec, soup, label):
     tables = sec.find_all("table")
     nominees = parse_nominees(section_tables(sec, "results") or tables)
@@ -258,6 +278,8 @@ def parse_general(sec, soup, label):
     race = {"label": label, "nominees": nominees,
             "ratings": parse_ratings(section_tables(sec, "prediction") or tables),
             "finance": parse_finance(section_tables(sec, "fundrais") or tables)}
+    res = parse_result(section_tables(sec, "results") or tables)
+    if res: race["result"] = res
     if polls:
         race["polls"] = sorted(polls["polls"], key=lambda p: p["end"], reverse=True)
         race["average"] = average(race["polls"])
