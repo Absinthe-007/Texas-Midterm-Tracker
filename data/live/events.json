@@ -1,224 +1,17 @@
 {
- "updated": "2026-10-20T11:50:36+00:00",
+ "updated": "2026-10-20T17:19:53+00:00",
  "events": [
   {
-   "id": "mob-1064435",
+   "id": "mob-1063573",
    "source": "Mobilize",
    "kind": "scheduled",
-   "title": "Poll Greeting for Justin Early: Williamson County Early Voting",
-   "type": "OTHER",
-   "candidates": [
-    "justin-early"
-   ],
-   "host": "Justin Early for Congress",
-   "start": "2026-10-20T12:00:00+00:00",
-   "end": "2026-10-20T16:00:00+00:00",
-   "more_times": 31,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Georgetown",
-   "zip": "78626",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/justinearlyforcongress/event/1064435/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001800060681.jpeg"
-  },
-  {
-   "id": "mob-1062799",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting: Dallas County",
-   "type": "POLL_MONITORING",
-   "candidates": [
-    "dan-barrios"
-   ],
-   "host": "Dan Barrios for Congress",
-   "start": "2026-10-20T12:00:00+00:00",
-   "end": "2026-10-20T14:00:00+00:00",
-   "more_times": 68,
-   "venue": "Dallas County",
-   "address": "",
-   "city": "Dallas County",
-   "zip": "75254",
-   "lat": 32.9418531,
-   "lng": -96.8002704,
-   "virtual": false,
-   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062799/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%289%29_20261012193956373083.jpg"
-  },
-  {
-   "id": "mob-1058498",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Rides to the Polls for Team Finnie!",
-   "type": "COMMUNITY",
-   "candidates": [
-    "shaun-finnie"
-   ],
-   "host": "Shaun Finnie For Congress",
-   "start": "2026-10-20T12:00:00+00:00",
-   "end": "2026-10-21T00:00:00+00:00",
-   "more_times": 10,
-   "venue": "Team Finnie HQ",
-   "address": "26009 Budde Rd, Ste B300",
-   "city": "The Woodlands",
-   "zip": "77380",
-   "lat": 30.1398293,
-   "lng": -95.4510383,
-   "virtual": false,
-   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1058498/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/rides%20to%20the%20polls_20261007193234181725.png"
-  },
-  {
-   "id": "mob-1058466",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting for Shaun Finnie!",
-   "type": "COMMUNITY",
-   "candidates": [
-    "shaun-finnie"
-   ],
-   "host": "Shaun Finnie For Congress",
-   "start": "2026-10-20T12:00:00+00:00",
-   "end": "2026-10-21T00:00:00+00:00",
-   "more_times": 10,
-   "venue": "Team Finnie HQ",
-   "address": "26009 Budde Rd, Ste B300",
-   "city": "The Woodlands",
-   "zip": "77380",
-   "lat": 30.1398293,
-   "lng": -95.4510383,
-   "virtual": false,
-   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1058466/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/poll%20greet%202_20261007191253233103.jpg"
-  },
-  {
-   "id": "mob-1064433",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting for Justin Early: Bell County Early Voting",
-   "type": "OTHER",
-   "candidates": [
-    "justin-early"
-   ],
-   "host": "Justin Early for Congress",
-   "start": "2026-10-20T13:00:00+00:00",
-   "end": "2026-10-20T16:00:00+00:00",
-   "more_times": 31,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Belton",
-   "zip": "76513",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/justinearlyforcongress/event/1064433/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001643554459.jpeg"
-  },
-  {
-   "id": "mob-1062810",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting: Rockwall County",
-   "type": "POLL_MONITORING",
-   "candidates": [
-    "dan-barrios"
-   ],
-   "host": "Dan Barrios for Congress",
-   "start": "2026-10-20T13:00:00+00:00",
-   "end": "2026-10-20T15:00:00+00:00",
-   "more_times": 60,
-   "venue": "Rockwall County",
-   "address": "",
-   "city": "Rockwall County",
-   "zip": "75087",
-   "lat": 32.9682679,
-   "lng": -96.4609998,
-   "virtual": false,
-   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062810/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%2810%29_20261012195059013625.jpg"
-  },
-  {
-   "id": "mob-1062779",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting: Collin County",
-   "type": "POLL_MONITORING",
-   "candidates": [
-    "dan-barrios"
-   ],
-   "host": "Dan Barrios for Congress",
-   "start": "2026-10-20T13:00:00+00:00",
-   "end": "2026-10-20T15:00:00+00:00",
-   "more_times": 60,
-   "venue": "Collin County",
-   "address": "",
-   "city": "Collin County",
-   "zip": "75075",
-   "lat": 33.0208716,
-   "lng": -96.7386946,
-   "virtual": false,
-   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062779/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%288%29_20261012190747133436.jpg"
-  },
-  {
-   "id": "mob-1067311",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Gulf Coast Poll Dressing!",
-   "type": "VISIBILITY_EVENT",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-20T14:00:00+00:00",
-   "end": "2026-10-21T04:30:00+00:00",
-   "more_times": 10,
-   "venue": "Houston",
-   "address": "1824 Spring St",
-   "city": "Houston",
-   "zip": "77007",
-   "lat": 29.7755669,
-   "lng": -95.3767792,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1067311/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Yard%20Sign_20261016235214840191.png"
-  },
-  {
-   "id": "mob-1066633",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Get Out the Early Vote with Gina at UTSA!",
-   "type": "MEET_GREET",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-20T15:30:00+00:00",
-   "end": "2026-10-20T16:00:00+00:00",
-   "more_times": 0,
-   "venue": "Sombrilla Plaza",
-   "address": "1 UTSA Circle",
-   "city": "San Antonio",
-   "zip": "78249",
-   "lat": 29.5828409,
-   "lng": -98.6196102,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1066633/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-03-31-07-58-12-794_20261020015421334470.jpg"
-  },
-  {
-   "id": "mob-1063564",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "📋 Talarico for Texas: Volunteer in Texarkana",
+   "title": "🌟 Meet and Greet James Talarico in Texarkana",
    "type": "MEET_GREET",
    "candidates": [
     "james-talarico"
    ],
    "host": "Talarico for Texas",
-   "start": "2026-10-20T16:00:00+00:00",
+   "start": "2026-10-20T17:45:00+00:00",
    "end": "2026-10-20T19:30:00+00:00",
    "more_times": 0,
    "venue": "Canvas Special Events Center",
@@ -228,123 +21,8 @@
    "lat": 33.4375466,
    "lng": -94.0535948,
    "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1063564/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261016064658237607.png"
-  },
-  {
-   "id": "mob-1020494",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Kingwood Blockwalk with Team Finnie!",
-   "type": "CANVASS",
-   "candidates": [
-    "shaun-finnie"
-   ],
-   "host": "Shaun Finnie For Congress",
-   "start": "2026-10-20T16:00:00+00:00",
-   "end": "2026-10-20T18:00:00+00:00",
-   "more_times": 21,
-   "venue": "Bear Branch Gazebo Park",
-   "address": "100 Green Village Dr",
-   "city": "Houston",
-   "zip": "77339",
-   "lat": 30.0557422,
-   "lng": -95.2037171,
-   "virtual": false,
-   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1020494/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/General%20Blockwalking_20260828170054723325.jpg"
-  },
-  {
-   "id": "mob-1020490",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "The Woodlands Blockwalk with Team Finnie!",
-   "type": "CANVASS",
-   "candidates": [
-    "shaun-finnie"
-   ],
-   "host": "Shaun Finnie For Congress",
-   "start": "2026-10-20T16:00:00+00:00",
-   "end": "2026-10-20T18:00:00+00:00",
-   "more_times": 21,
-   "venue": "Finnie HQ",
-   "address": "26009 Budde Rd, Ste B300",
-   "city": "Spring",
-   "zip": "77380",
-   "lat": 30.1398425,
-   "lng": -95.4500545,
-   "virtual": false,
-   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1020490/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/General%20Blockwalking_20260828165638158006.jpg"
-  },
-  {
-   "id": "mob-1064637",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "10/20 - Voter Mobilization at Fighting Oligarchy Tour with Bernie, Greg Casar, & BETO! (VOLUNTEERS)",
-   "type": "VOTER_REG",
-   "candidates": [
-    "greg-casar"
-   ],
-   "host": "Powered by People",
-   "start": "2026-10-20T16:30:00+00:00",
-   "end": "2026-10-20T22:00:00+00:00",
-   "more_times": 0,
-   "venue": "Wheeler Avenue Baptist Church",
-   "address": "3826 Wheeler Ave",
-   "city": "Houston",
-   "zip": "77004",
-   "lat": 29.7182836,
-   "lng": -95.3527782,
-   "virtual": false,
-   "url": "https://www.mobilize.us/poweredxpeople/event/1064637/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/EB7768B0-64CE-4820-A807-F7F08939B95F_20261014135328694347.png"
-  },
-  {
-   "id": "mob-974495",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Call Bank with Democratic Nominee Melissa McDonough for TX-CD 38",
-   "type": "PHONE_BANK",
-   "candidates": [
-    "melissa-mcdonough"
-   ],
-   "host": "Mothers for Democracy",
-   "start": "2026-10-20T16:30:00+00:00",
-   "end": "2026-10-20T18:30:00+00:00",
-   "more_times": 1,
-   "venue": "",
-   "address": "17924 Holderrieth Rd",
-   "city": "Tomball",
-   "zip": "77377",
-   "lat": 30.067561,
-   "lng": -95.698671,
-   "virtual": false,
-   "url": "https://www.mobilize.us/mothersagainstgregabbott/event/974495/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/GENERIC_banner_20260616234113078247.jpg"
-  },
-  {
-   "id": "mob-1068215",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Kevin Burge Phone Bank!",
-   "type": "PHONE_BANK",
-   "candidates": [
-    "kevin-burge"
-   ],
-   "host": "Kevin Burge for Congress 2026",
-   "start": "2026-10-20T17:00:00+00:00",
-   "end": "2026-10-20T19:00:00+00:00",
-   "more_times": 3,
-   "venue": "Bedford",
-   "address": "",
-   "city": "Bedford",
-   "zip": "76021",
-   "lat": 32.8477269,
-   "lng": -97.1305536,
-   "virtual": true,
-   "url": "https://www.mobilize.us/kevinburgeforcongress2026/event/1068215/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/IMG_1952_20261012155658379806.jpg"
+   "url": "https://www.mobilize.us/talaricofortexas/event/1063573/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261016064942100116.png"
   },
   {
    "id": "mob-1067479",
@@ -370,27 +48,119 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Walk2Vote%20Mobi%20Flier_20261017125418467427.png"
   },
   {
-   "id": "mob-1063573",
+   "id": "mob-1062799",
    "source": "Mobilize",
    "kind": "scheduled",
-   "title": "🌟 Meet and Greet James Talarico in Texarkana",
-   "type": "MEET_GREET",
+   "title": "Poll Greeting: Dallas County",
+   "type": "POLL_MONITORING",
    "candidates": [
-    "james-talarico"
+    "dan-barrios"
    ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-20T18:30:00+00:00",
-   "end": "2026-10-20T19:30:00+00:00",
-   "more_times": 0,
-   "venue": "Canvas Special Events Center",
-   "address": "2101 Texas Blvd",
-   "city": "Texarkana",
-   "zip": "75501",
-   "lat": 33.4375466,
-   "lng": -94.0535948,
+   "host": "Dan Barrios for Congress",
+   "start": "2026-10-20T18:00:00+00:00",
+   "end": "2026-10-20T20:00:00+00:00",
+   "more_times": 65,
+   "venue": "Dallas County",
+   "address": "",
+   "city": "Dallas County",
+   "zip": "75254",
+   "lat": 32.9418531,
+   "lng": -96.8002704,
    "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1063573/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261016064942100116.png"
+   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062799/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%289%29_20261012193956373083.jpg"
+  },
+  {
+   "id": "mob-1064433",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting for Justin Early: Bell County Early Voting",
+   "type": "OTHER",
+   "candidates": [
+    "justin-early"
+   ],
+   "host": "Justin Early for Congress",
+   "start": "2026-10-20T19:00:00+00:00",
+   "end": "2026-10-20T22:00:00+00:00",
+   "more_times": 29,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Belton",
+   "zip": "76513",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/justinearlyforcongress/event/1064433/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001643554459.jpeg"
+  },
+  {
+   "id": "mob-1062810",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting: Rockwall County",
+   "type": "POLL_MONITORING",
+   "candidates": [
+    "dan-barrios"
+   ],
+   "host": "Dan Barrios for Congress",
+   "start": "2026-10-20T19:00:00+00:00",
+   "end": "2026-10-20T21:00:00+00:00",
+   "more_times": 57,
+   "venue": "Rockwall County",
+   "address": "",
+   "city": "Rockwall County",
+   "zip": "75087",
+   "lat": 32.9682679,
+   "lng": -96.4609998,
+   "virtual": false,
+   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062810/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%2810%29_20261012195059013625.jpg"
+  },
+  {
+   "id": "mob-1062779",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting: Collin County",
+   "type": "POLL_MONITORING",
+   "candidates": [
+    "dan-barrios"
+   ],
+   "host": "Dan Barrios for Congress",
+   "start": "2026-10-20T19:00:00+00:00",
+   "end": "2026-10-20T21:00:00+00:00",
+   "more_times": 57,
+   "venue": "Collin County",
+   "address": "",
+   "city": "Collin County",
+   "zip": "75075",
+   "lat": 33.0208716,
+   "lng": -96.7386946,
+   "virtual": false,
+   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062779/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%288%29_20261012190747133436.jpg"
+  },
+  {
+   "id": "mob-1064435",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting for Justin Early: Williamson County Early Voting",
+   "type": "OTHER",
+   "candidates": [
+    "justin-early"
+   ],
+   "host": "Justin Early for Congress",
+   "start": "2026-10-20T20:00:00+00:00",
+   "end": "2026-10-21T00:00:00+00:00",
+   "more_times": 29,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Georgetown",
+   "zip": "78626",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/justinearlyforcongress/event/1064435/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001800060681.jpeg"
   },
   {
    "id": "mob-1069246",
@@ -414,29 +184,6 @@
    "virtual": false,
    "url": "https://www.mobilize.us/talaricofortexas/event/1069246/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/IMG_1766_20261019222942204645.png"
-  },
-  {
-   "id": "mob-1064681",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Volunteer at the Laredo Get Out The Vote Rally with Gina Hinojosa",
-   "type": "MEET_GREET",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-20T21:00:00+00:00",
-   "end": "2026-10-21T01:00:00+00:00",
-   "more_times": 0,
-   "venue": "Laredo Fire Fighters Reception Hall",
-   "address": "5219 Tesoro Plaza",
-   "city": "Laredo",
-   "zip": "78041",
-   "lat": 27.5476102,
-   "lng": -99.50625,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1064681/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/gotv_rally_genericmobilize2_20261014141600862761.png"
   },
   {
    "id": "mob-1066138",
@@ -600,27 +347,27 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/General%20Post%20Card%20Party_20260717213136287258.png"
   },
   {
-   "id": "mob-1068169",
+   "id": "mob-1068215",
    "source": "Mobilize",
    "kind": "scheduled",
-   "title": "Trivia with Justin",
-   "type": "RELATIONAL",
+   "title": "Kevin Burge Phone Bank!",
+   "type": "PHONE_BANK",
    "candidates": [
-    "justin-early"
+    "kevin-burge"
    ],
-   "host": "Justin Early for Congress",
+   "host": "Kevin Burge for Congress 2026",
    "start": "2026-10-21T00:00:00+00:00",
-   "end": "2026-10-21T01:30:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Round Rock",
-   "zip": "78681",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/justinearlyforcongress/event/1068169/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Trivia_20261018221442406109.jpeg"
+   "end": "2026-10-21T01:00:00+00:00",
+   "more_times": 2,
+   "venue": "Bedford",
+   "address": "",
+   "city": "Bedford",
+   "zip": "76021",
+   "lat": 32.8477269,
+   "lng": -97.1305536,
+   "virtual": true,
+   "url": "https://www.mobilize.us/kevinburgeforcongress2026/event/1068215/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/IMG_1952_20261012155658379806.jpg"
   },
   {
    "id": "mob-1062070",
@@ -669,6 +416,98 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016064930524410.png"
   },
   {
+   "id": "mob-1068169",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Meet n Greet with Justin",
+   "type": "RELATIONAL",
+   "candidates": [
+    "justin-early"
+   ],
+   "host": "Justin Early for Congress",
+   "start": "2026-10-21T00:30:00+00:00",
+   "end": "2026-10-21T01:30:00+00:00",
+   "more_times": 0,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Georgetown",
+   "zip": "78626",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/justinearlyforcongress/event/1068169/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Office%20Hours%20wJustin_20261020142233989283.png"
+  },
+  {
+   "id": "mob-1058498",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Rides to the Polls for Team Finnie!",
+   "type": "COMMUNITY",
+   "candidates": [
+    "shaun-finnie"
+   ],
+   "host": "Shaun Finnie For Congress",
+   "start": "2026-10-21T12:00:00+00:00",
+   "end": "2026-10-22T00:00:00+00:00",
+   "more_times": 9,
+   "venue": "Team Finnie HQ",
+   "address": "26009 Budde Rd, Ste B300",
+   "city": "The Woodlands",
+   "zip": "77380",
+   "lat": 30.1398293,
+   "lng": -95.4510383,
+   "virtual": false,
+   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1058498/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/rides%20to%20the%20polls_20261007193234181725.png"
+  },
+  {
+   "id": "mob-1058466",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting for Shaun Finnie!",
+   "type": "COMMUNITY",
+   "candidates": [
+    "shaun-finnie"
+   ],
+   "host": "Shaun Finnie For Congress",
+   "start": "2026-10-21T12:00:00+00:00",
+   "end": "2026-10-22T00:00:00+00:00",
+   "more_times": 9,
+   "venue": "Team Finnie HQ",
+   "address": "26009 Budde Rd, Ste B300",
+   "city": "The Woodlands",
+   "zip": "77380",
+   "lat": 30.1398293,
+   "lng": -95.4510383,
+   "virtual": false,
+   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1058466/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/poll%20greet%202_20261007191253233103.jpg"
+  },
+  {
+   "id": "mob-1067311",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Gulf Coast Poll Dressing!",
+   "type": "VISIBILITY_EVENT",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-21T14:00:00+00:00",
+   "end": "2026-10-22T04:30:00+00:00",
+   "more_times": 9,
+   "venue": "Houston",
+   "address": "1824 Spring St",
+   "city": "Houston",
+   "zip": "77007",
+   "lat": 29.7755669,
+   "lng": -95.3767792,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1067311/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Yard%20Sign_20261016235214840191.png"
+  },
+  {
    "id": "mob-1056497",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -690,6 +529,52 @@
    "virtual": false,
    "url": "https://www.mobilize.us/talaricofortexas/event/1056497/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261016071358644815.png"
+  },
+  {
+   "id": "mob-1020494",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Kingwood Blockwalk with Team Finnie!",
+   "type": "CANVASS",
+   "candidates": [
+    "shaun-finnie"
+   ],
+   "host": "Shaun Finnie For Congress",
+   "start": "2026-10-21T16:00:00+00:00",
+   "end": "2026-10-21T18:00:00+00:00",
+   "more_times": 20,
+   "venue": "Bear Branch Gazebo Park",
+   "address": "100 Green Village Dr",
+   "city": "Houston",
+   "zip": "77339",
+   "lat": 30.0557422,
+   "lng": -95.2037171,
+   "virtual": false,
+   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1020494/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/General%20Blockwalking_20260828170054723325.jpg"
+  },
+  {
+   "id": "mob-1020490",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "The Woodlands Blockwalk with Team Finnie!",
+   "type": "CANVASS",
+   "candidates": [
+    "shaun-finnie"
+   ],
+   "host": "Shaun Finnie For Congress",
+   "start": "2026-10-21T16:00:00+00:00",
+   "end": "2026-10-21T18:00:00+00:00",
+   "more_times": 20,
+   "venue": "Finnie HQ",
+   "address": "26009 Budde Rd, Ste B300",
+   "city": "Spring",
+   "zip": "77380",
+   "lat": 30.1398425,
+   "lng": -95.4500545,
+   "virtual": false,
+   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1020490/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/General%20Blockwalking_20260828165638158006.jpg"
   },
   {
    "id": "mob-1056495",
@@ -718,9 +603,10 @@
    "id": "mob-1067764",
    "source": "Mobilize",
    "kind": "scheduled",
-   "title": "Texas Together Block Walk with Sylvia Garcia - North Houston",
+   "title": "Texas Together Block Walk with Sylvia Garcia & James Talarico - North Houston",
    "type": "CANVASS",
    "candidates": [
+    "james-talarico",
     "sylvia-garcia"
    ],
    "host": "Texas Together",
@@ -764,7 +650,7 @@
    "id": "mob-1056500",
    "source": "Mobilize",
    "kind": "scheduled",
-   "title": "📋 Talarico for Texas: Volunteer in Richmond",
+   "title": "📋 Talarico for Texas: Volunteer in Fort Bend",
    "type": "RALLY",
    "candidates": [
     "james-talarico"
@@ -902,7 +788,7 @@
    "id": "mob-1056498",
    "source": "Mobilize",
    "kind": "scheduled",
-   "title": "🌟 Rally in Richmond with James Talarico",
+   "title": "🌟 Rally in Fort Bend County with James Talarico",
    "type": "RALLY",
    "candidates": [
     "james-talarico"
@@ -1394,12 +1280,12 @@
    "start": "2026-10-24T14:00:00+00:00",
    "end": "2026-10-24T16:00:00+00:00",
    "more_times": 0,
-   "venue": "MLk Center",
-   "address": "2707 Martin Luther King Jr Blvd",
+   "venue": "Martin Luther King Branch Library",
+   "address": "2922 Martin Luther King Jr Blvd",
    "city": "Dallas",
    "zip": "75215",
-   "lat": 32.7685461,
-   "lng": -96.769637,
+   "lat": 32.7702079,
+   "lng": -96.7654664,
    "virtual": false,
    "url": "https://www.mobilize.us/texasdemocrats/event/1067110/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20Mobilize%20Graphic%20%281%29_20261016201112809451.png"
@@ -1842,6 +1728,29 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/henry_cuellar_logo_16x8_20260724174717227768.png"
   },
   {
+   "id": "mob-1069746",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Northeast El Paso Blockwalk",
+   "type": "CANVASS",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-24T15:30:00+00:00",
+   "end": "2026-10-24T18:30:00+00:00",
+   "more_times": 1,
+   "venue": "Veterans Park",
+   "address": "5301 Salem Dr",
+   "city": "El Paso",
+   "zip": "79924",
+   "lat": 31.9209579,
+   "lng": -106.4204269,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1069746/",
+   "image": ""
+  },
+  {
    "id": "mob-1018183",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -2187,6 +2096,67 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/justin_truck_1200x630_20261012211708370739.jpg"
   },
   {
+   "id": "mob-1066638",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Get Out the Early Vote with Gina at Texas A&M!",
+   "type": "MEET_GREET",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-25T17:00:00+00:00",
+   "end": "2026-10-25T17:30:00+00:00",
+   "more_times": 0,
+   "venue": "Texas A&M University",
+   "address": "400 Bizzell St",
+   "city": "College Station",
+   "zip": "77840",
+   "lat": 30.6186625,
+   "lng": -96.3364251,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1066638/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-03-31-07-58-12-794_20261018171729238422.jpg"
+  },
+  {
+   "id": "mob-1056686",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "📋 Talarico for Texas: Volunteer in Laredo",
+   "type": "MEET_GREET",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-25T17:00:00+00:00",
+   "end": "2026-10-25T21:00:00+00:00",
+   "more_times": 0,
+   "venue": "Golondrina Food Park",
+   "address": "10211 Golondrina Dr",
+   "city": "Laredo",
+   "zip": "78045",
+   "lat": 27.6019112,
+   "lng": -99.477074,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1056686/",
+   "image": ""
+  },
+  {
+   "id": "news-28d114e39229",
+   "source": "cbs19.tv",
+   "kind": "reported",
+   "title": "Talarico to visit Tyler on statewide tour; Paxton stop planned",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-20T10:47:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcklZNGQtckRrMEczaEJwNVJhdzQ1dWxKVU1TWG5aTEROWGJkaExoWEMydDlLYy1SbDVIUHV2bDVDN1lETHNsUlpqeTZlYkNLTGNmbC11d1pWSFVvVzh6TlFvVkt3Y1I4RDNWb1hsa1MtTDlRc21vMVpjck15Y0dMbVNuYXdOWnFTMnhJdWVCa0lFajBRZmlkY1U0QUR0ZkJsV2p1NTRuODh6alVxSkRNcTNlUzYwVTNYdzNXY0Y5ZndYVVRVMHYzZ2p1enQ4Z0Y2dVpTVGdzUQ?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-77125f269cb8",
    "source": "kiiitv.com",
    "kind": "reported",
@@ -2397,6 +2367,21 @@
    "virtual": false
   },
   {
+   "id": "news-12f86c8f7bc3",
+   "source": "The Killeen Daily Herald",
+   "kind": "reported",
+   "title": "Paxton touts economic plan, attacks Talarico at Killeen rally",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-18T04:53:00+00:00",
+   "city": "Killeen",
+   "lat": 31.0777,
+   "lng": -97.732,
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOE8zdG8wcUg1UnFCTHlGa0hVY2d0TktBSkN1ZXpaNE1CMkdCYTVRQmxkdWVSRG1RS190bjVHQ0pqaUU3UjI4emlzclByTDNMNXJkVjlON1h5OHJOWjNZdU1UcXFqNXpMOVIzeUYwdHVGM1FYVDViRElVaDNUZXp4TVdRLWUzWDJ4M1NzR0JBaXlrazJUS0hwMU5SVmVrWDlXUXpNU2Y1Q19PSXFtcFN4T0dTVU5ycUhUTTNNSWJMNHFuN09Ha0M3ZjBHZVd2RXA3R3FWeEJnZlY5X25tR19OQ0x3?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-5f4ab9f41503",
    "source": "KXXV",
    "kind": "reported",
@@ -2409,21 +2394,6 @@
    "lat": 31.0777,
    "lng": -97.732,
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHltWE5aMG80WHljQjZKazI4b0sySUN1QURZNVE2eldiWDJMMVJqYll6eDhUT0YweE93T3luV0E4aVFWeEhQY0lTamJKUWVDUVZtOWNwXzIxUEotaEpEdnNSYVlMLWhUQmxua2N0VWtHYTVYRWFrR3h6cFFmZEoyQmRucFNWN1ZaZzRtNHhVUG1wS3NILW5MeW9sNDg5Z3lLbTF0VUFOcHBkWlNUZmtxSTBZWFlKWEtzcjUzMk9taTA?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-12f86c8f7bc3",
-   "source": "The Killeen Daily Herald",
-   "kind": "reported",
-   "title": "Paxton touts economic plan, attacks Talarico at Killeen rally",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-17T21:53:00+00:00",
-   "city": "Killeen",
-   "lat": 31.0777,
-   "lng": -97.732,
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOE8zdG8wcUg1UnFCTHlGa0hVY2d0TktBSkN1ZXpaNE1CMkdCYTVRQmxkdWVSRG1RS190bjVHQ0pqaUU3UjI4emlzclByTDNMNXJkVjlON1h5OHJOWjNZdU1UcXFqNXpMOVIzeUYwdHVGM1FYVDViRElVaDNUZXp4TVdRLWUzWDJ4M1NzR0JBaXlrazJUS0hwMU5SVmVrWDlXUXpNU2Y1Q19PSXFtcFN4T0dTVU5ycUhUTTNNSWJMNHFuN09Ha0M3ZjBHZVd2RXA3R3FWeEJnZlY5X25tR19OQ0x3?oc=5",
    "virtual": false
   },
   {
@@ -3192,21 +3162,6 @@
    "virtual": false
   },
   {
-   "id": "news-2a2c6d3ab946",
-   "source": "Houston Public Media",
-   "kind": "reported",
-   "title": "Democratic candidate Gina Hinojosa calls Texas governor race ‘most important in America’ at Houston rally",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "start": "2026-08-06T07:00:00+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3ZFT1laWmEtNlZBTnQ3bDM0YnhyWVpCbVlseDhIZzFzb0FPS0RLaVZfRFh5OTVGLUhYQzZaQ0Y5ZHNaNFBzbFhzMUVJMjY0dEVCY1lfXzRQWUh6LTFLWlRfTEhZcVpDZzN0cXdnbDdMTFM5NmlwX18ya0ptQ0dnM2J5NjJ4amJsMURqc2s3VFZFQ2YxUmhVbTdvMkpWZjVsaFZRVnRXTnFqVVhTRGlINENWN01yQkh6dlFlLWxFa0xyMjFZS1JQdmVtVmgzcGdSNVRjLVZGUzFmQ0h1TWFaNnFjSXd4MVRLTVBXNDk5djXSAfgBQVVfeXFMTi1YRDhwdGs1ZnBaVkx0MjhZY055OEl2WFZ1MXhPOG5HNGlkMHVNZ29ESzRaMUltc2JpQjIxYWxkMjJoYU1yeUtOcUs4amRzd1pBaTIwblNqSkRqTk5mTkhhWDVRNzFHdmxRdWtYdm1aVDZmV0wwUkJ3Vkp2bE5ZbmEyMWVwTE9KQjNBREVOVWtlT3Bac05QVUhFa19tVHY4V05SWHU4S0dMTzJjSTZQeFh5NTFPNC03UTFWd0x6aEpWQ2FZUmFNQVhob0ZxZUNBZVZWZEhRSmlOb1AxVFZZTG43bEp0Y0NnQ3YyZFBJcV9GU09sVlAyZ2o?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-1ccf5634bea4",
    "source": "The New York Times",
    "kind": "reported",
@@ -3219,21 +3174,6 @@
    "lat": 29.7857,
    "lng": -95.3888,
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGxLdVBHQng3cnA0azRROUJ0VlR3OC1KQUZHaVQybjh6cEc5LTA4X0RVbVNJYVVKdnZISThiQ2h0dEVscjVBRUxIN19HNVpiejZnSWUyWWlkM2V0RXQ2OFRnMk4zaDR6U3BVUkZSeDcyb1AwSjVaQlFkV056UUpvZERUSWZPRXA3VVdZTnpTb01icnhhWXNrU1kwWQ?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-ec29769a353a",
-   "source": "Click2Houston",
-   "kind": "reported",
-   "title": "‘Chaos’: Congressman Christian Menefee addresses TSA issues at Houston airports after reported ICE involvement",
-   "candidates": [
-    "christian-menefee"
-   ],
-   "start": "2026-03-23T07:00:00+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS3FMSi14dFgtRnFhMWRwNGlqdmhZUlVBZkJXcE9zb3RXNFpzal9QSU44cElXOU9wei1yeVdQMzFqbTJDaTJYZHE4Sm9RZFJ3QmFhSW9tWUtUY0RNbDIxejVVWWdYaXhxcF85UDUwVkpHbFd3QldnWW1RUFZsN0Z0VFVZY2sxRXFKNlVienlZZk9mZlZ6ejN5aTVOcl94SE13b2VuZHd4VVAyVF9BbWxFMDdRMzVIeGxOMDlmZGxYenRybV9hZ2ZYbFNXandwWWpyczJmMm1TWU8wUQ?oc=5",
    "virtual": false
   }
  ]
