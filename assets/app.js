@@ -93,7 +93,7 @@ Promise.all([
   const up = meta?.updated || races?.updated;
   $("#updated").textContent = up ? `Live · updated ${ago(up)}` : "Live data";
   headerInfo(); setTiles();
-  renderStories(); renderTrail(); setupPolls(); setupShift(); renderRaces(); renderForecast(); checkCelebration();
+  renderStories(); renderTrail(); setupPolls(); setupShift(); renderRaces(); renderForecast(); checkCelebration(); visitCounter();
   const h = location.hash.match(/^#c\/(.+)/); if (h && S.cands[h[1]]) openLoadout(h[1]);
 });
 
@@ -740,6 +740,20 @@ function playAnthem(seconds) {   // an original upbeat party tune, synthesized i
   }
   master.gain.setValueAtTime(.22, start + seconds - 1.5); master.gain.linearRampToValueAtTime(0, start + seconds);
   setTimeout(() => ac.close(), (seconds + 1) * 1000);
+}
+
+/* ---------- visitor counter (Abacus: free, anonymous, counts only) ---------- */
+async function visitCounter() {
+  const el = $("#visits"); if (!el) return;
+  const base = "https://abacus.jasoncameron.dev", ns = "tx26tracker-absinthe";
+  const live = /github\.io$/.test(location.hostname);           // don't count local test views
+  let first = false;
+  try { first = !localStorage.getItem("tx26-visited"); if (live) localStorage.setItem("tx26-visited", "1"); } catch {}
+  const call = (op, key) => fetch(`${base}/${op}/${ns}/${key}`).then(r => r.ok ? r.json() : null).then(d => d?.value).catch(() => null);
+  const [views, people] = await Promise.all([call(live ? "hit" : "get", "views"), call(live && first ? "hit" : "get", "visitors")]);
+  const n = v => v != null && v >= 0 ? v.toLocaleString() : "—";
+  if (views == null && people == null) { el.hidden = true; return; }
+  el.innerHTML = `<span>👀 <b>${n(people)}</b> visitors</span><span><b>${n(views)}</b> page views</span>`;
 }
 
 /* ---------- races grid ---------- */
