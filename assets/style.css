@@ -294,3 +294,5 @@ select{background:var(--card);color:var(--text);border:1px solid var(--line);bor
 .celebrate-banner button{border:0;border-radius:12px;padding:9px 14px;font-weight:700;cursor:pointer;background:#fff;color:#1d4ed8;white-space:nowrap}
 .celebrate-banner button.x{background:rgba(255,255,255,.18);color:#fff;padding:9px 11px}
 .fireworks{position:fixed;inset:0;width:100%;height:100%;z-index:1900;pointer-events:none}
+.visits{display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;margin:0 auto 12px;padding:8px 16px;border-radius:999px;background:var(--card);border:1px solid var(--line);font-size:13px;color:var(--text)}
+.visits b{font:700 14px var(--display);background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
