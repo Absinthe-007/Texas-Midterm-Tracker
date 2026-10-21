@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:01:01+00:00",
+ "updated": "2026-10-21T12:01:48+00:00",
  "days_to_election": 13,
  "environment": {
   "generic_ballot": -1.4,
@@ -672,23 +672,23 @@
    "p_dem_sim": 0.009
   },
   "tx28": {
-   "mean": 4.5,
+   "mean": 7.0,
    "sd": 6.6,
-   "p_dem": 0.752,
-   "lo": -4.0,
-   "hi": 13.0,
+   "p_dem": 0.853,
+   "lo": -1.5,
+   "hi": 15.4,
    "inputs": {
-    "polls": 1.5,
-    "n_polls": 2,
+    "polls": 7.7,
+    "n_polls": 3,
     "fundamentals": 8.1,
     "experts": 5.0,
     "weights": {
-     "polls": 0.4,
-     "fundamentals": 0.3,
+     "polls": 0.5,
+     "fundamentals": 0.2,
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.749
+   "p_dem_sim": 0.859
   },
   "tx29": {
    "mean": 38.4,
@@ -883,7 +883,7 @@
  },
  "house": {
   "seats": 38,
-  "dem_mean": 11.2,
+  "dem_mean": 11.3,
   "dem_median": 11,
   "dem_lo80": 9,
   "dem_hi80": 14,
@@ -896,16 +896,16 @@
    0,
    0,
    0,
-   1101,
-   2608,
-   3932,
-   4355,
-   3643,
-   2329,
-   1113,
-   502,
-   217,
-   120,
+   751,
+   2325,
+   3967,
+   4564,
+   3875,
+   2443,
+   1145,
+   510,
+   219,
+   121,
    43,
    19,
    11,

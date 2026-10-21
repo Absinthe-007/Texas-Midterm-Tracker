@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:00:58+00:00",
+ "updated": "2026-10-21T12:01:46+00:00",
  "events": [
   {
    "id": "mob-1064435",
@@ -2142,6 +2142,21 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261017215907481795.png"
   },
   {
+   "id": "news-2a638d21e0b8",
+   "source": "KHOU",
+   "kind": "reported",
+   "title": "Ken Paxton rallies in Montgomery County as tight Texas Senate race enters final stretch",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-21T11:48:00+00:00",
+   "city": "Montgomery",
+   "lat": 30.3904,
+   "lng": -95.6982,
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdV9HcmZ5bkdUaEJtQ2JfTy14cmxfRnRjZWNCdzZNa0syZXFISWRKYzJ6eUo5dXp3YjQtTktnNVo2X3JwQlZMUkJMbnZETXBYZUhMbENiVWRHWHNxUDJzQWc4VGNESnBqdkVrMldxXzRyZlVZc1FWTWotVkFBLVhyT1RfR0FjTUxHYUlna3ZIbHlBM2diMGtSMDVPY1ZCMFQ3VTJGQmZTMzRLcW9pc3F3X0N4aEZYSGpiSzhqV0ROOXFaN2dXckxFdENhalNVX0RodFRJVUpBNA?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-afa65bede35e",
    "source": "kiiitv.com",
    "kind": "reported",
@@ -2205,7 +2220,7 @@
    "id": "news-c9cc6d003d30",
    "source": "cbs19.tv",
    "kind": "reported",
-   "title": "LIVE BLOG: U.S. Senate candidate James Talarico makes campaign stop in Tyler as part of statewide tour",
+   "title": "BLOG: U.S. Senate candidate James Talarico makes campaign stop in Tyler as part of statewide tour",
    "candidates": [
     "james-talarico"
    ],
@@ -2299,7 +2314,7 @@
    "candidates": [
     "james-talarico"
    ],
-   "start": "2026-10-20T15:47:57+00:00",
+   "start": "2026-10-20T15:27:19+00:00",
    "city": "Tyler",
    "lat": 32.3173,
    "lng": -95.3064,
@@ -2967,21 +2982,6 @@
    "virtual": false
   },
   {
-   "id": "news-0786ff61bf7e",
-   "source": "cbs19.tv",
-   "kind": "reported",
-   "title": "Texas AG candidate Mayes Middleton campaigns for Republicans during JD Vance rally in Tyler",
-   "candidates": [
-    "mayes-middleton"
-   ],
-   "start": "2026-10-13T18:49:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLVZFSi1Nb2t4ejZzVjI0MnZYRmJMYlZYUU90QnJHVm5rdjNBdWJld3ZpTG82TUtPcFBaRkxKbktPU081MGlRbmJjY1J2X1pvaXpHQTZwWHYxRDJBRFVuT3piMm1TRnd5cTI2a3I2MW5mbWVFQjJxX1JmZGhLWnpRQlNXOEkweDAwb0o1QkZGSUp1c0JmZWRob1Q1aloyZHpRcmswVGd1c1Bwa0lvRU51RVRqTWpWRThtVjdxOF93TVBhU3lKS2FMQ0dPVzMycVEzWDYwWDc5bzdBY285U0FzNUJqZHZaMElvM0otZUo5R0NSX0pMMXRLMko4RTZneHM?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-48ed895ca5fd",
    "source": "KLTV.com",
    "kind": "reported",
@@ -3054,6 +3054,21 @@
    "lat": 32.4993,
    "lng": -94.5679,
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdUF0VFVFLU5oeDZNdm85ZjA5WEhmc2dGYkl3WC1zdWM1Y1JnMzRnUDRIVk9JR2Qta2RsZW5kVWJ6V1p4WWhPTWZZNHhxOURpTi1lbHY0R2RMS0dWZjJfSklRZEQyQS13T3dNWnVOemhfSDB2dzVnZXd3NE96Z1BMaFVTNGFDWmZQQTFQNUlJT3c3bmlFUDQ0VGdHaUktR2RrSUxCbWNBRk1sSjdtUnJVeDRlR2piaXUwVzVPTTRmX1pfY04yb0l2ZWd0bG1vdw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-0786ff61bf7e",
+   "source": "cbs19.tv",
+   "kind": "reported",
+   "title": "Texas AG candidate Mayes Middleton campaigns for Republicans during JD Vance rally in Tyler",
+   "candidates": [
+    "mayes-middleton"
+   ],
+   "start": "2026-10-13T07:00:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLVZFSi1Nb2t4ejZzVjI0MnZYRmJMYlZYUU90QnJHVm5rdjNBdWJld3ZpTG82TUtPcFBaRkxKbktPU081MGlRbmJjY1J2X1pvaXpHQTZwWHYxRDJBRFVuT3piMm1TRnd5cTI2a3I2MW5mbWVFQjJxX1JmZGhLWnpRQlNXOEkweDAwb0o1QkZGSUp1c0JmZWRob1Q1aloyZHpRcmswVGd1c1Bwa0lvRU51RVRqTWpWRThtVjdxOF93TVBhU3lKS2FMQ0dPVzMycVEzWDYwWDc5bzdBY285U0FzNUJqZHZaMElvM0otZUo5R0NSX0pMMXRLMko4RTZneHM?oc=5",
    "virtual": false
   },
   {
@@ -3212,7 +3227,7 @@
    "kind": "reported",
    "title": "Trump to visit San Antonio next week for rally with Paxton, De La Cruz",
    "candidates": [
-    "monica-de-la-cruz"
+    "ken-paxton"
    ],
    "start": "2026-10-02T07:00:00+00:00",
    "city": "San Antonio",
@@ -3237,36 +3252,6 @@
    "virtual": false
   },
   {
-   "id": "news-f48b694f88c5",
-   "source": "KCBD",
-   "kind": "reported",
-   "title": "Dan Patrick campaigns in Lubbock ahead of November election",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-09-30T07:00:00+00:00",
-   "city": "Lubbock",
-   "lat": 33.5619,
-   "lng": -101.8889,
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbF9sX0l6QmZIYXRSdUJqNXpudFdlMUtlVXRpNDVmQkxvZWUyb0F3Rnp5NWxKb2pIcEhkSXRyVnJoMmo3V2xtcnU0eGxYay05SWwzd0dmbEtNRXJxVklmbzNsV2VUOV85NGZHRVhiWFFZWE1BV3lob1ZGZE5lWnl4UzdIMmN4ZUFBeHRYaXFUUdIBowFBVV95cUxQUnVzWklmOW9hZnpmZXFaTVZvWGpjbmpJOG5Va3BhNFoxT1dYZ3NjZk5vX2Ztd01jMEgtWFgtcEQ3aXZWODg0aklReWNlem9zODZ2S0llQ01uNVRINXpTVmVwdzNQRFA4dU1JSWxXT2xzRFg0NFk0bU5ycV9zeFIwOGd5MFFOMU82aElmMWtmU2lFNEh5Q0sxSkdoOHZRTGxqZm4w?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-8b61c6ba2909",
-   "source": "KCBD",
-   "kind": "reported",
-   "title": "Lt. Gov. Dan Patrick campaigns in Lubbock",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-09-30T07:00:00+00:00",
-   "city": "Lubbock",
-   "lat": 33.5619,
-   "lng": -101.8889,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2tkTC1pcnZuY3labHE0RF9oclRnY0UtQm1aY0htOWhXamVYYUNoNi1DNlZtMkIySmRKLTFHOHFzLW1TTG15Wi05TnN5ZHBjZEJkQ1N3Mm4zRGpHWHAwdVZqNGZ2Q0FvM19GVzRDM3RnZjBFZ19naDNSMm5LN2hqZg?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-effdc4edd66d",
    "source": "The Killeen Daily Herald",
    "kind": "reported",
@@ -3282,21 +3267,6 @@
    "virtual": false
   },
   {
-   "id": "news-c5224ffb8511",
-   "source": "KTSM 9 News",
-   "kind": "reported",
-   "title": "Democratic nominee for Texas governor Gina Hinojosa makes campaign stop in El Paso",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "start": "2026-08-31T07:00:00+00:00",
-   "city": "El Paso",
-   "lat": 31.8478,
-   "lng": -106.4311,
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT05IY2hPWXd1emo2bk9oZWlTdXVBNTFTMFVDRE5rZkpOU3FQbUltU1BqbjBGdWdKaEdQX0Iwc2VMaWQ4QlRscXZDVllKb0RBZVYzUTF5ZmdSVHBTSVFYX3FSV2l6RzM0Q2ZXd0VLd0JPLVVGVGtTMkpYOElOQ01ZMkoxNEJrMkdzNUljSUtB0gGTAUFVX3lxTE5uVW5UTy1XcHdMaEU5dXM3YkRMMDR6dXRsUGFRNHpPNGV3VENIcW5lZlJxTy1RNnlkMER6S29iaHM4WlMtd2xiMGVNUmFMMVVUNURaR0tQMHl1V0JXaDVnOVpPak1kMXBGRVVaSFBVckg1NlU3a205REVXME9jZ1ZGOWpuZS02UEV3dUZpYzFTZ3ZmUQ?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-84598a6144f5",
    "source": "El Paso Times",
    "kind": "reported",
@@ -3309,6 +3279,21 @@
    "lat": 31.8478,
    "lng": -106.4311,
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXBPakRtcFV4V1lqN1ozclhBQUV2bGJkVFJ4WFE4WDJsQzRGb1gwMDEwUVBmT3VYWndONGY0dVFNQVlta1RYYnA4R2Z5QVlXLTdkenN2U25YVG40bG1LVGZQRUczNVNoZl8yanpDOVctckt6ZER4LWdWdEFtQkczNGF4b0trSjM5STdhVGpIMWJxOC1xcUZkMTZxQzltQjNyUjdnaFZDXzR5cUFLdV82SEFxMEFMQm8xMXZsMHA2UnBIOGZvWkZJZ2tnU1FydnoxZVNtak1XUnB6YjAyNE1YRnQ4eHQ?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-c5224ffb8511",
+   "source": "KTSM 9 News",
+   "kind": "reported",
+   "title": "Democratic nominee for Texas governor Gina Hinojosa makes campaign stop in El Paso",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-08-31T07:00:00+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT05IY2hPWXd1emo2bk9oZWlTdXVBNTFTMFVDRE5rZkpOU3FQbUltU1BqbjBGdWdKaEdQX0Iwc2VMaWQ4QlRscXZDVllKb0RBZVYzUTF5ZmdSVHBTSVFYX3FSV2l6RzM0Q2ZXd0VLd0JPLVVGVGtTMkpYOElOQ01ZMkoxNEJrMkdzNUljSUtB0gGTAUFVX3lxTE5uVW5UTy1XcHdMaEU5dXM3YkRMMDR6dXRsUGFRNHpPNGV3VENIcW5lZlJxTy1RNnlkMER6S29iaHM4WlMtd2xiMGVNUmFMMVVUNURaR0tQMHl1V0JXaDVnOVpPak1kMXBGRVVaSFBVckg1NlU3a205REVXME9jZ1ZGOWpuZS02UEV3dUZpYzFTZ3ZmUQ?oc=5",
    "virtual": false
   },
   {

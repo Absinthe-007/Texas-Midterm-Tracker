@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:52:34+00:00",
+ "updated": "2026-10-21T11:53:23+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -6310,6 +6310,23 @@
    },
    "polls": [
     {
+     "pollster": "DCCC",
+     "partisan": null,
+     "start": "2026-10-07",
+     "end": "2026-10-13",
+     "n": 536,
+     "pop": "LV",
+     "moe": 4.2,
+     "url": "https://dccc.org/wp-content/uploads/2026/10/TX-28-Polling-Memo.pdf",
+     "results": {
+      "D": 54.0,
+      "R": 34.0
+     },
+     "other": 12.0,
+     "undecided": 12.0,
+     "margin": 20.0
+    },
+    {
      "pollster": "Public Policy Research/Texas Southern University",
      "partisan": null,
      "start": "2026-08-18",
@@ -6344,13 +6361,13 @@
     }
    ],
    "average": {
-    "D": 41.5,
-    "R": 40.0,
-    "margin": 1.5,
-    "n_polls": 2,
+    "D": 45.7,
+    "R": 38.0,
+    "margin": 7.7,
+    "n_polls": 3,
     "window_days": 30,
     "from": "2026-06-23",
-    "to": "2026-08-22"
+    "to": "2026-10-13"
    },
    "trend": [
     {
@@ -6361,6 +6378,11 @@
     {
      "date": "2026-08-22",
      "D": 45.0,
+     "R": 34.0
+    },
+    {
+     "date": "2026-10-13",
+     "D": 54.0,
      "R": 34.0
     }
    ],
