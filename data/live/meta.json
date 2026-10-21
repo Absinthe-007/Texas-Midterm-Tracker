@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-21T12:01:48+00:00",
+ "updated": "2026-10-21T17:23:56+00:00",
  "status": {
   "races": "ok",
   "bios": "ok",
   "profiles": "ok",
   "campaign": "ok",
-  "turnout": "ok",
+  "turnout": "error: 502 Server Error: Bad Gateway for url: https://goelect.txelections.civixapps.com/api-ivis-system/api/v1/getFile?type=EVR_EARLYVOTING&electionId=53815&electionDate=10%2F21%2F2026",
   "forecast": "ok"
  },
  "election_day": "2026-11-03",
