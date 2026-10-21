@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:39:56+00:00",
+ "updated": "2026-10-21T04:52:34+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -714,22 +714,6 @@
      "margin": -1.0
     },
     {
-     "pollster": "Wedgewood Polls",
-     "partisan": null,
-     "start": "2026-07-30",
-     "end": "2026-07-31",
-     "n": 800,
-     "pop": "LV",
-     "moe": 4.0,
-     "url": "https://drive.google.com/file/d/1t2mC4MFActxiBdx4ef_5crisXjD9xH7a/view",
-     "results": {
-      "R": 46.0,
-      "D": 48.0
-     },
-     "undecided": 6.0,
-     "margin": 2.0
-    },
-    {
      "pollster": "YouGov Blue",
      "partisan": "D",
      "start": "2026-07-15",
@@ -1222,28 +1206,28 @@
     },
     {
      "date": "2026-07-31",
-     "D": 47.7,
-     "R": 44.5
+     "D": 47.6,
+     "R": 44.2
     },
     {
      "date": "2026-08-10",
-     "D": 47.4,
-     "R": 44.9
+     "D": 47.3,
+     "R": 44.7
     },
     {
      "date": "2026-08-13",
-     "D": 46.8,
-     "R": 44.1
+     "D": 46.6,
+     "R": 43.9
     },
     {
      "date": "2026-08-24",
-     "D": 47.1,
-     "R": 44.4
+     "D": 47.0,
+     "R": 44.1
     },
     {
      "date": "2026-08-26",
      "D": 47.4,
-     "R": 45.0
+     "R": 44.9
     },
     {
      "date": "2026-09-01",
@@ -1971,22 +1955,6 @@
      "margin": -1.0
     },
     {
-     "pollster": "Wedgewood Polls",
-     "partisan": "D",
-     "start": "2026-07-30",
-     "end": "2026-07-31",
-     "n": 800,
-     "pop": "LV",
-     "moe": 4.0,
-     "url": "https://drive.google.com/file/d/1t2mC4MFActxiBdx4ef_5crisXjD9xH7a/view",
-     "results": {
-      "R": 50.0,
-      "D": 44.0
-     },
-     "undecided": 6.0,
-     "margin": -6.0
-    },
-    {
      "pollster": "Cygnal",
      "partisan": "R",
      "start": "2026-07-29",
@@ -2413,33 +2381,33 @@
     },
     {
      "date": "2026-07-31",
+     "D": 45.0,
+     "R": 47.8
+    },
+    {
+     "date": "2026-08-09",
+     "D": 45.5,
+     "R": 48.0
+    },
+    {
+     "date": "2026-08-10",
+     "D": 45.4,
+     "R": 48.1
+    },
+    {
+     "date": "2026-08-13",
+     "D": 44.8,
+     "R": 47.8
+    },
+    {
+     "date": "2026-08-24",
      "D": 44.8,
      "R": 48.2
     },
     {
-     "date": "2026-08-09",
-     "D": 45.3,
-     "R": 48.3
-    },
-    {
-     "date": "2026-08-10",
-     "D": 45.2,
-     "R": 48.4
-    },
-    {
-     "date": "2026-08-13",
-     "D": 44.7,
-     "R": 48.0
-    },
-    {
-     "date": "2026-08-24",
-     "D": 44.7,
-     "R": 48.4
-    },
-    {
      "date": "2026-08-26",
-     "D": 45.1,
-     "R": 48.7
+     "D": 45.2,
+     "R": 48.6
     },
     {
      "date": "2026-09-01",
@@ -4560,8 +4528,8 @@
    "ratings": [
     {
      "source": "Decision Desk HQ",
-     "rating": "Likely R",
-     "as_of": "October 8, 2026"
+     "rating": "Safe R",
+     "as_of": "October 20, 2026"
     },
     {
      "source": "The Cook Political Report",
@@ -5546,8 +5514,8 @@
    "ratings": [
     {
      "source": "Decision Desk HQ",
-     "rating": "Likely R",
-     "as_of": "October 8, 2026"
+     "rating": "Safe R",
+     "as_of": "October 20, 2026"
     },
     {
      "source": "The Cook Political Report",
@@ -6544,8 +6512,8 @@
    "ratings": [
     {
      "source": "Decision Desk HQ",
-     "rating": "Likely R",
-     "as_of": "September 25, 2026"
+     "rating": "Safe R",
+     "as_of": "October 20, 2026"
     },
     {
      "source": "The Cook Political Report",
@@ -7092,8 +7060,8 @@
    "ratings": [
     {
      "source": "Decision Desk HQ",
-     "rating": "Likely R",
-     "as_of": "July 14, 2026"
+     "rating": "Safe R",
+     "as_of": "October 20, 2026"
     },
     {
      "source": "The Cook Political Report",
@@ -7363,12 +7331,12 @@
    }
   ],
   "average": {
-   "D": 46.3,
-   "R": 47.0,
-   "margin": -0.7,
-   "n_polls": 6,
+   "D": 45.8,
+   "R": 47.2,
+   "margin": -1.4,
+   "n_polls": 5,
    "window_days": 30,
-   "from": "2026-09-20",
+   "from": "2026-09-24",
    "to": "2026-10-08"
   }
  }
