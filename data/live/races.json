@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T17:15:35+00:00",
+ "updated": "2026-10-21T21:45:53+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -174,6 +174,23 @@
       "D": 52.0
      },
      "margin": 4.0
+    },
+    {
+     "pollster": "GS Strategy Group/New River Strategies",
+     "partisan": null,
+     "start": "2026-10-09",
+     "end": "2026-10-13",
+     "n": 934,
+     "pop": "LV",
+     "moe": null,
+     "url": "https://www.cookpolitical.com/analysis/survey-research/battleground-district-project/senate-battleground-district-project-october",
+     "results": {
+      "R": 44.0,
+      "D": 49.0,
+      "L": 3.0
+     },
+     "undecided": 4.0,
+     "margin": 5.0
     },
     {
      "pollster": "Quantus Insights",
@@ -1101,9 +1118,9 @@
    ],
    "average": {
     "D": 48.3,
-    "R": 46.1,
-    "margin": 2.2,
-    "n_polls": 19,
+    "R": 46.0,
+    "margin": 2.3,
+    "n_polls": 20,
     "window_days": 30,
     "from": "2026-09-22",
     "to": "2026-10-16"
@@ -1330,14 +1347,19 @@
      "R": 45.6
     },
     {
+     "date": "2026-10-13",
+     "D": 47.9,
+     "R": 45.5
+    },
+    {
      "date": "2026-10-14",
      "D": 48.0,
-     "R": 46.0
+     "R": 45.9
     },
     {
      "date": "2026-10-16",
      "D": 48.2,
-     "R": 46.1
+     "R": 46.0
     }
    ],
    "key": "senate",
@@ -1482,6 +1504,23 @@
       "R": 51.0,
       "D": 49.0
      },
+     "margin": -2.0
+    },
+    {
+     "pollster": "GS Strategy Group/New River Strategies",
+     "partisan": null,
+     "start": "2026-10-09",
+     "end": "2026-10-13",
+     "n": 934,
+     "pop": "LV",
+     "moe": null,
+     "url": "https://www.cookpolitical.com/analysis/survey-research/battleground-district-project/senate-battleground-district-project-october",
+     "results": {
+      "R": 48.0,
+      "D": 46.0,
+      "L": 3.0
+     },
+     "undecided": 3.0,
      "margin": -2.0
     },
     {
@@ -2291,9 +2330,9 @@
    ],
    "average": {
     "D": 46.5,
-    "R": 48.7,
+    "R": 48.6,
     "margin": -2.1,
-    "n_polls": 15,
+    "n_polls": 16,
     "window_days": 30,
     "from": "2026-09-22",
     "to": "2026-10-16"
@@ -2490,6 +2529,11 @@
      "R": 48.5
     },
     {
+     "date": "2026-10-13",
+     "D": 46.0,
+     "R": 48.5
+    },
+    {
      "date": "2026-10-14",
      "D": 46.3,
      "R": 48.5
@@ -2497,7 +2541,7 @@
     {
      "date": "2026-10-16",
      "D": 46.4,
-     "R": 48.7
+     "R": 48.6
     }
    ],
    "key": "governor",

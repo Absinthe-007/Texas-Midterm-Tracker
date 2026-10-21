@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T17:23:56+00:00",
+ "updated": "2026-10-21T21:54:13+00:00",
  "days_to_election": 13,
  "environment": {
   "generic_ballot": -1.4,
@@ -7,14 +7,14 @@
  },
  "races": {
   "senate": {
-   "mean": 1.6,
+   "mean": 1.7,
    "sd": 4.7,
-   "p_dem": 0.636,
-   "lo": -4.4,
-   "hi": 7.6,
+   "p_dem": 0.642,
+   "lo": -4.3,
+   "hi": 7.7,
    "inputs": {
-    "polls": 2.2,
-    "n_polls": 19,
+    "polls": 2.3,
+    "n_polls": 20,
     "fundamentals": -5.0,
     "experts": 0.0,
     "weights": {
@@ -23,7 +23,7 @@
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.636
+   "p_dem_sim": 0.645
   },
   "governor": {
    "mean": -2.9,
@@ -33,7 +33,7 @@
    "hi": 3.1,
    "inputs": {
     "polls": -2.1,
-    "n_polls": 15,
+    "n_polls": 16,
     "fundamentals": -7.5,
     "experts": -5.0,
     "weights": {
