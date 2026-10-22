@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:13:29+00:00",
+ "updated": "2026-10-22T21:39:05+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -7130,6 +7130,21 @@
    },
    "polls": [
     {
+     "pollster": "Emerson College",
+     "partisan": null,
+     "start": "2026-10-12",
+     "end": "2026-10-14",
+     "n": 417,
+     "pop": "LV",
+     "moe": null,
+     "url": "https://pollvault.substack.com/p/levee-math",
+     "results": {
+      "R": 49.0,
+      "D": 51.0
+     },
+     "margin": 2.0
+    },
+    {
      "pollster": "Normington Petts",
      "partisan": "D",
      "start": "2026-10-12",
@@ -7163,10 +7178,10 @@
     }
    ],
    "average": {
-    "D": 47.0,
-    "R": 45.0,
+    "D": 49.0,
+    "R": 47.0,
     "margin": 2.0,
-    "n_polls": 1,
+    "n_polls": 2,
     "window_days": 30,
     "from": "2026-10-14",
     "to": "2026-10-14"
@@ -7179,8 +7194,8 @@
     },
     {
      "date": "2026-10-14",
-     "D": 47.0,
-     "R": 45.0
+     "D": 49.0,
+     "R": 47.0
     }
    ],
    "debates": [],
