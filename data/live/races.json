@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:52:14+00:00",
+ "updated": "2026-10-22T11:57:21+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -111,6 +111,37 @@
     }
    },
    "polls": [
+    {
+     "pollster": "ActiVote",
+     "partisan": null,
+     "start": "2026-10-17",
+     "end": "2026-10-21",
+     "n": 400,
+     "pop": "LV",
+     "moe": 4.9,
+     "url": "https://www.activote.net/polls/2026/tx-u-s-senate/2026-10-21/",
+     "results": {
+      "R": 49.0,
+      "D": 51.0
+     },
+     "margin": 2.0
+    },
+    {
+     "pollster": "Emerson College",
+     "partisan": null,
+     "start": "2026-10-17",
+     "end": "2026-10-19",
+     "n": 1000,
+     "pop": "LV",
+     "moe": 3.0,
+     "url": "https://emersoncollegepolling.com/texas-2026-poll-toss-up/",
+     "results": {
+      "R": 48.0,
+      "D": 49.0,
+      "L": 3.0
+     },
+     "margin": 1.0
+    },
     {
      "pollster": "Beacon Research/Shaw & Co. Research",
      "partisan": null,
@@ -1150,12 +1181,12 @@
    ],
    "average": {
     "D": 48.2,
-    "R": 46.0,
-    "margin": 2.2,
-    "n_polls": 20,
+    "R": 46.1,
+    "margin": 2.0,
+    "n_polls": 21,
     "window_days": 30,
     "from": "2026-09-22",
-    "to": "2026-10-19"
+    "to": "2026-10-21"
    },
    "trend": [
     {
@@ -1395,8 +1426,13 @@
     },
     {
      "date": "2026-10-19",
-     "D": 48.1,
-     "R": 46.0
+     "D": 48.2,
+     "R": 46.1
+    },
+    {
+     "date": "2026-10-21",
+     "D": 48.2,
+     "R": 46.1
     }
    ],
    "key": "senate",
@@ -1506,10 +1542,27 @@
      "moe": 4.9,
      "url": "https://www.activote.net/polls/2026/tx-governor/",
      "results": {
-      "R": 52.0,
-      "D": 47.0
+      "R": 52.5,
+      "D": 47.5
      },
      "margin": -5.0
+    },
+    {
+     "pollster": "Emerson College",
+     "partisan": null,
+     "start": "2026-10-17",
+     "end": "2026-10-19",
+     "n": 1000,
+     "pop": "LV",
+     "moe": 3.0,
+     "url": "https://emersoncollegepolling.com/texas-2026-poll-toss-up/",
+     "results": {
+      "R": 49.0,
+      "D": 45.0,
+      "L": 1.0
+     },
+     "undecided": 4.0,
+     "margin": -4.0
     },
     {
      "pollster": "Beacon Research/Shaw & Co. Research",
@@ -2413,10 +2466,10 @@
     }
    ],
    "average": {
-    "D": 46.4,
+    "D": 46.3,
     "R": 48.7,
-    "margin": -2.3,
-    "n_polls": 16,
+    "margin": -2.4,
+    "n_polls": 17,
     "window_days": 30,
     "from": "2026-09-22",
     "to": "2026-10-21"
@@ -2629,12 +2682,12 @@
     },
     {
      "date": "2026-10-19",
-     "D": 46.4,
-     "R": 48.6
+     "D": 46.3,
+     "R": 48.7
     },
     {
      "date": "2026-10-21",
-     "D": 46.4,
+     "D": 46.3,
      "R": 48.7
     }
    ],
@@ -5447,6 +5500,22 @@
    },
    "polls": [
     {
+     "pollster": "Texas Southern University",
+     "partisan": null,
+     "start": "2026-10-13",
+     "end": "2026-10-16",
+     "n": null,
+     "pop": "LV",
+     "moe": 3.8,
+     "url": "https://www.expressnews.com/politics/article/bobby-pulido-monica-de-la-cruz-poll-donald-trump-22483930.php",
+     "results": {
+      "R": 44.0,
+      "D": 51.0
+     },
+     "undecided": 5.0,
+     "margin": 7.0
+    },
+    {
      "pollster": "Normington Petts",
      "partisan": "D",
      "start": "2026-09-24",
@@ -5528,13 +5597,13 @@
     }
    ],
    "average": {
-    "D": 47.5,
-    "R": 43.2,
-    "margin": 4.2,
-    "n_polls": 4,
+    "D": 48.2,
+    "R": 43.4,
+    "margin": 4.8,
+    "n_polls": 5,
     "window_days": 30,
     "from": "2025-09-11",
-    "to": "2026-09-28"
+    "to": "2026-10-16"
    },
    "trend": [
     {
@@ -5561,6 +5630,11 @@
      "date": "2026-09-28",
      "D": 54.0,
      "R": 41.0
+    },
+    {
+     "date": "2026-10-16",
+     "D": 52.5,
+     "R": 42.5
     }
    ],
    "debates": [],
@@ -6066,6 +6140,22 @@
    },
    "polls": [
     {
+     "pollster": "Normington Petts",
+     "partisan": "D",
+     "start": "2026-10-05",
+     "end": "2026-10-07",
+     "n": 400,
+     "pop": "LV",
+     "moe": null,
+     "url": "https://www.thehousemajoritypac.com/news/hmp-memo-house-battleground-extends-deep-into-trump-territory",
+     "results": {
+      "R": 46.0,
+      "D": 46.0
+     },
+     "undecided": 8.0,
+     "margin": 0.0
+    },
+    {
      "pollster": "Public Policy Polling",
      "partisan": "D",
      "start": "2026-03-10",
@@ -6083,19 +6173,24 @@
     }
    ],
    "average": {
-    "D": 40.0,
-    "R": 42.0,
-    "margin": -2.0,
-    "n_polls": 1,
+    "D": 43.0,
+    "R": 44.0,
+    "margin": -1.0,
+    "n_polls": 2,
     "window_days": 30,
     "from": "2026-03-11",
-    "to": "2026-03-11"
+    "to": "2026-10-07"
    },
    "trend": [
     {
      "date": "2026-03-11",
      "D": 40.0,
      "R": 42.0
+    },
+    {
+     "date": "2026-10-07",
+     "D": 46.0,
+     "R": 46.0
     }
    ],
    "debates": [
@@ -7037,6 +7132,22 @@
     {
      "pollster": "Normington Petts",
      "partisan": "D",
+     "start": "2026-10-12",
+     "end": "2026-10-14",
+     "n": 400,
+     "pop": "LV",
+     "moe": null,
+     "url": "https://x.com/cjwarnke/status/2112877284684341727",
+     "results": {
+      "R": 45.0,
+      "D": 47.0
+     },
+     "undecided": 8.0,
+     "margin": 2.0
+    },
+    {
+     "pollster": "Normington Petts",
+     "partisan": "D",
      "start": "2026-08-27",
      "end": "2026-08-31",
      "n": 500,
@@ -7052,18 +7163,23 @@
     }
    ],
    "average": {
-    "D": 44.0,
+    "D": 47.0,
     "R": 45.0,
-    "margin": -1.0,
+    "margin": 2.0,
     "n_polls": 1,
     "window_days": 30,
-    "from": "2026-08-31",
-    "to": "2026-08-31"
+    "from": "2026-10-14",
+    "to": "2026-10-14"
    },
    "trend": [
     {
      "date": "2026-08-31",
      "D": 44.0,
+     "R": 45.0
+    },
+    {
+     "date": "2026-10-14",
+     "D": 47.0,
      "R": 45.0
     }
    ],

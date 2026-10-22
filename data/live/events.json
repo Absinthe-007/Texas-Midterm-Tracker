@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:02:40+00:00",
+ "updated": "2026-10-22T12:05:50+00:00",
  "events": [
   {
    "id": "mob-1064435",
@@ -2419,6 +2419,21 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016071857936644.png"
   },
   {
+   "id": "news-3bfa33d97873",
+   "source": "Tyler Morning Telegraph",
+   "kind": "reported",
+   "title": "Senate candidate James Talarico brings ‘Clear Eyes, Full Hearts’ tour to Tyler",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-22T11:11:46+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjZVWVI1MUVPTHFkR0hJWTkzM0oydHRKVHBuZl9udWxpME00bHpwZlhOdzJZbndpZnhrMm1PdU1jdlk0UWxSUGh1TkxZQlNEV2x0SUZrV1loNTdoaEhRdVNNV3VfV2FWN3FQRDFuYmdDalo0M195ZG9aOWJlQ2VhZGMxc1FsQzd6cUFLdTctOEZkV1MzS1R2OVRua2RnNWU5VXN2UXVUYUVvdEpHdnJZ?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-c4dd33a78caa",
    "source": "KFOX",
    "kind": "reported",
@@ -2426,7 +2441,7 @@
    "candidates": [
     "gina-hinojosa"
    ],
-   "start": "2026-10-22T02:48:45+00:00",
+   "start": "2026-10-22T02:49:31+00:00",
    "city": "El Paso",
    "lat": 31.8478,
    "lng": -106.4311,
@@ -2546,7 +2561,7 @@
    "candidates": [
     "ken-paxton"
    ],
-   "start": "2026-10-21T19:20:17+00:00",
+   "start": "2026-10-21T19:15:29+00:00",
    "city": "Lubbock",
    "lat": 33.5619,
    "lng": -101.8889,
@@ -2756,7 +2771,7 @@
    "candidates": [
     "james-talarico"
    ],
-   "start": "2026-10-20T15:43:44+00:00",
+   "start": "2026-10-20T15:08:00+00:00",
    "city": "Tyler",
    "lat": 32.3173,
    "lng": -95.3064,
@@ -3289,21 +3304,6 @@
    "virtual": false
   },
   {
-   "id": "news-0b8b6dca5c93",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "Lt. Gov. Dan Patrick visits Tyler, discusses homestead exemption plan",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-10-15T01:52:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3hwX29Rd2dmWGR6b2FQVTJkc25PTWYyTkdXbUZ3X1NkRTd3dWxlQ25OYThxMUplTFp0ZGtoNFhSZDZWSkk3dExQcFZsUkdRNmN5N2l0aVB0QXE0bG8yRlA3OEROZFVfOFlIQzR1Y2Noc0ZXQWdYRC1TOG53M2tfZEc1Qk5uZF8wVWpkOFpJT0dZRjVqY2NLREZnMm5HTE550gG0AUFVX3lxTFA2bVRXSU5xQ3JJUzBMa0Vxb2lnWnNLMF8wcG45SlVOUXZkbGRPLW1MeldZaVJIQmhxRTlxc240Zk5xdHl3Mk0tWXdtQ1dFczNrYlJNV0VBNFdudk5EdDMzZDZpN2puUHoteVZfRnhZM1FPcG00aVpJS2VUdFQtS2d6aU0wa1RFMmJEeEJkMmRTejF3bS1LM1JvVl93WjNoNVlKcVE2eEtfMGtqUmlvcmtqX0N1Sw?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-2835a24d8bc0",
    "source": "KWTX",
    "kind": "reported",
@@ -3394,6 +3394,21 @@
    "virtual": false
   },
   {
+   "id": "news-0b8b6dca5c93",
+   "source": "KLTV.com",
+   "kind": "reported",
+   "title": "Lt. Gov. Dan Patrick visits Tyler, discusses homestead exemption plan",
+   "candidates": [
+    "dan-patrick"
+   ],
+   "start": "2026-10-14T07:00:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3hwX29Rd2dmWGR6b2FQVTJkc25PTWYyTkdXbUZ3X1NkRTd3dWxlQ25OYThxMUplTFp0ZGtoNFhSZDZWSkk3dExQcFZsUkdRNmN5N2l0aVB0QXE0bG8yRlA3OEROZFVfOFlIQzR1Y2Noc0ZXQWdYRC1TOG53M2tfZEc1Qk5uZF8wVWpkOFpJT0dZRjVqY2NLREZnMm5HTE550gG0AUFVX3lxTFA2bVRXSU5xQ3JJUzBMa0Vxb2lnWnNLMF8wcG45SlVOUXZkbGRPLW1MeldZaVJIQmhxRTlxc240Zk5xdHl3Mk0tWXdtQ1dFczNrYlJNV0VBNFdudk5EdDMzZDZpN2puUHoteVZfRnhZM1FPcG00aVpJS2VUdFQtS2d6aU0wa1RFMmJEeEJkMmRTejF3bS1LM1JvVl93WjNoNVlKcVE2eEtfMGtqUmlvcmtqX0N1Sw?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-6d6ac14b0555",
    "source": "12newsnow.com",
    "kind": "reported",
@@ -3439,21 +3454,6 @@
    "virtual": false
   },
   {
-   "id": "news-48ed895ca5fd",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "Texas Comptroller Don Huffines speaks at historic GOP rally in Tyler",
-   "candidates": [
-    "don-huffines"
-   ],
-   "start": "2026-10-13T17:05:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0llcHROeFBqa1cyR3dMVWhfdzBxQUtkcTc2RDlYNGNJR3hRTjg5enkyeUNpbWFVU1ZRZThJa1hWamptN0puNXQwdWlkaUVVYjF6bFFvZktQMTd2VzJRNmFVX0ZJZ2F2c1BSXzJHelpMRnFYczlQX0ZjbFV4Wk94ckM3enJMd0ZWTWtTd25aUzBveVgya2h6ZG44YmladHBNMWRJ?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-4cd22eb096e9",
    "source": "KLTV.com",
    "kind": "reported",
@@ -3496,6 +3496,21 @@
    "lat": 32.4993,
    "lng": -94.5679,
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdUF0VFVFLU5oeDZNdm85ZjA5WEhmc2dGYkl3WC1zdWM1Y1JnMzRnUDRIVk9JR2Qta2RsZW5kVWJ6V1p4WWhPTWZZNHhxOURpTi1lbHY0R2RMS0dWZjJfSklRZEQyQS13T3dNWnVOemhfSDB2dzVnZXd3NE96Z1BMaFVTNGFDWmZQQTFQNUlJT3c3bmlFUDQ0VGdHaUktR2RrSUxCbWNBRk1sSjdtUnJVeDRlR2piaXUwVzVPTTRmX1pfY04yb0l2ZWd0bG1vdw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-48ed895ca5fd",
+   "source": "KLTV.com",
+   "kind": "reported",
+   "title": "Texas Comptroller Don Huffines speaks at historic GOP rally in Tyler",
+   "candidates": [
+    "don-huffines"
+   ],
+   "start": "2026-10-13T07:00:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0llcHROeFBqa1cyR3dMVWhfdzBxQUtkcTc2RDlYNGNJR3hRTjg5enkyeUNpbWFVU1ZRZThJa1hWamptN0puNXQwdWlkaUVVYjF6bFFvZktQMTd2VzJRNmFVX0ZJZ2F2c1BSXzJHelpMRnFYczlQX0ZjbFV4Wk94ckM3enJMd0ZWTWtTd25aUzBveVgya2h6ZG44YmladHBNMWRJ?oc=5",
    "virtual": false
   },
   {
@@ -3699,7 +3714,7 @@
    "kind": "reported",
    "title": "Trump to visit San Antonio next week for rally with Paxton, De La Cruz",
    "candidates": [
-    "monica-de-la-cruz"
+    "ken-paxton"
    ],
    "start": "2026-10-02T07:00:00+00:00",
    "city": "San Antonio",
@@ -3721,6 +3736,21 @@
    "lat": 26.1912,
    "lng": -97.6974,
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX0dXSEVEUUdYVEFaQV9FUXYyVlRmd3JWSFhEWjZUUEhxUXlqejV6WXpwX2NCYndPSUZqMkhsUG55MDNjOUlRZm9YcnQ4ei1XQ1V4eVk2RFZOWmtjUURZN2t2MUMzNFJiT253UXFKUjVhZjRwUjVXRTBQamkycVhkSV9lWnpZWTZHYWd5QUZyUE15MFBsWlNGTTM2N3dDcTk0YlZBcGdKZmt4cl9FcnVsaWpSY3pTLTkwWmQyTUJQMFloczl0ZGFXdnBkaEwzU21uUGFuVDBXLWpkQdIB3wFBVV95cUxNX2VpOURrMzd1elZZQUxhNDJLdWg1U0NOcUdOZ3NsMU5WaHRETXpLSVBORXJFU3M2SUk0UkhUVW5TRERtRDQxQ0pZVnVzWXNwRGh3YUtqYlRGZTVGYjVKLUZMY3lEQmdsX2dqOWc2aE56emN2ZklxbW1WUlVodWJCXzgxQVE4WjQ3NFJWR2U2MHY5WjFxR0xxUk1PbWoybUZOMUVnWmdlYm9sdEo4YTIyZndMeUxhN1dSbjBCeXFkcGpYTlFfc1E0QUpqaFhiYUxlU0lza3JlaHM0QkYwcUFF?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-2a61a56fd750",
+   "source": "KBTX News 3",
+   "kind": "reported",
+   "title": "Texas A&M student group invites Ken Paxton, James Talarico to debate",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-09-23T07:00:00+00:00",
+   "city": "College Station",
+   "lat": 30.5852,
+   "lng": -96.2964,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnZIeURjdklrdWtlSzNzclZXQkstV3ZYLXF5alFtMWNrN2djNnVseWE2b1dBTHFXSXpDZkVJM0lPUXFxeERVODZzel9VNEJ4ZllEd2ZWS3plbERfMjhSOS1WbWJvZ2dUR2IwaWpfLUt6eG03V1B2WTQwR3Q2TjhCdU5WeUxCa2ZXUnROMkRyNk9CX0J1b0o2TGlYbnY?oc=5",
    "virtual": false
   },
   {
@@ -3766,6 +3796,21 @@
    "lat": 31.8478,
    "lng": -106.4311,
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT05IY2hPWXd1emo2bk9oZWlTdXVBNTFTMFVDRE5rZkpOU3FQbUltU1BqbjBGdWdKaEdQX0Iwc2VMaWQ4QlRscXZDVllKb0RBZVYzUTF5ZmdSVHBTSVFYX3FSV2l6RzM0Q2ZXd0VLd0JPLVVGVGtTMkpYOElOQ01ZMkoxNEJrMkdzNUljSUtB0gGTAUFVX3lxTE5uVW5UTy1XcHdMaEU5dXM3YkRMMDR6dXRsUGFRNHpPNGV3VENIcW5lZlJxTy1RNnlkMER6S29iaHM4WlMtd2xiMGVNUmFMMVVUNURaR0tQMHl1V0JXaDVnOVpPak1kMXBGRVVaSFBVckg1NlU3a205REVXME9jZ1ZGOWpuZS02UEV3dUZpYzFTZ3ZmUQ?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-1ccf5634bea4",
+   "source": "The New York Times",
+   "kind": "reported",
+   "title": "Talarico Rallies in Houston, and Dials Back Past Remarks",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-05-28T07:00:00+00:00",
+   "city": "Houston",
+   "lat": 29.7857,
+   "lng": -95.3888,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGxLdVBHQng3cnA0azRROUJ0VlR3OC1KQUZHaVQybjh6cEc5LTA4X0RVbVNJYVVKdnZISThiQ2h0dEVscjVBRUxIN19HNVpiejZnSWUyWWlkM2V0RXQ2OFRnMk4zaDR6U3BVUkZSeDcyb1AwSjVaQlFkV056UUpvZERUSWZPRXA3VVdZTnpTb01icnhhWXNrU1kwWQ?oc=5",
    "virtual": false
   }
  ]
