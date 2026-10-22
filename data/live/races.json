@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:45:53+00:00",
+ "updated": "2026-10-22T04:52:14+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -32,7 +32,7 @@
     {
      "source": "The Cook Political Report",
      "rating": "Tossup",
-     "as_of": "October 6, 2026"
+     "as_of": "October 20, 2026"
     },
     {
      "source": "Decision Desk HQ",
@@ -111,6 +111,38 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Beacon Research/Shaw & Co. Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-19",
+     "n": 1398,
+     "pop": "LV",
+     "moe": 2.5,
+     "url": "https://www.foxnews.com/politics/fox-news-poll-texas-senate-race-galloping-toward-photo-finish",
+     "results": {
+      "R": 49.0,
+      "D": 49.0
+     },
+     "undecided": 2.0,
+     "margin": 0.0
+    },
+    {
+     "pollster": "Beacon Research/Shaw & Co. Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-19",
+     "n": 2011,
+     "pop": "RV",
+     "moe": 2.0,
+     "url": "https://www.foxnews.com/politics/fox-news-poll-texas-senate-race-galloping-toward-photo-finish",
+     "results": {
+      "R": 46.0,
+      "D": 52.0
+     },
+     "undecided": 2.0,
+     "margin": 6.0
+    },
     {
      "pollster": "CBS News/YouGov",
      "partisan": null,
@@ -1117,13 +1149,13 @@
     }
    ],
    "average": {
-    "D": 48.3,
+    "D": 48.2,
     "R": 46.0,
-    "margin": 2.3,
+    "margin": 2.2,
     "n_polls": 20,
     "window_days": 30,
     "from": "2026-09-22",
-    "to": "2026-10-16"
+    "to": "2026-10-19"
    },
    "trend": [
     {
@@ -1360,6 +1392,11 @@
      "date": "2026-10-16",
      "D": 48.2,
      "R": 46.0
+    },
+    {
+     "date": "2026-10-19",
+     "D": 48.1,
+     "R": 46.0
     }
    ],
    "key": "senate",
@@ -1459,6 +1496,53 @@
     }
    },
    "polls": [
+    {
+     "pollster": "ActiVote",
+     "partisan": null,
+     "start": "2026-10-17",
+     "end": "2026-10-21",
+     "n": 400,
+     "pop": "LV",
+     "moe": 4.9,
+     "url": "https://www.activote.net/polls/2026/tx-governor/",
+     "results": {
+      "R": 52.0,
+      "D": 47.0
+     },
+     "margin": -5.0
+    },
+    {
+     "pollster": "Beacon Research/Shaw & Co. Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-19",
+     "n": 2011,
+     "pop": "RV",
+     "moe": 2.0,
+     "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_october-15-19-2026_texas_topline_october-21-release.pdf",
+     "results": {
+      "R": 50.0,
+      "D": 49.0
+     },
+     "undecided": 1.0,
+     "margin": -1.0
+    },
+    {
+     "pollster": "Beacon Research/Shaw & Co. Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-19",
+     "n": 1398,
+     "pop": "LV",
+     "moe": 2.5,
+     "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_october-15-19-2026_texas_topline_october-21-release.pdf",
+     "results": {
+      "R": 52.0,
+      "D": 47.0
+     },
+     "undecided": 1.0,
+     "margin": -5.0
+    },
     {
      "pollster": "CBS News/YouGov",
      "partisan": null,
@@ -2329,13 +2413,13 @@
     }
    ],
    "average": {
-    "D": 46.5,
-    "R": 48.6,
-    "margin": -2.1,
+    "D": 46.4,
+    "R": 48.7,
+    "margin": -2.3,
     "n_polls": 16,
     "window_days": 30,
     "from": "2026-09-22",
-    "to": "2026-10-16"
+    "to": "2026-10-21"
    },
    "trend": [
     {
@@ -2542,6 +2626,16 @@
      "date": "2026-10-16",
      "D": 46.4,
      "R": 48.6
+    },
+    {
+     "date": "2026-10-19",
+     "D": 46.4,
+     "R": 48.6
+    },
+    {
+     "date": "2026-10-21",
+     "D": 46.4,
+     "R": 48.7
     }
    ],
    "key": "governor",

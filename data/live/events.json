@@ -1,213 +1,6 @@
 {
- "updated": "2026-10-21T21:54:11+00:00",
+ "updated": "2026-10-22T05:02:40+00:00",
  "events": [
-  {
-   "id": "mob-1062799",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting: Dallas County",
-   "type": "POLL_MONITORING",
-   "candidates": [
-    "dan-barrios"
-   ],
-   "host": "Dan Barrios for Congress",
-   "start": "2026-10-21T22:00:00+00:00",
-   "end": "2026-10-22T00:00:00+00:00",
-   "more_times": 57,
-   "venue": "Dallas County",
-   "address": "",
-   "city": "Dallas County",
-   "zip": "75254",
-   "lat": 32.9418531,
-   "lng": -96.8002704,
-   "virtual": false,
-   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062799/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%289%29_20261012193956373083.jpg"
-  },
-  {
-   "id": "mob-1056500",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "📋 Talarico for Texas: Volunteer in Fort Bend",
-   "type": "RALLY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-21T22:15:00+00:00",
-   "end": "2026-10-22T02:00:00+00:00",
-   "more_times": 0,
-   "venue": "Safari Texas Ranch",
-   "address": "11627 FM 1464",
-   "city": "Richmond",
-   "zip": "77407",
-   "lat": 29.6461339,
-   "lng": -95.6765093,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056500/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/03.02.26%20-%20tbtt%20%20-%20%2071_20261005155509027955.jpg"
-  },
-  {
-   "id": "mob-1065271",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Blockwalk for Evan Hunt - McKinney",
-   "type": "CANVASS",
-   "candidates": [
-    "evan-hunt"
-   ],
-   "host": "Elect Evan Hunt",
-   "start": "2026-10-21T22:30:00+00:00",
-   "end": "2026-10-22T01:30:00+00:00",
-   "more_times": 0,
-   "venue": "",
-   "address": "2313 Barnsley Dr",
-   "city": "McKinney",
-   "zip": "75071",
-   "lat": 33.2251868,
-   "lng": -96.6913021,
-   "virtual": false,
-   "url": "https://www.mobilize.us/electevanhunt/event/1065271/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Blockwalk_20260730194350577972.png"
-  },
-  {
-   "id": "mob-1027752",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Johnny Garcia Office Hours",
-   "type": "COMMUNITY",
-   "candidates": [
-    "johnny-garcia"
-   ],
-   "host": "Johnny Garcia for Congress",
-   "start": "2026-10-21T23:00:00+00:00",
-   "end": "2026-10-22T01:00:00+00:00",
-   "more_times": 1,
-   "venue": "Johnny Garcia for Congress Campaign Office",
-   "address": "1913 Pleasanton Rd",
-   "city": "San Antonio",
-   "zip": "78221",
-   "lat": 29.3625434,
-   "lng": -98.5042709,
-   "virtual": false,
-   "url": "https://www.mobilize.us/garciaforcongress/event/1027752/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Office%20Hours_20261020232049766310.png"
-  },
-  {
-   "id": "mob-1012476",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Clayton Tucker: Austin Postcard and Policy Party",
-   "type": "TRAINING",
-   "candidates": [
-    "clayton-tucker"
-   ],
-   "host": "Texas Together",
-   "start": "2026-10-21T23:00:00+00:00",
-   "end": "2026-10-22T01:00:00+00:00",
-   "more_times": 1,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Austin",
-   "zip": "78703",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1012476/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Clayton%20Tucker%20Business%20Cards_20260828154646956489.png"
-  },
-  {
-   "id": "mob-992438",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Phonebank in-office with Team Finnie!",
-   "type": "PHONE_BANK",
-   "candidates": [
-    "shaun-finnie"
-   ],
-   "host": "Shaun Finnie For Congress",
-   "start": "2026-10-21T23:00:00+00:00",
-   "end": "2026-10-22T01:00:00+00:00",
-   "more_times": 1,
-   "venue": "Shaun Finnie HQ",
-   "address": "26009 Budde Rd Suite B300",
-   "city": "Spring",
-   "zip": "77380",
-   "lat": 30.139801,
-   "lng": -95.4504671,
-   "virtual": false,
-   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/992438/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/General%20Phonebanking_20260717214200902305.jpg"
-  },
-  {
-   "id": "mob-1061535",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Gina Yard Sign Request (North DFW)",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-21T23:30:00+00:00",
-   "end": "2026-10-22T01:00:00+00:00",
-   "more_times": 3,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Rowlett",
-   "zip": "75088",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1061535/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/North%20DFW%20yard%20sign%20request_20261010205223849997.png"
-  },
-  {
-   "id": "mob-1056498",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🌟 Rally in Fort Bend County with James Talarico",
-   "type": "RALLY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-22T00:00:00+00:00",
-   "end": "2026-10-22T02:00:00+00:00",
-   "more_times": 0,
-   "venue": "Safari Texas Ranch",
-   "address": "11627 FM 1464",
-   "city": "Richmond",
-   "zip": "77407",
-   "lat": 29.6461339,
-   "lng": -95.6765093,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056498/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016140825573592.png"
-  },
-  {
-   "id": "mob-1045465",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Call Bank with Democratic Nominee Melissa McDonough for TX-CD 38",
-   "type": "PHONE_BANK",
-   "candidates": [
-    "melissa-mcdonough"
-   ],
-   "host": "Mothers for Democracy",
-   "start": "2026-10-22T00:00:00+00:00",
-   "end": "2026-10-22T01:30:00+00:00",
-   "more_times": 1,
-   "venue": "The Backyard Grill",
-   "address": "9453 Jones Rd",
-   "city": "Houston",
-   "zip": "77065",
-   "lat": 29.909435,
-   "lng": -95.5858337,
-   "virtual": false,
-   "url": "https://www.mobilize.us/mothersagainstgregabbott/event/1045465/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Rally_20260925044706935476.jpg"
-  },
   {
    "id": "mob-1064435",
    "source": "Mobilize",
@@ -230,6 +23,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/justinearlyforcongress/event/1064435/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001800060681.jpeg"
+  },
+  {
+   "id": "mob-1062799",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting: Dallas County",
+   "type": "POLL_MONITORING",
+   "candidates": [
+    "dan-barrios"
+   ],
+   "host": "Dan Barrios for Congress",
+   "start": "2026-10-22T12:00:00+00:00",
+   "end": "2026-10-22T14:00:00+00:00",
+   "more_times": 56,
+   "venue": "Dallas County",
+   "address": "",
+   "city": "Dallas County",
+   "zip": "75254",
+   "lat": 32.9418531,
+   "lng": -96.8002704,
+   "virtual": false,
+   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062799/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%289%29_20261012193956373083.jpg"
   },
   {
    "id": "mob-1058498",
@@ -347,29 +163,6 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%288%29_20261012190747133436.jpg"
   },
   {
-   "id": "mob-1069918",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Fort Bend Early Vote with Gina Hinojosa!",
-   "type": "MEET_GREET",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-22T13:15:00+00:00",
-   "end": "2026-10-22T14:00:00+00:00",
-   "more_times": 0,
-   "venue": "George Memorial Library",
-   "address": "1001 Golfview Dr",
-   "city": "Richmond",
-   "zip": "77469",
-   "lat": 29.5656913,
-   "lng": -95.7574974,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1069918/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/FORT%20BEND%20ONE%20FIGHT_20261020181530115798.png"
-  },
-  {
    "id": "mob-1070011",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -381,7 +174,7 @@
    "host": "Texas Together",
    "start": "2026-10-22T13:30:00+00:00",
    "end": "2026-10-22T16:30:00+00:00",
-   "more_times": 0,
+   "more_times": 1,
    "venue": "Fort Bend County Libraries - George Memorial Library",
    "address": "1001 Golfview Dr",
    "city": "Richmond",
@@ -451,12 +244,12 @@
    "start": "2026-10-22T15:00:00+00:00",
    "end": "2026-10-22T16:00:00+00:00",
    "more_times": 0,
-   "venue": "Metropolitan Multi-Service Center",
-   "address": "1475 W Gray St",
+   "venue": "",
+   "address": "1530 Haddon St",
    "city": "Houston",
-   "zip": "77019",
-   "lat": 29.7522705,
-   "lng": -95.3999942,
+   "zip": "77006",
+   "lat": 29.7512269,
+   "lng": -95.400214,
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1070059/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/HOU%20ev%20polling%20location_20261020191943799080.png"
@@ -810,7 +603,7 @@
    "id": "mob-1070342",
    "source": "Mobilize",
    "kind": "scheduled",
-   "title": "Texas Together PRE-James Talarico RALLY BLOCK WALK - Temple",
+   "title": "Texas Together PRE-JAMES TALARICO RALLY Block Walk - Temple",
    "type": "CANVASS",
    "candidates": [
     "james-talarico"
@@ -828,6 +621,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/texasdemocrats/event/1070342/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-10-20-173706_20261021211529118849.jpeg"
+  },
+  {
+   "id": "mob-1071597",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "🪧💥 Tarrant County Poll Dressing with Team Talarico",
+   "type": "COMMUNITY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-23T15:30:00+00:00",
+   "end": "2026-10-23T18:30:00+00:00",
+   "more_times": 0,
+   "venue": "Tarrant County Democratic Party",
+   "address": "685 John B Sias Memorial Pkwy 400",
+   "city": "Fort Worth",
+   "zip": "76134",
+   "lat": 32.6632843,
+   "lng": -97.3281887,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1071597/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Screenshot%202026-10-16%20153257_20261016203324345674.jpg"
   },
   {
    "id": "mob-1056505",
@@ -874,6 +690,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/talaricofortexas/event/1056506/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/clear%20eyes%20full%20hearts%20mobilize%20branding_20261016073717596416.png"
+  },
+  {
+   "id": "mob-1071538",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "🪧💥 DFW Poll Dressing with Team Talarico",
+   "type": "COMMUNITY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-23T19:00:00+00:00",
+   "end": "2026-10-23T22:00:00+00:00",
+   "more_times": 0,
+   "venue": "Dallas County Democratic Party",
+   "address": "1414 N Washington Ave",
+   "city": "Dallas",
+   "zip": "75204",
+   "lat": 32.7962397,
+   "lng": -96.7838574,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1071538/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Screenshot%202026-10-16%20153257_20261016203324345674.jpg"
   },
   {
    "id": "mob-1067567",
@@ -1397,7 +1236,7 @@
    "venue": "This event’s address is private. Sign up for more details",
    "address": "This event’s address is private. Sign up for more details",
    "city": "San Antonio",
-   "zip": "78221",
+   "zip": "78247",
    "lat": null,
    "lng": null,
    "virtual": false,
@@ -1633,6 +1472,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1066799/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x_20261013181947123962.png"
+  },
+  {
+   "id": "mob-1071643",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Texas Together GOTV with Gina Hinojosa and Commissioner Elba Garcia",
+   "type": "COMMUNITY_CANVASS",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Texas Together",
+   "start": "2026-10-24T16:30:00+00:00",
+   "end": "2026-10-24T18:00:00+00:00",
+   "more_times": 0,
+   "venue": "Martin Weiss Recreation Center",
+   "address": "1111 Martindell Ave",
+   "city": "Dallas",
+   "zip": "75211",
+   "lat": 32.7336438,
+   "lng": -96.8767696,
+   "virtual": false,
+   "url": "https://www.mobilize.us/texasdemocrats/event/1071643/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/IMG_0438%20gina_20261021234629459959.jpeg"
   },
   {
    "id": "mob-1070057",
@@ -1945,7 +1807,7 @@
    "host": "Texas Together",
    "start": "2026-10-25T15:00:00+00:00",
    "end": "2026-10-25T18:00:00+00:00",
-   "more_times": 3,
+   "more_times": 5,
    "venue": "John M. Whisenant Park",
    "address": "3701 Hudson Crossing",
    "city": "McKinney",
@@ -2120,6 +1982,533 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Oct25DOA_20261020153047897276.jpg"
   },
   {
+   "id": "mob-1061535",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Gina Yard Sign Request (North DFW)",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-25T20:00:00+00:00",
+   "end": "2026-10-25T22:00:00+00:00",
+   "more_times": 2,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Rowlett",
+   "zip": "75088",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1061535/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/North%20DFW%20yard%20sign%20request_20261010205223849997.png"
+  },
+  {
+   "id": "mob-1067515",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Volunteer at the RGV Get Out The Vote Rally with Gina Hinojosa",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-25T22:45:00+00:00",
+   "end": "2026-10-26T02:00:00+00:00",
+   "more_times": 0,
+   "venue": "",
+   "address": "",
+   "city": "Weslaco",
+   "zip": "78596",
+   "lat": 26.1595194,
+   "lng": -97.9908366,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1067515/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x%20%281%29_20261007201721352094.png"
+  },
+  {
+   "id": "mob-1063287",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "GOTV Rally with Gina Hinojosa- RGV",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-26T00:00:00+00:00",
+   "end": "2026-10-26T01:30:00+00:00",
+   "more_times": 0,
+   "venue": "78596",
+   "address": "",
+   "city": "Weslaco",
+   "zip": "78539",
+   "lat": 26.268255,
+   "lng": -98.1884949,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1063287/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/GOTV.rally_20261013022936187897.png"
+  },
+  {
+   "id": "mob-1066636",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Get Out the Early Vote with Gina at UTRGV!",
+   "type": "MEET_GREET",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-26T17:00:00+00:00",
+   "end": "2026-10-26T17:30:00+00:00",
+   "more_times": 0,
+   "venue": "The University of Texas Rio Grande Valley",
+   "address": "1201 W University Dr",
+   "city": "Edinburg",
+   "zip": "78539",
+   "lat": 26.3081983,
+   "lng": -98.1740158,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1066636/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-03-31-07-58-12-794_20261018171926416570.jpg"
+  },
+  {
+   "id": "mob-1067517",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Volunteer at the Corpus Christi Get Out The Vote Rally with Gina Hinojosa",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-26T21:45:00+00:00",
+   "end": "2026-10-27T02:00:00+00:00",
+   "more_times": 0,
+   "venue": "78401",
+   "address": "",
+   "city": "Corpus Christi",
+   "zip": "78401",
+   "lat": 27.8028475,
+   "lng": -97.4002872,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1067517/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x%20%281%29_20261007201721352094.png"
+  },
+  {
+   "id": "mob-1055364",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Evan Hunt Meet and Greet - McKinney",
+   "type": "COMMUNITY",
+   "candidates": [
+    "evan-hunt"
+   ],
+   "host": "Elect Evan Hunt",
+   "start": "2026-10-26T22:30:00+00:00",
+   "end": "2026-10-27T00:30:00+00:00",
+   "more_times": 0,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "McKinney",
+   "zip": "75070",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/electevanhunt/event/1055364/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Mobilize%20%26%20Facebook%20%20%281%29_20261005105935483077.png"
+  },
+  {
+   "id": "mob-1056790",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "📋 Talarico for Texas: Volunteer in El Paso",
+   "type": "RALLY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-26T22:45:00+00:00",
+   "end": "2026-10-27T03:00:00+00:00",
+   "more_times": 0,
+   "venue": "",
+   "address": "",
+   "city": "El Paso",
+   "zip": "79901",
+   "lat": 31.7597373,
+   "lng": -106.4788714,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1056790/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/03.02.26%20-%20tbtt%20%20-%20%2071_20261005155509027955.jpg"
+  },
+  {
+   "id": "mob-1063278",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "GOTV Rally with Gina Hinojosa- Corpus Christi",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-26T23:30:00+00:00",
+   "end": "2026-10-27T01:30:00+00:00",
+   "more_times": 0,
+   "venue": "78401",
+   "address": "",
+   "city": "Corpus Christi",
+   "zip": "78401",
+   "lat": 27.8028475,
+   "lng": -97.4002872,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1063278/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/GOTV_Tour_Corpus_10.26_20261013210745311193.png"
+  },
+  {
+   "id": "mob-1056784",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "🌟 Clear Eyes Full Hearts: Rally in El Paso with James Talarico",
+   "type": "RALLY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-27T01:00:00+00:00",
+   "end": "2026-10-27T03:00:00+00:00",
+   "more_times": 0,
+   "venue": "",
+   "address": "",
+   "city": "El Paso",
+   "zip": "79901",
+   "lat": 31.7597373,
+   "lng": -106.4788714,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1056784/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016073505383389.png"
+  },
+  {
+   "id": "mob-974495",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Call Bank with Democratic Nominee Melissa McDonough for TX-CD 38",
+   "type": "PHONE_BANK",
+   "candidates": [
+    "melissa-mcdonough"
+   ],
+   "host": "Mothers for Democracy",
+   "start": "2026-10-27T16:30:00+00:00",
+   "end": "2026-10-27T18:30:00+00:00",
+   "more_times": 0,
+   "venue": "",
+   "address": "17924 Holderrieth Rd",
+   "city": "Tomball",
+   "zip": "77377",
+   "lat": 30.067561,
+   "lng": -95.698671,
+   "virtual": false,
+   "url": "https://www.mobilize.us/mothersagainstgregabbott/event/974495/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/GENERIC_banner_20260616234113078247.jpg"
+  },
+  {
+   "id": "mob-1067796",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "GOTV Rally with Gina Hinojosa- Waco",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-27T17:00:00+00:00",
+   "end": "2026-10-27T18:30:00+00:00",
+   "more_times": 0,
+   "venue": "76701",
+   "address": "",
+   "city": "Waco",
+   "zip": "76701",
+   "lat": 31.5517255,
+   "lng": -97.1386299,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1067796/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/GOTV.rally_20261018013855969216.png"
+  },
+  {
+   "id": "mob-1067531",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Tacos y Vota! Vota con Team Gina y Representative Christina Morales",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-27T21:00:00+00:00",
+   "end": "2026-10-28T00:00:00+00:00",
+   "more_times": 0,
+   "venue": "Houston Community College - Southeast College - Eastside Campus - Student Parking Garage",
+   "address": "6960 Rustic St.",
+   "city": "Houston",
+   "zip": "77087",
+   "lat": 29.7038793,
+   "lng": -95.295141,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1067531/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x_20261019194745496222.png"
+  },
+  {
+   "id": "mob-1067520",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Volunteer at the Ft. Worth Get Out The Vote Rally with Gina Hinojosa",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-27T21:45:00+00:00",
+   "end": "2026-10-28T02:00:00+00:00",
+   "more_times": 0,
+   "venue": "National Hall SPJST Lodge 92",
+   "address": "3316 Roberts Cut Off Rd",
+   "city": "Fort Worth",
+   "zip": "76114",
+   "lat": 32.8078662,
+   "lng": -97.4113945,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1067520/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x%20%281%29_20261007201721352094.png"
+  },
+  {
+   "id": "mob-1056838",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "📋 Talarico for Texas: Volunteer at Texas Tech",
+   "type": "RALLY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-27T21:45:00+00:00",
+   "end": "2026-10-28T02:00:00+00:00",
+   "more_times": 0,
+   "venue": "Frazer Alumni Pavilion",
+   "address": "2680 Drive of Champions",
+   "city": "Lubbock",
+   "zip": "79409",
+   "lat": 33.5897128,
+   "lng": -101.874677,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1056838/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/03.02.26%20-%20tbtt%20%20-%20%2071_20261005155509027955.jpg"
+  },
+  {
+   "id": "mob-1058692",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Veronica Escobar for Congress Phone Banks!",
+   "type": "PHONE_BANK",
+   "candidates": [
+    "veronica-escobar"
+   ],
+   "host": "El Paso County Democratic Party",
+   "start": "2026-10-27T22:00:00+00:00",
+   "end": "2026-10-28T00:00:00+00:00",
+   "more_times": 0,
+   "venue": "Campaign Office",
+   "address": "1401 Montana Ave",
+   "city": "El Paso",
+   "zip": "79902",
+   "lat": 31.7719059,
+   "lng": -106.4801139,
+   "virtual": false,
+   "url": "https://www.mobilize.us/elpasocountydemocrats/event/1058692/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/phonebank_20250524004006014979_20261007212220419154.jpg"
+  },
+  {
+   "id": "mob-1063276",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "GOTV Rally with Gina Hinojosa- Ft Worth",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-27T22:30:00+00:00",
+   "end": "2026-10-28T01:30:00+00:00",
+   "more_times": 0,
+   "venue": "National Hall SPJST Lodge 92",
+   "address": "3316 Roberts Cut Off Rd",
+   "city": "Fort Worth",
+   "zip": "76114",
+   "lat": 32.8078662,
+   "lng": -97.4113945,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1063276/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/GOTV_Tour_FortWorth_10.27_20261014173641288935.png"
+  },
+  {
+   "id": "mob-1049498",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "El Paso for Gina Hinojosa Phone Bank",
+   "type": "PHONE_BANK",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-10-27T23:00:00+00:00",
+   "end": "2026-10-28T02:00:00+00:00",
+   "more_times": 1,
+   "venue": "",
+   "address": "1103 Yandell Dr",
+   "city": "El Paso",
+   "zip": "79902",
+   "lat": 31.7686018,
+   "lng": -106.4829626,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1049498/",
+   "image": ""
+  },
+  {
+   "id": "mob-1063890",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Jason Pearce for Congress: Get Out the Vote Fundraiser",
+   "type": "HOUSE_PARTY",
+   "candidates": [
+    "jason-pearce"
+   ],
+   "host": "Collin County Democratic Party",
+   "start": "2026-10-27T23:30:00+00:00",
+   "end": "2026-10-28T02:30:00+00:00",
+   "more_times": 0,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Plano",
+   "zip": "75025",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/collindemocrats/event/1063890/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Jason%20Pearce%20for%20Congress_%20Get%20Out%20the%20Vote%20Fundraiser_20261013182217936272.png"
+  },
+  {
+   "id": "mob-1056835",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "🌟 Clear Eyes Full Hearts: Rally at Texas Tech with James Talarico",
+   "type": "RALLY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-10-28T00:00:00+00:00",
+   "end": "2026-10-28T02:00:00+00:00",
+   "more_times": 0,
+   "venue": "Frazer Alumni Pavilion",
+   "address": "2680 Drive of Champions",
+   "city": "Lubbock",
+   "zip": "79409",
+   "lat": 33.5897128,
+   "lng": -101.874677,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1056835/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016071857936644.png"
+  },
+  {
+   "id": "news-c4dd33a78caa",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "Gina Hinojosa to hold campaign rally in El Paso on Oct. 28",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-10-22T02:48:45+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQellhT1pCZEoyWWZIWVFjVDRLd2hGQ25xNExkZ3B2OGI2a0p1ZnR1WXJQamRwa21JNG53aVpXc25kZEN2QVViMnVfTmQxT2xYam1lb0gyTjdlRWFSYkptUi1JWHBMMGFtN3BoX2ZiYVMyUk0wcnhfM3p6cEJGRzdvS096aFNDamhncTBFVG5Jbkc?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-e984daf7207b",
+   "source": "ABC13 Houston",
+   "kind": "reported",
+   "title": "Democratic Senate candidate James Talarico speaks to ABC13 during campaign blitz across Houston area",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-22T02:22:34+00:00",
+   "city": "Houston",
+   "lat": 29.7857,
+   "lng": -95.3888,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMGpmUVFXa2dzVjFCRUNvRXNnNmFlR1ZQcGVPRlBVU1hHb21sU25MTERZRTE2N1pveHdCWDVvTEtwVkpvQUdUOHhrb2xhbmhNbGs5ZzU5TWMyb2EzTWhkMUptUktrbENlN0xBRlFOQTdLR2VleGZsaGtlRmZNcFJWM3psQjJrSE5iOXRrOVRTblZud2dpYjVGeWFtTHVLSEc4alZEQTdaQTRxWDNQcG1kVVVCVGNMRnpWOTRhVjJsRHnSAcYBQVVfeXFMTjd2eFlkUW9hbW9nZFlPQjVqVnBwRlUyVHBkaVo3bktsd2tlR1dLd1kzd1U2U1o2QS1sSzl6c1ozR0hVS1J3ODZWbnN6Z0o0Vmk1V2ROWEh0LWVVdmtTaVVGcHlMQWhJWVpRMVYtOEpDU2o3a21OenpSdURVdF9hX1ZiaW1NWXd6MnpYV0VjR0RNRXVUVGItNkJldk4wcE9wQ3MtRnRHcl9zUUd4VlQ4bzZmTFFsZC1rM2xEbnhXVkxHSTREM3VR?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-664fe031cf79",
+   "source": "Houston Chronicle",
+   "kind": "reported",
+   "title": "James Talarico rallies students, Democrats in Houston in final Senate push",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-21T23:50:05+00:00",
+   "city": "Houston",
+   "lat": 29.7857,
+   "lng": -95.3888,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNl90b1Vjbm9WZFpFdF9RSHM4bG9HbHRhREtrWmtYZWM1emJPNzZ4WS1JRExZUks3dWk3SVQxVFhBZS10N0VUSnJTZ0V0R0JmSVpPTG5nSmFuaWt1dFZqOUM0b1RLcE13bmNZb2RiVWNtazVUX2tudFpQLUZFbzBJNE4wcUFubE5FUnVpbm83anVVNGJrM1Fud0k1eWZIaGFv?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-ad77b38a5ce7",
+   "source": "Lubbock Avalanche-Journal",
+   "kind": "reported",
+   "title": "GOP confirms location for Trump's Ken Paxton election rally in Lubbock",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-21T22:31:00+00:00",
+   "city": "Lubbock",
+   "lat": 33.5619,
+   "lng": -101.8889,
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdENwaTBCZkRJT1F0cUtuVEw1TS1HNTZkUTlaOHZEMGpjR0I3T2paZ0EwY3Y3MUZnV2JOenl2alZZNXRCZkJvQ21kZ2tLeGJIVVRjN2VZeTZxNG1qRUhERUhCM0FMdzg0alU0Nm95YjlRMDJXdktUU3hrMTNXZHk2NEdZX2xxbEdOaTZ3RWc2QXFZMFl5ZUlRekdnRUpOWUJWSy16aGlQYUZyaFBOb0V4aGM5TDFiZjhMVmJlLTZRR1Y0SHpIWFJNOU53bjJmZUQ0aUNyZmQySXM2NExadVMtdzZLYUo?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-13e99e86b64f",
+   "source": "Fox News",
+   "kind": "reported",
+   "title": "WATCH LIVE: Texas AG Ken Paxton holds campaign rally in Corpus Christi",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-21T22:13:16+00:00",
+   "city": "Corpus Christi",
+   "lat": 27.7543,
+   "lng": -97.1734,
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oczNhVUFpOHNIbVZqLVNqNzRoNWdZenBFenk3VmFCTWRJdGtqZ3lHbVZ5aVM3NmZUMkJQSThPaVJqQm5rTWJjQU5PTm1BV0tjTlZ2WmNB?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-83d3d341ed33",
+   "source": "San Angelo Standard Times",
+   "kind": "reported",
+   "title": "Gov. Greg Abbott to visit San Angelo for campaign event",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-21T21:49:00+00:00",
+   "city": "San Angelo",
+   "lat": 31.4411,
+   "lng": -100.4505,
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNE5LWmlINFFIbkdmeV9BRDRkSjc2QWNnYnVfRWVYdnE0NEpWZDRfNVRWdmVLbnAyRlFaUXBxdm9nZEdNUlc0dDFvZE5zQV9QNnR4VjBxbFJMNHNzWWxNaEFVSVo0dFhoV2JXcXY5d2Y1TUE4VEFFQk1sUVJQWU5mTHhiTGVrdUxmclh1RmJfekRyc09LWUpJUDA0T2RSNk82d2xlZ2dVQmwyajJmb1RVNWdRUVpKWDQzdXBESDQ3ckJfNE5jY0JOV0swVzJqdUZUcHpuNEcyYW5ETl9acE1xUTlJbDZWOWxPR3c?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-d69965cca222",
    "source": "KTSM 9 News",
    "kind": "reported",
@@ -2147,36 +2536,6 @@
    "lat": 33.5619,
    "lng": -101.8889,
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVE5QeXE0R254ZkJ0MUJnQnlrQzJuUWJ6Q3hrY1h3VEpNZDhqdjNqZU9FTE5seVh5bWZoTklVT3plcVV3Rk44YVVSb1FDcThPZUZlOVktTkJ5WWc2Q0R1NHFIUWswcDJxUTEtbjhiTUN2aWU2eDlxYVJxTkhTa2JCX0dWcVBFQzdVTlRyRjhWX0Z2RjdrcEQwdm1SU05mMWdmUWJBbkExRlJCeEXSAb8BQVVfeXFMTnJ6c1RodV81VU5RZGg1cjFfNjVuZm5hN3gzWG9PMFZKZUkxZEUtTTZqcEFVTWotY2R2dkZQc25WT2pYdmVhVnRXS2FBZ05feEdrb3JIM3pIV0tmZ3hxQV9NRmlfSTBDSHpYbzI4Z1BEWTZUOUg5Q0EzQ2NLNGJhdjF2bUd1WldaNWtJYVNUQVprazNWZmpySUlnNDZvWFJHamN6djJ6R1Vhei01QTNzSmppNUxqMWs0dVB4eTVrVGc?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-664fe031cf79",
-   "source": "Houston Chronicle",
-   "kind": "reported",
-   "title": "James Talarico rallies students, Democrats in Houston in final Senate push",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-21T21:03:29+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNl90b1Vjbm9WZFpFdF9RSHM4bG9HbHRhREtrWmtYZWM1emJPNzZ4WS1JRExZUks3dWk3SVQxVFhBZS10N0VUSnJTZ0V0R0JmSVpPTG5nSmFuaWt1dFZqOUM0b1RLcE13bmNZb2RiVWNtazVUX2tudFpQLUZFbzBJNE4wcUFubE5FUnVpbm83anVVNGJrM1Fud0k1eWZIaGFv?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-c4dd33a78caa",
-   "source": "KFOX",
-   "kind": "reported",
-   "title": "Gina Hinojosa to hold campaign rally in El Paso on Oct. 28",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "start": "2026-10-21T19:29:30+00:00",
-   "city": "El Paso",
-   "lat": 31.8478,
-   "lng": -106.4311,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQellhT1pCZEoyWWZIWVFjVDRLd2hGQ25xNExkZ3B2OGI2a0p1ZnR1WXJQamRwa21JNG53aVpXc25kZEN2QVViMnVfTmQxT2xYam1lb0gyTjdlRWFSYkptUi1JWHBMMGFtN3BoX2ZiYVMyUk0wcnhfM3p6cEJGRzdvS096aFNDamhncTBFVG5Jbkc?oc=5",
    "virtual": false
   },
   {
@@ -2750,6 +3109,21 @@
    "virtual": false
   },
   {
+   "id": "news-b91d20e3f0eb",
+   "source": "KVUE",
+   "kind": "reported",
+   "title": "Ken Paxton heads to Killeen for tour stop",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-16T21:11:00+00:00",
+   "city": "Killeen",
+   "lat": 31.0777,
+   "lng": -97.732,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZPR0F0YUVSMnFCS080U2JfY0IzRlUzNklJWEIzY01yUDJ2YTNlWnZaU3FNQ0I2M0N3djNLOVR5dkFvcHJtSnhpRmV4aXlGWTRfZmQ3NEx1U2xVN3VBS2kzU0pFMDFuT25NR3ZSb0FSSk1kOUxpYTgxZ3g2eEpnemM3NUxWMnQ2QXEyNUY5YW91VHR0U2ZKQkNUOUgtYm1MN1k4clowWW8yLVpnWVZaWlVUS2xDN1B3c0ljdC11WFc?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-0e3e1cb83206",
    "source": "El Paso Times",
    "kind": "reported",
@@ -3305,6 +3679,21 @@
    "virtual": false
   },
   {
+   "id": "news-5ee0d089a473",
+   "source": "FOX 7 Austin",
+   "kind": "reported",
+   "title": "FULL: Dan Patrick speech at San Antonio rally",
+   "candidates": [
+    "dan-patrick"
+   ],
+   "start": "2026-10-07T07:00:00+00:00",
+   "city": "San Antonio",
+   "lat": 29.4628,
+   "lng": -98.5246,
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HSGEwUVFaY0V1RmpudVczbWQtWUEtYXlrQ3ZJd0Ewai1Ha2cyYVFPQkV4WkxBS2V6NlVaYllSUHVYdFAtTXVYQTluTEVNWkx0RktKXzJfM21LLVhsSm1EejF0b9IBaEFVX3lxTFAwa0dnT2poa0lMMTk1eGlGdW9zdkVCZDdXS1ZQUXFJVDluNFd1SVRWRDhnTzY2VVJFUEFudlFQNXpmOFpCbDFMeG5YLUhabGpFbUg2TDNLYmtSQzhFLUlPNFo4RjBGb2dz?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-efafe6e6321e",
    "source": "The Texas Tribune",
    "kind": "reported",
@@ -3377,36 +3766,6 @@
    "lat": 31.8478,
    "lng": -106.4311,
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT05IY2hPWXd1emo2bk9oZWlTdXVBNTFTMFVDRE5rZkpOU3FQbUltU1BqbjBGdWdKaEdQX0Iwc2VMaWQ4QlRscXZDVllKb0RBZVYzUTF5ZmdSVHBTSVFYX3FSV2l6RzM0Q2ZXd0VLd0JPLVVGVGtTMkpYOElOQ01ZMkoxNEJrMkdzNUljSUtB0gGTAUFVX3lxTE5uVW5UTy1XcHdMaEU5dXM3YkRMMDR6dXRsUGFRNHpPNGV3VENIcW5lZlJxTy1RNnlkMER6S29iaHM4WlMtd2xiMGVNUmFMMVVUNURaR0tQMHl1V0JXaDVnOVpPak1kMXBGRVVaSFBVckg1NlU3a205REVXME9jZ1ZGOWpuZS02UEV3dUZpYzFTZ3ZmUQ?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-c083942f0944",
-   "source": "BorderReport",
-   "kind": "reported",
-   "title": "US Rep Joaquin Castro visited ICE detention facility in Dilley Texas says numbers up",
-   "candidates": [
-    "joaquin-castro"
-   ],
-   "start": "2026-08-28T07:00:00+00:00",
-   "city": "Dilley",
-   "lat": 28.6675,
-   "lng": -99.1765,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmxiZlFuTEU0d2FBaXVQa2hUS0tYUnc0TEhOQTFMdDJWMnptanAxLWJIWXNWZUJUVlFXU2ZnRk5DOVVnWlZaMlB2MWI3djdxNmJzLWJ1MzVvd2JRSnU5WVZ1bXBkMnZ2aHJkSTl1REY3TkJBMGVrTWtaakN3ZkhzbDEtSEV6ZHpyZFVmUE1YTlV0Z1VVeFNuTExVeGFrUUFBc082VkZodXUzVTJIdnFlYmhkQXlabzl5N3ZBVnJDRGt4al9FTE9iVg?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-1ccf5634bea4",
-   "source": "The New York Times",
-   "kind": "reported",
-   "title": "Talarico Rallies in Houston, and Dials Back Past Remarks",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-05-28T07:00:00+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGxLdVBHQng3cnA0azRROUJ0VlR3OC1KQUZHaVQybjh6cEc5LTA4X0RVbVNJYVVKdnZISThiQ2h0dEVscjVBRUxIN19HNVpiejZnSWUyWWlkM2V0RXQ2OFRnMk4zaDR6U3BVUkZSeDcyb1AwSjVaQlFkV056UUpvZERUSWZPRXA3VVdZTnpTb01icnhhWXNrU1kwWQ?oc=5",
    "virtual": false
   }
  ]
