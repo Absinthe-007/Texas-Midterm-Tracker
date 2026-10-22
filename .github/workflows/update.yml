@@ -49,7 +49,7 @@ jobs:
           git config user.email "tx26-bot@users.noreply.github.com"
           git add data
           git diff --cached --quiet || git commit -m "data: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase --autostash || true
+          git pull --rebase -X theirs --autostash
           git push
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
