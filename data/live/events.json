@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:02:43+00:00",
+ "updated": "2026-10-23T11:51:38+00:00",
  "events": [
   {
    "id": "mob-1064435",
@@ -2121,6 +2121,21 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Jason%20Pearce%20for%20Congress_%20Get%20Out%20the%20Vote%20Fundraiser_20261013182217936272.png"
   },
   {
+   "id": "news-78813db5f627",
+   "source": "KTSM 9 News",
+   "kind": "reported",
+   "title": "Abbott returns to El Paso to rally one final push for voters",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-23T03:39:09+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHZWSkZ1YnlsQXk5bVg4SW8zNTduWXJZSnhpeVA0M1hJTGRPelgxa3Nrck9Gb2YxN3B3OGNWZjRJNzdCaS1tN3J1aF8zbHliZ0lWclBmN3hxczlwMEZCSHB2bWt5akNDTjBiUDFHckFsRm1QdlFjWG0zS3FUMEZTTktLQVdlMWI4d1R1SEZaMmttbUlSSzAzWW1jTy1SMUhveV9rNXdGUUdqWjQ5NXJJ0gG0AUFVX3lxTE9JOEZDcHpyTS0zNmg2OWM2WVFDZGJjd2l2SHV2ZVZDQXhGYV82T2hDSzNPaEhVZFo5MUhMWDc3dFFxaWZMb0NlS0VZVTdidDZSNkxwSktUZHhLandtT0dfZUVLYkx4NlJ4SmVmOUd1c1hFckZURUZYU0twU2I5RE5jSjNNSmtDa2tHdFNuMzhWQWM2eHBxVkRBSzVsdjVFUUc2eXVPQVZZb1pNeU1sOHZtNVRBbg?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-0953371ea415",
    "source": "San Angelo Standard Times",
    "kind": "reported",
@@ -3156,21 +3171,6 @@
    "virtual": false
   },
   {
-   "id": "news-2835a24d8bc0",
-   "source": "KWTX",
-   "kind": "reported",
-   "title": "Ken Paxton to close Senate campaign with ‘Come And Take It’ bus tour ending at the Alamo",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-15T01:15:00+00:00",
-   "city": "San Antonio",
-   "lat": 29.4628,
-   "lng": -98.5246,
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJWTUw4QVQta3JoOEtIaUhUQ0V0QlBPZWlOU01kYkVBVzk3QjBETEZjV21Qa3lPTlRIbnpTdUptYnJLdGxKa09xQnFOamY1azdKN0V4dklEZWpKdm5jNGlCczdUbk1UZHlYOElpaFdQVzU3eldqQ1FhbW1DVG1pLWstSmkwb3JYeW1INkRlcnlPVnlOVWpJaE1sVlNrTEVTQ3psNGw3VGrSAbwBQVVfeXFMTzRsNGJhZ2lPV1p3Zkw3Z1J1OEZUYWtyUkpoREkyVVV6dTdQMWtRRndsckRrNGR2ZE9qZWo2amxVaWZfbVJZYTVxVldqQm9keEY1d2xNMTNMbzNuS1Y0eFBfZ240RXotWXBQaG5HYTkxLW9oSFJxWjNZSnlncU91R01EZDY3VzVvUlA1VHM4NnlXTzZZZ3ZUVmNVRGNWZDNoUGc5ZG42aDV0R2RxSHlvdWd6ZGc0ZG5nNGNrYzk?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-e61d6575b3de",
    "source": "CBS News",
    "kind": "reported",
@@ -3213,6 +3213,21 @@
    "lat": 32.782,
    "lng": -97.3486,
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYl9DVVJHLWhKb2dJdXhPZzZrNlJhNUR5Q082ZV9NcWQtRVhIZEV1dlh6SWdfUW9qVFNUVGI4U1dXVFF5UmViV2xnUU1fdlNLUUdTU0FUa3g1bXhobDd4Y1RBVmJfTGxaZmNMV3N3NnZWbEROdzVDaTU0SGxSZjRvTEFpSkZLV1BQU3U3UkVtZFFfMmpkdHQ5OXVMUnpuY0piQndfd29qSmR1MTZLTXF3a19sRFAwSkEtSEcyVW12bVZteTBwRElEQm1NZF9CRmR1X3N1RVNJcWVUOGhoRmV0czNVQ0ZnVjh5M21ZRFhsYw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-2835a24d8bc0",
+   "source": "KWTX",
+   "kind": "reported",
+   "title": "Ken Paxton to close Senate campaign with ‘Come And Take It’ bus tour ending at the Alamo",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-14T07:00:00+00:00",
+   "city": "San Antonio",
+   "lat": 29.4628,
+   "lng": -98.5246,
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJWTUw4QVQta3JoOEtIaUhUQ0V0QlBPZWlOU01kYkVBVzk3QjBETEZjV21Qa3lPTlRIbnpTdUptYnJLdGxKa09xQnFOamY1azdKN0V4dklEZWpKdm5jNGlCczdUbk1UZHlYOElpaFdQVzU3eldqQ1FhbW1DVG1pLWstSmkwb3JYeW1INkRlcnlPVnlOVWpJaE1sVlNrTEVTQ3psNGw3VGrSAbwBQVVfeXFMTzRsNGJhZ2lPV1p3Zkw3Z1J1OEZUYWtyUkpoREkyVVV6dTdQMWtRRndsckRrNGR2ZE9qZWo2amxVaWZfbVJZYTVxVldqQm9keEY1d2xNMTNMbzNuS1Y0eFBfZ240RXotWXBQaG5HYTkxLW9oSFJxWjNZSnlncU91R01EZDY3VzVvUlA1VHM4NnlXTzZZZ3ZUVmNVRGNWZDNoUGc5ZG42aDV0R2RxSHlvdWd6ZGc0ZG5nNGNrYzk?oc=5",
    "virtual": false
   },
   {
@@ -3558,21 +3573,6 @@
    "lat": 29.4628,
    "lng": -98.5246,
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HSGEwUVFaY0V1RmpudVczbWQtWUEtYXlrQ3ZJd0Ewai1Ha2cyYVFPQkV4WkxBS2V6NlVaYllSUHVYdFAtTXVYQTluTEVNWkx0RktKXzJfM21LLVhsSm1EejF0b9IBaEFVX3lxTFAwa0dnT2poa0lMMTk1eGlGdW9zdkVCZDdXS1ZQUXFJVDluNFd1SVRWRDhnTzY2VVJFUEFudlFQNXpmOFpCbDFMeG5YLUhabGpFbUg2TDNLYmtSQzhFLUlPNFo4RjBGb2dz?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-efafe6e6321e",
-   "source": "The Texas Tribune",
-   "kind": "reported",
-   "title": "Trump to visit San Antonio next week for rally with Paxton, De La Cruz",
-   "candidates": [
-    "monica-de-la-cruz"
-   ],
-   "start": "2026-10-02T07:00:00+00:00",
-   "city": "San Antonio",
-   "lat": 29.4628,
-   "lng": -98.5246,
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2xhRlFFaFJzLVp6N1BLUXBiQWpKU2FNX1QwUXE0UUNRM1RtS3AwdndlLVdjcEtFTnptVENseFpoaWdESjdNc0pUb1lBNTFqZkVrYVZsYmEwamhjRFd6THREdDkwQjNjQUo3aDRaQXdBcEVOaGdCZlAxR3gwNFFiTENCSWxydlJtMEpWRnpaM21RRjhrdzNVQ1g5a1lmdk84Q1E?oc=5",
    "virtual": false
   },
   {
