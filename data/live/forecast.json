@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:20:03+00:00",
+ "updated": "2026-10-23T21:35:51+00:00",
  "days_to_election": 11,
  "environment": {
   "generic_ballot": -1.4,
@@ -14,7 +14,7 @@
    "hi": 7.4,
    "inputs": {
     "polls": 2.0,
-    "n_polls": 21,
+    "n_polls": 22,
     "fundamentals": -5.0,
     "experts": 0.0,
     "weights": {
@@ -26,14 +26,14 @@
    "p_dem_sim": 0.63
   },
   "governor": {
-   "mean": -3.0,
+   "mean": -3.1,
    "sd": 4.6,
-   "p_dem": 0.258,
-   "lo": -8.9,
+   "p_dem": 0.253,
+   "lo": -9.0,
    "hi": 2.9,
    "inputs": {
-    "polls": -2.3,
-    "n_polls": 16,
+    "polls": -2.4,
+    "n_polls": 17,
     "fundamentals": -7.5,
     "experts": -5.0,
     "weights": {
@@ -42,7 +42,7 @@
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.258
+   "p_dem_sim": 0.251
   },
   "ltgov": {
    "mean": -4.4,
@@ -786,23 +786,23 @@
    "p_dem_sim": 1.0
   },
   "tx34": {
-   "mean": 2.6,
+   "mean": 3.2,
    "sd": 6.6,
-   "p_dem": 0.654,
-   "lo": -5.8,
-   "hi": 11.0,
+   "p_dem": 0.684,
+   "lo": -5.3,
+   "hi": 11.6,
    "inputs": {
-    "polls": -0.3,
-    "n_polls": 3,
+    "polls": 1.5,
+    "n_polls": 4,
     "fundamentals": 6.3,
     "experts": 5.0,
     "weights": {
-     "polls": 0.5,
-     "fundamentals": 0.2,
+     "polls": 0.57,
+     "fundamentals": 0.13,
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.658
+   "p_dem_sim": 0.692
   },
   "tx35": {
    "mean": 0.3,
@@ -883,7 +883,7 @@
  },
  "house": {
   "seats": 38,
-  "dem_mean": 11.4,
+  "dem_mean": 11.5,
   "dem_median": 11,
   "dem_lo80": 9,
   "dem_hi80": 14,
@@ -896,15 +896,15 @@
    0,
    0,
    0,
-   628,
-   2032,
-   3636,
-   4611,
-   4189,
-   2639,
-   1267,
-   557,
-   235,
+   596,
+   1911,
+   3592,
+   4642,
+   4261,
+   2711,
+   1282,
+   561,
+   238,
    124,
    44,
    20,

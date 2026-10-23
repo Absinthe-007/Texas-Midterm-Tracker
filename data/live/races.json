@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:11:33+00:00",
+ "updated": "2026-10-23T21:27:07+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -112,6 +112,23 @@
    },
    "polls": [
     {
+     "pollster": "Rasmussen Reports",
+     "partisan": null,
+     "start": "2026-10-20",
+     "end": "2026-10-21",
+     "n": 965,
+     "pop": "LV",
+     "moe": 3.0,
+     "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_texas_senate",
+     "results": {
+      "R": 45.0,
+      "D": 45.0,
+      "L": 5.0
+     },
+     "undecided": 5.0,
+     "margin": 0.0
+    },
+    {
      "pollster": "ActiVote",
      "partisan": null,
      "start": "2026-10-17",
@@ -207,6 +224,22 @@
      },
      "undecided": 2.0,
      "margin": 6.0
+    },
+    {
+     "pollster": "Texas Public Opinion Research",
+     "partisan": "D",
+     "start": "2026-10-15",
+     "end": "2026-10-18",
+     "n": 969,
+     "pop": "LV",
+     "moe": 3.9,
+     "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+     "results": {
+      "R": 47.0,
+      "D": 51.0,
+      "L": 2.0
+     },
+     "margin": 4.0
     },
     {
      "pollster": "CBS News/YouGov",
@@ -1214,10 +1247,10 @@
     }
    ],
    "average": {
-    "D": 48.1,
+    "D": 48.2,
     "R": 46.2,
     "margin": 2.0,
-    "n_polls": 21,
+    "n_polls": 22,
     "window_days": 30,
     "from": "2026-09-24",
     "to": "2026-10-21"
@@ -1459,19 +1492,24 @@
      "R": 46.0
     },
     {
-     "date": "2026-10-19",
-     "D": 48.2,
+     "date": "2026-10-18",
+     "D": 48.3,
      "R": 46.1
     },
     {
+     "date": "2026-10-19",
+     "D": 48.3,
+     "R": 46.2
+    },
+    {
      "date": "2026-10-20",
-     "D": 48.2,
-     "R": 46.0
+     "D": 48.3,
+     "R": 46.2
     },
     {
      "date": "2026-10-21",
      "D": 48.2,
-     "R": 46.1
+     "R": 46.2
     }
    ],
    "key": "senate",
@@ -1634,6 +1672,22 @@
      },
      "undecided": 1.0,
      "margin": -5.0
+    },
+    {
+     "pollster": "Texas Public Opinion Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-18",
+     "n": 969,
+     "pop": "LV",
+     "moe": 3.9,
+     "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+     "results": {
+      "R": 51.0,
+      "D": 48.0,
+      "L": 1.0
+     },
+     "margin": -3.0
     },
     {
      "pollster": "CBS News/YouGov",
@@ -2505,10 +2559,10 @@
     }
    ],
    "average": {
-    "D": 46.4,
-    "R": 48.7,
-    "margin": -2.3,
-    "n_polls": 16,
+    "D": 46.5,
+    "R": 48.8,
+    "margin": -2.4,
+    "n_polls": 17,
     "window_days": 30,
     "from": "2026-09-24",
     "to": "2026-10-21"
@@ -2720,13 +2774,18 @@
      "R": 48.6
     },
     {
+     "date": "2026-10-18",
+     "D": 46.5,
+     "R": 48.7
+    },
+    {
      "date": "2026-10-19",
-     "D": 46.3,
+     "D": 46.4,
      "R": 48.7
     },
     {
      "date": "2026-10-21",
-     "D": 46.4,
+     "D": 46.5,
      "R": 48.8
     }
    ],
@@ -7028,6 +7087,23 @@
    },
    "polls": [
     {
+     "pollster": "Washington Post/Schar School",
+     "partisan": null,
+     "start": "2026-10-14",
+     "end": "2026-10-19",
+     "n": 626,
+     "pop": "LV",
+     "moe": 5.4,
+     "url": "https://www.washingtonpost.com/politics/2026/10/23/two-texas-districts-gop-had-counted-now-feature-tight-house-races/",
+     "results": {
+      "D": 50.0,
+      "R": 43.0
+     },
+     "other": 3.0,
+     "undecided": 4.0,
+     "margin": 7.0
+    },
+    {
      "pollster": "Public Policy Research/Texas Southern University",
      "partisan": null,
      "start": "2026-08-18",
@@ -7078,13 +7154,13 @@
     }
    ],
    "average": {
-    "D": 42.0,
-    "R": 42.3,
-    "margin": -0.3,
-    "n_polls": 3,
+    "D": 44.0,
+    "R": 42.5,
+    "margin": 1.5,
+    "n_polls": 4,
     "window_days": 30,
     "from": "2026-04-29",
-    "to": "2026-08-22"
+    "to": "2026-10-19"
    },
    "trend": [
     {
@@ -7101,6 +7177,11 @@
      "date": "2026-08-22",
      "D": 45.0,
      "R": 42.0
+    },
+    {
+     "date": "2026-10-19",
+     "D": 50.0,
+     "R": 43.0
     }
    ],
    "debates": [],
