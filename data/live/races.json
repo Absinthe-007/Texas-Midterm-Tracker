@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:43:14+00:00",
+ "updated": "2026-10-23T17:11:33+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -125,6 +125,40 @@
       "D": 51.0
      },
      "margin": 2.0
+    },
+    {
+     "pollster": "Verasight/VoteHub",
+     "partisan": null,
+     "start": "2026-10-01",
+     "end": "2026-10-20",
+     "n": 509,
+     "pop": "LV",
+     "moe": 4.3,
+     "url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf",
+     "results": {
+      "R": 45.0,
+      "D": 48.0,
+      "L": 1.0
+     },
+     "undecided": 6.0,
+     "margin": 3.0
+    },
+    {
+     "pollster": "Verasight/VoteHub",
+     "partisan": null,
+     "start": "2026-10-01",
+     "end": "2026-10-20",
+     "n": 517,
+     "pop": "RV",
+     "moe": 4.3,
+     "url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf",
+     "results": {
+      "R": 45.0,
+      "D": 46.0,
+      "L": 2.0
+     },
+     "undecided": 7.0,
+     "margin": 1.0
     },
     {
      "pollster": "Emerson College",
@@ -1182,8 +1216,8 @@
    "average": {
     "D": 48.1,
     "R": 46.2,
-    "margin": 1.9,
-    "n_polls": 20,
+    "margin": 2.0,
+    "n_polls": 21,
     "window_days": 30,
     "from": "2026-09-24",
     "to": "2026-10-21"
@@ -1428,6 +1462,11 @@
      "date": "2026-10-19",
      "D": 48.2,
      "R": 46.1
+    },
+    {
+     "date": "2026-10-20",
+     "D": 48.2,
+     "R": 46.0
     },
     {
      "date": "2026-10-21",
@@ -6104,8 +6143,8 @@
     },
     {
      "source": "The Cook Political Report",
-     "rating": "Likely R",
-     "as_of": "March 12, 2026"
+     "rating": "Lean R",
+     "as_of": "October 23, 2026"
     },
     {
      "source": "Inside Elections",
@@ -6507,8 +6546,8 @@
     },
     {
      "source": "The Cook Political Report",
-     "rating": "Lean D",
-     "as_of": "December 9, 2025"
+     "rating": "Likely D",
+     "as_of": "October 23, 2026"
     },
     {
      "source": "Inside Elections",
@@ -6953,8 +6992,8 @@
     },
     {
      "source": "The Cook Political Report",
-     "rating": "Tossup",
-     "as_of": "January 15, 2026"
+     "rating": "Lean D",
+     "as_of": "October 23, 2026"
     },
     {
      "source": "Inside Elections",
@@ -7094,8 +7133,8 @@
     },
     {
      "source": "The Cook Political Report",
-     "rating": "Lean R (flip)",
-     "as_of": "September 25, 2025"
+     "rating": "Tossup",
+     "as_of": "October 23, 2026"
     },
     {
      "source": "Inside Elections",
@@ -7129,6 +7168,22 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Washington Post/Schar School",
+     "partisan": null,
+     "start": "2026-10-14",
+     "end": "2026-10-19",
+     "n": 606,
+     "pop": "LV",
+     "moe": 6.2,
+     "url": "https://www.washingtonpost.com/politics/2026/10/23/two-texas-districts-gop-had-counted-now-feature-tight-house-races/",
+     "results": {
+      "R": 48.0,
+      "D": 47.0
+     },
+     "undecided": 5.0,
+     "margin": -1.0
+    },
     {
      "pollster": "Emerson College",
      "partisan": null,
@@ -7178,13 +7233,13 @@
     }
    ],
    "average": {
-    "D": 49.0,
-    "R": 47.0,
-    "margin": 2.0,
-    "n_polls": 2,
+    "D": 48.3,
+    "R": 47.3,
+    "margin": 1.0,
+    "n_polls": 3,
     "window_days": 30,
     "from": "2026-10-14",
-    "to": "2026-10-14"
+    "to": "2026-10-19"
    },
    "trend": [
     {
@@ -7196,6 +7251,11 @@
      "date": "2026-10-14",
      "D": 49.0,
      "R": 47.0
+    },
+    {
+     "date": "2026-10-19",
+     "D": 48.3,
+     "R": 47.3
     }
    ],
    "debates": [],
