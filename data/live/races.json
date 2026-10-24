@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:27:07+00:00",
+ "updated": "2026-10-24T04:40:42+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -157,7 +157,7 @@
       "D": 48.0,
       "L": 1.0
      },
-     "undecided": 6.0,
+     "undecided": 5.0,
      "margin": 3.0
     },
     {
@@ -174,7 +174,6 @@
       "D": 46.0,
       "L": 2.0
      },
-     "undecided": 7.0,
      "margin": 1.0
     },
     {
@@ -1555,17 +1554,17 @@
     {
      "source": "The Cook Political Report",
      "rating": "Lean R",
-     "as_of": "October 1, 2026"
+     "as_of": "October 23, 2026"
     },
     {
      "source": "Decision Desk HQ",
      "rating": "Lean R",
-     "as_of": "October 11, 2026"
+     "as_of": "October 23, 2026"
     },
     {
      "source": "Fox News",
      "rating": "Lean R",
-     "as_of": "October 6, 2026"
+     "as_of": "October 20, 2026"
     },
     {
      "source": "Inside Elections",
@@ -1573,19 +1572,24 @@
      "as_of": "October 15, 2026"
     },
     {
+     "source": "NBC News",
+     "rating": "Lean R",
+     "as_of": "October 23, 2026"
+    },
+    {
      "source": "RealClearPolitics",
      "rating": "Tossup",
-     "as_of": "October 5, 2026"
+     "as_of": "October 12, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
      "rating": "Lean R",
-     "as_of": "October 6, 2026"
+     "as_of": "October 22, 2026"
     },
     {
      "source": "Silver Bulletin",
      "rating": "Lean R",
-     "as_of": "October 11, 2026"
+     "as_of": "October 23, 2026"
     }
    ],
    "finance": {
@@ -1623,6 +1627,39 @@
       "D": 48.0
      },
      "margin": -5.0
+    },
+    {
+     "pollster": "Verasight/VoteHub",
+     "partisan": null,
+     "start": "2026-10-01",
+     "end": "2026-10-20",
+     "n": 509,
+     "pop": "LV",
+     "moe": 4.3,
+     "url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf",
+     "results": {
+      "R": 48.0,
+      "D": 46.0,
+      "L": 1.0
+     },
+     "undecided": 5.0,
+     "margin": -2.0
+    },
+    {
+     "pollster": "Verasight/VoteHub",
+     "partisan": null,
+     "start": "2026-10-01",
+     "end": "2026-10-20",
+     "n": 517,
+     "pop": "RV",
+     "moe": 4.3,
+     "url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf",
+     "results": {
+      "R": 48.0,
+      "D": 45.0,
+      "L": 1.0
+     },
+     "margin": -3.0
     },
     {
      "pollster": "Emerson College",
@@ -2559,10 +2596,10 @@
     }
    ],
    "average": {
-    "D": 46.5,
+    "D": 46.4,
     "R": 48.8,
-    "margin": -2.4,
-    "n_polls": 17,
+    "margin": -2.3,
+    "n_polls": 18,
     "window_days": 30,
     "from": "2026-09-24",
     "to": "2026-10-21"
@@ -2784,8 +2821,13 @@
      "R": 48.7
     },
     {
-     "date": "2026-10-21",
+     "date": "2026-10-20",
      "D": 46.5,
+     "R": 48.7
+    },
+    {
+     "date": "2026-10-21",
+     "D": 46.4,
      "R": 48.8
     }
    ],
