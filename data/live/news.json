@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-24T16:08:04+00:00",
+ "updated": "2026-10-24T21:01:44+00:00",
  "news": {
   "ken-paxton": {
    "latest": [
+    {
+     "title": "Who is Ken Paxton? 5 things to know about the Texas Republican",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0xJdHE5UW1GandYNHQybmJpU01pcEt5MHFDQjhnX1NsTnpmX3FJX1FjajBOcmFuQ0ZXdS0wTEFieGtQUmtXSTVtM1Q1U09MOXFidmJlVERDWTJURllISmY1NHFScGRvdzkzQmJ6SV9wUDFFTFdCQzFIcndCUk11Sm9STzFrU1ExSTh4RUh4MDlBYUJoX0tKV0RxRmFSbXhzcEZ5dGJUaktwMUI1RWVTZFg0LVdTM0tRcVY5V2F2MnFkUnc?oc=5",
+     "outlet": "El Paso Times",
+     "published": "2026-10-24T15:20:13+00:00"
+    },
     {
      "title": "Ken Paxton holds rally in Selma; James Talarico casts his vote",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbXNPTEVXODJCS0NWdERTNlhwYXN3QkUzNXl4YnBFd3VZUGNZd1Bhck5ZZ1p6ZlpLdUhXWGdqbTFlUkFRTm9ZRERvSFR0ZlRYZEZIcGZKbTY2Q2hhZFpkanNSM3lJcVpWZWpOZzl1ajluUVRLODBtNTVrbUx3S2pTY0U1SkY1NThfa1g2OU92X0FDRzlKdE10MXRmODF3UG5XOGl1MDB0YUVpNDZYanc1X19sc19jSkZIanFINVFtd011T21HS1lyS0NMX002MnRGZS0yQjhCQUhFU3FJbFlDb2FEQkVZd196bHc?oc=5",
@@ -44,12 +50,6 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlJjRlhVLVE5MmlmZnV6eHZaR0RiUE55clhVVmx3NC1vajNwT1VOM2NvLUh5ai1aR1YtX2NYbkhuQUM0Ri01YW1hZ28wMXBJTC1yd2NFbmpnby0xZlVLNGNRVlc2QllFM2ZISlNfNDAydUN6TklnNGxjbjhCeHUyXzNKeDhBdTVK?oc=5",
      "outlet": "The Texas Tribune",
      "published": "2026-10-23T16:08:40+00:00"
-    },
-    {
-     "title": "Fear and hope in Texas: Paxton vs. Talarico in an expensive US Senate showdown",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWx1TWdJYnNpZ2ZqWGJzM1dSRDlqclhRYXhRWkQ4RGswZGZWQ1RuUjdhU2k1M0NPQWhXUUdJajdfWnhkMjJEWTV1RWd0X2d5V3JMTnNhR1lhbVl4cXF3QVBrUTZXV0YwYkFJT0thRXdsdkZGWXBMS0MwS2FJWGUtMExkRWhMcXZ4Zm8tVW1xZmpjWDRxTzNGYTZpR3R1d1dlVXk2UVZ6TExralVX?oc=5",
-     "outlet": "AP News",
-     "published": "2026-10-23T12:30:05+00:00"
     }
    ],
    "said": [
@@ -156,6 +156,12 @@
   "james-talarico": {
    "latest": [
     {
+     "title": "James Talarico rallies young voters in Austin who are critical to his Senate hopes",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWFBX2o1TmVkRll4TzFSRlRxSzI5N09JY1pDMWdCYjkzdjRCSzh2TGhabW5LLWxPUzBXYWdLXzM5RFUxZm1SV1c5X2FSUHNnVVU5T1FWdEFPaVdzTWlXMnEtamVrRFdDU25PYzg0MFFUbHM2UFQ5T1FLLUdwanU5d25KYURNbXZteUViQWwyaXoyXzBtQ2lNV3BRQ25jRHJlRHNxVlVwNXY0N3RfZjd2Uk90U20?oc=5",
+     "outlet": "NBC News",
+     "published": "2026-10-24T17:55:25+00:00"
+    },
+    {
      "title": "U.S. Senate hopeful James Talarico holds rally at UT Austin ahead of Election Day",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXVkaFliM0NEa280OGF6LWJNR01HMHhPUy1Ea2lnd2kzNGx2NkZJRFhuNlRVaFFNQkQ4WHRaSUJTbFBxaEoyRUpQMXZpLVhaQklvelBjVXpiVUJ2anJqX2NxWEZGYm9PX0dLUEgtbFRfTVNUNEFrZjVURGdGYU1mRDQzLXZlR010YUlweUNRYi1qMWs?oc=5",
      "outlet": "KUT",
@@ -184,12 +190,6 @@
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YaGEwWHVxRW5HdFZQdkRoVkZRNU52SnNWWTd5STV6VDRTc1dNbW1JcGM0dU5LU3J0aVl3SFlscXFhMFFwU0tTSzJ2TWZtcms3dDY5eGp3?oc=5",
      "outlet": "Fox News",
      "published": "2026-10-24T00:39:29+00:00"
-    },
-    {
-     "title": "Talarico draws crowd during Temple campaign stop",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDB6ZTJlMjh2Q0JadWVsTkhLOGVhWFpXeHE4MnQ0Z3VCZzFmWDlXTVp3TWQwMUxrblVDM09hUWFzOXh2Z1I0cHhONC0tY0ZjWHBzUEUzLTZEN0k4dWs5SlBTc2ZxTV9FMnFBU0lKbDhZSV9UQjEwQkxSa3d5LVRPWUx0QWZHZEN10gGcAUFVX3lxTE9SVkluTDNwQ1ZaLWdXZi1IOGNLaHBock1jM1NCbU5PUkJQUTEwTHIzaVJ6b2lYOVFnQWRsSzdyeXd5T3h1aDlqeFNuMFl0RTN6ajZOWnRyS3lTY3VPLVJzbGl4RlptOEtkWEJHckNrODFBbm91TXF3eHpJZGJIVDVaeFo1eU0zOTF6MjFSTzRPdkNrd3BaZzBwV3BSbw?oc=5",
-     "outlet": "KWTX",
-     "published": "2026-10-23T23:24:00+00:00"
     },
     {
      "title": "James Talarico hosts rally stop in Temple",
@@ -256,15 +256,15 @@
    ],
    "scrutiny": [
     {
-     "title": "James Talarico Faces MAGA Lawsuit Over Slogan To Woo Conservatives",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblJ6WGNxVDIwd2NHZlRnQzlKZE5kMGhSWGlZb1RRTnl2dWpvVmtSMWhZNU9iOWJ2US12THU0TVNOTmprSGcza3BuUXJQRE1RMXp2TjZES3U5dldSN09iZ1paV2pkcUlsUERrbTA0SHFncWFjWjFiSElNeDY0TUJIeFFOUVRRTEtLbGQyNkJJal9Za0M2MFZN?oc=5",
-     "outlet": "Newsweek",
-     "published": "2026-10-16T07:00:00+00:00"
-    },
-    {
      "title": "James Talarico’s Chances as Absence Stirs Controversy in Texas Senate Race",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0NpNVZlTE1FYnA3M0xuMUV6eEh4UUhBZXFSVnQ2cGt0ZW9lTURSWVJXV2FvSXprNXNrdlBXdWZ3U20yTG5HQXFqNFh0aEdvS0x1MkFGUUROckRNWHNsaHJFeEd2clFuaTk4UnFETWllM09ENzlmZVlld1ZfRXRSblY0bW96QnBhczlXMTZ3dzZESmtBUEhv?oc=5",
      "outlet": "Newsweek",
+     "published": "2026-10-11T07:00:00+00:00"
+    },
+    {
+     "title": "James Talarico’s Religion Comments Continue To Spark Controversy",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY00wbFJnX0F1cUFRT2xpbnFrLWQ5S3dDcG5rZHcxRnZGejlTanpnUFQ3WnlQeEhSeU1GaFhsM3RjdHc5SlhjdzFra2RpUEE2MVdHSW9VQTlmSmRZNHVmUXk2a0JqbHRTVmhqeVdRTUhpbk13WUg1bTU5NHpzdW5KX2R0Q2Jpa2hEQklwWnB2MmtoU1k2NVlPcGtjR3lIeGQxTFhB?oc=5",
+     "outlet": "FOX News Radio",
      "published": "2026-10-11T07:00:00+00:00"
     },
     {
@@ -280,28 +280,28 @@
      "published": "2026-09-17T07:00:00+00:00"
     },
     {
-     "title": "Jasmine Crockett and James Talarico react to controversy over his interview with Stephen Colbert",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObHB1LUVnMTI3YXJTQ01vR3BGTkltUjZ6UEtKSHk3Q1JVSUI1eUh2elZHRWNuTHpabjBGN1FISXQ5WkxTRlQzYkE4ZUpEdUtLRU5WOXVpMm56TVprMnhuNXhRSjFyYkNOT29MN1hYOGRWM3ozNVBSOXk5VlVzbnpEaGZ2b245VmI2dVY3dVZFaUhaNTB4dVV6VDAteGF5TG9Zc1RES2M4QWNqVjJ3azg1WTY5ak9KQWp3LVNsaVZDajZHdENZVkdYbFBOeDhGZw?oc=5",
+     "title": "Talarico says he 'missed the mark' as he backtracks on controversial woke statements",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkpIRzRucjk3SkVvd1BLQVo2dVY0UlkwazFma1pJakU0RlpnZmlqTm9TZXgteTMtV3ZpS1NrQWFLcHhmRjFCQ0JnZ3ZyTFlhbEU4Nl9NQlptU0lnNWZYVHhyd1psQzdhd0FzWmwyZURneG9GYWU0NVFDejdCa29EX2k1Zzhzd3BWS0ZsMWhaT3JQOXNtbWtTWEdB0gGfAUFVX3lxTE9sOGVsQkNKd3lwS0N2YkNjYTdRaW1xbm1RWkRIQ2lQZWVYaGhwWEVsaUc5b1BGeGVfc3JZQU0xN1d0bE5JTWVhWk1UVmZxVlRfS2h2MjNmTEd6UkplNUQ1LS1SNnpJeDBLc1h2UXlIOWk5LVM5MDA0UHFoZjg0cXVONmdtQVRjX2JmdHk2MGVOVndPV3hOcHlfZWVtb3p0NA?oc=5",
+     "outlet": "Fox News",
+     "published": "2026-09-09T07:00:00+00:00"
+    },
+    {
+     "title": "Ken Paxton whistleblower endorses James Talarico in Texas’ U.S. Senate race",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzdWR0U3LTdtbzJwUDNrOEg1QmhYRnZJb3VmcmJORlpEQjBkdExIU3RxdklCa2tuQkVWZTJoWEpvYXJKNF9Hd1JfUWJTcHpIcmtZd251cmtIRVJ6S19lRlk0ZXZtV1FMWDdYVTA1Ukg5S181TExrcjZlc2ZTQjJaY1Q4UU9Rd2pqSV9XRmhDUjFUVS1rSmdRQnR3Zlc0aEdjVmxVVGZWckxkVmxaanBDcHNGM2V3VEU?oc=5",
+     "outlet": "The Texas Tribune",
+     "published": "2026-09-08T07:00:00+00:00"
+    },
+    {
+     "title": "Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJbjBJcklxOFp2U245T3IwUXhVaGt4VDNQQlNPOGczOEgwWnJnNjM1MzdMbEhiWVpERTNKT1NwTzlTaFB4dU1sMGFOSW1rNkNYT05RNlJXUUt1N2NadG0wSFZFQUxKQjVleHpmT1YxVW4xSGVPZDlPLVB1R2g?oc=5",
      "outlet": "CBS News",
-     "published": "2026-02-22T08:00:00+00:00"
+     "published": "2026-09-02T07:00:00+00:00"
     },
     {
-     "title": "Talarico gets burst of momentum from CBS controversy",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hNk44NU9LRXlEdnltZkdRTHVCT0dUa181R0duNUNOV28yR2FsVFlNR3d6MlpibWlTdm9IWVBoUXJaQ2EwQ0hfTkh3eGhYc1hONFREbXRVSDRVSkxyMmZ1NnhTT01rc3dydGNmNzN4ZTN4N1d1RDIxYlZ4TmLSAYIBQVVfeXFMTk5xa1dXcnptdHAyVkNHZzV4U1JuRm4tajRNWXExOWI3OE8zbXRQSlkxLVdTckdKVkt3TEVOa1Bhd2xPR1RTUGFtWkxEck5QN1VwdU9QY21RbnRZM3MxNnRneHNNVnJ2aU9JdTRDY2VpWmtrLWctalVPbWNZR3Vtc0FLQQ?oc=5",
-     "outlet": "The Hill",
-     "published": "2026-02-19T08:00:00+00:00"
-    },
-    {
-     "title": "Senate candidate James Talarico raises $2.5 million after Stephen Colbert interview controversy, campaign says",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemR2NFVOU01hSnZhR1RnalVrbE1MbFV4QVJ5b2pFLXcwa3V5ZnlmSU9hTEJqRXRDZUlaUmxOSzhQVlZxcTZhdDhvQUxVWTh2U3ZHMURidHJab1V1dVg3Si0wb3c4NHdlRkQyM29CUUNrTW4ydDlsRGhINGY5N0JWSV9LVmkyUENTQnpEUWdQOXMydUtGcEljeW0yQmZBVHAxMEJBb042VnY4bTZXNVRWbkZUOTNCQ2dSalBlNjh0SmtkVDctcmVJTDlxWkRpYTYwTUoyeDNadjRuNGNianBEbWI4MXFJWG5KVDdhNmt4RnpZNjZseEZuZNIBgAJBVV95cUxQazFwaXFyMmc2VjlBcVIzUmJBQkxzWDAtaW1qdTFrUkNSaWpWZzQ2SWdGUFlLM1ZCTXM1VUtwdi1ibEpBOW1KckRJWnhMaGdobGlNaklEU3RWVl80R3ctRnVMeHNEUndzZHVPOURFYzAyQnVnamZWSng2Z19jSU1wdWJ5Wk5nblJPZ2ZZOGVJU0l6VmZOc3F4MDFoX1dfRjZHZkFicmo4ZW9mbHhCSE5naUZTNXBXbDRRTmFFWjVReENzMlRySjNGSWZGaVQyOTVsdXlNQWNTaElHamRBY1BnMUlKREdZeTlRVGl4OHd5ZmZBdXJxWk9BaWl4UEV5aUtM?oc=5",
-     "outlet": "Houston Public Media",
-     "published": "2026-02-18T08:00:00+00:00"
-    },
-    {
-     "title": "Stephen Colbert slams CBS again amid controversy over James Talarico interview",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGZPOVp1Q3pIOE9qVlpES25Xc29FYmRraUFiWkNadHlBeG8zc0hzZ1p6eVJpZWlMR0FpaGhhcm03ZzlrUldLd202bXl4QjZ3TEYzMFVDVHUxUnZkYnZxd1ZlQzJzbklvbzdndFlxOUdnQm9keGpUVUppMzVtd25TSGZvLXBGa0hPeWVHdHMySQ?oc=5",
-     "outlet": "CBS News",
-     "published": "2026-02-18T08:00:00+00:00"
+     "title": "Talarico campaign presses to unseal Ken Paxton deposition in fraud case",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0p6UHhMa01hOVRzakNjQVg2TkxjQzhMT2IwTTZaUC0tNUhjTGxGZVJQeVJMazduME5fdHh6ZVZVQ2tvakx5SFdmX1NxeXVEU2d5dGhlSUlaeW9nQU00VmhFS2NseW1nUVkwV2kweE9kQUwwTTBzYzBwOW50VzdKN0VuRGJSVGtUOXAyYzBVUzdYRkd2WlJ3NE0xTDRVdXhVOG9YTTNhV0NIU1BNMjhXeFlZUkN3ZDEzTlg0djNUbFJmUGdqcjlaWW9HeWc2R1VZ?oc=5",
+     "outlet": "USA Today",
+     "published": "2026-08-27T07:00:00+00:00"
     }
    ]
   },
@@ -312,6 +312,12 @@
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGpjbnNGR2N4ZVN3QW1jX0NNT2VQR3pHdnhBbkFkcGxCR2VQZnNkMWJIT3VIbGh2STJYbjN1Ti1JZTlFeC1udVBRd2Z4X0RVY3E4VUpGTEtEQUVSWGRNRG9sOTZGN1hYSTNnalp1QzlGN19jQjBTTW41d21vaTBLckJSM2xFQkJPa19PcDB6Mjh1azBWSVJZZ29MTkxwUXBRZzVXaTctekhoNUtBbmE1V0F4T2lldE5M?oc=5",
      "outlet": "Tyler Morning Telegraph",
      "published": "2026-10-24T10:45:16+00:00"
+    },
+    {
+     "title": "Trump, Abbott, Hinojosa set campaign stops across South Texas",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTmN3WjlST0pweGR5dlMwWHZzY1JqU2hlOTVWZEg2LUxzSkp6c3ZiekRydWVRZGRfUm1VRFd6TjFHajVScEoxSlNlRHFpSktWVlVWOHBURF95Q0dMN1NJNTFZeklQS25QbnN1Qm9QNTlEUFdtTmtrdUFrdVhGZ3hxMlA5Q21wUzR3cWVNU1JyTk8zd0ZUbGtrQWFxZnhYUGtGaWc?oc=5",
+     "outlet": "The Victoria Advocate",
+     "published": "2026-10-24T03:30:57+00:00"
     },
     {
      "title": "FULL: One-on-one interview with Texas Gov. Greg Abbott ahead of midterms",
@@ -348,12 +354,6 @@
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQblEzaVZuMm14VG1YZlpVSTh5dlRKTmU0bFp1Y25qM1NoOVNnZUFPVm5QQVFpbzA2bXZvVDBUaHVQQWZ5Y19qaVA2bnVka0s0RVh0TGlzdWJxeGgyWWZtTjM5UlFLWXBWaW1jRzFQMkpyVmpDOWQtamhrU3BPQm0xMlZNTWdRVGI4RjVqWEZxdkhvcVZPR24wVWtyMEU0VU1SamdRTVNVM1ZmWXpoMkl6b3BLWmg2Q3oxd0lSclFBOWJJVE1CZFNaQUtYVHV5b1ZGS1h1bFZSUEZzeEl6?oc=5",
      "outlet": "San Angelo Standard Times",
      "published": "2026-10-23T00:41:00+00:00"
-    },
-    {
-     "title": "Permits related to data centers issued after Abbott's halt directive, advocacy groups found",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmFHOFU3c19RM2RKMXJJX2RBN1lnQkoteEMtSUlkVjJvc1hHdHl4N2M5Qk9hZnZ1VC1HbUtFM2had2VnRkpTU0kwcjhPWmN1WG9EeGp3cmdjWXBEbnVBMElfX1ZnM2t5eTBTVmRwRUdRd3I1YnFSLVduTkNhQlY5YkpGaTZ5aHdCazNaZE40aExGT0JWWVhOeW1Ba201SWttR3dyRFY2WjhsdjRqSExMTVR0WdIBuAFBVV95cUxPZG1DaXVXaDZNTjBDUTVMOXZHazZIY2NoUHg5U2V6TGRBMDhDellRTGlsc2FYYXBmbjl4VlFSTl9kZzZ1eFkwVGJHSmV2VDU4NXR6Q1g1Qk02Vk85UVVrSnY3OEN2V2RoMXZVdWJhZ2diRkV6d1FTT0pFZFRiMEg2cHQyODBSTHJxWGRmQ2plRzFDV3BXQmluWU9RSlhHb0E1UEZ0LU9rRDdKLUZESU1CR3ZlSFNJX3Jk?oc=5",
-     "outlet": "ABC13 Houston",
-     "published": "2026-10-23T00:26:34+00:00"
     }
    ],
    "said": [
@@ -376,6 +376,12 @@
      "published": "2026-10-23T00:41:00+00:00"
     },
     {
+     "title": "Gov. Greg Abbott says sale of Boca Chica State Park to SpaceX won’t happen — anytime soon",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fTFRaTkIybzRzcjBydnBuSkw5Tk5Bem16NHVreHBRUHVWTWU0WkxKaGNhcHZaN19yYlJCWnlzLWhpY1lPUmtLQ2xJekw2Q0ZmcThXVGtPcUNaSlZRTzMyRnZkOXVkMHdHMnJ5NE1QNHpTSERoVEJHOXFEWko2a0U?oc=5",
+     "outlet": "The Texas Tribune",
+     "published": "2026-10-20T00:07:39+00:00"
+    },
+    {
      "title": "Governor Greg Abbott doesn't believe the polls and says Texans will put him in office for a fourth term",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzFoVEtYTjgzT0lPcmdrTUVHTm93NHF6SXl1RzJIQTJKUUhFWmdVelNsRVI4MWxvTWZMSkE5cl9RV3lKdGZaWVl4SDFpUVN5MmN3aVpyWFJsalVfa1FFNXA3SU9Uay14dGZEWGhjczQ5WHhPNWVYUmphcnhmd2g4cVhGN1dLMnVZNVhyQ3pTUkxYaGxKX19oc0ppRm1RMWNXM19JdThJVnRSUEZ6eHNkc0FBWmFieGVKSFBET1g1SlRLSGRRSmJNajV2bFUzYW9ZMDh5ZTFkNF96dDdLMF9qTzJ1VUlQWWJKV2FLcVNvel92MVBUWC1Xc0tJNHItdk55REtj0gGLAkFVX3lxTE9RZ3kxMXoxaFY3S2QtVjhoaG5DNXdudHl0c0pNTldoTE9fam1kb1JYVUhscHh0d3VQeURYM0lKQkUzSkJUbzc3YUtyODlWR3FrVDFvMWstY29oZWZNUG45ckF5Q0hMeHBySmZHVUgyd0d2a1JTeF8ycndpUDdhajhQdGhUR3F0MWhWeDd2dThKREFCY0dlWUYyUnNIQWpoYkFpMWlvcnQteHJXWnJTc1hvZzJuYWVaZi1CXzFCbXpTcm5yRmJDdEl0blEyM19ENWNhZHJPN1ZZQ2E5RWVBWUlaNk5uOFFOcVFuQXpMQjd5ckVway1LTmZZSjVqV09PbjJZVjB2ZXBlYUdGYw?oc=5",
      "outlet": "NBC 5 Dallas-Fort Worth",
@@ -386,12 +392,6 @@
      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNamllZ2FBc0RmVmppbWNsVnAtQlhKQll6SG9sMVZsNzVNTDhxeTVUVm1XT29tQzlVWWpIMXpsNjU4aWVtRmlWSmxTRkFDcVBFbmpmYnB2V0ZmbTNNRmFEdUVwdlkyNE1kUHBkTnFqNWtiLUh0WGdDTkd5MjJ0UVVFejZXZXZaUkZVNGtWcGcyVEQxRlV3WXg1TzRnNnF1RGdha0xmdDJUTEhKYktxenpBRnNFd1hqOVVfZG1GbFB4V0NrN1hQTG9fQTVBZFRmZDFnWV9zZldTU0V2OHMzMkRPZWFuaUJxRXdwS3JldWZ0VDRqeHdEMGNUUEpTSHJmZGFQQTFhSTRhOWlSMy11N1dRcDh1OXQ4Q3NMZjFrWlFCTWJsM3NBY2o3cHdFSlFteGlJZUNJaUttMWxYZXNkaXlaakg3MWVvT21SQm1R?oc=5",
      "outlet": "WFAA",
      "published": "2026-10-17T18:24:00+00:00"
-    },
-    {
-     "title": "Abbott, Hinojosa criticize each other on debates, public safety in lead up to early voting",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekRrd1g4azJDZU5DWUZYM0pGMWh1RmlZaE5UWHR4NXh3d0NKZnV0RmNzbklZZk1TZWRCczFYR250WEFBeDVNYld2N1V4SEF4WHZLNHBVX3g2eHJIQWR0eGZvMGVfZnVkTTFOdC16T3NvYzJDR2JSTG5iNnNsN0I4SkhXOTZKaDFiTlJpdzVDOF91bG9Uak1NNFAwaE5tdFlxcWVNczkta2FtcnVUVXk5amRkV1JrcEFIQ3FFVTBrbVluQ1M0UENWemtSZExGUdIB0wFBVV95cUxPSGtNeFdXMWFFXzlOeHFoemFxRWZ0MU41czE5VUNKa3RhNHdoNm9NdE5yRUgwc2FNenF3azc2OWlpQU5jV2JIc3h6dVdwQVlSN1JIckdxS0I1ai1iWEhPanRQa0dzLWFOVGRHay1aNmZhMUJZT0s1WUMtYlY1Y2hjZXA2X0FxSm5oYnpzTi1HM2JuRGV3LXZybGtoRTlVT0NPTk4wdm9LN1J5d1E1M00ydFhuY19TRkhUaW1sMXNlNnJVUkVhekkwelBieWhGcjhPVFlz?oc=5",
-     "outlet": "BorderReport",
-     "published": "2026-10-16T17:34:13+00:00"
     },
     {
      "title": "Could debate between Gov. Greg Abbott and Rep. Gina Hinojosa happen?",
@@ -420,28 +420,28 @@
      "published": "2026-10-20T22:10:00+00:00"
     },
     {
-     "title": "Abbott accuses Hinojosa of voting for state income tax after she voted against constitutional amendment ban",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOazVKMG5idEJraldiYU1VZlhBb1JCWXdMYi1FU0FLQkg3VGZCRVJWaFQ5LU9meUxxdTQ3MjA4SHdGMEYtMHpaZDdBaFpMcU9OSW14M2tUb21vRlcxWUFPUmhpbnAwNXV1MExxWldtRk8wZnZfWGlwNE5vTzlqVVlsMTNPV2pSczFsdWtnUEZaLUtFMXJYemp4V1ZSeFpVdzItaU5hMm5zVE1oRnEwdi1tUzRFSVRyeHJrU1d1enNUSEQ5OTh3NkxjMHZiYndOU2po?oc=5",
-     "outlet": "CBS News",
-     "published": "2026-10-12T07:00:00+00:00"
-    },
-    {
-     "title": "New Hinojosa governor race ad accuses Abbott of selling out Texans",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTE11cGxRYXVhOUc0eWtxMVdPNkJzNU9OZGhjcWM2dzA2TS1GX2hZUnVsU1hTZF9YNkhTMFRVNnV0R0F4OS1jVHV4Qmd0eHZmNTVrcTl6TlEzQ1lqOHlYMWZRem43MWFvMHk0NlR6MkduMWVONUVxNXVHUTRWZnh1S01TUThxWnkxN05PY19qdExSYWZQUGEweXRSMFVUZ0k5Q0FmU1dzUDJmUUxyTTJOSldHSzZFalFvY1VzTW9mWUpUNzNudzZyS215MUh5UV94QzJmampuVHg5aTVzeGZrN18yNW1qZ0xUUmZjRE4xQnJUMFg0Vlc0SVBfUno0MnZaaWtHUEVPY3Y?oc=5",
-     "outlet": "El Paso Times",
-     "published": "2026-09-24T07:00:00+00:00"
-    },
-    {
      "title": "Minnesota drops extradition lawsuit against Abbott after ICE officer’s arrest",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1N5NTVZT2l0cV9DQlh0THhscUJaYXhmcjRPZjNZNi1oT0trQXNMdV9qeE5hdHZhbmlBMmswN2hjeG45elpZb19vQjNhNEpFUERHUXk4Q2ZkTGNIN1lESkhrRDFyazNfRU5NaGFSRWFvdGNUSFBzeDhUZldOem5ydEdWMHpKcDJuRU85dzgyLUlWU25hZERlZlgyeDc?oc=5",
      "outlet": "The Texas Tribune",
      "published": "2026-09-17T07:00:00+00:00"
     },
     {
+     "title": "Texas Gov. Greg Abbott responds to lawsuit over extradition of ICE agent",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWVrMkhMcDk1NmhpU0JGWGtIcGNXVTltQ2ZqN2FzTXV4OW1fdE1CdU1ZZXAyRXJqaTJMOV9zY1hMUVMxaVdaa0xIOEN2dzZpX3Vhc3Bqekl1SnRrUDVmUEV6aHdkbG5CU0IwV1JYTVlKaXJLNm9IZXNpN3IxV1hleFl2aUNoRzBxYkNwTTVjZkRtYXpWdUlIWnV6Q1J3bWdQVWdEYW1qWVNSSHdhNHBxZWJSTzdoQQ?oc=5",
+     "outlet": "KSAT",
+     "published": "2026-08-25T07:00:00+00:00"
+    },
+    {
      "title": "Abbott tells judge Minnesota’s ICE officer extradition lawsuit ‘doomed to fail’",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU004dTFVLXJsLUpqeWUzRkxNdTZrdUt6LVdpSURmdFEwWU5Seks4b2dNT0VuTDFKMUIzVm04X1JfMmlpSXJXN2I5em5SbldqOThQSVNLanliUFRxUVVjZHhVeUxvMzVXY0tFaGdOcjQ3ZWdDOENxd1FhamoyQ2ExeDJ2Uy1NWjZ3WkJla1dMblF1eTJ3bmxxT194N3BRWmxKX2p3aDYzQi11WnktcTlmRVlqejdEZ2lm0gG-AUFVX3lxTE1EeUF3dkh2VXJabVpyNXhSSDZ5QzRQSk5zQlFzWEF6TXNjc21NaWhfU2E1Vko0TDFOaFA4c3Y1dW5tYVRobHZNMC1NS0d1WVBzZExnTURvNkk2M1J2WUJpdnJWY2ZlTkxqTzAtY2N0ZVdYdnhEdGxhbXBpSFRFN3J2UUQ3TG8xVlg5ZXpXVWlYUmxYS1d6VzFMejJnRm13V0dGdXA0S3JvUVF3SGdsd1dYaC10UllEVERndGhjOGc?oc=5",
      "outlet": "KXAN Austin",
      "published": "2026-08-25T07:00:00+00:00"
+    },
+    {
+     "title": "Abbott fights Minnesota lawsuit on ICE officer extradition",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFN2UHJhbVFlWkhja2xLZGFyRlNLZ3lxZ0JnWll6SXdRQWQtTE9JN3R2TTl2VkZSSmxsbXFwc2Q1eU9EZXlLRVFveWpLdVM3Z3ZvOUtvdlJmT3NTSjZYLWxyeXdjS2JKRnJiWGZzTUJTUkZyNGl6b0w2dWxWRHE0dndyOWFPN2oySkxvTzdzUkYxWHo0ekJfelFkZWZsRFNzTGc?oc=5",
+     "outlet": "The Texas Tribune",
+     "published": "2026-08-24T07:00:00+00:00"
     },
     {
      "title": "Abbott urges DOJ probe into foot-washing stations at Texas airports",
@@ -460,14 +460,14 @@
   "gina-hinojosa": {
    "latest": [
     {
-     "title": "Video: Gina Hinojosa on Abortion in Texas and Her Own Pregnancy",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXo4a2RxVjhOaW9uWFB4SVMwVVh4VjlScS1FdmloRzBwc0NYZWJLSEJScUZROGpVbmR0dFZzdE5vRk1aWTlZZ201SGNFWmRvUVR6LWFsYXF2aklTdC00YXVxNjNUdXVidkI4YW5GNmhQckdKdmdHRGZ4Zk8zV1B5WjQwMVVnd2FHbHZ1RV9lMXo5OFRfV2xsVXdzdTA3RUlhS08zREZNMURXTTg0eTZaTUhydF9DOWM?oc=5",
+     "title": "Video: Gina Hinojosa on Why Democrats Might Finally Win in Texas",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcTFudGJ2LTNuZmdCX3hlX01kN2c2bFNzY2lLVFNNZXN2MFp1dFVwN21VOEowTEstQTVxX3pSYkJiN00ySnprcWdSWXkxQ0lQWGpMN1NSOUZ6ZlhpN1J3YjYzaGp5RWRCTHVfcmpOeF90aEd4ZWp6T3BvS0lPMTV0VWJSQ1Z1dkJzUkVLSzkteXE4dkxSeEhfeTk0UVlITVJPdm5vZWk3NkR0a0NxdGQwV0VqdkJpLXBa?oc=5",
      "outlet": "The New York Times",
      "published": "2026-10-24T09:02:47+00:00"
     },
     {
-     "title": "Video: Gina Hinojosa on Why Democrats Might Finally Win in Texas",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcTFudGJ2LTNuZmdCX3hlX01kN2c2bFNzY2lLVFNNZXN2MFp1dFVwN21VOEowTEstQTVxX3pSYkJiN00ySnprcWdSWXkxQ0lQWGpMN1NSOUZ6ZlhpN1J3YjYzaGp5RWRCTHVfcmpOeF90aEd4ZWp6T3BvS0lPMTV0VWJSQ1Z1dkJzUkVLSzkteXE4dkxSeEhfeTk0UVlITVJPdm5vZWk3NkR0a0NxdGQwV0VqdkJpLXBa?oc=5",
+     "title": "Video: Gina Hinojosa on Abortion in Texas and Her Own Pregnancy",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXo4a2RxVjhOaW9uWFB4SVMwVVh4VjlScS1FdmloRzBwc0NYZWJLSEJScUZROGpVbmR0dFZzdE5vRk1aWTlZZ201SGNFWmRvUVR6LWFsYXF2aklTdC00YXVxNjNUdXVidkI4YW5GNmhQckdKdmdHRGZ4Zk8zV1B5WjQwMVVnd2FHbHZ1RV9lMXo5OFRfV2xsVXdzdTA3RUlhS08zREZNMURXTTg0eTZaTUhydF9DOWM?oc=5",
      "outlet": "The New York Times",
      "published": "2026-10-24T09:02:47+00:00"
     },
@@ -482,6 +482,12 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55aHZMMlhiWHBWbmxheWlmM3FiUmhVVWdPYi1rTnBHM202cFRiSW9KZGhCZlltY1NlSlkteVkxam45Q0ZRVHlER1VYOVQxWjVrUERiWUJ1aGNWSHBHRnJDMWZ1dDJRWmQ2MG5hTWg2N3I5S1M3QWwtOFZCa1lCaEk?oc=5",
      "outlet": "Texas Standard",
      "published": "2026-10-24T02:08:09+00:00"
+    },
+    {
+     "title": "Rep. Hinojosa denies support for state income tax in NewsWest 9 interview",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUVpBaWNjSVFBQ3ZSV0tDWEZrbEstSkJhSnpfZkxFeTZDZWIzTkpKSnN3a2ZxWTBZVzAxNFhoaGtDU0ZNa3R6OUZEc1h1emNjVnVSaDVZVjRpRVZvaFZXMFlDc004VGdHUFN5aTJTMHZqbHpsalcyNUIyZkdUUTFscFJxMVNvLVl1QVFNc09ndVY4SFFMQjBfQlo0SUN5a2VPazNRYUl5MEwtQ2ZtT3R2bWVZTVc2dFNJUTNnU2tLb0F6bFplVGUzV0RBNS1CLUNFU1U2dU05NW1qYmpraS1NU0RKUnBWaXZmZDE2Ni15Zw?oc=5",
+     "outlet": "newswest9.com",
+     "published": "2026-10-23T23:05:00+00:00"
     },
     {
      "title": "Sen. Thom Tillis, Attorney General Todd Blanche and Gina Hinojosa set to appear on \"Face the Nation\"",
@@ -500,15 +506,15 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalh3bERNaHNFZE8xZVZfUGlnR2ZNYmFYdjctNTFjS1owUHphRXZMLXk5WG5hOWlaZTd0d3ZTUXdyWDVyZjRkRHlpN3RyZTB4aVhsVm8zUDJrU0J1ZlNseHB5Y2o3NFZyeXpPSjFKaTFrYjloZFZUaHlSLU9MbDEtM3F0TUJjUjhmVVFUNzNlc09HTmhKc3hIaDlDSEE2NzFQVTQwTWdFRkJnVkRjamc?oc=5",
      "outlet": "Houston Chronicle",
      "published": "2026-10-23T17:56:14+00:00"
-    },
-    {
-     "title": "Abbott’s advantage narrows as Hinojosa gains ground in latest poll",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUaUw5UVowOVEwU1VXUHJicWJZRFV0bkZ5Rm5pYVlUNVJCUzVHcDh0Y3ZmMUlndy0zaEhFRFFlVkRudTAzVU1lMEdDU1pSd2ZuSzhIZ1poOGNlNHRYYUQ3WmdRelVMZFJfakk4ZVBVRmVjS01kRWc?oc=5",
-     "outlet": "FOX 7 Austin",
-     "published": "2026-10-23T17:56:03+00:00"
     }
    ],
    "said": [
+    {
+     "title": "Rep. Hinojosa denies support for state income tax in NewsWest 9 interview",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUVpBaWNjSVFBQ3ZSV0tDWEZrbEstSkJhSnpfZkxFeTZDZWIzTkpKSnN3a2ZxWTBZVzAxNFhoaGtDU0ZNa3R6OUZEc1h1emNjVnVSaDVZVjRpRVZvaFZXMFlDc004VGdHUFN5aTJTMHZqbHpsalcyNUIyZkdUUTFscFJxMVNvLVl1QVFNc09ndVY4SFFMQjBfQlo0SUN5a2VPazNRYUl5MEwtQ2ZtT3R2bWVZTVc2dFNJUTNnU2tLb0F6bFplVGUzV0RBNS1CLUNFU1U2dU05NW1qYmpraS1NU0RKUnBWaXZmZDE2Ni15Zw?oc=5",
+     "outlet": "newswest9.com",
+     "published": "2026-10-23T23:05:00+00:00"
+    },
     {
      "title": "Gina Hinojosa’s mom says she faced ‘voter suppression’ at Bexar County poll site",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2JVVXZyZ0puenZWd1lqWEVObHRvV0Ziel9TeUdxOTVsSHFmZmZjSWY1aWtfZlotbWNRWXRlbk4wTzBfTklJc1BVbUs1WC04QWZPS1pJLXBVb2l3WjcwNU1OZXFqVFpXZEZYSmxCWWZoZlVKVU1HREtlNE5PUHZtbjEwZjFHOUo2bFFYUnNxRThiWURiQllMY0NWYnlxTFk3MGt2b250Mmh2dw?oc=5",
@@ -550,12 +556,6 @@
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3hHdFB2a3RIS2l6WGNCeWRWTmxDSXV1eUYyMzFVU3J0Und6bnZVbDVPblZRdWh0WFpjUDZrWEdjakY2OExUNUhHck1pa0c1T21XOEVub0g2emRFakVyWm1EMnVUMzBJemU5YUJzMTk3aTkzRm9HVkRKZ0E0U2Uybzk0bHZVTmd5cVJoTzRqd05vcDR6YzNkR3ZDRjlzTDZNSXZ1QVFVM3VNc3JkazJTQUhGVHpZVm1uQTdFMkctWUhDdURUM1RVQzJ1TmV3R1VpOTBjZnZSZw?oc=5",
      "outlet": "KVUE",
      "published": "2026-10-15T07:00:00+00:00"
-    },
-    {
-     "title": "Why Greg Abbott says he will not debate Gina Hinojosa",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWpzNU9kWUg5NG5wY1NxNjh3UUZHek9XSkN0cTBkNGZTZFd3YmYwakZscVd3WENzLUQ4Q1p4aXhHanhNSVNrN1N5SjI0NU4wMExPQTE0dk9XRTFLa19hem1zS1k1TV9BU3oySndXRUVJa0czdmZValRMOWF6RFZENVN6VGh5VUQ3YmpiZTZ2d3NnSkJMMmFCTm1KTG0?oc=5",
-     "outlet": "Houston Chronicle",
-     "published": "2026-10-15T07:00:00+00:00"
     }
    ],
    "scrutiny": [
@@ -580,12 +580,6 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzdna0F2SUtQazhNYkpBdURIaVFjQnhUQU9fSm85V2IzbmxWdVNBZTRpZzVQMmc5aFpWUS1ZTUpfOElSdWpBcTZYdXY1MGdPLVhwZVBsWFVLRl9uM2RIUnpYUFI5LUljd0Q3MjBHWjBtX1FkU1MtcHBzMDlRWVJRQXdoNGR5SGF1QVZLMllNbVRLUjlEamlkQ0prNmJGbzhyOE91RzVqZnd3Zw?oc=5",
      "outlet": "CBS News",
      "published": "2026-10-23T22:54:00+00:00"
-    },
-    {
-     "title": "Texas Lt. Gov. Dan Patrick visits Corpus Christi urging early voting",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkFDY3BPUU5RNU9vYVpsVEc1YURGeVhaV0JMbmpZTXRsdFh1ZnpneGZ3X2pIM3BNc3hySlRyRkY1RmZHMlpMOWlvYnA1bEctOEF3WnpHbEU2T0h3Zm5xNFlRdUNoSXN3MU9ZWnJ6alE2NlBMTFQwTUdtSEZWMV80X0hfc1FHcWtSbERQX0Q2NmpzVkg5WF9vZTRrRlVLX0dETExnSngyOTlueGowdXhqbGgxQnAyOEdLQjBSVF9sYnRaaWk2VDhuSHE0bnNfMEU?oc=5",
-     "outlet": "Corpus Christi Caller-Times",
-     "published": "2026-10-22T16:43:22+00:00"
     },
     {
      "title": "Austin Democrat Vikki Goodwin sees hope in 'unprecedented' race against Lt. Gov. Dan Patrick",
@@ -620,6 +614,12 @@
     {
      "title": "Photos of Lt. Gov. Dan Patrick remarking on election in Corpus Christi",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZF85cXJYZ2FiRGdIVk56Y1p0U0dIdnRXcm5KRTY0dWp1VmJNSlZzcFpvcXVxdzhHUlB4T3ZOZEhVRW5naWpIeUNFU3lnRVpWdEM0dDYzMlJHMXNYZ3Z4QThXeGdZVXNsaTVOeE5KTkhJakN2S3dBX2RpR1Fsbm5lVVZvaWRieU1LWGJaalN1aEJZcjVhdjBYdGJJMTduRFBaWVN5RGJEYUd0ajFqMXM0dlZrOGNzWmh0TDFVMnRPM0tUZ2Y4cG1aQVVVX0YwaGh4NnNzZkoyOTZ0dw?oc=5",
+     "outlet": "Corpus Christi Caller-Times",
+     "published": "2026-10-20T23:22:00+00:00"
+    },
+    {
+     "title": "Lt. Gov. Dan Patrick visits Corpus Christi, urges people to vote early",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeHZ5bGlMMzBVQlZfWVRZOTJ1S3dpSzYwLTYwNDBORmlkNzFUdWFxY0FaNmJHcEFiSnZfT0NQaDVJMWJwdmFNYkF0RVlCVnBNSzBCTUNDNmRwcElJblVwbjY4R2MyWVY5TmQ1S2NEQ0lFNDE0R2JwZTM2VEtzQ1ZFbW5XNGVUTTZ5U1pzQjJib1RhaENwdWNPOTdPbUFjY2c2cDdvYUV4TUllNVRub2xocGdjWVRoZW9mdGhpOEVGT3c5aDhXY3ZTWGpLLVYtaGFFSU9ycGFCbU1IZjVmX1F1TjZn?oc=5",
      "outlet": "Corpus Christi Caller-Times",
      "published": "2026-10-20T23:22:00+00:00"
     }
@@ -668,6 +668,12 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMThEZnFFUEgwZHk0Z1Fsbmo2T3dPTEtlOVhRQUJrakc2V0V0QlE1cVEwQ25GQWs2eXlDNWZmeGFOUnZKSFdoTGxZV1NDY2F2UW8tN0NWS1Q4bmxDa1BKLXotWVI0djM5R3RwR0hTaXlCcDJua0dkTG5Yb282VWxwUHp3b19PaGhaT0l1cUdSaUx3YXhWSGV0VUFnRTNrR0tQYlZKdUhqcmcwSEU0UnlJaHZYNA?oc=5",
      "outlet": "FOX 7 Austin",
      "published": "2026-02-10T08:00:00+00:00"
+    },
+    {
+     "title": "Donald Trump's Religious Liberty Commission led by Dan Patrick sued for 'unfair bias'",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN19BbEZFQUhuR05ObHlnajRHMzBYOElMOEptSV91Uk5kanBZLW43ZHg5S1doV2tTU0V6ekVPX2ZtTWZwOFR0eUxweEpmblhyeHZudEkwZS01MFM0Ni13Y0stQ0p6bVM0ZmFfZkN4eVg1T2FKdUVaeXMzV1dVeGVyS1plYWpUREZjMGc0MDREVUgzQ1o1djZlZVNiSWU3Vnd4YlhMZjVnYV8xYml5cUVTX0YtcG1tMnI0Unpn?oc=5",
+     "outlet": "Houston Chronicle",
+     "published": "2026-02-09T08:00:00+00:00"
     }
    ]
   },
@@ -851,28 +857,22 @@
      "published": "2026-10-09T07:00:00+00:00"
     },
     {
-     "title": "Inside Texas Politics | Nathan Johnson says he's 'right where I want to be' in AG race",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNYUY1aERoaTQ5a1VBcU5yQkROZmlmM3lNckowbkJxZTdndjFPUEhHVmZfRXNqZm5oWC1rTEtsM1gzYVRabE83ZDhsQU5HcWhia2RLR1ZOMVk3OElNc2hFeEJZamIwcU54eXp5aWJzT3V0T21ZQ3ZJYWRnU1cwVFVZR1g1OUYydnktSXVSLUx2cHNQWWthVDZUWGZTQWtPTXpGZE1QWDZnS3NYSWxLeW9tSXdVWHk2Zk9PWl9uWWlwdXNiTHZ5RWowaGI3TlZLcmw5Q2pOX0p3X3p1UUNhalFzSmlYcFV1dWM0WW1fT29Yblk1NWhvWnVPSms3MEtrS1psVl9MYjRBQ3U4M2VmcndENXd3S2hKcjNyTzVUQ0dMRQ?oc=5",
-     "outlet": "WFAA",
-     "published": "2026-10-09T07:00:00+00:00"
-    },
-    {
      "title": "Democrat Nathan Johnson pitches back-to-basics attorney general’s office after 12 years under Paxton",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY1l0cUczSTRMQ1JfMUFfNGZnbk91YkpPMk1kRlhHcmVlUFphblJhakxDTlZsY0VMSElGbkU3M2N5dksyaHYtZFl6VUhZTGxpWkhJYzUzeW1HNlA2Q3U3UDY2Vzd6RFNmZlJFN1BuM2NDYzI5Ym01Q0g1cERtU05tQ3JOU1lCb3MxdlM0U2tIdnd4TVE4M2JSejdTZk1PTy1yc1h2QzFn?oc=5",
      "outlet": "The Texas Tribune",
      "published": "2026-10-08T07:00:00+00:00"
+    },
+    {
+     "title": "Democrat Nathan Johnson unleashes seven-figure ad blitz in close race for Texas Attorney General",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWVNFUGdjS3NyOVJXa0lFWmM5dDZlbld1RUVkSWlScGo2akV3dzR4Ul9LWEVlZkhGa1pFbjUxQmwwRVZEMFMybTVZMVFmSkJ6ZVR5bjNQbHlEOWxkdGdQdmNFNHRKY1N4Z2JlVXdvczk0b0VQY1VwZmd6WHFKWk5XVW03X3Bua2stM2VBTm9jRzVwV3dMZVoxaG5TTVhPRzJVNjNKR25fcmI1M2d6V19PdE9HUlJiMERjMS1BNzRvWVNabnF1ekxkdkdfSDBnbkhrTEhFaU9VX0pDZnFJc2pPd0RvY21Nd2wwUUlCOURRV0Nya1VyVmM5UEhQeC0zN09sN29BZ0tIc3E5aDN4ZVBNUkJscS1OdjRtLUE?oc=5",
+     "outlet": "WFAA",
+     "published": "2026-10-05T07:00:00+00:00"
     }
    ],
    "said": [
     {
      "title": "Democrat Nathan Johnson, despite trailing in Attorney General race, says he’s right where he wants to be",
      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPY0FjRk84UXJLUS14NWRqRFQ5MVhvMS1XSDB0ZDRlMUI5anB4WHI0TWpnSk1BcklQU2l1SEpIQlUxaHFILUo1eE1IaDFNLTdnaFJwNFJXM2lXZWd3RW5HYXJ6TWp4ek9WZjFmdlZhTU9nTU11dllCMHZ4N1JmODdTWHpWcGxPSDUyQjZyZVJtWTBFU21LUGlMSUlIcjdNZVBzNVBCdVdrejBhamdFdnlDNVZ5aHdPcjdoQTJIN0dpXzRsbkFrcDRkM0JrdWRDdzRrb0JhcWJUTFZVMzZpWjhERXI3RVpzYms1TW9xd2d1c3FaMnNkc3hxU2g3bjBkZEE1ajhFeF9FSUEzUncxbEJGWGlFWUt6QnJwcmhIbjhQVTBqbkNxaXFhT0JMYXFTZ21leVBGaGtVTlBFMHlE?oc=5",
-     "outlet": "WFAA",
-     "published": "2026-10-09T07:00:00+00:00"
-    },
-    {
-     "title": "Inside Texas Politics | Nathan Johnson says he's 'right where I want to be' in AG race",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNYUY1aERoaTQ5a1VBcU5yQkROZmlmM3lNckowbkJxZTdndjFPUEhHVmZfRXNqZm5oWC1rTEtsM1gzYVRabE83ZDhsQU5HcWhia2RLR1ZOMVk3OElNc2hFeEJZamIwcU54eXp5aWJzT3V0T21ZQ3ZJYWRnU1cwVFVZR1g1OUYydnktSXVSLUx2cHNQWWthVDZUWGZTQWtPTXpGZE1QWDZnS3NYSWxLeW9tSXdVWHk2Zk9PWl9uWWlwdXNiTHZ5RWowaGI3TlZLcmw5Q2pOX0p3X3p1UUNhalFzSmlYcFV1dWM0WW1fT29Yblk1NWhvWnVPSms3MEtrS1psVl9MYjRBQ3U4M2VmcndENXd3S2hKcjNyTzVUQ0dMRQ?oc=5",
      "outlet": "WFAA",
      "published": "2026-10-09T07:00:00+00:00"
     },
@@ -931,12 +931,6 @@
      "published": "2026-10-12T07:00:00+00:00"
     },
     {
-     "title": "Texas taxpayers deserve better than Huffines' comptroller chaos | Endorsement",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSU1HMkFTdFNRazU1ZTVGYThzSHQ3SHYtR19tUllZZjQ2aElyLWVsZ25iVnpBNXBITktNTm9BRkFUbl80T0IwXzJlSXJPVnUyWlBPQWNEbmRPVVl1LUQwUURBaXZTOF9GTFlnRFNPMXF1RnduaVFRekxGZEVDX0pHUW5tNm93WVZwNldTMkoybHNWNC1oQVREejdWMDk2RXJ2WDZDOVBkbTM1TnNzVVItRGxmTWRSU1NpWUtQb2R3?oc=5",
-     "outlet": "Houston Chronicle",
-     "published": "2026-10-08T07:00:00+00:00"
-    },
-    {
      "title": "Letters — James Talarico, Don Huffines, Irving ISD, data centers",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEN5SE1BcDNRY3UyTXhBY1pvd2M1UHhZM1EyaUl5SWw0amgwNnQ0cm4yQVJyQnRLbktqWmZFaXBTWVhsdkhJckp6bnE5N1hoYjgzY0hETHNsbnB6VEU3UWtGZ1k4NXFRVWpjOGN5b3JRODFaT1FNcHBFMHdSN2Y2RFNaR0czN3RLNEdJRUk2WHhvcDdEMEVEaWhMZEdZN1Y3UEx1b2ZXTVhTUDdLM3l2bm5xdGlMN0E?oc=5",
      "outlet": "Dallas News",
@@ -947,6 +941,12 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZl9ZSTJwOE1TR1hfUmhjSTFhT015a1RVMzBWMWh0cDlpZ0lwLU1meV9VVTdvX2YwTjBvVGdPM19nalI0RG84S2hSYmpPOTJEYVdpdnBsY2QxMjhla1FMWWQwVUg4S2dITTFkUGltZVVPLXY3dGNsVHo5RXdTa0hUeFpsNmtwN1dqcjNyWkpLdkVzLUNsOG5PaU5SdmlPMGpnQlhCQ3V0cmVucWZNdEpMVE4yY0FoazNpbHQ3bjFhQQ?oc=5",
      "outlet": "The Texas Tribune",
      "published": "2026-02-27T08:00:00+00:00"
+    },
+    {
+     "title": "Texas comptroller candidate Don Huffines faces heat over purchase of Epstein estate as early voting begins",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0WWlhNUsxQ1pNQzI1TUp4b05hRHJmUl9waGhrSHlJY2UtZjg5NG15bWhCTXEzS1dwLUk2Wjd1XzZVV3FMeHl3UlVCNzNzYTFqSjZFWFhTX18wVzJUY09NTFJPWnlDRURCNWY4dEdjQnJ4eVotNU5lOGln?oc=5",
+     "outlet": "FOX 4 News Dallas-Fort Worth",
+     "published": "2026-02-17T08:00:00+00:00"
     }
    ],
    "said": [
@@ -1004,10 +1004,10 @@
      "published": "2026-03-04T08:00:00+00:00"
     },
     {
-     "title": "State Sen. Sarah Eckhardt announces run for comptroller, dropping congressional bid",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMURoYU03cG9YUVJQNmtmMkd6M3JDVzFueklaVlBxTzZtemN4Mjk1Q0dMenJvYnhOb1dsdk1LT0Mzd2lYU0dMeTNCWTZ6YWhyZkJaUUJ4MXJUeUdMSWVEb2NRajBNOHFoSlB3aTBCTnRnRGUzY25hTFQ2YzZnS2ZIdFBzUmVqY1JmOWRoVmlzeTZzakNXV01VaXJCQm5uUQ?oc=5",
-     "outlet": "The Texas Tribune",
-     "published": "2025-12-08T08:00:00+00:00"
+     "title": "State Sen. Sarah Eckhardt our choice in Democratic primary for Texas comptroller",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ09wRlVwc3RLUVNNUUU0SFRnaXJsY0VWaHhMNXRNY1VNZVJfVVFkWDZKMVNYNmhmUTRubEZMeWJqVW1rc2VBWkVlUkNjYW1QdzFodHdZclRQcTJsVHZTSTFTc2JMN19WMEFLeFlFWUlmN1lSVV9TQTFwMmd2dENnZXcxZlNDbXl1Snp0ZTIxeUE3TUpTYUV2Q3piMjhkSV9UNmxCc1BEeGRadDFlM29tbQ?oc=5",
+     "outlet": "San Antonio Express-News",
+     "published": "2026-02-14T08:00:00+00:00"
     }
    ],
    "said": [
@@ -1133,7 +1133,7 @@
      "published": "2026-09-25T07:00:00+00:00"
     },
     {
-     "title": "Nate Sheets promises to fire everyone linked to Sid Miller at Texas agriculture department after primary win",
+     "title": "Nate Sheets promises to clean house at Texas ag department",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2dvS1gteTEyX1cyM0xBcHRIRFVfd3FxRmM3Y2hmaGx1NDg5YzRGMXFSSzNuNl9SUGFFSVJaX3kyUlp4ZlBIcU9fWHdlUk5kZ0g0THdNNV9iOFh3YWg3RE9tcHpZaDd6NkVzVVVPUFRKQmFNS0hBV3kySGdfc3ZaSUNyU1pLcmZ2eTJDeU1rSlJGQjIzd1lFdFYxVQ?oc=5",
      "outlet": "The Texas Tribune",
      "published": "2026-03-04T08:00:00+00:00"
@@ -1418,12 +1418,6 @@
      "published": "2026-06-26T07:00:00+00:00"
     },
     {
-     "title": "Congressman Moran describes life of unique pivots",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHd1UmtYaHJvVC1hSkZyc0ZlY2JuY1JZUUJrc2paLUVIdTg0SmVTZ2JaQlItWnh0b0l4MWlxS0JTMVhtcnJSQUdUYmlKT09tX2lXV2pqNUlwU0dCZ2xtNmRfZVVlaVp5SzR0T1J3cmNYZVZIdS1lVklCbmdXaHVlQ0V4M29sUdIBmgFBVV95cUxNTDFGeHhZMHdnNDZjZndiNUhHczlDRGdDUDVsZnpfeWlWeUpyQkQyQTFDNThSQ1pHVDl4c0ZCM3NQenVLRlkzUXpGeFo5MXdZTlpLbVQtQzJTRVN3aUM4QzVjTHJPaDNKZU9tQ2RDQ2NqVktzUTAxWlJCcEh5NXZWRzlrR3FsWEVhV2xEaDFxOUdISVhiQi1wWjFR?oc=5",
-     "outlet": "KLTV.com",
-     "published": "2026-06-18T07:00:00+00:00"
-    },
-    {
      "title": "Moran meets with Paxton but won’t offer personal endorsement",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVdOWFZGbDhqeTJBaHpxYlk1ZlBJbWdpbVRUUVpNTUNzM01YMFZoT3AyajdMLTgxbmRrUk5KTHlnb3Q4NjhNc2otSm9qWG5TeDdtblZMUDJ5TEhoUk54bkZPVVk0NFFRckpiaUt0RGhwX3ptY2wzdDZubldGMTctQWUyeTRvUjVkb0dINzN3Qm8tQdIBpgFBVV95cUxORE40SlU1SHFSYTZzRENtR2hBbDRwYlQxNHVqd3ZHSzNwSHljS3lZZS1QdmNkcUxHLVF4OVM0aUxJUms1cW82TTVMalRuZWdYUFN2eWJnekxlbUV2ZzgtNEpIendHMDFXeDNhcGJBSUVFRXpfTVZsTFpUSTNtbzRCUk5mMTB2T2ZYSkFBblN4XzVUVzJHY3B5eGZsRkhnQ2ZpMmxMTmdn?oc=5",
      "outlet": "KLTV.com",
@@ -1452,6 +1446,12 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMk1pcElmNUdpVmptQjQ5dXlmcDZoMHpJN3dTU2pCaC02NGVxNXpaMlpNTVJnR25QVXpvT0FMbE1sVmUxZXZSN0pVT0ZkU0ZsVnBGUGprbnkyZkVSNmNqdm5UUnh2cWhvd0h2YWxCbldNOWtZVVdCYlJjUldWS1VzNHo5YlhjaGp1SGtVeDBuONIBowFBVV95cUxNcUhHeXV5NUZvN1JfMW84NGNMV2hEa3lUckxOVXJrZnZRUVVVcElvVUNxbG9qeXV3Qk1ncU03VE5DVzd5MmZDWGhMVlBTaUNEenVWSl9yNmlabWM4V203SXN1d0tmcWx1am5LX0xNaFpSU2hvYWlqMXNIclJfOHc5NUtQR29IVWlOUE52THk2WWJveWE4N3FZTkQ0MHJKcW0xMW9B?oc=5",
      "outlet": "KLTV.com",
      "published": "2026-02-25T08:00:00+00:00"
+    },
+    {
+     "title": "Rep. Nathaniel Moran's statement on passage of House vote to release Epstein files",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3Jta3BwZDljVWVrWTY5enh4R1lNVkF2ZHIzRVYtSlFrSlBUUlB0dGFLM2wtVFdoU1c3aGhtOEhfazNxZnJ3ZnI4N1pMQ1ZfcXFPUzlMN1BENUxZekxHblFCRVhpM19Td1lEakhJd01wNnFkRUtuLUM0Qll2NTZZUHJZNTNFM0trQ3N2Q3FkTDQzREZlNEI0ZThXR0FRb0RiYWI0NGQ4TmFVaUZQcFIxSUdWR1VCbkRyR0E?oc=5",
+     "outlet": "cbs19.tv",
+     "published": "2025-11-18T08:00:00+00:00"
     }
    ],
    "said": [],
@@ -1485,6 +1485,12 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNk9mQXBRT1NvbnFBYmNkSjlfeFhxNTFXaWlzaG9TbDJDX2IyV3hMT3RVVTJkZENtLVJSVnBKa2ZDMFhheTNsRFQ5THRNLVdmVFI5Y1RtYnBrbEFFeHVzbVIwWlBjbkRoakVqVmVRV3REcXctY1UyUVI1WmJpYU43QTN1TWN0b3k1aFJwNXRjYUlfZFlNamxBVkR6RU96R0EyV01uVzQzTnRVaFhXVi1PZmtkcTJNRzBxMVljQjJaRW5tQnNQWXpHZnZCTGJlTWFuX0J1V0gyTjBBQXdma25kQzQ2bHA?oc=5",
      "outlet": "WFAA",
      "published": "2026-10-22T16:21:00+00:00"
+    },
+    {
+     "title": "FBI: Teen plotted to assassinate Congressman Keith Self",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSENJcVFCa0VQX18xMXlNbUtGQUV1LV8wWEtzdFFfb21MMGJEVW5qRUNwb2xheXM5d2NrNDZ6UmZ5cWZkbV9TdUNWSTMxNGNqNVlkWlNybWloejBEbEJVOExldlZ3SU83V2xTRlJGdVA5UGtsQnVyeUYtMW9mNmtxdjlIQ1Q2N3NsYVdhaW5HY0JKbEtpUXdqX2xnYnZIMkVvMWJ5TklaamFaUUdvWTNsbWxmeklNb1RwczlwdFE5MVRLXzYyVFhEYjJKb0hsQ0VTQ1E?oc=5",
+     "outlet": "WFAA",
+     "published": "2026-10-22T00:04:00+00:00"
     }
    ],
    "said": [
@@ -1527,12 +1533,6 @@
      "published": "2026-10-22T16:06:55+00:00"
     },
     {
-     "title": "NEW AT 11: McKinney teen arested, accused of plotting to kill U.S. Rep. Keith Self",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmRKZXhmUFBEdUdIMlhJQjY2cGN6Wlg4Q296eXFiYlpTS2psaHg0cmFiX2JTU0N6c2NGdGxQVjJWTFYtWHB4VkR2dlZiNUhzMm1KelJ2SWpFbzl0MnRqTXMtUkJ1ZkRrMkVIejBmVkdwdjhLYnJZYVdDZEcycktFSVZIOWRMbldCSngtVFhTclVoOFZ2c3NSSFFzclRHNHF6c0oxdTdSaGZUMHpEUVZ2ZTF4MXFidllnWTJ0eDJ1TzU5c3NuZkHSAc4BQVVfeXFMTWo1ejVvd3F0eGlNOUZZazRiZUFLZEZNYkZHWmd2ZUxVZ2c1WDdMZnBTRUZkdFpPZWFuRG1qU0ZQMFN1TG80TnVuaHNEelZlU0N1RTR4SWtoN2RwbHZuU1lPWldpSS1CT0xlZk12azZubnAxemRRMWZkY3d0WUFGM21KUlh3NmdyYXBNMWhRTUlaN2RuaFo3T3pJR21BSklDVUdfamdhUnU2ajBTa0ZrZzZ5cUxXOGhrQm4tUHVNODg2cFllQVd6eVJvTW5EbHc?oc=5",
-     "outlet": "NBC 5 Dallas-Fort Worth",
-     "published": "2026-10-22T16:06:55+00:00"
-    },
-    {
      "title": "Rep. Keith Self targeted in alleged assassination plot by Texas teen: report",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzZRMm1oc09UTUhmUW51ZTB5TzhmYnExS3JDVEIxaENSVGtLWU5SUm1kNGNhcnRWaXowb1UtS1FKUDl2QmkyNWowVGs0bXQ4a3FIX0QyVjVJdW4zM1RIOGIyY3dVY2JDNXRZcWZvZ0lvbEhCYXlZSmwxMXJMMXZWWEx5VG5PcFc0YU5CaHlDSFE3YWZiWjd0bVNwX2tNY1lIdmZV0gGoAUFVX3lxTFBkcVhSNnB2a3o4R0hmdlh0bFRKaWdFT0pZWG5HSzNSY1Vvc1BZdmVweVRVVll5dWJQTVA4dW42Y3g3ckpSelA3ajFrVUhiUGhBWF9zSzVBcmVjdllRazVVejhUUkJGZGs5eVcxMksxdEx4RUdwZ2o0STRYWWpMdkVhM3N4NHo3T3JORWFaS1RvZmFKWjRSMm8xX0lUcXBueFVBTnVQQy15Yg?oc=5",
      "outlet": "Fox News",
@@ -1549,6 +1549,12 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2IwR2llZENoWTNET0x5UUc3Mmw0QmJya3NGRTFpOFp6dWNJZndTYUR3Sk1ieHYycDk3b0VZd0JGT0Y2al9UMzc5bzdDUW9WV2VmS2RMdlZ5ZXVEQzR5TmtVS2NzN0tubk40OEhQT3lhRnV6TXpNTXBXaGRFYmNQc1FwUTlYZnAzR1ZGcDJvN2ZiemdBZng4MkpNbXpPVzdNTTM2czVjNkk1ZllkVWc?oc=5",
      "outlet": "CBS News",
      "published": "2026-10-22T03:15:00+00:00"
+    },
+    {
+     "title": "Rep. Keith Self says he was never in danger from alleged assassination plot by McKinney teen",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEdMMHpCUzdOR0Q1VDRqT0pLU1hPU2duYkItRERXVXZpS09GQ3RZVEhzaWFoYlZYQ1BUc1dOMlFrTVhtclZ4YmZaVHZiamdUd29uVld0WHNRMnVLaHZCc2hrY0NzOEVuN1JZaWE0aTJqSUU1eThuRUJBRDVHSnhjalNEaE1oRHY0aldIY09lTWhfTlJkdGx6SDFsSzM?oc=5",
+     "outlet": "CBS News",
+     "published": "2026-10-22T01:10:00+00:00"
     }
    ]
   },
@@ -1962,6 +1968,12 @@
      "published": "2026-10-20T18:53:00+00:00"
     },
     {
+     "title": "Tejano star Bobby Pulido trades the stage for a shot at Congress | CNN Politics",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVdHWFN0Y3c1N2k2bkRkTnFPMmFuU2tvMXpHNFR4LUFXemU4Y3ZKSVloZEtfSTk3R2RYYzZiWG1pdHMxblJ6aEJ3eGZidy10ZmREbF9TUTlWTWExeWM5Y2hhb0NqZjdjYjFOYy1ldlVmSDl4ajA2UDVKZnZhTjFlM1hKY21fRTktcUpTZUZvcjI0UQ?oc=5",
+     "outlet": "CNN",
+     "published": "2026-10-20T18:53:00+00:00"
+    },
+    {
      "title": "Bobby Pulido hits the polls in Edinburg on day one of early voting",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ04yOEFVQjl2Qnp5SmxucFlnR2lpak9IeTVnclgwZDROeERlazBhRlNzUGZBb19aN3MtRlc0azlVMUN2U1lFMnpnM0pLeEZNdUNmaDNiby1pZXdBMXFfcTZ4azE0dHFRV3IzaFo0NGNlOU9IdDRKQjBXUjJNMFM2ZjlxODJVUDY1cUJfSFhpVjFhVks4WWw1QVdVd3Flcnh1TVBIR3I1RzhsaDFRZDY5QlU5VGlMTHByc3JDNWIzNmdXQnktZDlaUDZpNNIB0AFBVV95cUxOcEFiUi10eVUyMmZ6WWFXZ2NHOVc2c1JlamtjNzFtbDNOcGtlSlQwd1FJREx6ZUM5d3VRR0Facm8zUlB2RS15NDJtZklLaXhwUjJIT1RiM0RjRWxvaF9TbnRhNWhLcFJBQ0xPSThpSHBrVDlkOEIyU0NQRUlxWEY2TkpVamtnZENSSkN4cEw5akh0cW9CeEduVmNZNTBsaWk0WDNDWUIxRWlMNnBXQmR0blhobkh1SmQwdW81cmZpUjRyNVE4WHFlOWR0YWRxT09s?oc=5",
      "outlet": "ValleyCentral.com",
@@ -1984,12 +1996,6 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQank4WTA5SkozNU1FSjRhNEtaVmVsbXUtMUdxUzdrRVRSX1l0NEJfMXdTaUV3WUxFdGNQLWptOVFHYWk3WDNrajAxUlp1aUxydEo1RFNvelNFZzJ2U25VanhxRk5FT0ZJVDVMS3d6UWxHTFF6czFicmZLbG85MUY1VHdVeGFPZ3NKTTBmQlRhM0JsMlpscnFGeF9yc1k?oc=5",
      "outlet": "The Texas Tribune",
      "published": "2026-10-16T07:00:00+00:00"
-    },
-    {
-     "title": "Bobby Pulido to perform last show as his South Texas congressional race heats up",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSktjSFBTRkdOMURwR1laQlBuMEJXa21MWDJBVzNaQ0RwQ1lua1djcFRudkhiQzZHcmlPVF9PUlJCV2pCbF9xU2JwQWs4aURXVFNoZmgzMFUtM3B1Y0JiQU5BbkdWNEliZ2JQNWdXcVNlc0xDbjMxNXBMZW5JNE5BenMtc3ptSjdzOXAyYktlY0VMdVRrUEppNzVTN3hkbzk5MWpDaVY3V21Hd2c?oc=5",
-     "outlet": "San Antonio Express-News",
-     "published": "2026-10-13T07:00:00+00:00"
     }
    ],
    "said": [
@@ -2170,12 +2176,6 @@
   "christian-menefee": {
    "latest": [
     {
-     "title": "Rep. Christian Menefee on win over Rep. Al Green in Texas primary for redrawn House seat",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2U1aTdTZXo4T0ZKQlZ1VU15TWUyMzN4eU9RMDJPM0VkNWh6TzRjYTF5b2hhV281ZlR3cFdGUVhrcTMzNC1PNXI1Q25OV1g0YjhaZlFXaTRLUFdHdzF6OWlHcG9ZRjR3bXEtbHJQeWxCMmNtMF9waHQyOVNnRnltTS1nWF82b25UdXp1cGNsVXZvczg4anMtU3FOemVYdG1pLVUxS3lxTkx5cnFtS2Exc25YMEVScTEy?oc=5",
-     "outlet": "CBS News",
-     "published": "2026-05-28T07:00:00+00:00"
-    },
-    {
      "title": "Christian Menefee defeats longtime Houston Rep. Al Green in Texas’ new 18th Congressional District",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkhPUTVNZk1paWRQZm9XcVZsRUota2VKWWV1WG1WWUw3LWwya3ZESndCcjZQWjE1enhFOGhtVEJaWUdqZE91Tm9hckRVMzc2TzFjLVB1aXJXNVlRZXAyRGY1VmVWQVNwT3JxZmdLbnNUWm9BWTRyaUlpajJZN3pBR2dNQms0ekRNcFBEOWZwaVIxajRlSV9LZjRVcjB0cHNaeEplY3IzY2JrWEZ4VEtWdzAxTDB1cFNTTE1UT1FINW9FUkNwRzNxdXRtR0gyOUZ1enl1eUpMRQ?oc=5",
      "outlet": "KSAT",
@@ -2185,12 +2185,6 @@
      "title": "Christian Menefee beats Al Green in Democratic primary runoff in new TX-18",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR3FVOTNMWjVieFpaZzk4T1BvUGh4WlBIX1BqQkRwMzd6Rm5aRUtROE52ejRnZm9MWDVmamlaSnBqQUlWN3A4YkhlaWR4UGJnN09VQlVMNF9jaGVZeDUwam1SU0I5ZlhNU24xb3hNWjVyRWxGbTZiT3kzUjlxTV9pZEJJb24xY3VpalcySVBjQXFYa1hYUkdENVZPd09PRGc4MFZrMDVqRlhvU2J3SkpQcnhFeUkwV2g0SGVzd1I0emVZWWVTbXBQYnRjcjVzcllUMHJob3lqSHJpUC04ME9oa3ZTajUxT3hx0gHwAUFVX3lxTE10MHlXWG52UUZUQ3luTmpucV9fNlJrRmpQaHN2SFlzQnNNcHQyVTllQ2xxR2VnajJ2Y3I2dTZELVA2bzBLNzJhc3dUZVljSHhjbG1QbENTQVVVV01KVzdRMFNDOXIwSEtZTTVzZ01RczVzRk5IRFpJeG1oR0lqMUMtdnduaGNrUHpHWWxhTzhIM0UtTjFyN09fYlo5NEw3bmdqOTRVSnp1dXFndE9XM3BCaTBVV3lXRlU2MkxnOXM2SndTTlFWM241aVltR2hHM0tuWW5YSFJHd002b3Z5c3pIVUcwT0d2WFBWcXRpLVk4aA?oc=5",
      "outlet": "Houston Public Media",
-     "published": "2026-05-26T07:00:00+00:00"
-    },
-    {
-     "title": "Christian Menefee beats Al Green in Democratic runoff in Texas' District 18",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aeTVHNmp2MUE0VlFmQTdLdnZGM05UWWkzYTd0bHFXSi05N1dGSVViNWdFb09MWVNHVi1qUUh5OThkS0hZSHRYMUZjU0gxa0lkRXpOTzJOa0tyZlZFWUZVUVF0N2Jtd9IBa0FVX3lxTFBwZnBDeXh3Wi00bFhIRUt5Q2JDX2dVVXdESTZiOTBKOG95ZnYzYzlNc21tZ0ZIS1IzU1pITHBsaUpPVUM1NDl4SWlHV1dfRmFKbjFwQ2h3TXNaLThjdTczcGhBMEtEZl84UnJv?oc=5",
-     "outlet": "FOX 26 Houston",
      "published": "2026-05-26T07:00:00+00:00"
     },
     {
@@ -2206,6 +2200,12 @@
      "published": "2026-04-30T07:00:00+00:00"
     },
     {
+     "title": "Christian Menefee defends Congressional record after Al Green criticizes missed votes",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUhJak1qTUJFd0wtbUxYOHNjMVJCWWd0ZDdnaU5KMjFrQ1FYS3ZFSGJPRWlDTkpwS2xSOFJIOUhNa29TWTg4NGs3SnowVnA3LVBiY1FkaEZnUmRaZnhyQ0NsNDJxdlBUZ3RocmxXd3ZFd0FoaXBpbzhOYXktdFZ6RUJsb0NqVE1MRlcxdkJkMHdzOE1YZXFIbVB6aXVxS3ZTS3hBc0psVUZJT2VDdldkZ012TWo5ajRqWkNKVUxpbEtrY3AtWlZlSHNQM3hSZFQzaWZ3cQ?oc=5",
+     "outlet": "Click2Houston",
+     "published": "2026-03-06T08:00:00+00:00"
+    },
+    {
      "title": "Christian Menefee and Al Green head to runoff in Texas’ newly redrawn 18th Congressional District primary",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcm5hT0R4VVk4bGdDSjZhSE5adUxYSmstV1hrU2JJLUotRk5qSGNBQ1U4Y0d1X1pIN3p6Q2xiYndmNDZPRHN3TUVNa1RidjVWLWRPelAtSDNMZnF6WU9WUFZWa2MzRXAtLVhWSFZMLXRXNGNnOTNXYmk5R0tjd0pPX1hCRS1oaXh0aFpyS0lJdlZEcFIxTUsyd2hqN043UHBUaWduTy1NTQ?oc=5",
      "outlet": "Houston Chronicle",
@@ -2215,6 +2215,12 @@
      "title": "‘Truthful trash’: Al Green, Christian Menefee clash ahead of runoff",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTWlGZi1hOHpkZi15c1p2M2dXZE5UNEFkdjMwME4telVsV19nZHhnU0MxSDRCak1ZYWdBSzVaempYXzFhcUhzR0VBOV9ud3h3bHFremc4aTM5U1VZdlE0TFZvbDNHUkpCUUd0bjhUVlJiY3pZN0haZWNVU0hkZTBzOWxiMWpwN0pLNld2TzRMZ3FDRmljWm5iOF9NUVM5ZUFfTkZqbGk3Q0ZUSm5SMS1TRE9YZ2l6Vkk?oc=5",
      "outlet": "Click2Houston",
+     "published": "2026-03-04T08:00:00+00:00"
+    },
+    {
+     "title": "Green, Menefee headed to runoff in Texas Congressional District 18",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNckozWElTNEVISmNKTF81YjFJNFRZbUNmRWZfaGh2VGcwSnhGWlZEbDR3aUpRNFR2OHZNQ0stOEhpUXpaN1FlWl9ka0ZxY2cyS1lQQ1BXTk1OQi1ZeGJWZlZLUWxTRjRqNXI0Qm4xMTlJUlV0Y283U3l2ajNIaHV5Y09ZNlNkRDlXOG5zcGN1RjdzNU5MaHNKMEFSQ0ZGZDgxMTJiWklReG10ZDNxNlV6TDYtZTkySnhMQlp2NHN2b2I4X212S2hPWXBNaWl6RVhad0NnRFYxTVQ5SHBBU19aZDdGTmczR0gxQ2REaVlYSVpXWW8?oc=5",
+     "outlet": "KHOU",
      "published": "2026-03-04T08:00:00+00:00"
     }
    ],
@@ -2316,22 +2322,10 @@
      "published": "2026-08-28T07:00:00+00:00"
     },
     {
-     "title": "US Rep. Castro connects Air Force trainee death to flu outbreak at Lackland Air Force Base",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBfZzZudWdhNzVEQjN5UWdfNTZEaHY5RU5odjY1OUJMODk4YThHZVlwY0JuRnRTOEZKX1cwaWRrbDlibnlLeVhLRmMxeFlaTzA5bVRsMVNHRm1VQUxFS2REaVE1QzNNcGViZ3U0VENrV1QzbXdfbTVvaHNXOGxrLXI4dlRFOWJMR1RzNmpfWFB4Y1dHZlNtT1ZlMS1hVnZpSU83R2hvMHlyT2FOblNSQ25iZTRSVFUzTFVkTTU4N05DZDJ2YnhjRVlybndzdw?oc=5",
-     "outlet": "KSAT",
-     "published": "2026-07-01T07:00:00+00:00"
-    },
-    {
-     "title": "Rep. Castro says ICE sought to deport families to Venezuela after earthquakes",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWE9tLXRZV1p4Z1I4Q0IzNlE2MjhtMVBjNGJoaFM1SXU5T0VjODBpM1NrYXQzWWNiTzZpN2gyRXZ6bHhUVzlKMm1HdmU5d2E2anlTaWMxVE9sbnNhanJEMmJ3NG1fZ2V3T1k1S0c5d0pUNmVRR0ppMzZjcktqTjVUMXY1WG5NYm1SZVHSAY8BQVVfeXFMTi1kUGlFMFdDSDRWS2VnNUR2NVlDU1JnaVF2bHQ0N1FQV0tmTnUwRHRwT3dIeGpHY0lXb0l2bzFQUlJaWmZibWo3dmpabU56blRObTBjaENUdU1vdzZ4bTlobEJxeVVVQTdEMnl3ZDkxc3hMb2NnZ19pUEhuTTg1LTJyX3RoQ1NkV3ZfdEtVSEk?oc=5",
-     "outlet": "The Hill",
-     "published": "2026-07-01T07:00:00+00:00"
-    },
-    {
-     "title": "US Rep. Castro connects Air Force trainee death to flu outbreak at Joint Base San Antonio-Lackland",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNanpqb3hkUDgzMmM1YWphaVdJdzlDZXlNNlIyME5MVjNCQndER01pS0FPc0dkMk5qWnZrVXFTN0Y1LVRmSWdiVmVPWEZ5ZHF4bGczUlpuX0RaZndPUDZjajVJVkRES2x4T0NaTHNiUFU0NDVCRFRucDJKQVY2Wkp1NzBoTl9JR0FBMF9jdWJZNHNDeWxmNVRpQjFsRWNIRlRQZ2tkNHpkMWN1WGkyY0hib25mZnZ1MU9TSzRkTF9pQXZWR3VHdE9iU3RWdWhLZw?oc=5",
-     "outlet": "KSAT",
-     "published": "2026-06-30T07:00:00+00:00"
+     "title": "Reps. Castro and Crockett describe conditions at ICE Dilley detention center",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaExoVXlNWGFXQnpQRXhIeDNSUnRDZUxHT01ESER4SWVsN1N3NnVsV3VzY1RKNm9qWnMwbmJjSkRUeGNDZXFHSTFSVGE4VG9tbWtReDJIQUZiOW9GUXo4WTcxWmhPZ0p1WVlHaXhwT2xnY1JsalFKUkF2bEItU1ZINGpjSE9OZFVYMFRqaU54TjRMX0NEOV9ZeEktRjd4NVpPbktNTnFyYnhCeDQ3ZTlwTC1wUk5JeXBBbjQ4NEpNVFJEZ2c?oc=5",
+     "outlet": "Texas Public Radio | TPR",
+     "published": "2026-01-28T08:00:00+00:00"
     }
    ],
    "said": [
@@ -2340,46 +2334,9 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEZLMU1sVlg1bUlmWGlUR2FfWjY0NnBmaGt3eE80NklrNVU3NTJfVzloWnkxQXRFUXJVbWpjMEhfTDIxREdtTC1wRGZhMHFTSjZ3bUJ4M1J1MjByRnFaOGNaUHMzVTRHYTlTSzRHejNtbEJNS0tSc25FWDRLVTFrNGpwV3lvdnFXZmVlRl94V3Nqai05Z08tdjNuN1NrWWpWQ1FUcmhpT2Izcl9ZTDA4?oc=5",
      "outlet": "San Antonio Express-News",
      "published": "2026-08-28T07:00:00+00:00"
-    },
-    {
-     "title": "Rep. Castro says ICE sought to deport families to Venezuela after earthquakes",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWE9tLXRZV1p4Z1I4Q0IzNlE2MjhtMVBjNGJoaFM1SXU5T0VjODBpM1NrYXQzWWNiTzZpN2gyRXZ6bHhUVzlKMm1HdmU5d2E2anlTaWMxVE9sbnNhanJEMmJ3NG1fZ2V3T1k1S0c5d0pUNmVRR0ppMzZjcktqTjVUMXY1WG5NYm1SZVHSAY8BQVVfeXFMTi1kUGlFMFdDSDRWS2VnNUR2NVlDU1JnaVF2bHQ0N1FQV0tmTnUwRHRwT3dIeGpHY0lXb0l2bzFQUlJaWmZibWo3dmpabU56blRObTBjaENUdU1vdzZ4bTlobEJxeVVVQTdEMnl3ZDkxc3hMb2NnZ19pUEhuTTg1LTJyX3RoQ1NkV3ZfdEtVSEk?oc=5",
-     "outlet": "The Hill",
-     "published": "2026-07-01T07:00:00+00:00"
-    },
-    {
-     "title": "US Rep. Castro calls for release of San Antonio father held in ICE detention",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa21iWVg4cFVGWWplMUxmbXJiYWhaLXp3YjJrUnQ0MWR5bURRWnlqSnlqV21acUpsb0lQZmJRamE3MzNPZDBzcDNJTU02QkRDZnhtUXFfZlJlV1lWUndyX2o5aTRUWG1ic1RaZ3pQaDVSWmwyZGUtT19XWFFyQU1mM1lPWjZDSG1wOWVTLVppR2FpRElyWkl0S1o2UC1ZejdIMXFFUWREdzNObGVuWExQZThhdGFvSTFPV0tB?oc=5",
-     "outlet": "KSAT",
-     "published": "2026-06-17T07:00:00+00:00"
-    },
-    {
-     "title": "'An ugly period in American history': Castro slams Pearsall ICE detention center after tour",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUWMyOVZDbmFqNHlEMElVbDJSeDNqYzB0MG5meDRqaWZmdGhzclpkRURQUjFtTFpJcWRTaXoyMVlCMDZSOVViTExYTkJMM050eHF3Vkh2Y0pDYlc2TzNRbGt0RWEtSFdtcllMNUdBTU9scjlMeUUtZjJfSkxFSXlNWm0tTlVGRzRTVXg3R2NILWpiNlh0emRJcVVZRk5kWm1EUTVJZG4wN3E5UkFBcklWc210OExfT1ZIS3Awenpyc1VPVV90Sk5oOTJGTFg1Y00wU2cxczUyQnZaUnlvUFVOanNhV2hhVkRXRTJJaGdXOEJ5Wk1TV2xuYmVOWlY?oc=5",
-     "outlet": "kens5.com",
-     "published": "2026-02-06T08:00:00+00:00"
     }
    ],
-   "scrutiny": [
-    {
-     "title": "Rep. Castro calls for probe of planned $150M Burke Law Group award",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDl6eVNKdzZXV2ZDckRWdjI1dTNBekhmVFpzUTZkUV8yNjJWVEtDZmVUaXJ2NlpEVXE0OTdIaWlGQVgyVldqalNQUVVSeDZ4ZVVmWlFuV2tfTUp1Zjc5ZW5GaTZOZkVMOWg3WmdYZGVFNGZsd2EtVUFtVTJNT09BUUR2LXVFQTRpQ1oxMkhGVm9sTTVM?oc=5",
-     "outlet": "San Antonio Express-News",
-     "published": "2026-08-07T07:00:00+00:00"
-    },
-    {
-     "title": "Rep. Castro raises alarm over Dilley Detention Center's alleged medical neglect of children",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkNfZW9fZlZSX0lNZlRoVUY3cUdGa0U4YldjUVNPdFRDTGIzcWU4ajRDOHJSZGk1cGxLbTN0cW13TGxNd3UzRURHRGo2cHluY3U4RWdySDl5Qlk5ZzlUZXRSdkt2UmtWWWhZX1ZPV1ZiSDZjVnNud29td2kwM0NOZFRhRWh3S0M2YXRxc2t3RERhX0dSZGNwQkFpX2tQaUhkNDdOQ3NMSnl5MVc3el9TVzZHakpucFdjTXlqM0ZRNGZrNXFWOE10Y2ptcG8zRnZCMDZkZ2JNRFRZdkVoa0Z3YmU1OHpJaTktazVrdE50UVU?oc=5",
-     "outlet": "kens5.com",
-     "published": "2026-02-20T08:00:00+00:00"
-    },
-    {
-     "title": "Castro calls for DOJ probe into ICE shooting of San Antonio man in 2025",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWxkUy1QZnU5MzdNT1k0Sjg2MG9VcFl0c0hxMFBVX2NfcDBnbHQtOUhURi1VMTVXbXZnUnV4cWJ1LTlramMxQ0htemlqNmUyR1JweXZOWHZJLUc5WFppZjRuT09CckRoOXRmNERpUkI4Z0I0QVU1YkJVSmpKMDE1UWdlS3MxSW16NE1LV2xPTjk3Z2d1VEJUSXdVbk9JQ1JHYTB4M2FfbHE0dw?oc=5",
-     "outlet": "San Antonio Express-News",
-     "published": "2026-02-20T08:00:00+00:00"
-    }
-   ]
+   "scrutiny": []
   },
   "edgardo-baez": {
    "latest": [],
@@ -2697,12 +2654,6 @@
      "published": "2026-09-09T07:00:00+00:00"
     },
     {
-     "title": "Brandon Gill warns ‘Woke 2.0’ will mean ‘total destruction’",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iN0J4LW82ekhVZ29zTUpLTWZETHhVLWk2Tlh3YU1hekcyTzdObkFSbXV2VTF5TDh2d01QZjhFQlN4R1A5OTRlQmJ2YjU0U2VPaDhpbWpR?oc=5",
-     "outlet": "Fox News",
-     "published": "2026-09-09T07:00:00+00:00"
-    },
-    {
      "title": "Brandon Gill decries Lindsey Clancy defense after judge declares mistrial",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1naExlMmlCMlJUdEpxejBWTUVTZVZIZURfNXp4bkl5RXNsV0lTT2dXR1hYcHppaklLNUVFdVBWbVVKUkdYbmt4cTZUX3dkZjc0OHZHVnB3?oc=5",
      "outlet": "Fox News",
@@ -2776,10 +2727,10 @@
      "published": "2026-10-14T07:00:00+00:00"
     },
     {
-     "title": "Trump slams Rep. Henry Cuellar for sticking with Democratic Party despite presidential pardon",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdjlJU21EekdwRkt2WmMtMVNuVWQyYklZQlFpRnBCMU9VNTIxUDlMZUdWbVo3ZXBPSkJ1ODZ1VlVVYkQxNUVhVF8tV191VkpQa1EwdWZTWm92X0pFSzZOM29yWG5vTWxUNnEzXzlGQXRBenduU0E5dTl3SlFaeWRRYU1mS3NHaXZzb0tINUFjVVQ1WHJZcXRWTlA4NV9tRm1vbW56bk1YTFJyMzNRdVhHbk5wNHdIS0dwbXU5UEpqbXhvYXhuekY0VFBka1hhSFkwTm1zeEJhNHFJbVk?oc=5",
-     "outlet": "Texas Public Radio | TPR",
-     "published": "2026-10-09T07:00:00+00:00"
+     "title": "Trump bashes Henry Cuellar for not running as a Republican",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEhNSGJ1akZuZklRaFcza1hwNEx4a0ZaUzNKdks0WHpDUl9wbzJKWmZORFV0Qk9MUEdvYXhDd3FsUkE1MHZjYmtseE9TZ0hEcVlfNXZTVDdzbjc0UFE3SHlteGhfNVc4MXpzWFZKN0JXMHpKNW1iRGtXMzZXZE9IcUM2QVJCUQ?oc=5",
+     "outlet": "The Texas Tribune",
+     "published": "2026-10-08T07:00:00+00:00"
     },
     {
      "title": "Cuellar receives tepid endorsement from LUPE Votes",
@@ -2794,35 +2745,23 @@
      "published": "2026-09-09T07:00:00+00:00"
     },
     {
+     "title": "Trump’s pardon of Democratic Rep. Henry Cuellar leaves local Republicans surprised and disappointed",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVVyNktGV0JGaGV5QVlKSlBNQk9GTlJfc09SRWI3WVRuazNHNlVJZ2RyTDJhN2xndUpZc1UwRkhPeDhYRkJQWWtWeXV6SzI1NjhPOHpqM001akdDM1ZMejdPMVo3MWwzQXFCb3Jlak1UNFhyZE11dXcta1ZLaXI3N0Jrc2VhUFZWNnBUNnBDOVFwdmlwbGRtUHZXTVNlSzg?oc=5",
+     "outlet": "The Texas Tribune",
+     "published": "2025-12-15T08:00:00+00:00"
+    },
+    {
      "title": "After Trump pardon, Rep. Henry Cuellar restored to homeland security funding post",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQndNUUg2bDNlc2g4MjBzZ2xNem1aVFhzaUVKa240dEppZjEydWNYZXNwTzZIMWlxM2sxWG02a1NWZGpfdUI3S3d2c2FIRjFNRTdxV1YxR0hxSGdQeW1vZ3YybmtBZ2xYUVdaV2xoRUFFcTJLWkFIaml5UVNUUHdTaXVhMzlYV3BFQWtIdnVEQU51Nl9LRHhvQ3lRdDB1QWZfRVZuVmtzcXZNY3I4RVdmdW1kRGdHdnZqUzRv?oc=5",
      "outlet": "The Texas Tribune",
      "published": "2025-12-11T08:00:00+00:00"
-    },
-    {
-     "title": "Cuellar defends Democratic House bid after Trump pardon: ‘I will work with the president’",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2bHI0V0JxRlUyQ0xBYmVpVDkwU1NLUW5qMHAyY0dWTkxHdXQ4bkllOVJYdTluaTdWRm1PNVQ1bEhFQkVScFVuRmpxYkFlaDM2bEJzR2FDRlFSenNlbHVKd05SQ3NaYmgtWWlNb1VSQUE1NmEyNUZZeWVTUzVEOEU?oc=5",
-     "outlet": "The Hill",
-     "published": "2025-12-07T08:00:00+00:00"
     }
    ],
    "said": [
     {
-     "title": "Trump slams Rep. Henry Cuellar for sticking with Democratic Party despite presidential pardon",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdjlJU21EekdwRkt2WmMtMVNuVWQyYklZQlFpRnBCMU9VNTIxUDlMZUdWbVo3ZXBPSkJ1ODZ1VlVVYkQxNUVhVF8tV191VkpQa1EwdWZTWm92X0pFSzZOM29yWG5vTWxUNnEzXzlGQXRBenduU0E5dTl3SlFaeWRRYU1mS3NHaXZzb0tINUFjVVQ1WHJZcXRWTlA4NV9tRm1vbW56bk1YTFJyMzNRdVhHbk5wNHdIS0dwbXU5UEpqbXhvYXhuekY0VFBka1hhSFkwTm1zeEJhNHFJbVk?oc=5",
-     "outlet": "Texas Public Radio | TPR",
-     "published": "2026-10-09T07:00:00+00:00"
-    },
-    {
      "title": "Trump to pardon Rep. Henry Cuellar, says charges were retaliation for border stance",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVkdxVXFMVF9OeWctQ3ZKcVFQV0xFUFY3SFVybEFmTkIzdnBYOVZua1pZcUI4U0xtZ24yZVBTdmpFUnhPY09Kb1RXTm1Jd2hLQXUzUE01ZFdrWlVUNDB6ZF9EdFVzY2ZHbVJxOTNEbURnd1lvTlN0QWozYUw4NmZzbmNPaGpKWTBmbGI5UmlIMFg4TDE5M2NwOFYwVWhkeTU3OG9YM2tvTkppWDE2N0dYNEJNTXBtQ1NQdUg4S2puR0VMVGJKSk0xWmg1OXRDcWs1SnRURzU4em9hVUFVU2hLYWJlYWpfTmhYa0hQOUo2SdIB9wFBVV95cUxNUWNhM0NtOEJyTG9LbDVFZVlOenNlODBBemprb3lOTG9CMkY4U05KZi1JNHQtVEdSZzRuYXA4S0NhY3lkaHprY2wySUVKb2V4cGJZUjBzcE9CVjQ2TnhfaU9nN2kwbWRsbE54LU9iaFY4ZEZOTWRoN1BMU2owbXE0ZWtta3Y5Rk40SDNNOGJCQVREdmE1OFFyWGoxMkpCdUNGQWRWaXpla0RoQkdDZ0lpS2VBS05UdTZOS0wtcGthUVdxUTRsM00tdEtRR0xGZk9nZWNGeUVTQWhZZmxTcGlBMzZUYV9idjA4aWFDcDNaN2lULW9ielFJ?oc=5",
      "outlet": "Houston Public Media",
-     "published": "2025-12-03T08:00:00+00:00"
-    },
-    {
-     "title": "Trump to pardon Rep. Cuellar, says charges were retaliation for border stance",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWF0bmo3QnpTZmNFQUFIOGpsQlFjLUhfYkZqaDRWc3NjZlNVNGtERE9Nc2tZblF0REpaTlcyQnpVV1ZjdTJiXzVIbFdXM0pkRTE1THRuR0dXRjM4NmFHQXZNZFQ5cGNpWk1KNUN5d1VXa3dYSFJIdU0yLXlST1NMTjhmajh1Q1FEQkljcjJuSkg2ZzM1RXdMWndyMTRDNUxQM1FuNHhEanhvUUo4WnNlU1IweGVvUQ?oc=5",
-     "outlet": "KUT",
      "published": "2025-12-03T08:00:00+00:00"
     }
    ],
@@ -2832,12 +2771,6 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVDVnZHNtWlJhckZvdGp6d21CaUctUjU2VW1JYjU5Vjc3THgyZ2xkbkx0ZkRpTzVJVWE2N2d0a18wZTY2TFFTZWEwM2NjdlZTNXpHZzRVTHA0OWJEV3RhUXE0MEcxV1Q3MWtNMVFaSndBY3VlRGx2dXhnYUhBSDJUZ3dIakFJQ3dkckhTaEc5eGlLWkxpQVpB?oc=5",
      "outlet": "The Texas Tribune",
      "published": "2026-05-10T07:00:00+00:00"
-    },
-    {
-     "title": "Trump's pardon of House Dem Cuellar back in the spotlight as Cuellar's brother faces indictment",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0otcDMtX2M1M0VBRERzLXBlWkVHYkdEU0h3eWRiNERPVWtfZXk2cndRNUQ0ZUtmRzBYYkNONkl4ZlJLX1NtS3hQdUJyUF95NHFLUmYyQ3RyWDlETUVCVF9QSW9GcmRYYnhkbHVFSzVoN2tfc0V2SC0tR1NYTjQ5bElVaVNocktOMTRRNUhQdmM2eDN3YlAzSkl2ME5aRUtBbzJfSUVmYmljbFXSAbABQVVfeXFMTkxMazdzelhVYVdseEdQVGp0NXVwZS1lMWpLeG84QmdhdFg4SUloSmtwQ0VCei12Y0lJLU5DZDBtbUhsaEZmU0EzZGFLa2x1T25LbnlPVGlMcEhfY2ZxUlJGeUt4VkRWdUxRZk9wbkhaSnZwRzM3LUc0bC1yYy1YMThnTThrSnJ6T3FLSUZZTFpMeGxtbHpZc1pTemxzN0R5MVhJRjNjRlFKdm9CYk5EOWQ?oc=5",
-     "outlet": "Fox News",
-     "published": "2026-01-23T08:00:00+00:00"
     },
     {
      "title": "Webb County Sheriff Martin Cuellar, brother of Rep. Henry Cuellar, indicted on federal fraud charges",
@@ -2858,6 +2791,12 @@
      "published": "2025-12-03T08:00:00+00:00"
     },
     {
+     "title": "Trump pardons Texas Democratic Rep. Cuellar in federal bribery and conspiracy case",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNckZ3ZXotMlRQeFNYSkh2MVRMamZTSER6Y3MxWGkyQ0R6SVRhZ180TFFldnJVNXNlSkt6d05lNnNGQXBXQXNUN1lRZU9Ib2RwbUt2V0t2a3dpejl4elE3UWlnSDR5U2t3T3JhX1k1SmhNdTh1TGNmYzFqRmhkbjE3T0xOdWgxX1NlN1dybkoxdFdZbEgw0gGaAUFVX3lxTE1TWjJENmVpb2duaEdtZ0FraExBSFUtRDItNWNZQzMyWjlvTGFvOVhRZ3ZIY3kyWU9Ybi0xTllFOVhOSjNrRTJIRl9Vd1lTWk1Xak5ERkdQZXpLeTBqMnhWTHhXWWtKQS10TTROSVJSY21PMDFRT3M4MmR0OUE3dTVEYlBzRExoYmRRSkJjZ1ZqX1dXX1FOSEs5eWc?oc=5",
+     "outlet": "PBS",
+     "published": "2025-12-03T08:00:00+00:00"
+    },
+    {
      "title": "Trump Pardons Henry Cuellar, Texas Lawmaker Awaiting Bribery Trial",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPck5mck81UDBhMlJtbDdqTDZ6SmNMaXFCQzZudENXR0NqYWNWZHMyY096M3Y4cVo4WGdRS3Z2MGNTQWFURTdJVWlORmlzQzJnVVdDZTYxSEtFMUFYM25DNmhuLUVNZFhENWViVmc0YUpDdThlVXBwU3ZERVFWRlJwT1VjTEczRURuNmFfMVJsLU81dm1lLUJORkpB?oc=5",
      "outlet": "The New York Times",
@@ -2870,9 +2809,9 @@
      "published": "2025-12-03T08:00:00+00:00"
     },
     {
-     "title": "Trump pardons Texas Democratic Rep. Cuellar in bribery and conspiracy case",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEp1YjF1SHQ1SklXdDBBZk5hMHFuNHJlUHFqb05DdVhTc09lS0dVbnViMUJKT2c4ZjdCN3haa3l0SlJnRXVmSDdOWlJUdEM3MVVSR05PS0dVUUlTVFd2YjZIVmlYZU9FcjVOcFBOX1VIbXQtTzk1ZlFRRjE0QkJrT3ctM191dU0?oc=5",
-     "outlet": "AP News",
+     "title": "Trump pardons Texas Democrat Henry Cuellar after bribery indictment",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEgyVW1wMk9PNGY4aEpPMUQ3LXd1RDBVNkp6OHRBcmJ0T2R6OFhpRkNvUWdzYTd3cGJKTzYzd2lNS2M5TDRORzZSQndiMG5mQWI2MW53NVlFVTNyeWZnVDIyYmMwaktCeEhIRDRaZDcwbUxLN0kxUEk5aVhrVHNMOTVTbHR0ckcyTmVyVHJR0gGTAUFVX3lxTE5OWjNIMzYxMEVoSWNyMTJkYzBCa3hqYzdUeWloNUQyRXNtWUI3WDlCZ1phLXFxT2hzeFVjSnBfQV8za0h5Ung0TFFQWXhBOWVGVFNKSGZUMWpEOFNRblhzajNQdW9RYnBId1RUNW03WXVEM1JjRjdoSDg2bVVtZUZIeGpSU084amladkc0S1VYaGprYw?oc=5",
+     "outlet": "The Hill",
      "published": "2025-12-03T08:00:00+00:00"
     }
    ]
@@ -3029,16 +2968,16 @@
      "published": "2026-10-23T23:45:00+00:00"
     },
     {
-     "title": "Early voting runs Oct. 19-30: Here's your Pflugerville and Hutto sample ballot",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1dFTldPMXZfSkt3SUpJME1zODZMV0N6LWRVVVlpWFU2MHJ6TWJ1TFV5ODMweGtubndKMGtRRktybnQzVGVhaFcxQ0NoQnR3NnNYSXFQYUkxakluWXR4WmxYZGNKdzNIbkJoTEQyUkNPajNUV3FuWjhrRUdWMnM0NzRZZXNIOFAta0sxNGNCamlZMXVPc1pDMGdudmdLLUotVlp4VXZSWTNMNG42bXdHaTNicEVEaVhFRmQwS1dMZERlaWt1SHN2clFyZWtFQQ?oc=5",
-     "outlet": "Community Impact Newspaper",
-     "published": "2026-10-16T23:25:10+00:00"
-    },
-    {
      "title": "Early voting runs Oct. 19-30: Here's your Round Rock-area sample ballot",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzJ4SmppN0oyU0dHckVwbXE4dkZlbWRJb01nME16VXVQUU9FeHZya3dQeEpaWnFDVnhzdEt0cV9LbVJNZ0oyMnRDZ19OQkYxY3VmcElobTdwNXVPS3lPcEEwN1FWVlRDczBwQkdINjAxSFRyb1hDcXNJcmZqck1LbVdPQ0NiTHNyRk51MTZKeURBZFZUSjBvWXA3UW9yTHZPX19hMUpzUDdIeVBRUHZoU0JGQjJQaklNYmc?oc=5",
      "outlet": "Community Impact Newspaper",
      "published": "2026-10-16T22:38:41+00:00"
+    },
+    {
+     "title": "Early voting runs Oct. 19-30: Here's your Pflugerville and Hutto sample ballot",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1dFTldPMXZfSkt3SUpJME1zODZMV0N6LWRVVVlpWFU2MHJ6TWJ1TFV5ODMweGtubndKMGtRRktybnQzVGVhaFcxQ0NoQnR3NnNYSXFQYUkxakluWXR4WmxYZGNKdzNIbkJoTEQyUkNPajNUV3FuWjhrRUdWMnM0NzRZZXNIOFAta0sxNGNCamlZMXVPc1pDMGdudmdLLUotVlp4VXZSWTNMNG42bXdHaTNicEVEaVhFRmQwS1dMZERlaWt1SHN2clFyZWtFQQ?oc=5",
+     "outlet": "Community Impact Newspaper",
+     "published": "2026-10-16T07:00:00+00:00"
     },
     {
      "title": "Early voting has begun. Here's what you need to know to vote in Williamson County",
@@ -3128,6 +3067,12 @@
      "published": "2026-10-22T07:00:00+00:00"
     },
     {
+     "title": "Vice President JD Vance rallies in Harlingen for Republican Congressional candidate Eric Flores",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX0dXSEVEUUdYVEFaQV9FUXYyVlRmd3JWSFhEWjZUUEhxUXlqejV6WXpwX2NCYndPSUZqMkhsUG55MDNjOUlRZm9YcnQ4ei1XQ1V4eVk2RFZOWmtjUURZN2t2MUMzNFJiT253UXFKUjVhZjRwUjVXRTBQamkycVhkSV9lWnpZWTZHYWd5QUZyUE15MFBsWlNGTTM2N3dDcTk0YlZBcGdKZmt4cl9FcnVsaWpSY3pTLTkwWmQyTUJQMFloczl0ZGFXdnBkaEwzU21uUGFuVDBXLWpkQdIB3wFBVV95cUxNX2VpOURrMzd1elZZQUxhNDJLdWg1U0NOcUdOZ3NsMU5WaHRETXpLSVBORXJFU3M2SUk0UkhUVW5TRERtRDQxQ0pZVnVzWXNwRGh3YUtqYlRGZTVGYjVKLUZMY3lEQmdsX2dqOWc2aE56emN2ZklxbW1WUlVodWJCXzgxQVE4WjQ3NFJWR2U2MHY5WjFxR0xxUk1PbWoybUZOMUVnWmdlYm9sdEo4YTIyZndMeUxhN1dSbjBCeXFkcGpYTlFfc1E0QUpqaFhiYUxlU0lza3JlaHM0QkYwcUFF?oc=5",
+     "outlet": "ValleyCentral.com",
+     "published": "2026-10-01T07:00:00+00:00"
+    },
+    {
      "title": "Eric Flores | 2026 candidate for Texas’ 34th Congressional District",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1plT3l6MHlZT194QWlBN0FwMmJ1WVVGaUpqemF2aUFpdTlLRDNzcXJKbXdMUFpUY2Y0dDRtVnV6MDlPMWF5R1dfcEU2aFZNVl9jTmxPZUR4YjFhbGMyMTdHdC1oVFNINEtnbllXOVgyWDVLSXMzS0YwVzNOaFRxQnFEQk5odXl5cTVidG1DaU5FbkZPenFZWW9hcXA1QlFna2tPWQ?oc=5",
      "outlet": "San Antonio Report",
@@ -3135,8 +3080,8 @@
     },
     {
      "title": "FULL: Eric Flores Speaks at RNC Midterm Convention Day 2",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03U3pIb0FaazhlblJMVEZobnNPcENjMEFyeDVsT1gySzlEdG5JRmNfa1c5MWRrdWRUVDNROFlCd1hUMUNpTHBsTjQ0SkFvNnJlSDBTUkZ4TklsZm5oRDFEUW1Nd3VBd9IBa0FVX3lxTFBYYXVDZkJmNHJSYTVvclI1M0VtQ2VKMzRhRzEzUTZGR2N4M0VaakNBTGVnSUstOF9DZzdJbHFEckZTS21sVU1fWlBMbmpoeGV6UEVNekZPWWJwWnZzcm9MaXNibDh4d3FVd2FV?oc=5",
-     "outlet": "FOX 26 Houston",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IZFdwWDhyajJWQ0tvYnlHSXlGUEZCTnFxLWo0RWQ5WkhHZWJCZGdwbTgyNmswbUxJZWNCWUJhRWpMQ0pVc2xId1ZOdktoZ0xoOWNqMW9uLWpfM2piMGVUatIBZkFVX3lxTE9jMnBTTExSY0FfbnVTcU9jSkVaS1lmZXlBTHNhYVBiRXpxbUdYOGQ2X2NKSzVETUlGRFJ1R2dLWVNjaEVka0gtd2pMOU5ZQTdaSEZ4WUYyNzNYckxSM2NDZ3ZMQXJaUQ?oc=5",
+     "outlet": "FOX 4 News Dallas-Fort Worth",
      "published": "2026-09-10T07:00:00+00:00"
     },
     {

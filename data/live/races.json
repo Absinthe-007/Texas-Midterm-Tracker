@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:59:38+00:00",
+ "updated": "2026-10-24T20:53:22+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -91,29 +91,29 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of September 30, 2026",
+    "as_of": "Campaign finance reports as of October 14, 2026",
     "candidates": {
      "Ken Paxton": {
-      "raised": 19497809,
-      "spent": 14572704,
-      "cash": 4925105
+      "raised": 22327474,
+      "spent": 17543066,
+      "cash": 4784408
      },
      "James Talarico": {
-      "raised": 128772835,
-      "spent": 114178603,
-      "cash": 14594231
+      "raised": 146349912,
+      "spent": 136427055,
+      "cash": 9922857
      },
      "Ted Brown": {
-      "raised": 12667,
-      "spent": 9787,
-      "cash": 2948
+      "raised": 14257,
+      "spent": 13037,
+      "cash": 1288
      }
     }
    },
    "polls": [
     {
      "pollster": "Rasmussen Reports",
-     "partisan": null,
+     "partisan": "R",
      "start": "2026-10-20",
      "end": "2026-10-21",
      "n": 965,
@@ -459,7 +459,7 @@
     },
     {
      "pollster": "Rasmussen Reports",
-     "partisan": null,
+     "partisan": "R",
      "start": "2026-09-28",
      "end": "2026-09-29",
      "n": 1128,
