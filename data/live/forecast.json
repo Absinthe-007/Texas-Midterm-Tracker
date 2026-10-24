@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:49:08+00:00",
+ "updated": "2026-10-24T11:13:43+00:00",
  "days_to_election": 10,
  "environment": {
   "generic_ballot": -1.4,
@@ -45,13 +45,70 @@
    "p_dem_sim": 0.258
   },
   "ltgov": {
-   "mean": -4.4,
+   "mean": -4.2,
    "sd": 6.1,
-   "p_dem": 0.237,
-   "lo": -12.1,
-   "hi": 3.4,
+   "p_dem": 0.248,
+   "lo": -11.9,
+   "hi": 3.6,
    "inputs": {
-    "polls": -2.3,
+    "polls": -2.5,
+    "n_polls": 4,
+    "fundamentals": -7.5,
+    "experts": null,
+    "weights": {
+     "polls": 0.67,
+     "fundamentals": 0.33,
+     "experts": 0
+    }
+   },
+   "p_dem_sim": 0.24
+  },
+  "ag": {
+   "mean": -5.0,
+   "sd": 6.1,
+   "p_dem": 0.204,
+   "lo": -12.8,
+   "hi": 2.8,
+   "inputs": {
+    "polls": -2.8,
+    "n_polls": 4,
+    "fundamentals": -5.0,
+    "experts": -10.0,
+    "weights": {
+     "polls": 0.67,
+     "fundamentals": 0.03,
+     "experts": 0.3
+    }
+   },
+   "p_dem_sim": 0.207
+  },
+  "comptroller": {
+   "mean": -4.3,
+   "sd": 6.1,
+   "p_dem": 0.239,
+   "lo": -12.1,
+   "hi": 3.5,
+   "inputs": {
+    "polls": -4.0,
+    "n_polls": 4,
+    "fundamentals": -5.0,
+    "experts": null,
+    "weights": {
+     "polls": 0.67,
+     "fundamentals": 0.33,
+     "experts": 0
+    }
+   },
+   "p_dem_sim": 0.244
+  },
+  "land": {
+   "mean": -6.2,
+   "sd": 6.1,
+   "p_dem": 0.156,
+   "lo": -13.9,
+   "hi": 1.6,
+   "inputs": {
+    "polls": -5.3,
     "n_polls": 3,
     "fundamentals": -7.5,
     "experts": null,
@@ -61,28 +118,9 @@
      "experts": 0
     }
    },
-   "p_dem_sim": 0.229
+   "p_dem_sim": 0.159
   },
-  "ag": {
-   "mean": -5.3,
-   "sd": 6.1,
-   "p_dem": 0.192,
-   "lo": -13.1,
-   "hi": 2.5,
-   "inputs": {
-    "polls": -3.0,
-    "n_polls": 3,
-    "fundamentals": -5.0,
-    "experts": -10.0,
-    "weights": {
-     "polls": 0.6,
-     "fundamentals": 0.1,
-     "experts": 0.3
-    }
-   },
-   "p_dem_sim": 0.192
-  },
-  "comptroller": {
+  "agriculture": {
    "mean": -4.8,
    "sd": 6.1,
    "p_dem": 0.215,
@@ -99,64 +137,26 @@
      "experts": 0
     }
    },
-   "p_dem_sim": 0.219
-  },
-  "land": {
-   "mean": -6.6,
-   "sd": 6.1,
-   "p_dem": 0.14,
-   "lo": -14.4,
-   "hi": 1.2,
-   "inputs": {
-    "polls": -6.0,
-    "n_polls": 3,
-    "fundamentals": -7.5,
-    "experts": null,
-    "weights": {
-     "polls": 0.6,
-     "fundamentals": 0.4,
-     "experts": 0
-    }
-   },
-   "p_dem_sim": 0.143
-  },
-  "agriculture": {
-   "mean": -5.0,
-   "sd": 6.1,
-   "p_dem": 0.206,
-   "lo": -12.8,
-   "hi": 2.8,
-   "inputs": {
-    "polls": -5.0,
-    "n_polls": 4,
-    "fundamentals": -5.0,
-    "experts": null,
-    "weights": {
-     "polls": 0.67,
-     "fundamentals": 0.33,
-     "experts": 0
-    }
-   },
-   "p_dem_sim": 0.208
+   "p_dem_sim": 0.217
   },
   "railroad": {
-   "mean": -2.9,
-   "sd": 6.1,
-   "p_dem": 0.32,
-   "lo": -10.6,
-   "hi": 4.9,
+   "mean": -2.7,
+   "sd": 4.6,
+   "p_dem": 0.279,
+   "lo": -8.6,
+   "hi": 3.2,
    "inputs": {
     "polls": -1.8,
-    "n_polls": 4,
+    "n_polls": 5,
     "fundamentals": -5.0,
     "experts": null,
     "weights": {
-     "polls": 0.67,
-     "fundamentals": 0.33,
+     "polls": 0.71,
+     "fundamentals": 0.29,
      "experts": 0
     }
    },
-   "p_dem_sim": 0.317
+   "p_dem_sim": 0.281
   },
   "tx1": {
    "mean": -36.6,

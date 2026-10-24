@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:40:42+00:00",
+ "updated": "2026-10-24T11:05:20+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -2892,6 +2892,23 @@
    },
    "polls": [
     {
+     "pollster": "Texas Public Opinion Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-18",
+     "n": 969,
+     "pop": "LV",
+     "moe": 3.9,
+     "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+     "results": {
+      "R": 50.0,
+      "D": 47.0
+     },
+     "other": 2.0,
+     "undecided": 1.0,
+     "margin": -3.0
+    },
+    {
      "pollster": "University of Houston",
      "partisan": null,
      "start": "2026-10-10",
@@ -3194,13 +3211,13 @@
     }
    ],
    "average": {
-    "D": 45.0,
-    "R": 47.3,
-    "margin": -2.3,
-    "n_polls": 3,
+    "D": 45.5,
+    "R": 48.0,
+    "margin": -2.5,
+    "n_polls": 4,
     "window_days": 30,
     "from": "2026-09-24",
-    "to": "2026-10-14"
+    "to": "2026-10-18"
    },
    "trend": [
     {
@@ -3287,6 +3304,11 @@
      "date": "2026-10-14",
      "D": 44.0,
      "R": 47.2
+    },
+    {
+     "date": "2026-10-18",
+     "D": 44.6,
+     "R": 47.8
     }
    ],
    "key": "ltgov",
@@ -3339,6 +3361,22 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Texas Public Opinion Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-18",
+     "n": 969,
+     "pop": "LV",
+     "moe": 3.9,
+     "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+     "results": {
+      "R": 50.0,
+      "D": 48.0
+     },
+     "other": 2.0,
+     "margin": -2.0
+    },
     {
      "pollster": "University of Houston",
      "partisan": null,
@@ -3576,13 +3614,13 @@
     }
    ],
    "average": {
-    "D": 44.0,
-    "R": 47.0,
-    "margin": -3.0,
-    "n_polls": 3,
+    "D": 45.0,
+    "R": 47.8,
+    "margin": -2.8,
+    "n_polls": 4,
     "window_days": 30,
     "from": "2026-09-24",
-    "to": "2026-10-14"
+    "to": "2026-10-18"
    },
    "trend": [
     {
@@ -3649,6 +3687,11 @@
      "date": "2026-10-14",
      "D": 43.4,
      "R": 46.8
+    },
+    {
+     "date": "2026-10-18",
+     "D": 44.4,
+     "R": 47.6
     }
    ],
    "key": "ag",
@@ -3736,6 +3779,22 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Texas Public Opinion Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-18",
+     "n": 969,
+     "pop": "LV",
+     "moe": 3.9,
+     "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+     "results": {
+      "R": 50.0,
+      "D": 48.0
+     },
+     "other": 2.0,
+     "margin": -2.0
+    },
     {
      "pollster": "University of Houston",
      "partisan": null,
@@ -3889,13 +3948,13 @@
     }
    ],
    "average": {
-    "D": 43.0,
-    "R": 47.7,
-    "margin": -4.7,
-    "n_polls": 3,
+    "D": 44.2,
+    "R": 48.2,
+    "margin": -4.0,
+    "n_polls": 4,
     "window_days": 30,
     "from": "2026-09-24",
-    "to": "2026-10-14"
+    "to": "2026-10-18"
    },
    "trend": [
     {
@@ -3942,6 +4001,11 @@
      "date": "2026-10-14",
      "D": 42.2,
      "R": 47.2
+    },
+    {
+     "date": "2026-10-18",
+     "D": 43.2,
+     "R": 48.0
     }
    ],
    "key": "comptroller",
@@ -3993,6 +4057,22 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Texas Public Opinion Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-18",
+     "n": 969,
+     "pop": "LV",
+     "moe": 3.9,
+     "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+     "results": {
+      "R": 49.0,
+      "D": 48.0
+     },
+     "other": 3.0,
+     "margin": -1.0
+    },
     {
      "pollster": "University of Houston",
      "partisan": null,
@@ -4080,13 +4160,13 @@
     }
    ],
    "average": {
-    "D": 40.7,
-    "R": 46.7,
-    "margin": -6.0,
+    "D": 42.3,
+    "R": 47.7,
+    "margin": -5.3,
     "n_polls": 3,
     "window_days": 30,
     "from": "2026-09-19",
-    "to": "2026-10-14"
+    "to": "2026-10-18"
    },
    "trend": [
     {
@@ -4113,6 +4193,11 @@
      "date": "2026-10-14",
      "D": 40.7,
      "R": 46.7
+    },
+    {
+     "date": "2026-10-18",
+     "D": 42.3,
+     "R": 47.7
     }
    ],
    "key": "land",
@@ -4159,6 +4244,22 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Texas Public Opinion Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-18",
+     "n": 969,
+     "pop": "LV",
+     "moe": 3.9,
+     "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+     "results": {
+      "R": 50.0,
+      "D": 48.0
+     },
+     "other": 2.0,
+     "margin": -2.0
+    },
     {
      "pollster": "University of Houston",
      "partisan": null,
@@ -4245,13 +4346,13 @@
     }
    ],
    "average": {
-    "D": 41.0,
-    "R": 46.0,
-    "margin": -5.0,
-    "n_polls": 4,
+    "D": 43.0,
+    "R": 47.7,
+    "margin": -4.7,
+    "n_polls": 3,
     "window_days": 30,
-    "from": "2026-09-19",
-    "to": "2026-10-14"
+    "from": "2026-09-24",
+    "to": "2026-10-18"
    },
    "trend": [
     {
@@ -4278,6 +4379,11 @@
      "date": "2026-10-14",
      "D": 41.0,
      "R": 46.0
+    },
+    {
+     "date": "2026-10-18",
+     "D": 42.0,
+     "R": 47.0
     }
    ],
    "key": "agriculture",
@@ -4341,6 +4447,22 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Texas Public Opinion Research",
+     "partisan": null,
+     "start": "2026-10-15",
+     "end": "2026-10-18",
+     "n": 969,
+     "pop": "LV",
+     "moe": 3.9,
+     "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+     "results": {
+      "R": 50.0,
+      "D": 48.0
+     },
+     "other": 2.0,
+     "margin": -2.0
+    },
     {
      "pollster": "ActiVote",
      "partisan": null,
@@ -4475,13 +4597,13 @@
     }
    ],
    "average": {
-    "D": 45.5,
-    "R": 47.2,
+    "D": 46.0,
+    "R": 47.8,
     "margin": -1.8,
-    "n_polls": 4,
+    "n_polls": 5,
     "window_days": 30,
     "from": "2026-09-24",
-    "to": "2026-10-17"
+    "to": "2026-10-18"
    },
    "trend": [
     {
@@ -4523,6 +4645,11 @@
      "date": "2026-10-17",
      "D": 44.7,
      "R": 46.3
+    },
+    {
+     "date": "2026-10-18",
+     "D": 45.3,
+     "R": 47.2
     }
    ],
    "key": "railroad",
