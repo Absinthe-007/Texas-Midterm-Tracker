@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:25:52+00:00",
+ "updated": "2026-10-25T20:54:01+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -5294,6 +5294,22 @@
    },
    "polls": [
     {
+     "pollster": "DCCC",
+     "partisan": null,
+     "start": "2026-10-20",
+     "end": "2026-10-22",
+     "n": 490,
+     "pop": "LV",
+     "moe": 4.4,
+     "url": "https://x.com/nicholaswu12/status/2114105108955099603",
+     "results": {
+      "D": 47.0,
+      "R": 48.0
+     },
+     "undecided": 5.0,
+     "margin": -1.0
+    },
+    {
      "pollster": "University of Houston",
      "partisan": null,
      "start": "2026-10-03",
@@ -5310,8 +5326,8 @@
      "margin": -6.0
     },
     {
-     "pollster": "PPP",
-     "partisan": null,
+     "pollster": "Public Policy Polling",
+     "partisan": "D",
      "start": "2026-09-18",
      "end": "2026-09-19",
      "n": null,
@@ -5327,13 +5343,13 @@
     }
    ],
    "average": {
-    "D": 40.5,
-    "R": 46.5,
-    "margin": -6.0,
-    "n_polls": 2,
+    "D": 42.7,
+    "R": 47.0,
+    "margin": -4.3,
+    "n_polls": 3,
     "window_days": 30,
     "from": "2026-09-19",
-    "to": "2026-10-07"
+    "to": "2026-10-22"
    },
    "trend": [
     {
@@ -5345,6 +5361,11 @@
      "date": "2026-10-07",
      "D": 40.5,
      "R": 46.5
+    },
+    {
+     "date": "2026-10-22",
+     "D": 44.5,
+     "R": 48.0
     }
    ],
    "debates": [],
