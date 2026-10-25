@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:53:43+00:00",
+ "updated": "2026-10-25T11:45:16+00:00",
  "events": [
   {
    "id": "mob-1058498",
@@ -1753,303 +1753,19 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-10-20-173706_20261021231941329049.jpeg"
   },
   {
-   "id": "mob-1072139",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Paletas at the Polls with Team Gina and State Rep. Jessica Gonzalez",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-30T22:00:00+00:00",
-   "end": "2026-10-31T00:00:00+00:00",
-   "more_times": 0,
-   "venue": "Oak Cliff Government Center",
-   "address": "702 E Jefferson Blvd Suite 2100",
-   "city": "Dallas",
-   "zip": "75203",
-   "lat": 32.7480142,
-   "lng": -96.8137113,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1072139/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/g4t%20invite_20261022172817555683.png"
-  },
-  {
-   "id": "mob-1058720",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "📋 Talarico for Texas: Volunteer in College Station",
-   "type": "RALLY",
+   "id": "news-21e870302246",
+   "source": "kiiitv.com",
+   "kind": "reported",
+   "title": "James Talarico visits Corpus Christi rally, Dia de los Muertos Festival",
    "candidates": [
     "james-talarico"
    ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-30T22:00:00+00:00",
-   "end": "2026-10-31T01:00:00+00:00",
-   "more_times": 0,
-   "venue": "Aggie Park",
-   "address": "",
-   "city": "College Station",
-   "zip": "77840",
-   "lat": 30.616559,
-   "lng": -96.3119743,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1058720/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/clear_eyes_full_hearts_volunteer_20261024041556700054.jpg"
-  },
-  {
-   "id": "mob-1058717",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🌟 Clear Eyes Full Hearts: Rally in College Station with James Talarico",
-   "type": "RALLY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-31T00:00:00+00:00",
-   "end": "2026-10-31T01:00:00+00:00",
-   "more_times": 0,
-   "venue": "Aggie Park,",
-   "address": "",
-   "city": "College Station",
-   "zip": "77840",
-   "lat": 30.616559,
-   "lng": -96.3119743,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1058717/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016070708826675.png"
-  },
-  {
-   "id": "mob-1072528",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Harker Heights Canvass — October 31",
-   "type": "CANVASS",
-   "candidates": [
-    "justin-early"
-   ],
-   "host": "Justin Early for Congress",
-   "start": "2026-10-31T14:00:00+00:00",
-   "end": "2026-10-31T17:00:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Harker Heights",
-   "zip": "76548",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/justinearlyforcongress/event/1072528/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/justin_truck_1200x630_20261022222826674480.jpg"
-  },
-  {
-   "id": "mob-1072524",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Leander Canvass — October 31",
-   "type": "CANVASS",
-   "candidates": [
-    "justin-early"
-   ],
-   "host": "Justin Early for Congress",
-   "start": "2026-10-31T14:00:00+00:00",
-   "end": "2026-10-31T17:00:00+00:00",
-   "more_times": 1,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Leander",
-   "zip": "78641",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/justinearlyforcongress/event/1072524/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/justin_truck_1200x630_20261022222614900785.jpg"
-  },
-  {
-   "id": "mob-1070011",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Texas Together Block Walk with Gina Hinojosa - Richmond",
-   "type": "CANVASS",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Texas Together",
-   "start": "2026-10-31T14:00:00+00:00",
-   "end": "2026-10-31T17:00:00+00:00",
-   "more_times": 0,
-   "venue": "Fort Bend County Libraries - George Memorial Library",
-   "address": "1001 Golfview Dr",
-   "city": "Richmond",
-   "zip": "77469",
-   "lat": 29.5622396,
-   "lng": -95.7581227,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1070011/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/IMG_1614_20261021210533481205.png"
-  },
-  {
-   "id": "mob-950362",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Block Walk for Mark Nair",
-   "type": "CANVASS",
-   "candidates": [
-    "mark-nair"
-   ],
-   "host": "Texas Together",
-   "start": "2026-10-31T14:00:00+00:00",
-   "end": "2026-10-31T20:00:00+00:00",
-   "more_times": 0,
-   "venue": "Texas Panhandle Democrats Regional Headquarters",
-   "address": "520 SW 10th Ave",
-   "city": "Amarillo",
-   "zip": "79101",
-   "lat": 35.2046483,
-   "lng": -101.8437537,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/950362/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Candidate%20DVC%20Templates%20%2841%29_20260708193711142313.png"
-  },
-  {
-   "id": "mob-1069918",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Fort Bend Canvass with Gina Hinojosa!",
-   "type": "MEET_GREET",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-10-31T14:30:00+00:00",
-   "end": "2026-10-31T15:30:00+00:00",
-   "more_times": 0,
-   "venue": "George Memorial Library",
-   "address": "1001 Golfview Dr",
-   "city": "Richmond",
-   "zip": "77469",
-   "lat": 29.5620972,
-   "lng": -95.7580253,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1069918/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/FORT%20BEND%20ONE%20FIGHT_20261020181530115798.png"
-  },
-  {
-   "id": "mob-985796",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Team Barrios Block Walk",
-   "type": "CANVASS",
-   "candidates": [
-    "dan-barrios"
-   ],
-   "host": "Dan Barrios for Congress",
-   "start": "2026-10-31T14:30:00+00:00",
-   "end": "2026-10-31T16:00:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Richardson",
-   "zip": "75080",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/danbarriosforcongress/event/985796/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Sat930amdan_20260722004832030126.jpg"
-  },
-  {
-   "id": "mob-1070239",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Texas Together Block Walk with Abbie Kamin & Rep. Christian Menefee - Southeast Houston",
-   "type": "CANVASS",
-   "candidates": [
-    "christian-menefee"
-   ],
-   "host": "Texas Together",
-   "start": "2026-10-31T15:00:00+00:00",
-   "end": "2026-10-31T18:00:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Houston",
-   "zip": "77021",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1070239/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Menefee_Kamin%20%281%29_20261020212941016057.png"
-  },
-  {
-   "id": "mob-1066054",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Team Lizzie Day of Action with Harris County Young Democrats and Rice Young Democrats",
-   "type": "CANVASS",
-   "candidates": [
-    "lizzie-fletcher"
-   ],
-   "host": "Lizzie Pannill Fletcher for Congress",
-   "start": "2026-10-31T15:00:00+00:00",
-   "end": "2026-10-31T18:00:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Houston",
-   "zip": "77098",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/fletcherforcongress/event/1066054/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Young%20Dems_20261023135058208571.jpg"
-  },
-  {
-   "id": "mob-1061634",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Huntsville Super Lit Drop: Caitlin Rourk for TX-10!",
-   "type": "CANVASS",
-   "candidates": [
-    "caitlin-rourk"
-   ],
-   "host": "Blue Action",
-   "start": "2026-10-31T15:00:00+00:00",
-   "end": "2026-10-31T18:00:00+00:00",
-   "more_times": 2,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Huntsville",
-   "zip": "77320",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/blueactiondems/event/1061634/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Mobilize%20Cover%20-%20Blockwalks_20260707175128534973.png"
-  },
-  {
-   "id": "mob-1058598",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Blockwalk for Johnny Garcia",
-   "type": "CANVASS",
-   "candidates": [
-    "johnny-garcia"
-   ],
-   "host": "Johnny Garcia for Congress",
-   "start": "2026-10-31T15:00:00+00:00",
-   "end": "2026-10-31T17:30:00+00:00",
-   "more_times": 0,
-   "venue": "Johnny Garcia for Congress HQ",
-   "address": "1913 Pleasanton Rd",
-   "city": "San Antonio",
-   "zip": "78221",
-   "lat": 29.3625434,
-   "lng": -98.5042709,
-   "virtual": false,
-   "url": "https://www.mobilize.us/garciaforcongress/event/1058598/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/10-31%20Blockwalk%20%28AM%29_20261007204636235204.png"
+   "start": "2026-10-25T05:39:00+00:00",
+   "city": "Corpus Christi",
+   "lat": 27.7543,
+   "lng": -97.1734,
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSmlMZlhEdmlwbmpXSGVNOTdFUmtVd1Q1TzgzTkpnOW9wOEQ0OFJJQWl0RkVwSFIxY1IwTmhmeGI2VWJBWjNuZFVFdlhDaGVCYlR4bUZ2WnkyNE5vT3hhUmxCMkRKM2JlVU9YVDVOSkZvaTJDOVAtd0ZEdWVpdjNlV3NTQXBpbm5XN1J6UU54NWgtbUdaVkVQUndqNlJ2ZDRiUlcwVDZ2SGItWGZTRzhfWDBmVGFDWmdBYmhtYWxSZWtOZWRoalZQQ21uX25OcnVTSjlGZktSTXpnWDdiTTNXbktrOWNWVVF6T2FqV3pmemZSVDVxVlBINXpscE1Dc1V3MzFqZEJkMTYxYjhmbWhIeTJzaw?oc=5",
+   "virtual": false
   },
   {
    "id": "news-73070c04ab85",
@@ -3747,21 +3463,6 @@
    "virtual": false
   },
   {
-   "id": "news-aa8c720ef32d",
-   "source": "ValleyCentral.com",
-   "kind": "reported",
-   "title": "Vice President JD Vance rallies in Harlingen for Republican Congressional candidate Eric Flores",
-   "candidates": [
-    "eric-flores"
-   ],
-   "start": "2026-10-01T07:00:00+00:00",
-   "city": "Harlingen",
-   "lat": 26.1912,
-   "lng": -97.6974,
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX0dXSEVEUUdYVEFaQV9FUXYyVlRmd3JWSFhEWjZUUEhxUXlqejV6WXpwX2NCYndPSUZqMkhsUG55MDNjOUlRZm9YcnQ4ei1XQ1V4eVk2RFZOWmtjUURZN2t2MUMzNFJiT253UXFKUjVhZjRwUjVXRTBQamkycVhkSV9lWnpZWTZHYWd5QUZyUE15MFBsWlNGTTM2N3dDcTk0YlZBcGdKZmt4cl9FcnVsaWpSY3pTLTkwWmQyTUJQMFloczl0ZGFXdnBkaEwzU21uUGFuVDBXLWpkQdIB3wFBVV95cUxNX2VpOURrMzd1elZZQUxhNDJLdWg1U0NOcUdOZ3NsMU5WaHRETXpLSVBORXJFU3M2SUk0UkhUVW5TRERtRDQxQ0pZVnVzWXNwRGh3YUtqYlRGZTVGYjVKLUZMY3lEQmdsX2dqOWc2aE56emN2ZklxbW1WUlVodWJCXzgxQVE4WjQ3NFJWR2U2MHY5WjFxR0xxUk1PbWoybUZOMUVnWmdlYm9sdEo4YTIyZndMeUxhN1dSbjBCeXFkcGpYTlFfc1E0QUpqaFhiYUxlU0lza3JlaHM0QkYwcUFF?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-effdc4edd66d",
    "source": "The Killeen Daily Herald",
    "kind": "reported",
@@ -3819,6 +3520,21 @@
    "lat": 29.7857,
    "lng": -95.3888,
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3ZFT1laWmEtNlZBTnQ3bDM0YnhyWVpCbVlseDhIZzFzb0FPS0RLaVZfRFh5OTVGLUhYQzZaQ0Y5ZHNaNFBzbFhzMUVJMjY0dEVCY1lfXzRQWUh6LTFLWlRfTEhZcVpDZzN0cXdnbDdMTFM5NmlwX18ya0ptQ0dnM2J5NjJ4amJsMURqc2s3VFZFQ2YxUmhVbTdvMkpWZjVsaFZRVnRXTnFqVVhTRGlINENWN01yQkh6dlFlLWxFa0xyMjFZS1JQdmVtVmgzcGdSNVRjLVZGUzFmQ0h1TWFaNnFjSXd4MVRLTVBXNDk5djXSAfgBQVVfeXFMTi1YRDhwdGs1ZnBaVkx0MjhZY055OEl2WFZ1MXhPOG5HNGlkMHVNZ29ESzRaMUltc2JpQjIxYWxkMjJoYU1yeUtOcUs4amRzd1pBaTIwblNqSkRqTk5mTkhhWDVRNzFHdmxRdWtYdm1aVDZmV0wwUkJ3Vkp2bE5ZbmEyMWVwTE9KQjNBREVOVWtlT3Bac05QVUhFa19tVHY4V05SWHU4S0dMTzJjSTZQeFh5NTFPNC03UTFWd0x6aEpWQ2FZUmFNQVhob0ZxZUNBZVZWZEhRSmlOb1AxVFZZTG43bEp0Y0NnQ3YyZFBJcV9GU09sVlAyZ2o?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-ec29769a353a",
+   "source": "Click2Houston",
+   "kind": "reported",
+   "title": "‘Chaos’: Congressman Christian Menefee addresses TSA issues at Houston airports after reported ICE involvement",
+   "candidates": [
+    "christian-menefee"
+   ],
+   "start": "2026-03-23T07:00:00+00:00",
+   "city": "Houston",
+   "lat": 29.7857,
+   "lng": -95.3888,
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS3FMSi14dFgtRnFhMWRwNGlqdmhZUlVBZkJXcE9zb3RXNFpzal9QSU44cElXOU9wei1yeVdQMzFqbTJDaTJYZHE4Sm9RZFJ3QmFhSW9tWUtUY0RNbDIxejVVWWdYaXhxcF85UDUwVkpHbFd3QldnWW1RUFZsN0Z0VFVZY2sxRXFKNlVienlZZk9mZlZ6ejN5aTVOcl94SE13b2VuZHd4VVAyVF9BbWxFMDdRMzVIeGxOMDlmZGxYenRybV9hZ2ZYbFNXandwWWpyczJmMm1TWU8wUQ?oc=5",
    "virtual": false
   }
  ]
