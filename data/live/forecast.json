@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-24T21:01:47+00:00",
- "days_to_election": 10,
+ "updated": "2026-10-25T04:53:45+00:00",
+ "days_to_election": 9,
  "environment": {
   "generic_ballot": -1.4,
   "district_swing": 5.7
  },
  "races": {
   "senate": {
-   "mean": 1.5,
+   "mean": 1.6,
    "sd": 4.6,
-   "p_dem": 0.626,
-   "lo": -4.4,
+   "p_dem": 0.632,
+   "lo": -4.3,
    "hi": 7.4,
    "inputs": {
-    "polls": 2.0,
-    "n_polls": 22,
+    "polls": 2.1,
+    "n_polls": 21,
     "fundamentals": -5.0,
     "experts": 0.0,
     "weights": {
@@ -23,17 +23,17 @@
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.63
+   "p_dem_sim": 0.639
   },
   "governor": {
-   "mean": -3.0,
+   "mean": -2.9,
    "sd": 4.6,
-   "p_dem": 0.257,
-   "lo": -8.9,
+   "p_dem": 0.262,
+   "lo": -8.8,
    "hi": 2.9,
    "inputs": {
-    "polls": -2.3,
-    "n_polls": 18,
+    "polls": -2.2,
+    "n_polls": 17,
     "fundamentals": -7.5,
     "experts": -5.0,
     "weights": {
@@ -42,69 +42,69 @@
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.258
+   "p_dem_sim": 0.264
   },
   "ltgov": {
-   "mean": -4.2,
+   "mean": -4.0,
    "sd": 6.1,
-   "p_dem": 0.248,
-   "lo": -11.9,
-   "hi": 3.6,
+   "p_dem": 0.255,
+   "lo": -11.8,
+   "hi": 3.8,
    "inputs": {
-    "polls": -2.5,
-    "n_polls": 4,
+    "polls": -1.7,
+    "n_polls": 3,
     "fundamentals": -7.5,
     "experts": null,
     "weights": {
-     "polls": 0.67,
-     "fundamentals": 0.33,
+     "polls": 0.6,
+     "fundamentals": 0.4,
      "experts": 0
     }
    },
-   "p_dem_sim": 0.24
+   "p_dem_sim": 0.25
   },
   "ag": {
-   "mean": -5.0,
+   "mean": -4.7,
    "sd": 6.1,
-   "p_dem": 0.204,
-   "lo": -12.8,
-   "hi": 2.8,
+   "p_dem": 0.22,
+   "lo": -12.5,
+   "hi": 3.1,
    "inputs": {
-    "polls": -2.8,
-    "n_polls": 4,
+    "polls": -2.0,
+    "n_polls": 3,
     "fundamentals": -5.0,
     "experts": -10.0,
     "weights": {
-     "polls": 0.67,
-     "fundamentals": 0.03,
+     "polls": 0.6,
+     "fundamentals": 0.1,
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.207
+   "p_dem_sim": 0.222
   },
   "comptroller": {
-   "mean": -4.3,
+   "mean": -4.0,
    "sd": 6.1,
-   "p_dem": 0.239,
-   "lo": -12.1,
-   "hi": 3.5,
+   "p_dem": 0.257,
+   "lo": -11.7,
+   "hi": 3.8,
    "inputs": {
-    "polls": -4.0,
-    "n_polls": 4,
+    "polls": -3.3,
+    "n_polls": 3,
     "fundamentals": -5.0,
     "experts": null,
     "weights": {
-     "polls": 0.67,
-     "fundamentals": 0.33,
+     "polls": 0.6,
+     "fundamentals": 0.4,
      "experts": 0
     }
    },
-   "p_dem_sim": 0.244
+   "p_dem_sim": 0.26
   },
   "land": {
    "mean": -6.2,
    "sd": 6.1,
-   "p_dem": 0.156,
+   "p_dem": 0.155,
    "lo": -13.9,
    "hi": 1.6,
    "inputs": {
@@ -121,42 +121,42 @@
    "p_dem_sim": 0.159
   },
   "agriculture": {
-   "mean": -4.8,
+   "mean": -5.0,
    "sd": 6.1,
-   "p_dem": 0.215,
-   "lo": -12.6,
-   "hi": 3.0,
+   "p_dem": 0.206,
+   "lo": -12.7,
+   "hi": 2.8,
    "inputs": {
-    "polls": -4.7,
-    "n_polls": 3,
+    "polls": -5.0,
+    "n_polls": 4,
     "fundamentals": -5.0,
     "experts": null,
     "weights": {
-     "polls": 0.6,
-     "fundamentals": 0.4,
+     "polls": 0.67,
+     "fundamentals": 0.33,
      "experts": 0
     }
    },
-   "p_dem_sim": 0.217
+   "p_dem_sim": 0.208
   },
   "railroad": {
-   "mean": -2.7,
-   "sd": 4.6,
-   "p_dem": 0.279,
-   "lo": -8.6,
-   "hi": 3.2,
+   "mean": -2.9,
+   "sd": 6.1,
+   "p_dem": 0.319,
+   "lo": -10.6,
+   "hi": 4.9,
    "inputs": {
     "polls": -1.8,
-    "n_polls": 5,
+    "n_polls": 4,
     "fundamentals": -5.0,
     "experts": null,
     "weights": {
-     "polls": 0.71,
-     "fundamentals": 0.29,
+     "polls": 0.67,
+     "fundamentals": 0.33,
      "experts": 0
     }
    },
-   "p_dem_sim": 0.281
+   "p_dem_sim": 0.317
   },
   "tx1": {
    "mean": -36.6,
@@ -181,7 +181,7 @@
    "mean": -13.9,
    "sd": 6.6,
    "p_dem": 0.017,
-   "lo": -22.4,
+   "lo": -22.3,
    "hi": -5.5,
    "inputs": {
     "polls": -9.0,
@@ -276,7 +276,7 @@
    "mean": 32.1,
    "sd": 6.6,
    "p_dem": 1.0,
-   "lo": 23.6,
+   "lo": 23.7,
    "hi": 40.5,
    "inputs": {
     "polls": null,
@@ -296,7 +296,7 @@
    "sd": 6.6,
    "p_dem": 0.003,
    "lo": -26.3,
-   "hi": -9.4,
+   "hi": -9.5,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -390,7 +390,7 @@
    "mean": -33.6,
    "sd": 6.6,
    "p_dem": 0.0,
-   "lo": -42.1,
+   "lo": -42.0,
    "hi": -25.2,
    "inputs": {
     "polls": null,
@@ -410,7 +410,7 @@
    "sd": 6.6,
    "p_dem": 0.004,
    "lo": -25.9,
-   "hi": -9.0,
+   "hi": -9.1,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -427,8 +427,8 @@
   "tx15": {
    "mean": 2.3,
    "sd": 6.6,
-   "p_dem": 0.634,
-   "lo": -6.2,
+   "p_dem": 0.635,
+   "lo": -6.1,
    "hi": 10.7,
    "inputs": {
     "polls": 4.8,
@@ -448,7 +448,7 @@
    "sd": 6.6,
    "p_dem": 1.0,
    "lo": 17.9,
-   "hi": 34.8,
+   "hi": 34.7,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -465,7 +465,7 @@
   "tx17": {
    "mean": -16.0,
    "sd": 6.6,
-   "p_dem": 0.008,
+   "p_dem": 0.007,
    "lo": -24.4,
    "hi": -7.6,
    "inputs": {
@@ -485,8 +485,8 @@
    "mean": 53.2,
    "sd": 6.6,
    "p_dem": 1.0,
-   "lo": 44.8,
-   "hi": 61.7,
+   "lo": 44.9,
+   "hi": 61.6,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -504,7 +504,7 @@
    "mean": -35.8,
    "sd": 6.6,
    "p_dem": 0.0,
-   "lo": -44.3,
+   "lo": -44.2,
    "hi": -27.4,
    "inputs": {
     "polls": null,
@@ -541,9 +541,9 @@
   "tx21": {
    "mean": -14.4,
    "sd": 6.6,
-   "p_dem": 0.015,
+   "p_dem": 0.014,
    "lo": -22.8,
-   "hi": -5.9,
+   "hi": -6.0,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -599,7 +599,7 @@
    "mean": -11.7,
    "sd": 6.6,
    "p_dem": 0.037,
-   "lo": -20.2,
+   "lo": -20.1,
    "hi": -3.3,
    "inputs": {
     "polls": null,
@@ -619,7 +619,7 @@
    "sd": 6.6,
    "p_dem": 0.005,
    "lo": -25.5,
-   "hi": -8.6,
+   "hi": -8.7,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -674,8 +674,8 @@
   "tx28": {
    "mean": 7.0,
    "sd": 6.6,
-   "p_dem": 0.855,
-   "lo": -1.5,
+   "p_dem": 0.856,
+   "lo": -1.4,
    "hi": 15.4,
    "inputs": {
     "polls": 7.7,
@@ -789,7 +789,7 @@
    "mean": 3.2,
    "sd": 6.6,
    "p_dem": 0.685,
-   "lo": -5.3,
+   "lo": -5.2,
    "hi": 11.6,
    "inputs": {
     "polls": 1.5,
@@ -864,8 +864,8 @@
   "tx38": {
    "mean": -13.0,
    "sd": 6.6,
-   "p_dem": 0.024,
-   "lo": -21.5,
+   "p_dem": 0.023,
+   "lo": -21.4,
    "hi": -4.6,
    "inputs": {
     "polls": null,
