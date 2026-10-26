@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:59:39+00:00",
+ "updated": "2026-10-26T13:16:35+00:00",
  "events": [
   {
    "id": "mob-1064435",
@@ -2200,6 +2200,21 @@
    "virtual": false
   },
   {
+   "id": "news-edc361222933",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "GOP candidate Brandon Herrera to campaign in Clint, Northeast El Paso next week",
+   "candidates": [
+    "brandon-herrera"
+   ],
+   "start": "2026-10-24T02:55:47+00:00",
+   "city": "Clint",
+   "lat": 31.5902,
+   "lng": -106.2287,
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVgzOGZVd0IxUEVHVkpQWlRnX3RNdUdzQ0gzcERkNEhzYmVGX3JYWF93c3UweGlkbzV0Z1g0eTlaZlF2NXQ3Q3JJd2NPdVdjOHFKWmlsaDYybE5SZDNvbXl6TlNIeUJ4RGE1U2IwamJyNEcyc21fZzkyUUF1WFMyYWw1M0tBbWN3a2daMFY4RGZMU3FtRkprYXJES3Z0WFBTWERZVVpmYVg2b1hO?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-66c2f437c51b",
    "source": "kcentv.com",
    "kind": "reported",
@@ -2242,21 +2257,6 @@
    "lat": 31.1049,
    "lng": -97.3885,
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNmlNSVpEdkN3NDNfUVVXTkN3OWJqOWRSdEZiWnRCX3FIODZPRXg0elA3T3ppU3JhdFE0VWVqVU1oWmtGZldDdEQ3eDE2bEhHNGJmZGhxWHU2TzRDZ2N2RlBNdVh0SkNaekwyRzJmbXkyaUxDOVRZa0FVcGlKeWZBZnNOU1RQczREeDVmbkZHMEZFLUNnRHU1dzFLam9PUzVvZVFUX2xiVFk0Q0VrVVlreXV3YmwyMmxVTUliSzExNkdQZTdqRm11Y3AydHZpd0l4T0JFdVJrUmVna3BoNGtFclR6Rnh1MUFSc2VfQlJ1blpoaEdtTFZVeUFB?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-edc361222933",
-   "source": "KFOX",
-   "kind": "reported",
-   "title": "GOP candidate Brandon Herrera to campaign in Clint, Northeast El Paso next week",
-   "candidates": [
-    "brandon-herrera"
-   ],
-   "start": "2026-10-23T15:05:53+00:00",
-   "city": "Clint",
-   "lat": 31.5902,
-   "lng": -106.2287,
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVgzOGZVd0IxUEVHVkpQWlRnX3RNdUdzQ0gzcERkNEhzYmVGX3JYWF93c3UweGlkbzV0Z1g0eTlaZlF2NXQ3Q3JJd2NPdVdjOHFKWmlsaDYybE5SZDNvbXl6TlNIeUJ4RGE1U2IwamJyNEcyc21fZzkyUUF1WFMyYWw1M0tBbWN3a2daMFY4RGZMU3FtRkprYXJES3Z0WFBTWERZVVpmYVg2b1hO?oc=5",
    "virtual": false
   },
   {
@@ -2955,7 +2955,7 @@
    "kind": "reported",
    "title": "Talarico-Paxton race tight, other Republicans winning as they visit Fort Worth",
    "candidates": [
-    "ken-paxton"
+    "james-talarico"
    ],
    "start": "2026-10-19T09:30:00+00:00",
    "city": "Fort Worth",
@@ -3760,18 +3760,18 @@
    "virtual": false
   },
   {
-   "id": "news-b33e1537187f",
-   "source": "KVUE",
+   "id": "news-efafe6e6321e",
+   "source": "The Texas Tribune",
    "kind": "reported",
-   "title": "Texas Attorney General Ken Paxton visits Waco over the weekend on campaign trail",
+   "title": "Trump to visit San Antonio next week for rally with Paxton, De La Cruz",
    "candidates": [
-    "ken-paxton"
+    "carlos-de-la-cruz"
    ],
-   "start": "2026-10-05T07:00:00+00:00",
-   "city": "Waco",
-   "lat": 31.558,
-   "lng": -97.1898,
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFN4SXc5VWJ1MlFXSXIwS3gydExfY29JZVlBZEZBZVdBZGdzeHVyek15eXhIeTBmWkVHZ1lFLWVSeHQxY1BRY3FqdVIxeFV0V0RhdTNzcmRzblh5a3NCVm5nMWlLeWxGdmRDWnJCOXhNT3lCRVc5VFdJUUFrTHdjREh2Y3JteGVMSUxndV9NcFk4QjB6cXpKVC1DY016Y0QtZUEwb0RjcnVSdGlLV3RnQmFCN2JmMGdlWC1TcEdDZXlKQ0RXenVJR1BKQTc0MC1jTG5MOU5hNC1BcXo1QmMxdGtCRTluRzZT?oc=5",
+   "start": "2026-10-02T07:00:00+00:00",
+   "city": "San Antonio",
+   "lat": 29.4628,
+   "lng": -98.5246,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2xhRlFFaFJzLVp6N1BLUXBiQWpKU2FNX1QwUXE0UUNRM1RtS3AwdndlLVdjcEtFTnptVENseFpoaWdESjdNc0pUb1lBNTFqZkVrYVZsYmEwamhjRFd6THREdDkwQjNjQUo3aDRaQXdBcEVOaGdCZlAxR3gwNFFiTENCSWxydlJtMEpWRnpaM21RRjhrdzNVQ1g5a1lmdk84Q1E?oc=5",
    "virtual": false
   },
   {
@@ -3787,21 +3787,6 @@
    "lat": 26.1912,
    "lng": -97.6974,
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX0dXSEVEUUdYVEFaQV9FUXYyVlRmd3JWSFhEWjZUUEhxUXlqejV6WXpwX2NCYndPSUZqMkhsUG55MDNjOUlRZm9YcnQ4ei1XQ1V4eVk2RFZOWmtjUURZN2t2MUMzNFJiT253UXFKUjVhZjRwUjVXRTBQamkycVhkSV9lWnpZWTZHYWd5QUZyUE15MFBsWlNGTTM2N3dDcTk0YlZBcGdKZmt4cl9FcnVsaWpSY3pTLTkwWmQyTUJQMFloczl0ZGFXdnBkaEwzU21uUGFuVDBXLWpkQdIB3wFBVV95cUxNX2VpOURrMzd1elZZQUxhNDJLdWg1U0NOcUdOZ3NsMU5WaHRETXpLSVBORXJFU3M2SUk0UkhUVW5TRERtRDQxQ0pZVnVzWXNwRGh3YUtqYlRGZTVGYjVKLUZMY3lEQmdsX2dqOWc2aE56emN2ZklxbW1WUlVodWJCXzgxQVE4WjQ3NFJWR2U2MHY5WjFxR0xxUk1PbWoybUZOMUVnWmdlYm9sdEo4YTIyZndMeUxhN1dSbjBCeXFkcGpYTlFfc1E0QUpqaFhiYUxlU0lza3JlaHM0QkYwcUFF?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-2a61a56fd750",
-   "source": "KBTX News 3",
-   "kind": "reported",
-   "title": "Texas A&M student group invites Ken Paxton, James Talarico to debate",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-09-23T07:00:00+00:00",
-   "city": "College Station",
-   "lat": 30.5852,
-   "lng": -96.2964,
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnZIeURjdklrdWtlSzNzclZXQkstV3ZYLXF5alFtMWNrN2djNnVseWE2b1dBTHFXSXpDZkVJM0lPUXFxeERVODZzel9VNEJ4ZllEd2ZWS3plbERfMjhSOS1WbWJvZ2dUR2IwaWpfLUt6eG03V1B2WTQwR3Q2TjhCdU5WeUxCa2ZXUnROMkRyNk9CX0J1b0o2TGlYbnY?oc=5",
    "virtual": false
   },
   {
