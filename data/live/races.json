@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T13:08:22+00:00",
+ "updated": "2026-10-26T22:43:06+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -24,6 +24,11 @@
     }
    ],
    "ratings": [
+    {
+     "source": "ABC News",
+     "rating": "Tossup",
+     "as_of": "October 26, 2026"
+    },
     {
      "source": "CBS News",
      "rating": "Tossup",
@@ -113,7 +118,7 @@
    "polls": [
     {
      "pollster": "Rasmussen Reports",
-     "partisan": "R",
+     "partisan": null,
      "start": "2026-10-20",
      "end": "2026-10-21",
      "n": 965,
@@ -459,7 +464,7 @@
     },
     {
      "pollster": "Rasmussen Reports",
-     "partisan": "R",
+     "partisan": null,
      "start": "2026-09-28",
      "end": "2026-09-29",
      "n": 1128,
