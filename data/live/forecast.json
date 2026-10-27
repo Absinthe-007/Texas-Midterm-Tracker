@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:25:01+00:00",
+ "updated": "2026-10-27T18:13:46+00:00",
  "days_to_election": 7,
  "environment": {
   "generic_ballot": -1.4,
@@ -9,12 +9,12 @@
   "senate": {
    "mean": 1.6,
    "sd": 4.6,
-   "p_dem": 0.633,
-   "lo": -4.3,
-   "hi": 7.4,
+   "p_dem": 0.639,
+   "lo": -4.2,
+   "hi": 7.5,
    "inputs": {
-    "polls": 2.1,
-    "n_polls": 20,
+    "polls": 2.2,
+    "n_polls": 21,
     "fundamentals": -5.0,
     "experts": 0.0,
     "weights": {
@@ -33,7 +33,7 @@
    "hi": 3.0,
    "inputs": {
     "polls": -2.0,
-    "n_polls": 16,
+    "n_polls": 17,
     "fundamentals": -7.5,
     "experts": -5.0,
     "weights": {

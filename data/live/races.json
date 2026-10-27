@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:16:40+00:00",
+ "updated": "2026-10-27T18:05:22+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -147,6 +147,23 @@
       "D": 51.0
      },
      "margin": 2.0
+    },
+    {
+     "pollster": "Univision/YouGov",
+     "partisan": null,
+     "start": "2026-10-13",
+     "end": "2026-10-21",
+     "n": 1000,
+     "pop": "RV",
+     "moe": 3.8,
+     "url": "https://www.univision.com/noticias/politica/poll-univision-texas-latinos",
+     "results": {
+      "R": 45.0,
+      "D": 50.0
+     },
+     "other": 1.0,
+     "undecided": 5.0,
+     "margin": 5.0
     },
     {
      "pollster": "Verasight/VoteHub",
@@ -1251,10 +1268,10 @@
     }
    ],
    "average": {
-    "D": 48.3,
-    "R": 46.2,
-    "margin": 2.1,
-    "n_polls": 20,
+    "D": 48.4,
+    "R": 46.1,
+    "margin": 2.2,
+    "n_polls": 21,
     "window_days": 30,
     "from": "2026-09-27",
     "to": "2026-10-21"
@@ -1512,7 +1529,7 @@
     },
     {
      "date": "2026-10-21",
-     "D": 48.2,
+     "D": 48.3,
      "R": 46.2
     }
    ],
@@ -1632,6 +1649,23 @@
       "D": 48.0
      },
      "margin": -5.0
+    },
+    {
+     "pollster": "Univision/YouGov",
+     "partisan": null,
+     "start": "2026-10-13",
+     "end": "2026-10-21",
+     "n": 1000,
+     "pop": "RV",
+     "moe": 3.8,
+     "url": "https://www.univision.com/noticias/politica/poll-univision-texas-latinos",
+     "results": {
+      "R": 48.0,
+      "D": 46.0
+     },
+     "other": 1.0,
+     "undecided": 5.0,
+     "margin": -2.0
     },
     {
      "pollster": "Verasight/VoteHub",
@@ -2601,10 +2635,10 @@
     }
    ],
    "average": {
-    "D": 46.7,
-    "R": 48.7,
+    "D": 46.6,
+    "R": 48.6,
     "margin": -2.0,
-    "n_polls": 16,
+    "n_polls": 17,
     "window_days": 30,
     "from": "2026-09-28",
     "to": "2026-10-21"
@@ -2833,7 +2867,7 @@
     {
      "date": "2026-10-21",
      "D": 46.4,
-     "R": 48.8
+     "R": 48.7
     }
    ],
    "key": "governor",
