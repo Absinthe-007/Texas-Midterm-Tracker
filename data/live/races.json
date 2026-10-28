@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T22:17:58+00:00",
+ "updated": "2026-10-28T05:46:33+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -1268,12 +1268,12 @@
     }
    ],
    "average": {
-    "D": 48.4,
-    "R": 46.1,
-    "margin": 2.2,
-    "n_polls": 21,
+    "D": 48.5,
+    "R": 46.0,
+    "margin": 2.5,
+    "n_polls": 20,
     "window_days": 30,
-    "from": "2026-09-27",
+    "from": "2026-09-28",
     "to": "2026-10-21"
    },
    "trend": [
@@ -4466,20 +4466,20 @@
    ],
    "ratings": [],
    "finance": {
-    "as_of": "Campaign finance reports as of September 24, 2026",
+    "as_of": "Campaign finance reports as of October 24, 2026",
     "candidates": {
      "Bo French": {
-      "raised": 773516,
-      "spent": 280653,
-      "cash": 530036
+      "raised": 3632295,
+      "spent": 2596082,
+      "cash": 434535
      },
      "Jon Rosenthal": {
-      "raised": 656294,
-      "spent": 234313,
-      "cash": 378434
+      "raised": 1248269,
+      "spent": 663209,
+      "cash": 561552
      },
      "Arthur DiBianca": {
-      "raised": 694,
+      "raised": 4834,
       "spent": 0,
       "cash": 0
      }
@@ -4751,7 +4751,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -4820,7 +4820,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -4918,7 +4918,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -4982,7 +4982,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5046,7 +5046,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5110,7 +5110,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5180,7 +5180,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid D",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5249,7 +5249,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5312,8 +5312,8 @@
     },
     {
      "source": "Silver Bulletin",
-     "rating": "Solid R (flip)",
-     "as_of": "August 20, 2026"
+     "rating": "Likely R (flip)",
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5453,7 +5453,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5551,7 +5551,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5615,7 +5615,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5679,7 +5679,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5743,7 +5743,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -5801,13 +5801,13 @@
     },
     {
      "source": "Sabato's Crystal Ball",
-     "rating": "Tossup",
-     "as_of": "August 26, 2026"
+     "rating": "Lean D (flip)",
+     "as_of": "October 27, 2026"
     },
     {
      "source": "Silver Bulletin",
-     "rating": "Lean R",
-     "as_of": "August 20, 2026"
+     "rating": "Lean D (flip)",
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6010,7 +6010,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid D",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6074,7 +6074,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6138,7 +6138,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid D",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6202,7 +6202,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6255,7 +6255,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid D",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6319,7 +6319,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6383,7 +6383,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6426,8 +6426,8 @@
    "ratings": [
     {
      "source": "Decision Desk HQ",
-     "rating": "Likely R",
-     "as_of": "July 14, 2026"
+     "rating": "Lean R",
+     "as_of": "October 26, 2026"
     },
     {
      "source": "The Cook Political Report",
@@ -6447,7 +6447,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Tossup",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6583,7 +6583,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Likely R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6647,7 +6647,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6711,7 +6711,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6781,7 +6781,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6849,8 +6849,8 @@
     },
     {
      "source": "Silver Bulletin",
-     "rating": "Lean D",
-     "as_of": "August 20, 2026"
+     "rating": "Likely D",
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -6992,7 +6992,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid D",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7056,7 +7056,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid D",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7115,7 +7115,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7179,7 +7179,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Likely R (flip)",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7243,7 +7243,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid D",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7295,8 +7295,8 @@
     },
     {
      "source": "Silver Bulletin",
-     "rating": "Lean D",
-     "as_of": "August 20, 2026"
+     "rating": "Likely D",
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7458,8 +7458,8 @@
     },
     {
      "source": "Silver Bulletin",
-     "rating": "Lean R (flip)",
-     "as_of": "August 20, 2026"
+     "rating": "Tossup",
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7614,7 +7614,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7678,7 +7678,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid D",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7721,8 +7721,8 @@
    "ratings": [
     {
      "source": "Decision Desk HQ",
-     "rating": "Safe R",
-     "as_of": "October 20, 2026"
+     "rating": "Likely R",
+     "as_of": "October 27, 2026"
     },
     {
      "source": "The Cook Political Report",
@@ -7742,7 +7742,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Solid R",
-     "as_of": "August 20, 2026"
+     "as_of": "October 22, 2026"
     }
    ],
    "finance": {
@@ -7770,6 +7770,84 @@
  "generic": {
   "polls": [
    {
+    "pollster": "Univision/YouGov",
+    "end": "2026-10-21",
+    "start": "2026-10-13",
+    "pop": "RV",
+    "partisan": null,
+    "results": {
+     "D": 45.0,
+     "R": 48.0
+    },
+    "url": "https://st1.uvnimg.com/f0/3a/9fe2c0c445b7bd44b43fb9236c8e/n-univision-texas-october-poll-crosstabs-base-final.pdf",
+    "margin": -3.0
+   },
+   {
+    "pollster": "Verasight/VoteHub",
+    "end": "2026-10-20",
+    "start": "2026-10-01",
+    "pop": "LV",
+    "partisan": null,
+    "results": {
+     "D": 43.0,
+     "R": 47.0
+    },
+    "url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf",
+    "margin": -4.0
+   },
+   {
+    "pollster": "Verasight/VoteHub",
+    "end": "2026-10-20",
+    "start": "2026-10-01",
+    "pop": "LV",
+    "partisan": null,
+    "results": {
+     "D": 45.0,
+     "R": 49.0
+    },
+    "url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf",
+    "margin": -4.0
+   },
+   {
+    "pollster": "Verasight/VoteHub",
+    "end": "2026-10-20",
+    "start": "2026-10-01",
+    "pop": "RV",
+    "partisan": null,
+    "results": {
+     "D": 41.0,
+     "R": 48.0
+    },
+    "url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf",
+    "margin": -7.0
+   },
+   {
+    "pollster": "Verasight/VoteHub",
+    "end": "2026-10-20",
+    "start": "2026-10-01",
+    "pop": "RV",
+    "partisan": null,
+    "results": {
+     "D": 43.0,
+     "R": 50.0
+    },
+    "url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf",
+    "margin": -7.0
+   },
+   {
+    "pollster": "Texas Public Opinion Research",
+    "end": "2026-10-18",
+    "start": "2026-10-15",
+    "pop": "LV",
+    "partisan": null,
+    "results": {
+     "D": 49.0,
+     "R": 51.0
+    },
+    "url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election",
+    "margin": -2.0
+   },
+   {
     "pollster": "ReconMR/Siena University",
     "end": "2026-10-08",
     "start": "2026-10-05",
@@ -7796,7 +7874,7 @@
     "margin": -1.0
    },
    {
-    "pollster": "New York Times/Siena University",
+    "pollster": "The New York Times/Siena University",
     "end": "2026-09-30",
     "start": "2026-09-21",
     "pop": "LV",
@@ -7913,7 +7991,7 @@
     "margin": -2.0
    },
    {
-    "pollster": "New York Times/Siena University",
+    "pollster": "The New York Times/Siena University",
     "end": "2026-06-27",
     "start": "2026-06-19",
     "pop": "LV",
@@ -7924,19 +8002,6 @@
     },
     "url": "https://www.nytimes.com/interactive/2026/06/30/polls/times-siena-texas-poll-crosstabs.html",
     "margin": -6.0
-   },
-   {
-    "pollster": "SoCal Strategies(R)",
-    "end": "2026-06-21",
-    "start": "2026-06-21",
-    "pop": "LV",
-    "partisan": "R",
-    "results": {
-     "D": 42.0,
-     "R": 49.0
-    },
-    "url": "https://socalstrategies.substack.com/p/ken-paxton-leads-narrow-texas-senate",
-    "margin": -7.0
    },
    {
     "pollster": "University of Texas/Texas Politics Project",
@@ -7992,13 +8057,13 @@
    }
   ],
   "average": {
-   "D": 45.8,
-   "R": 47.2,
-   "margin": -1.4,
-   "n_polls": 5,
+   "D": 46.5,
+   "R": 47.8,
+   "margin": -1.3,
+   "n_polls": 6,
    "window_days": 30,
-   "from": "2026-09-24",
-   "to": "2026-10-08"
+   "from": "2026-09-30",
+   "to": "2026-10-21"
   }
  }
 }
