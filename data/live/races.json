@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:59:38+00:00",
+ "updated": "2026-10-28T22:38:23+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -116,6 +116,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "YouGov Blue",
+     "partisan": "D",
+     "start": "2026-10-21",
+     "end": "2026-10-26",
+     "n": 1000,
+     "pop": "RV",
+     "moe": 4.6,
+     "url": "https://254labs.io/news/2026-10-tx",
+     "results": {
+      "R": 43.0,
+      "D": 51.0
+     },
+     "other": 2.0,
+     "undecided": 5.0,
+     "margin": 8.0
+    },
     {
      "pollster": "Rasmussen Reports",
      "partisan": null,
@@ -1268,13 +1285,13 @@
     }
    ],
    "average": {
-    "D": 48.5,
-    "R": 46.0,
-    "margin": 2.5,
-    "n_polls": 20,
+    "D": 48.7,
+    "R": 45.9,
+    "margin": 2.8,
+    "n_polls": 21,
     "window_days": 30,
     "from": "2026-09-28",
-    "to": "2026-10-21"
+    "to": "2026-10-26"
    },
    "trend": [
     {
@@ -1531,6 +1548,11 @@
      "date": "2026-10-21",
      "D": 48.3,
      "R": 46.2
+    },
+    {
+     "date": "2026-10-26",
+     "D": 48.4,
+     "R": 46.0
     }
    ],
    "key": "senate",
@@ -1615,26 +1637,41 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of September 24, 2026",
+    "as_of": "Campaign finance reports as of October 24, 2026",
     "candidates": {
      "Greg Abbott": {
-      "raised": 50575992,
-      "spent": 128990883,
-      "cash": 18187265
+      "raised": 122319463,
+      "spent": 317723514,
+      "cash": 9361680
      },
      "Gina Hinojosa": {
-      "raised": 19428410,
-      "spent": 16107485,
-      "cash": 4082077
+      "raised": 39246953,
+      "spent": 36911627,
+      "cash": 989980
      },
      "Pat Dixon": {
-      "raised": 15602,
-      "spent": 11056,
-      "cash": 2368
+      "raised": 22249,
+      "spent": 14568,
+      "cash": 1064
      }
     }
    },
    "polls": [
+    {
+     "pollster": "YouGov Blue",
+     "partisan": "D",
+     "start": "2026-10-21",
+     "end": "2026-10-26",
+     "n": 1000,
+     "pop": "RV",
+     "moe": 4.6,
+     "url": "https://254labs.io/news/2026-10-tx",
+     "results": {
+      "R": 46.0,
+      "D": 49.0
+     },
+     "margin": 3.0
+    },
     {
      "pollster": "ActiVote",
      "partisan": null,
@@ -1645,8 +1682,8 @@
      "moe": 4.9,
      "url": "https://www.activote.net/polls/2026/tx-governor/",
      "results": {
-      "R": 53.0,
-      "D": 48.0
+      "R": 52.5,
+      "D": 47.5
      },
      "margin": -5.0
     },
@@ -2635,13 +2672,13 @@
     }
    ],
    "average": {
-    "D": 46.6,
-    "R": 48.6,
-    "margin": -2.0,
-    "n_polls": 17,
+    "D": 46.8,
+    "R": 48.5,
+    "margin": -1.7,
+    "n_polls": 18,
     "window_days": 30,
     "from": "2026-09-28",
-    "to": "2026-10-21"
+    "to": "2026-10-26"
    },
    "trend": [
     {
@@ -2868,6 +2905,11 @@
      "date": "2026-10-21",
      "D": 46.4,
      "R": 48.7
+    },
+    {
+     "date": "2026-10-26",
+     "D": 46.6,
+     "R": 48.5
     }
    ],
    "key": "governor",
@@ -2905,26 +2947,26 @@
    ],
    "ratings": [],
    "finance": {
-    "as_of": "Campaign finance reports as of September 24, 2026",
+    "as_of": "Campaign finance reports as of October 24, 2026",
     "candidates": {
      "Dan Patrick": {
-      "raised": 11329840,
-      "spent": 19903578,
-      "cash": 24424528
+      "raised": 17269720,
+      "spent": 39759435,
+      "cash": 11320191
      },
      "Vikki Goodwin": {
-      "raised": 1558967,
-      "spent": 902522,
-      "cash": 643078
+      "raised": 2322760,
+      "spent": 2254711,
+      "cash": 90896
      },
      "Anthony Cristo": {
-      "raised": 1819,
+      "raised": 2259,
       "spent": 3151,
-      "cash": 647
+      "cash": 748
      },
      "Kevin McCormick": {
       "raised": 301,
-      "spent": 7082,
+      "spent": 12745,
       "cash": 0
      }
     }
@@ -3385,17 +3427,17 @@
     }
    ],
    "finance": {
-    "as_of": "Campaign finance reports as of September 24, 2026",
+    "as_of": "Campaign finance reports as of October 24, 2026",
     "candidates": {
      "Mayes Middleton": {
-      "raised": 4283027,
-      "spent": 3589360,
-      "cash": 2126700
+      "raised": 6047883,
+      "spent": 5867579,
+      "cash": 1601459
      },
      "Nathan Johnson": {
-      "raised": 1449616,
-      "spent": 526403,
-      "cash": 1020213
+      "raised": 2426656,
+      "spent": 2414880,
+      "cash": 65647
      }
     }
    },
@@ -3793,17 +3835,17 @@
    ],
    "ratings": [],
    "finance": {
-    "as_of": "Campaign finance reports as of September 24, 2026",
+    "as_of": "Campaign finance reports as of October 24, 2026",
     "candidates": {
      "Don Huffines": {
-      "raised": 6223468,
-      "spent": 5314316,
-      "cash": 1924830
+      "raised": 8374073,
+      "spent": 7114238,
+      "cash": 2276031
      },
      "Sarah Eckhardt": {
-      "raised": 823742,
-      "spent": 561451,
-      "cash": 335136
+      "raised": 1222200,
+      "spent": 981165,
+      "cash": 308669
      },
      "Alonzo Echavarria-Garza": {
       "raised": 394,
@@ -3811,9 +3853,9 @@
       "cash": 0
      },
      "Shehla Faizi": {
-      "raised": 7700,
-      "spent": 3781,
-      "cash": 3333
+      "raised": 10610,
+      "spent": 6048,
+      "cash": 3976
      }
     }
    },
@@ -4076,21 +4118,21 @@
    ],
    "ratings": [],
    "finance": {
-    "as_of": "Campaign finance reports as of September 24, 2026",
+    "as_of": "Campaign finance reports as of October 24, 2026",
     "candidates": {
      "Dawn Buckingham": {
-      "raised": 1536025,
-      "spent": 625225,
-      "cash": 3609797
+      "raised": 1990379,
+      "spent": 961090,
+      "cash": 3730275
      },
      "Benjamin Flores": {
-      "raised": 38230,
-      "spent": 73570,
-      "cash": 29339
+      "raised": 57194,
+      "spent": 102122,
+      "cash": 20080
      },
      "Neill Snider": {
-      "raised": 794,
-      "spent": 938,
+      "raised": 1185,
+      "spent": 1188,
       "cash": 0
      }
     }
@@ -4268,17 +4310,17 @@
    ],
    "ratings": [],
    "finance": {
-    "as_of": "Campaign finance reports as of September 24, 2026",
+    "as_of": "Campaign finance reports as of October 24, 2026",
     "candidates": {
      "Nate Sheets": {
-      "raised": 1128075,
-      "spent": 1208381,
-      "cash": 304478
+      "raised": 1471557,
+      "spent": 1585758,
+      "cash": 208735
      },
      "Clayton Tucker": {
-      "raised": 497761,
-      "spent": 262975,
-      "cash": 276703
+      "raised": 832048,
+      "spent": 570429,
+      "cash": 276906
      }
     }
    },
