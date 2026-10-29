@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:38:23+00:00",
+ "updated": "2026-10-29T05:51:55+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -42,22 +42,22 @@
     {
      "source": "Decision Desk HQ",
      "rating": "Tossup",
-     "as_of": "October 22, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "The Economist",
      "rating": "Tossup",
-     "as_of": "October 21, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "FiftyPlusOne",
      "rating": "Tossup",
-     "as_of": "October 22, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "Fox News",
      "rating": "Tossup",
-     "as_of": "October 20, 2026"
+     "as_of": "October 27, 2026"
     },
     {
      "source": "Inside Elections",
@@ -72,27 +72,27 @@
     {
      "source": "NBC News",
      "rating": "Tossup",
-     "as_of": "October 22, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "RealClearPolitics",
      "rating": "Tossup",
-     "as_of": "October 12, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
      "rating": "Tossup",
-     "as_of": "October 14, 2026"
+     "as_of": "October 27, 2026"
     },
     {
      "source": "Silver Bulletin",
      "rating": "Lean D (flip)",
-     "as_of": "October 22, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "Split Ticket",
      "rating": "Lean D (flip)",
-     "as_of": "October 22, 2026"
+     "as_of": "October 27, 2026"
     }
    ],
    "finance": {
@@ -1285,12 +1285,12 @@
     }
    ],
    "average": {
-    "D": 48.7,
-    "R": 45.9,
-    "margin": 2.8,
-    "n_polls": 21,
+    "D": 48.9,
+    "R": 46.1,
+    "margin": 2.9,
+    "n_polls": 19,
     "window_days": 30,
-    "from": "2026-09-28",
+    "from": "2026-09-30",
     "to": "2026-10-26"
    },
    "trend": [
@@ -1598,17 +1598,17 @@
     {
      "source": "The Cook Political Report",
      "rating": "Lean R",
-     "as_of": "October 23, 2026"
+     "as_of": "October 27, 2026"
     },
     {
      "source": "Decision Desk HQ",
      "rating": "Lean R",
-     "as_of": "October 23, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "Fox News",
      "rating": "Lean R",
-     "as_of": "October 20, 2026"
+     "as_of": "October 27, 2026"
     },
     {
      "source": "Inside Elections",
@@ -1618,22 +1618,22 @@
     {
      "source": "NBC News",
      "rating": "Lean R",
-     "as_of": "October 23, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "RealClearPolitics",
      "rating": "Tossup",
-     "as_of": "October 12, 2026"
+     "as_of": "October 28, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
      "rating": "Lean R",
-     "as_of": "October 22, 2026"
+     "as_of": "October 27, 2026"
     },
     {
      "source": "Silver Bulletin",
      "rating": "Lean R",
-     "as_of": "October 23, 2026"
+     "as_of": "October 28, 2026"
     }
    ],
    "finance": {
@@ -2672,12 +2672,12 @@
     }
    ],
    "average": {
-    "D": 46.8,
-    "R": 48.5,
-    "margin": -1.7,
-    "n_polls": 18,
+    "D": 47.1,
+    "R": 48.7,
+    "margin": -1.6,
+    "n_polls": 16,
     "window_days": 30,
-    "from": "2026-09-28",
+    "from": "2026-10-01",
     "to": "2026-10-26"
    },
    "trend": [
