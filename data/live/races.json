@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:06:15+00:00",
+ "updated": "2026-10-30T05:53:18+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -51,8 +51,8 @@
     },
     {
      "source": "FiftyPlusOne",
-     "rating": "Tossup",
-     "as_of": "October 28, 2026"
+     "rating": "Lean D (flip)",
+     "as_of": "October 29, 2026"
     },
     {
      "source": "Fox News",
@@ -61,8 +61,8 @@
     },
     {
      "source": "Inside Elections",
-     "rating": "Tossup",
-     "as_of": "October 15, 2026"
+     "rating": "Tilt D (flip)",
+     "as_of": "October 29, 2026"
     },
     {
      "source": "MS NOW",
@@ -117,6 +117,38 @@
    },
    "polls": [
     {
+     "pollster": "ActiVote",
+     "partisan": null,
+     "start": "2026-10-22",
+     "end": "2026-10-28",
+     "n": 400,
+     "pop": "LV",
+     "moe": 4.9,
+     "url": "https://www.activote.net/polls/2026/tx-u-s-senate/",
+     "results": {
+      "R": 48.0,
+      "D": 52.0
+     },
+     "margin": 4.0
+    },
+    {
+     "pollster": "A2 Insights",
+     "partisan": null,
+     "start": "2026-10-23",
+     "end": "2026-10-27",
+     "n": 631,
+     "pop": "LV",
+     "moe": 4.9,
+     "url": "https://drive.google.com/file/d/1UACnmnM84Dd1hU0l6iqHNgXkyh5oCelO/view",
+     "results": {
+      "R": 47.0,
+      "D": 50.0
+     },
+     "other": 2.0,
+     "undecided": 0.0,
+     "margin": 3.0
+    },
+    {
      "pollster": "SSRS",
      "partisan": null,
      "start": "2026-10-20",
@@ -129,7 +161,8 @@
       "R": 43.0,
       "D": 49.0
      },
-     "other": 8.0,
+     "other": 5.0,
+     "undecided": 3.0,
      "margin": 6.0
     },
     {
@@ -148,6 +181,23 @@
      "other": 2.0,
      "undecided": 5.0,
      "margin": 8.0
+    },
+    {
+     "pollster": "Texas Southern University",
+     "partisan": null,
+     "start": "2026-10-21",
+     "end": "2026-10-25",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.wfaa.com/article/news/politics/elections/new-poll-talarico-abbott-lead-as-early-voting-in-texas-nears-close/287-7f4cca13-6e1d-433c-9041-727931b591cd",
+     "results": {
+      "R": 47.0,
+      "D": 49.0,
+      "L": 3.0
+     },
+     "undecided": 1.0,
+     "margin": 2.0
     },
     {
      "pollster": "Rasmussen Reports",
@@ -1317,13 +1367,13 @@
     }
    ],
    "average": {
-    "D": 48.7,
-    "R": 45.6,
+    "D": 48.8,
+    "R": 45.7,
     "margin": 3.1,
-    "n_polls": 21,
+    "n_polls": 23,
     "window_days": 30,
     "from": "2026-09-30",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
    "trend": [
     {
@@ -1587,13 +1637,23 @@
      "R": 45.9
     },
     {
-     "date": "2026-10-26",
+     "date": "2026-10-25",
      "D": 48.2,
-     "R": 45.7
+     "R": 45.9
+    },
+    {
+     "date": "2026-10-26",
+     "D": 48.3,
+     "R": 45.8
     },
     {
      "date": "2026-10-27",
-     "D": 48.3,
+     "D": 48.4,
+     "R": 45.7
+    },
+    {
+     "date": "2026-10-28",
+     "D": 48.6,
      "R": 45.6
     }
    ],
@@ -1654,8 +1714,8 @@
     },
     {
      "source": "Inside Elections",
-     "rating": "Lean R",
-     "as_of": "October 15, 2026"
+     "rating": "Tilt R",
+     "as_of": "October 29, 2026"
     },
     {
      "source": "NBC News",
@@ -1713,6 +1773,7 @@
       "D": 46.0
      },
      "other": 6.0,
+     "undecided": 0.0,
      "margin": -2.0
     },
     {
@@ -1729,6 +1790,23 @@
       "D": 49.0
      },
      "margin": 3.0
+    },
+    {
+     "pollster": "Texas Southern University",
+     "partisan": null,
+     "start": "2026-10-21",
+     "end": "2026-10-25",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.wfaa.com/article/news/politics/elections/new-poll-talarico-abbott-lead-as-early-voting-in-texas-nears-close/287-7f4cca13-6e1d-433c-9041-727931b591cd",
+     "results": {
+      "R": 50.0,
+      "D": 47.0,
+      "L": 2.0
+     },
+     "undecided": 1.0,
+     "margin": -3.0
     },
     {
      "pollster": "ActiVote",
@@ -2731,9 +2809,9 @@
    ],
    "average": {
     "D": 47.1,
-    "R": 48.6,
-    "margin": -1.6,
-    "n_polls": 17,
+    "R": 48.7,
+    "margin": -1.7,
+    "n_polls": 18,
     "window_days": 30,
     "from": "2026-10-01",
     "to": "2026-10-27"
@@ -2965,13 +3043,18 @@
      "R": 48.7
     },
     {
+     "date": "2026-10-25",
+     "D": 46.5,
+     "R": 48.7
+    },
+    {
      "date": "2026-10-26",
      "D": 46.6,
-     "R": 48.5
+     "R": 48.6
     },
     {
      "date": "2026-10-27",
-     "D": 46.7,
+     "D": 46.8,
      "R": 48.5
     }
    ],
@@ -3035,6 +3118,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Texas Southern University",
+     "partisan": null,
+     "start": "2026-10-21",
+     "end": "2026-10-25",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.wfaa.com/article/news/politics/elections/new-poll-talarico-abbott-lead-as-early-voting-in-texas-nears-close/287-7f4cca13-6e1d-433c-9041-727931b591cd",
+     "results": {
+      "R": 49.0,
+      "D": 45.0
+     },
+     "other": 3.0,
+     "undecided": 3.0,
+     "margin": -4.0
+    },
     {
      "pollster": "Texas Public Opinion Research",
      "partisan": null,
@@ -3355,13 +3455,13 @@
     }
    ],
    "average": {
-    "D": 46.0,
-    "R": 47.7,
-    "margin": -1.7,
-    "n_polls": 3,
+    "D": 45.8,
+    "R": 48.0,
+    "margin": -2.2,
+    "n_polls": 4,
     "window_days": 30,
     "from": "2026-10-05",
-    "to": "2026-10-18"
+    "to": "2026-10-25"
    },
    "trend": [
     {
@@ -3453,6 +3553,11 @@
      "date": "2026-10-18",
      "D": 44.6,
      "R": 47.8
+    },
+    {
+     "date": "2026-10-25",
+     "D": 45.8,
+     "R": 48.0
     }
    ],
    "key": "ltgov",
@@ -3505,6 +3610,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Texas Southern University",
+     "partisan": null,
+     "start": "2026-10-21",
+     "end": "2026-10-25",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.wfaa.com/article/news/politics/elections/new-poll-talarico-abbott-lead-as-early-voting-in-texas-nears-close/287-7f4cca13-6e1d-433c-9041-727931b591cd",
+     "results": {
+      "R": 49.0,
+      "D": 45.0
+     },
+     "other": 2.0,
+     "undecided": 4.0,
+     "margin": -4.0
+    },
     {
      "pollster": "Texas Public Opinion Research",
      "partisan": null,
@@ -3758,13 +3880,13 @@
     }
    ],
    "average": {
-    "D": 46.0,
-    "R": 48.0,
-    "margin": -2.0,
-    "n_polls": 3,
+    "D": 45.8,
+    "R": 48.2,
+    "margin": -2.5,
+    "n_polls": 4,
     "window_days": 30,
     "from": "2026-10-05",
-    "to": "2026-10-18"
+    "to": "2026-10-25"
    },
    "trend": [
     {
@@ -3836,6 +3958,11 @@
      "date": "2026-10-18",
      "D": 44.4,
      "R": 47.6
+    },
+    {
+     "date": "2026-10-25",
+     "D": 45.8,
+     "R": 48.2
     }
    ],
    "key": "ag",
@@ -3923,6 +4050,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Texas Southern University",
+     "partisan": null,
+     "start": "2026-10-21",
+     "end": "2026-10-25",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.wfaa.com/article/news/politics/elections/new-poll-talarico-abbott-lead-as-early-voting-in-texas-nears-close/287-7f4cca13-6e1d-433c-9041-727931b591cd",
+     "results": {
+      "R": 50.0,
+      "D": 44.0
+     },
+     "other": 1.0,
+     "undecided": 5.0,
+     "margin": -6.0
+    },
     {
      "pollster": "Texas Public Opinion Research",
      "partisan": null,
@@ -4092,13 +4236,13 @@
     }
    ],
    "average": {
-    "D": 44.7,
-    "R": 48.0,
-    "margin": -3.3,
-    "n_polls": 3,
+    "D": 44.5,
+    "R": 48.5,
+    "margin": -4.0,
+    "n_polls": 4,
     "window_days": 30,
     "from": "2026-10-05",
-    "to": "2026-10-18"
+    "to": "2026-10-25"
    },
    "trend": [
     {
@@ -4150,6 +4294,11 @@
      "date": "2026-10-18",
      "D": 43.2,
      "R": 48.0
+    },
+    {
+     "date": "2026-10-25",
+     "D": 44.5,
+     "R": 48.5
     }
    ],
    "key": "comptroller",
@@ -4592,6 +4741,23 @@
    },
    "polls": [
     {
+     "pollster": "Texas Southern University",
+     "partisan": null,
+     "start": "2026-10-21",
+     "end": "2026-10-25",
+     "n": 2000,
+     "pop": "LV",
+     "moe": 2.2,
+     "url": "https://www.wfaa.com/article/news/politics/elections/new-poll-talarico-abbott-lead-as-early-voting-in-texas-nears-close/287-7f4cca13-6e1d-433c-9041-727931b591cd",
+     "results": {
+      "R": 47.0,
+      "D": 46.0
+     },
+     "other": 3.0,
+     "undecided": 4.0,
+     "margin": -1.0
+    },
+    {
      "pollster": "Texas Public Opinion Research",
      "partisan": null,
      "start": "2026-10-15",
@@ -4741,13 +4907,13 @@
     }
    ],
    "average": {
-    "D": 46.5,
-    "R": 48.2,
-    "margin": -1.8,
-    "n_polls": 4,
+    "D": 46.4,
+    "R": 48.0,
+    "margin": -1.6,
+    "n_polls": 5,
     "window_days": 30,
     "from": "2026-10-05",
-    "to": "2026-10-18"
+    "to": "2026-10-25"
    },
    "trend": [
     {
@@ -4794,6 +4960,11 @@
      "date": "2026-10-18",
      "D": 45.3,
      "R": 47.2
+    },
+    {
+     "date": "2026-10-25",
+     "D": 46.4,
+     "R": 48.0
     }
    ],
    "key": "railroad",
@@ -5407,8 +5578,8 @@
     },
     {
      "source": "Inside Elections",
-     "rating": "Likely R (flip)",
-     "as_of": "September 17, 2026"
+     "rating": "Lean R (flip)",
+     "as_of": "October 29, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
@@ -5901,8 +6072,8 @@
     },
     {
      "source": "Inside Elections",
-     "rating": "Tossup",
-     "as_of": "October 15, 2026"
+     "rating": "Tilt D (flip)",
+     "as_of": "October 29, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
@@ -6944,8 +7115,8 @@
     },
     {
      "source": "Inside Elections",
-     "rating": "Tilt D",
-     "as_of": "August 28, 2025"
+     "rating": "Lean D",
+     "as_of": "October 29, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
@@ -7553,8 +7724,8 @@
     },
     {
      "source": "Inside Elections",
-     "rating": "Lean R (flip)",
-     "as_of": "September 3, 2026"
+     "rating": "Tossup",
+     "as_of": "October 29, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
