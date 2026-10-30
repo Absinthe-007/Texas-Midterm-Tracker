@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:59:44+00:00",
+ "updated": "2026-10-30T22:23:48+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -116,6 +116,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Quantus Insights",
+     "partisan": null,
+     "start": "2026-10-26",
+     "end": "2026-10-28",
+     "n": 1221,
+     "pop": "LV",
+     "moe": 3.2,
+     "url": "https://quantusinsights.org/polling/f/texas-survey-paxton-up-one-abbott-ahead-by-five",
+     "results": {
+      "R": 49.0,
+      "D": 48.0,
+      "L": 1.0
+     },
+     "undecided": 2.0,
+     "margin": -1.0
+    },
     {
      "pollster": "ActiVote",
      "partisan": null,
@@ -1367,8 +1384,8 @@
     }
    ],
    "average": {
-    "D": 48.8,
-    "R": 45.7,
+    "D": 48.9,
+    "R": 45.8,
     "margin": 3.1,
     "n_polls": 23,
     "window_days": 30,
@@ -1654,7 +1671,7 @@
     {
      "date": "2026-10-28",
      "D": 48.6,
-     "R": 45.6
+     "R": 45.7
     }
    ],
    "key": "senate",
@@ -1759,6 +1776,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Quantus Insights",
+     "partisan": "R",
+     "start": "2026-10-26",
+     "end": "2026-10-28",
+     "n": 1221,
+     "pop": "LV",
+     "moe": 3.2,
+     "url": "https://quantusinsights.org/polling/f/texas-survey-paxton-up-one-abbott-ahead-by-five",
+     "results": {
+      "R": 51.0,
+      "D": 46.0,
+      "L": 1.0
+     },
+     "undecided": 2.0,
+     "margin": -5.0
+    },
     {
      "pollster": "SSRS",
      "partisan": null,
@@ -2808,13 +2842,13 @@
     }
    ],
    "average": {
-    "D": 47.1,
-    "R": 48.7,
-    "margin": -1.7,
-    "n_polls": 18,
+    "D": 47.0,
+    "R": 48.8,
+    "margin": -1.8,
+    "n_polls": 19,
     "window_days": 30,
     "from": "2026-10-01",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
    },
    "trend": [
     {
@@ -3056,6 +3090,11 @@
      "date": "2026-10-27",
      "D": 46.8,
      "R": 48.5
+    },
+    {
+     "date": "2026-10-28",
+     "D": 46.7,
+     "R": 48.7
     }
    ],
    "key": "governor",
