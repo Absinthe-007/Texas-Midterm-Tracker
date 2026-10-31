@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:36:51+00:00",
+ "updated": "2026-10-31T21:38:22+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -116,6 +116,24 @@
     }
    },
    "polls": [
+    {
+     "pollster": "KStrat",
+     "partisan": null,
+     "start": "2026-10-27",
+     "end": "2026-10-30",
+     "n": 900,
+     "pop": "LV",
+     "moe": 3.3,
+     "url": "https://kstrat.net/press/texas-2026-senate-governor-talarico-leads-paxton-october",
+     "results": {
+      "R": 45.0,
+      "D": 48.0,
+      "L": 0.0
+     },
+     "other": 0.0,
+     "undecided": 6.0,
+     "margin": 3.0
+    },
     {
      "pollster": "Quantus Insights",
      "partisan": null,
@@ -1404,10 +1422,10 @@
     "D": 48.8,
     "R": 45.8,
     "margin": 3.0,
-    "n_polls": 23,
+    "n_polls": 24,
     "window_days": 30,
     "from": "2026-10-05",
-    "to": "2026-10-28"
+    "to": "2026-10-30"
    },
    "trend": [
     {
@@ -1689,6 +1707,11 @@
      "date": "2026-10-28",
      "D": 48.7,
      "R": 45.7
+    },
+    {
+     "date": "2026-10-30",
+     "D": 48.8,
+     "R": 45.7
     }
    ],
    "key": "senate",
@@ -1793,6 +1816,24 @@
     }
    },
    "polls": [
+    {
+     "pollster": "KStrat",
+     "partisan": null,
+     "start": "2026-10-27",
+     "end": "2026-10-30",
+     "n": 900,
+     "pop": "LV",
+     "moe": 3.3,
+     "url": "https://kstrat.net/press/texas-2026-senate-governor-talarico-leads-paxton-october",
+     "results": {
+      "R": 49.0,
+      "D": 47.0,
+      "L": 1.0
+     },
+     "other": 1.0,
+     "undecided": 3.0,
+     "margin": -2.0
+    },
     {
      "pollster": "Quantus Insights",
      "partisan": "R",
@@ -2860,12 +2901,12 @@
    ],
    "average": {
     "D": 47.0,
-    "R": 48.8,
-    "margin": -1.8,
-    "n_polls": 19,
+    "R": 48.9,
+    "margin": -1.9,
+    "n_polls": 20,
     "window_days": 30,
     "from": "2026-10-01",
-    "to": "2026-10-28"
+    "to": "2026-10-30"
    },
    "trend": [
     {
@@ -3112,6 +3153,11 @@
      "date": "2026-10-28",
      "D": 46.7,
      "R": 48.7
+    },
+    {
+     "date": "2026-10-30",
+     "D": 47.0,
+     "R": 48.9
     }
    ],
    "key": "governor",
