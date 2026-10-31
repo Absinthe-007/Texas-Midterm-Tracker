@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:55:21+00:00",
+ "updated": "2026-10-31T12:45:20+00:00",
  "events": [
   {
    "id": "mob-1076224",
@@ -1975,6 +1975,21 @@
    "virtual": false
   },
   {
+   "id": "news-8cecadd6cdcd",
+   "source": "Fox News",
+   "kind": "reported",
+   "title": "WATCH LIVE: Dem Senate nominee James Talarico rallies supporters in College Station, Texas",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-30T22:59:21+00:00",
+   "city": "College Station",
+   "lat": 30.5852,
+   "lng": -96.2964,
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LVWd3N2ZxMUh6M0NfMlJZZUdzSEhrbDBLSFNSdnNGOTduOV9JSElpYmtHZjhfVlZQU05RMkU0ZWp1c2RQZVQ4WU9ncTNUY0xDaFN6LXNn?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-831e673394be",
    "source": "Fox News",
    "kind": "reported",
@@ -2017,6 +2032,21 @@
    "lat": 35.1999,
    "lng": -101.8302,
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd0dRZTBuZzNFRUo1VVdIa1VnYjZyM3dkQS1QZTBPR2Q3M0ZJTUlaOElFX1pfcXhVZFlvTDB2N3doaGhPWG1yZm1abFJGbGNoUkE4SnVNc081SXU5UXliMVZsdFhrLTNkZlpGblU4SGcwMzBNSnowRnlOQUdoNFJDVlFWWGpfb2lieUJtcEhxdS1xVWoxbUVRQlVLUGkxOGRiVkNITVo4bkpHbzB0ejNpckxSMTBrMEVhWGIzS0c0LVpvVUU4TzJ0UFVYd0F4QUdEcVFxakhUT2ZYWlFKLXRrTWJ5ZlhEbmVTNU5pajF3?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-c9d2f91feaf7",
+   "source": "Amarillo Globe-News",
+   "kind": "reported",
+   "title": "TX Gov. Abbott Campaigns in Amarillo for 'Let's Roll' Event",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-30T18:24:11+00:00",
+   "city": "Amarillo",
+   "lat": 35.1999,
+   "lng": -101.8302,
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdjhWYzRhZ09WNF9MRF9neGhZbFpoLXJGSkpIQllkODM5U0pRN0dLRXd0ajdtS2RNSGd0LWZOdGswNlBQNXFqa0tFeUIwdjExTlBQbTN2WTFjOEJVdUVGN3B3TG1jR0Mta1k1S3RLRHRXbXc3UmFFMk5LcHVNUk9wQm55X2pBclRxck5KNnoySzNzT2s0SWVwNHVyaGd5ZldoZWZPc0ptRE40UUp1aHBSWUctWjlqSkw2WDBIMEFTSU9vb19md3JjS3BRWXJia0w4?oc=5",
    "virtual": false
   },
   {
@@ -2471,7 +2501,7 @@
   },
   {
    "id": "news-985a6525dc7b",
-   "source": "KLBK | KAMC | EverythingLubbock.com",
+   "source": "EverythingLubbock.com",
    "kind": "reported",
    "title": "U.S. Senate candidate James Talarico rally in Lubbock",
    "candidates": [
@@ -4545,7 +4575,7 @@
    "kind": "reported",
    "title": "Texas A&M student group invites Ken Paxton, James Talarico to debate",
    "candidates": [
-    "james-talarico"
+    "ken-paxton"
    ],
    "start": "2026-09-23T07:00:00+00:00",
    "city": "College Station",
