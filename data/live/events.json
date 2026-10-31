@@ -1,75 +1,6 @@
 {
- "updated": "2026-10-30T22:32:10+00:00",
+ "updated": "2026-10-31T05:55:21+00:00",
  "events": [
-  {
-   "id": "mob-1077774",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Volunteer for Power in Praise",
-   "type": "COMMUNITY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-30T23:00:00+00:00",
-   "end": "2026-10-31T02:00:00+00:00",
-   "more_times": 0,
-   "venue": "Good Hope Missionary Baptist Church",
-   "address": "3015 N MacGregor Way",
-   "city": "Houston",
-   "zip": "77004",
-   "lat": 29.7148966,
-   "lng": -95.3724043,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1077774/",
-   "image": ""
-  },
-  {
-   "id": "mob-1058717",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🌟 Rally in College Station with James Talarico",
-   "type": "RALLY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-30T23:00:00+00:00",
-   "end": "2026-10-31T01:00:00+00:00",
-   "more_times": 0,
-   "venue": "Wood Stage at Aggie Park",
-   "address": "275 Joe Routt Blvd",
-   "city": "College Station",
-   "zip": "77840",
-   "lat": 30.6111194,
-   "lng": -96.3415472,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1058717/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016070708826675.png"
-  },
-  {
-   "id": "mob-1076438",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🌟Power in Praise",
-   "type": "RALLY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-10-31T00:00:00+00:00",
-   "end": "2026-10-31T01:30:00+00:00",
-   "more_times": 0,
-   "venue": "Good Hope Missionary Baptist Church",
-   "address": "3015 N MacGregor Way",
-   "city": "Houston",
-   "zip": "77004",
-   "lat": 29.7148966,
-   "lng": -95.3724043,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1076438/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/PIP_20261029002637012542.png"
-  },
   {
    "id": "mob-1076224",
    "source": "Mobilize",
@@ -161,6 +92,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/texasdemocrats/event/1070213/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Rally%20BW%20Graphic_20261026180635004905.png"
+  },
+  {
+   "id": "mob-1078415",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Brazos County Halloweekend Lit Drops: Caitlin Rourk for TX-10!",
+   "type": "CANVASS",
+   "candidates": [
+    "caitlin-rourk"
+   ],
+   "host": "Blue Action",
+   "start": "2026-10-31T15:00:00+00:00",
+   "end": "2026-10-31T19:00:00+00:00",
+   "more_times": 0,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Bryan",
+   "zip": "77803",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/blueactiondems/event/1078415/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Day%20of%20More%20Votes%20%281%29_20261028194945032757.png"
   },
   {
    "id": "mob-985957",
@@ -437,29 +391,6 @@
    "virtual": false,
    "url": "https://www.mobilize.us/blueactiondems/event/1061653/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Day%20of%20More%20Votes%20%281%29_20261028194945032757.png"
-  },
-  {
-   "id": "mob-1061634",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Huntsville Super Lit Drop: Caitlin Rourk for TX-10!",
-   "type": "CANVASS",
-   "candidates": [
-    "caitlin-rourk"
-   ],
-   "host": "Blue Action",
-   "start": "2026-10-31T15:00:00+00:00",
-   "end": "2026-10-31T18:00:00+00:00",
-   "more_times": 2,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Huntsville",
-   "zip": "77320",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/blueactiondems/event/1061634/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Mobilize%20Cover%20-%20Blockwalks_20260707175128534973.png"
   },
   {
    "id": "mob-1020494",
@@ -1057,7 +988,7 @@
    "lng": null,
    "virtual": false,
    "url": "https://www.mobilize.us/blueactiondems/event/1061650/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Mobilize%20Cover%20-%20Blockwalks_20260707175128534973.png"
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Day%20of%20More%20Votes%20%281%29_20261031004259602464.png"
   },
   {
    "id": "mob-1075471",
@@ -1081,6 +1012,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/garciaforcongress/event/1075471/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Office%20Hours%20%283%29_20261027154742971458.png"
+  },
+  {
+   "id": "mob-1078373",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Knock Doors for Katy Padilla Stout with Bexar Northwest Democrats!",
+   "type": "CANVASS",
+   "candidates": [
+    "katy-padilla-stout"
+   ],
+   "host": "Bexar County Democrats",
+   "start": "2026-11-01T19:00:00+00:00",
+   "end": "2026-11-01T22:00:00+00:00",
+   "more_times": 0,
+   "venue": "Refuge Coffee + Beer Garden",
+   "address": "11011 Shaenfield Rd",
+   "city": "San Antonio",
+   "zip": "78254",
+   "lat": 29.5216367,
+   "lng": -98.7092753,
+   "virtual": false,
+   "url": "https://www.mobilize.us/bexardemocrat/event/1078373/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/BCCC-Northwest-Dems-Blockwalk_20261030225338315374.png"
   },
   {
    "id": "mob-1074203",
@@ -1775,6 +1729,29 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%288%29_20261012190747133436.jpg"
   },
   {
+   "id": "mob-1078375",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Knock Doors for Katy Padilla Stout on Election Day!",
+   "type": "CANVASS",
+   "candidates": [
+    "katy-padilla-stout"
+   ],
+   "host": "Bexar County Democrats",
+   "start": "2026-11-03T15:00:00+00:00",
+   "end": "2026-11-03T18:00:00+00:00",
+   "more_times": 2,
+   "venue": "Refuge Coffee + Beer Garden",
+   "address": "11011 Shaenfield Rd",
+   "city": "San Antonio",
+   "zip": "78254",
+   "lat": 29.5216367,
+   "lng": -98.7092753,
+   "virtual": false,
+   "url": "https://www.mobilize.us/bexardemocrat/event/1078375/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/BCCC-Election-Day-Blockwalk_20261030225453342776.png"
+  },
+  {
    "id": "mob-1078205",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -1983,6 +1960,36 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-10-27-16-17-39-119_20261027212510898863.jpg"
   },
   {
+   "id": "news-9aab71caf59a",
+   "source": "KCBD",
+   "kind": "reported",
+   "title": "Governor Greg Abbott visits Lubbock ahead of midterm election day",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-30T23:21:29+00:00",
+   "city": "Lubbock",
+   "lat": 33.5619,
+   "lng": -101.8889,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0lWdnBkcHNhWWFIWlpxLVB1a0JtZ2RsRXE0M3dodWE1cEFpMWJhRHhyUl9ndFUxamN1M1N0cEF3dDlodE5IMjNSWURnSXgwZ0xnOFI3QWtCZkZrRG93WkJWNUVMUHJoUmZnYzhZUDBRNkpPSjV6bXJmTlFxdVFkTTVFMUQ3ZmVtNWpRckI5YWxzVjBDNlhId1FucWRCYi16UXdB?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-831e673394be",
+   "source": "Fox News",
+   "kind": "reported",
+   "title": "WATCH LIVE: Ken Paxton holds 'Come and Take It' bus tour stop in Pearland, Texas",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-30T22:34:56+00:00",
+   "city": "Pearland",
+   "lat": 29.5557,
+   "lng": -95.323,
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tZjZHQWhTYURfSzFibi1sZnEyS0I1dTJsN2JPNnp2S2hYcHRBZTQtYkJ2cDN0LWtGZzRQRzJ0WUpXcnIyVDBGaGpEUnl2R3F3bUEtTTdR?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-e9aa59f8845c",
    "source": "Lubbock Avalanche-Journal",
    "kind": "reported",
@@ -1990,7 +1997,7 @@
    "candidates": [
     "greg-abbott"
    ],
-   "start": "2026-10-30T20:48:52+00:00",
+   "start": "2026-10-30T21:44:00+00:00",
    "city": "Lubbock",
    "lat": 33.5619,
    "lng": -101.8889,
@@ -2005,7 +2012,7 @@
    "candidates": [
     "greg-abbott"
    ],
-   "start": "2026-10-30T18:01:32+00:00",
+   "start": "2026-10-30T18:51:00+00:00",
    "city": "Amarillo",
    "lat": 35.1999,
    "lng": -101.8302,
@@ -2055,6 +2062,21 @@
    "lat": 32.7933,
    "lng": -96.7665,
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9leWFSb2hPVFlkN0o5UE1EbnlDaXdvbUQ2eUQzdktsVE0xSmJlU2hZcDV3ay1pS2szVWhpaU81c0Q0T19FOGdvUjUwTmY5VDg0Q3AtaEtGT0FCWHItVUJPWS0wcw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-a3124013ba77",
+   "source": "FOX 7 Austin",
+   "kind": "reported",
+   "title": "FULL: Talarico, Hinojosa rally in Dallas as Texas race tightens",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-10-30T02:46:36+00:00",
+   "city": "Dallas",
+   "lat": 32.7933,
+   "lng": -96.7665,
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9leWFSb2hPVFlkN0o5UE1EbnlDaXdvbUQ2eUQzdktsVE0xSmJlU2hZcDV3ay1pS2szVWhpaU81c0Q0T19FOGdvUjUwTmY5VDg0Q3AtaEtGT0FCWHItVUJPWS0wc9IBaEFVX3lxTE5mS2N4T0h3cU1uSlNFMWxpY3JkVGJMWmthZjFsT094a1ZFcDgtU3AtQ0xmbmp4WWx4VWVVMnpxM21Pc1ppZWw3RVhHcml1TUpVaDN3S0h5WUNaQ2hTSzFHa1J1ejVwb1JL?oc=5",
    "virtual": false
   },
   {
@@ -2193,21 +2215,6 @@
    "virtual": false
   },
   {
-   "id": "news-0b651fd714e1",
-   "source": "El Paso Times",
-   "kind": "reported",
-   "title": "Gina Hinojosa talks delivering for Texans at El Paso rally",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "start": "2026-10-29T15:13:40+00:00",
-   "city": "El Paso",
-   "lat": 31.8478,
-   "lng": -106.4311,
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0ZVSWZ3S3AwQ1F0eGd3UWJERkkyRUptWm12b2ZUTDZCcEV0bnJFTHRoa0l2WFJXR2FfRFBnZDZSMkdnQU5WZTRYX19pNTNBREVUOUY5WFQ5ZGVJbHhfZktBLVo2anRlMi1Sb3FLVHF5QzhEelh2YlV3RGNZQUNTSGlFN2JRZG9nVE8wcXJ3X3JYVk4tTVhxSVY2Yjd6Q1NtdUZ1VVp6a2dvSzlGdE5rbVgyc1BYaE93bzV4YUphRQ?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-3e51a813ee84",
    "source": "El Paso Matters",
    "kind": "reported",
@@ -2269,7 +2276,7 @@
   },
   {
    "id": "news-ac4bb5f00ee2",
-   "source": "KLBK | KAMC | EverythingLubbock.com",
+   "source": "EverythingLubbock.com",
    "kind": "reported",
    "title": "SLIDESHOW: James Talarico hosted tour stop in Lubbock as election nears",
    "candidates": [
@@ -2340,6 +2347,21 @@
    "lat": 33.5619,
    "lng": -101.8889,
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3hxc05VZE5hUmd4TF83QUlEdlp2R3dHWUtZaU0xM2RXbS1SSVZsRU9KRS1xWXJwSFpVZ19tVUtZVE1KcHQtWFVyMXlZVWRPcjRVYWw0bUFQMnROQVhQLXJ5ZGJoRUR0Y1NlYkNkMFhsLW5JVWxxbXU1ZFcyb2ZhX1pld3o5MG9yQVhHcWNlbGtobG9wb2EtUHI5WnNvaFpqd3hOUmdKZWV3WWd1S3k4TVBHQVB2eDJlUVFReVhBdVJjMmNORnU2X290RUNnRUVNRkNuaFZpSzlfa2JiblQ3OVJnay0?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-0b651fd714e1",
+   "source": "El Paso Times",
+   "kind": "reported",
+   "title": "Gina Hinojosa talks delivering for Texans at El Paso rally",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-10-28T07:00:00+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0ZVSWZ3S3AwQ1F0eGd3UWJERkkyRUptWm12b2ZUTDZCcEV0bnJFTHRoa0l2WFJXR2FfRFBnZDZSMkdnQU5WZTRYX19pNTNBREVUOUY5WFQ5ZGVJbHhfZktBLVo2anRlMi1Sb3FLVHF5QzhEelh2YlV3RGNZQUNTSGlFN2JRZG9nVE8wcXJ3X3JYVk4tTVhxSVY2Yjd6Q1NtdUZ1VVp6a2dvSzlGdE5rbVgyc1BYaE93bzV4YUphRQ?oc=5",
    "virtual": false
   },
   {
@@ -2586,7 +2608,7 @@
    "id": "news-753d65d1cd08",
    "source": "KCBD",
    "kind": "reported",
-   "title": "Gov. Greg Abbott to visit Lubbock for Get Out the Vote event Friday",
+   "title": "Gov. Greg Abbott holds rally event in Lubbock",
    "candidates": [
     "greg-abbott"
    ],
@@ -2898,6 +2920,21 @@
    "virtual": false
   },
   {
+   "id": "news-821af506f880",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "Gov. Greg Abbott to hold campaign rally in El Paso next week",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-25T03:54:31+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekJRR2U3X3YzUk5TNVhpVjlfRERWRFVqb01adlZ5YUpwRjlKUGJBX0QyLWc0VENPeWxQMmVKUXVtQTB3dFRHMnFWZHAwbzI5TWh2Y1NFYkp4RlJDYTBKQ3d1SUhJZTd3amNrWUtteHZZYkVraThGUG8tbGtZV2dfdWRXNGYzSGhfZFRrdS1aQjBzYVZJY2d2VXRQTHhMVXVoNzctelV5ZDZrUmhY?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-444b422d70d4",
    "source": "KVUE",
    "kind": "reported",
@@ -3123,21 +3160,6 @@
    "virtual": false
   },
   {
-   "id": "news-c2771ec4578e",
-   "source": "San Angelo Standard Times",
-   "kind": "reported",
-   "title": "Watch as Texas Gov. Greg Abbott holds campaign rally in San Angelo on Thursday, Oct. 22, 2026.",
-   "candidates": [
-    "greg-abbott"
-   ],
-   "start": "2026-10-22T22:13:47+00:00",
-   "city": "San Angelo",
-   "lat": 31.4411,
-   "lng": -100.4505,
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaHVQWlBjdzBXMVpIeVdFOTdSLWlsUjRQYVpyaTZiZVoxbmY1Vnp6N0t6WVI3Rmt3RXN2d0JHOFlGXzFfcXR2enZjNXgzWFY5UVhhTHZ6SzJpLUtwTUtLaGQwNTNnWEtFNUo0VVhpZmJ0UkJFVEM0eER5SFBCX1lyQXlzWUoxUng2RGlucWtSRXFGblE4aVpRdUROU3ZyaS04UXdYeVkyTG10cjRPN2MyR2p3MGRSMjNRTWJ3Ym9xTEJiYnMybThLUXFUdko3UWhDVElwXzFBWWNBRmVvVkcyeGNlSHdqYWpNTHJ4UlNqTnVsRm5pR0NrRTM3YU1WOW5ZUEc2LTYtZ183Qk1rSlA4?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-a2ae09f698fa",
    "source": "kcentv.com",
    "kind": "reported",
@@ -3258,6 +3280,21 @@
    "virtual": false
   },
   {
+   "id": "news-c2771ec4578e",
+   "source": "San Angelo Standard Times",
+   "kind": "reported",
+   "title": "Watch as Texas Gov. Greg Abbott holds campaign rally in San Angelo on Thursday, Oct. 22, 2026.",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-22T07:00:00+00:00",
+   "city": "San Angelo",
+   "lat": 31.4411,
+   "lng": -100.4505,
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaHVQWlBjdzBXMVpIeVdFOTdSLWlsUjRQYVpyaTZiZVoxbmY1Vnp6N0t6WVI3Rmt3RXN2d0JHOFlGXzFfcXR2enZjNXgzWFY5UVhhTHZ6SzJpLUtwTUtLaGQwNTNnWEtFNUo0VVhpZmJ0UkJFVEM0eER5SFBCX1lyQXlzWUoxUng2RGlucWtSRXFGblE4aVpRdUROU3ZyaS04UXdYeVkyTG10cjRPN2MyR2p3MGRSMjNRTWJ3Ym9xTEJiYnMybThLUXFUdko3UWhDVElwXzFBWWNBRmVvVkcyeGNlSHdqYWpNTHJ4UlNqTnVsRm5pR0NrRTM3YU1WOW5ZUEc2LTYtZ183Qk1rSlA4?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-20a3f474ae97",
    "source": "KFOX",
    "kind": "reported",
@@ -3270,21 +3307,6 @@
    "lat": 31.8478,
    "lng": -106.4311,
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDdhS2tDX25DWENZSHc1TGpSeUpHR1pockVsWnFMSUR0SDdRbXFWUUxqWEItc0JVaTRQbjJNY2lUUUtHU1RpeDFmTVZMcEVHQjFUdjJiUUpEWU1MZGFGaTJaU0VwNHNwSDRvRXdFN20tRXQ5S1NJWGhUcFZBM1ExcG9kbDFDSkdnNXdXdnI3LTBnMVU?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-664fe031cf79",
-   "source": "Houston Chronicle",
-   "kind": "reported",
-   "title": "James Talarico rallies students, Democrats in Houston in final Senate push",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-21T23:50:05+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNl90b1Vjbm9WZFpFdF9RSHM4bG9HbHRhREtrWmtYZWM1emJPNzZ4WS1JRExZUks3dWk3SVQxVFhBZS10N0VUSnJTZ0V0R0JmSVpPTG5nSmFuaWt1dFZqOUM0b1RLcE13bmNZb2RiVWNtazVUX2tudFpQLUZFbzBJNE4wcUFubE5FUnVpbm83anVVNGJrM1Fud0k1eWZIaGFv?oc=5",
    "virtual": false
   },
   {
@@ -3375,6 +3397,21 @@
    "lat": 30.3904,
    "lng": -95.6982,
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdV9HcmZ5bkdUaEJtQ2JfTy14cmxfRnRjZWNCdzZNa0syZXFISWRKYzJ6eUo5dXp3YjQtTktnNVo2X3JwQlZMUkJMbnZETXBYZUhMbENiVWRHWHNxUDJzQWc4VGNESnBqdkVrMldxXzRyZlVZc1FWTWotVkFBLVhyT1RfR0FjTUxHYUlna3ZIbHlBM2diMGtSMDVPY1ZCMFQ3VTJGQmZTMzRLcW9pc3F3X0N4aEZYSGpiSzhqV0ROOXFaN2dXckxFdENhalNVX0RodFRJVUpBNA?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-664fe031cf79",
+   "source": "Houston Chronicle",
+   "kind": "reported",
+   "title": "James Talarico rallies students, Democrats in Houston in final Senate push",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-21T07:00:00+00:00",
+   "city": "Houston",
+   "lat": 29.7857,
+   "lng": -95.3888,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNl90b1Vjbm9WZFpFdF9RSHM4bG9HbHRhREtrWmtYZWM1emJPNzZ4WS1JRExZUks3dWk3SVQxVFhBZS10N0VUSnJTZ0V0R0JmSVpPTG5nSmFuaWt1dFZqOUM0b1RLcE13bmNZb2RiVWNtazVUX2tudFpQLUZFbzBJNE4wcUFubE5FUnVpbm83anVVNGJrM1Fud0k1eWZIaGFv?oc=5",
    "virtual": false
   },
   {
@@ -3543,21 +3580,6 @@
    "virtual": false
   },
   {
-   "id": "news-c9cc6d003d30",
-   "source": "cbs19.tv",
-   "kind": "reported",
-   "title": "BLOG: U.S. Senate candidate James Talarico makes campaign stop in Tyler as part of statewide tour",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-21T00:41:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3RLTEVidVVnVmc2Z1RNcVNOOWRfcFcwZTRVSk1LMFJ4ODJmWkZmLUl2ZFhMX1pUUVBITjRDQjh4TzBFNGRHUnliQ3kzYzAwVEd1OWlTRGFydUt1c2hVOXJfYllXdHU3cnptTW9fQWNUWkx6MmVfXzFFOFFSN09xQ0VtUHd4ZklWX3pfNkVWbllYS2RQbktOVjRTUTktUmJHSUYxNjUzTW04UXJXangtdGF3SVZLX0VST0E?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-f7a79dc00861",
    "source": "KCENTV.com",
    "kind": "reported",
@@ -3690,6 +3712,21 @@
    "lat": 32.3173,
    "lng": -95.3064,
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcklZNGQtckRrMEczaEJwNVJhdzQ1dWxKVU1TWG5aTEROWGJkaExoWEMydDlLYy1SbDVIUHV2bDVDN1lETHNsUlpqeTZlYkNLTGNmbC11d1pWSFVvVzh6TlFvVkt3Y1I4RDNWb1hsa1MtTDlRc21vMVpjck15Y0dMbVNuYXdOWnFTMnhJdWVCa0lFajBRZmlkY1U0QUR0ZkJsV2p1NTRuODh6alVxSkRNcTNlUzYwVTNYdzNXY0Y5ZndYVVRVMHYzZ2p1enQ4Z0Y2dVpTVGdzUQ?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-c9cc6d003d30",
+   "source": "cbs19.tv",
+   "kind": "reported",
+   "title": "BLOG: U.S. Senate candidate James Talarico makes campaign stop in Tyler as part of statewide tour",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-20T07:00:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3RLTEVidVVnVmc2Z1RNcVNOOWRfcFcwZTRVSk1LMFJ4ODJmWkZmLUl2ZFhMX1pUUVBITjRDQjh4TzBFNGRHUnliQ3kzYzAwVEd1OWlTRGFydUt1c2hVOXJfYllXdHU3cnptTW9fQWNUWkx6MmVfXzFFOFFSN09xQ0VtUHd4ZklWX3pfNkVWbllYS2RQbktOVjRTUTktUmJHSUYxNjUzTW04UXJXangtdGF3SVZLX0VST0E?oc=5",
    "virtual": false
   },
   {
@@ -4488,6 +4525,21 @@
    "virtual": false
   },
   {
+   "id": "news-efafe6e6321e",
+   "source": "The Texas Tribune",
+   "kind": "reported",
+   "title": "Trump to visit San Antonio next week for rally with Paxton, De La Cruz",
+   "candidates": [
+    "carlos-de-la-cruz"
+   ],
+   "start": "2026-10-02T07:00:00+00:00",
+   "city": "San Antonio",
+   "lat": 29.4628,
+   "lng": -98.5246,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2xhRlFFaFJzLVp6N1BLUXBiQWpKU2FNX1QwUXE0UUNRM1RtS3AwdndlLVdjcEtFTnptVENseFpoaWdESjdNc0pUb1lBNTFqZkVrYVZsYmEwamhjRFd6THREdDkwQjNjQUo3aDRaQXdBcEVOaGdCZlAxR3gwNFFiTENCSWxydlJtMEpWRnpaM21RRjhrdzNVQ1g5a1lmdk84Q1E?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-2a61a56fd750",
    "source": "KBTX News 3",
    "kind": "reported",
@@ -4515,21 +4567,6 @@
    "lat": 32.7635,
    "lng": -94.3508,
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS2VHSXNpeG80Q2szVElMWjB1YXNEMm1pU0dld0tKX3VMSmdlek9LcmlBSm9OMWswRmZyQWpHMmFYOWd6eWJVSjhYS01GVmxaZ2N5RjlPOGt3MFA2RFk0VkJuOTlaamV3U25xU1g5eDNGdDFFa1pOMHpDVUdXSDNTUjdPck5CUkxhSldIWTZ4dDBBMGJDV0lQamlheC0wUW10bzNPOXZsYVoxRjltODlwMnRRSENEeGlVY3FzNmNKQ1lKSEt2YXFKSU5fZlgzcGFH?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-2a2c6d3ab946",
-   "source": "Houston Public Media",
-   "kind": "reported",
-   "title": "Democratic candidate Gina Hinojosa calls Texas governor race ‘most important in America’ at Houston rally",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "start": "2026-08-06T07:00:00+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3ZFT1laWmEtNlZBTnQ3bDM0YnhyWVpCbVlseDhIZzFzb0FPS0RLaVZfRFh5OTVGLUhYQzZaQ0Y5ZHNaNFBzbFhzMUVJMjY0dEVCY1lfXzRQWUh6LTFLWlRfTEhZcVpDZzN0cXdnbDdMTFM5NmlwX18ya0ptQ0dnM2J5NjJ4amJsMURqc2s3VFZFQ2YxUmhVbTdvMkpWZjVsaFZRVnRXTnFqVVhTRGlINENWN01yQkh6dlFlLWxFa0xyMjFZS1JQdmVtVmgzcGdSNVRjLVZGUzFmQ0h1TWFaNnFjSXd4MVRLTVBXNDk5djXSAfgBQVVfeXFMTi1YRDhwdGs1ZnBaVkx0MjhZY055OEl2WFZ1MXhPOG5HNGlkMHVNZ29ESzRaMUltc2JpQjIxYWxkMjJoYU1yeUtOcUs4amRzd1pBaTIwblNqSkRqTk5mTkhhWDVRNzFHdmxRdWtYdm1aVDZmV0wwUkJ3Vkp2bE5ZbmEyMWVwTE9KQjNBREVOVWtlT3Bac05QVUhFa19tVHY4V05SWHU4S0dMTzJjSTZQeFh5NTFPNC03UTFWd0x6aEpWQ2FZUmFNQVhob0ZxZUNBZVZWZEhRSmlOb1AxVFZZTG43bEp0Y0NnQ3YyZFBJcV9GU09sVlAyZ2o?oc=5",
    "virtual": false
   }
  ]
