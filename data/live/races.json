@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:28:51+00:00",
+ "updated": "2026-11-01T22:04:50+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -32,32 +32,32 @@
     {
      "source": "CBS News",
      "rating": "Tossup",
-     "as_of": "October 17, 2026"
+     "as_of": "October 30, 2026"
     },
     {
      "source": "The Cook Political Report",
      "rating": "Tossup",
-     "as_of": "October 20, 2026"
+     "as_of": "October 30, 2026"
     },
     {
      "source": "Decision Desk HQ",
      "rating": "Tossup",
-     "as_of": "October 28, 2026"
+     "as_of": "October 31, 2026"
     },
     {
      "source": "The Economist",
      "rating": "Tossup",
-     "as_of": "October 28, 2026"
+     "as_of": "November 1, 2026"
     },
     {
      "source": "FiftyPlusOne",
      "rating": "Lean D (flip)",
-     "as_of": "October 29, 2026"
+     "as_of": "October 31, 2026"
     },
     {
      "source": "Fox News",
      "rating": "Tossup",
-     "as_of": "October 27, 2026"
+     "as_of": "November 1, 2026"
     },
     {
      "source": "Inside Elections",
@@ -67,32 +67,32 @@
     {
      "source": "MS NOW",
      "rating": "Tossup",
-     "as_of": "October 12, 2026"
+     "as_of": "October 29, 2026"
     },
     {
      "source": "NBC News",
      "rating": "Tossup",
-     "as_of": "October 28, 2026"
+     "as_of": "November 1, 2026"
     },
     {
      "source": "RealClearPolitics",
      "rating": "Tossup",
-     "as_of": "October 28, 2026"
+     "as_of": "October 31, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
      "rating": "Tossup",
-     "as_of": "October 27, 2026"
+     "as_of": "October 29, 2026"
     },
     {
      "source": "Silver Bulletin",
      "rating": "Lean D (flip)",
-     "as_of": "October 28, 2026"
+     "as_of": "October 31, 2026"
     },
     {
      "source": "Split Ticket",
      "rating": "Lean D (flip)",
-     "as_of": "October 27, 2026"
+     "as_of": "October 31, 2026"
     }
    ],
    "finance": {
@@ -135,8 +135,25 @@
      "margin": 3.0
     },
     {
-     "pollster": "Quantus Insights",
+     "pollster": "YouGov",
      "partisan": null,
+     "start": "2026-10-26",
+     "end": "2026-10-29",
+     "n": 2141,
+     "pop": "LV",
+     "moe": 2.9,
+     "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf",
+     "results": {
+      "R": 47.0,
+      "D": 51.0
+     },
+     "other": 2.0,
+     "undecided": 1.0,
+     "margin": 4.0
+    },
+    {
+     "pollster": "Quantus Insights",
+     "partisan": "R",
      "start": "2026-10-26",
      "end": "2026-10-28",
      "n": 1221,
@@ -496,7 +513,7 @@
     },
     {
      "pollster": "Quantus Insights",
-     "partisan": null,
+     "partisan": "R",
      "start": "2026-10-09",
      "end": "2026-10-11",
      "n": 854,
@@ -1185,7 +1202,7 @@
     },
     {
      "pollster": "Quantus Insights",
-     "partisan": null,
+     "partisan": "R",
      "start": "2026-06-03",
      "end": "2026-06-04",
      "n": 800,
@@ -1420,8 +1437,8 @@
    ],
    "average": {
     "D": 48.8,
-    "R": 45.8,
-    "margin": 3.0,
+    "R": 45.9,
+    "margin": 2.9,
     "n_polls": 24,
     "window_days": 30,
     "from": "2026-10-05",
@@ -1709,9 +1726,14 @@
      "R": 45.7
     },
     {
+     "date": "2026-10-29",
+     "D": 48.9,
+     "R": 45.9
+    },
+    {
      "date": "2026-10-30",
-     "D": 48.8,
-     "R": 45.7
+     "D": 48.9,
+     "R": 45.8
     }
    ],
    "key": "senate",
@@ -1833,6 +1855,23 @@
      "other": 1.0,
      "undecided": 3.0,
      "margin": -2.0
+    },
+    {
+     "pollster": "YouGov",
+     "partisan": null,
+     "start": "2026-10-26",
+     "end": "2026-10-29",
+     "n": 2141,
+     "pop": "LV",
+     "moe": 2.9,
+     "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf",
+     "results": {
+      "R": 50.0,
+      "D": 49.0
+     },
+     "other": 2.0,
+     "undecided": 0.0,
+     "margin": -1.0
     },
     {
      "pollster": "Quantus Insights",
@@ -2917,9 +2956,9 @@
     }
    ],
    "average": {
-    "D": 46.9,
-    "R": 48.9,
-    "margin": -2.0,
+    "D": 47.0,
+    "R": 49.0,
+    "margin": -2.1,
     "n_polls": 20,
     "window_days": 30,
     "from": "2026-10-05",
@@ -3172,9 +3211,14 @@
      "R": 48.6
     },
     {
+     "date": "2026-10-29",
+     "D": 47.0,
+     "R": 48.9
+    },
+    {
      "date": "2026-10-30",
      "D": 47.0,
-     "R": 48.8
+     "R": 48.9
     }
    ],
    "key": "governor",
