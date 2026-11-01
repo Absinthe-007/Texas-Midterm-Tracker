@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:38:22+00:00",
+ "updated": "2026-11-01T06:10:11+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -117,7 +117,7 @@
    },
    "polls": [
     {
-     "pollster": "KStrat",
+     "pollster": "Kreate Strategies",
      "partisan": null,
      "start": "2026-10-27",
      "end": "2026-10-30",
@@ -1817,7 +1817,7 @@
    },
    "polls": [
     {
-     "pollster": "KStrat",
+     "pollster": "Kreate Strategies",
      "partisan": null,
      "start": "2026-10-27",
      "end": "2026-10-30",
@@ -1869,6 +1869,23 @@
      "margin": -2.0
     },
     {
+     "pollster": "Data for Progress",
+     "partisan": "D",
+     "start": "2026-10-23",
+     "end": "2026-10-26",
+     "n": 712,
+     "pop": "LV",
+     "moe": 4.0,
+     "url": "https://www.dataforprogress.org/blog/2026/10/30/democratic-senate-candidates-lead-in-maine-michigan-and-texas",
+     "results": {
+      "R": 48.0,
+      "D": 47.0,
+      "L": 2.0
+     },
+     "undecided": 4.0,
+     "margin": -1.0
+    },
+    {
      "pollster": "YouGov Blue",
      "partisan": "D",
      "start": "2026-10-21",
@@ -1910,10 +1927,10 @@
      "moe": 4.9,
      "url": "https://www.activote.net/polls/2026/tx-governor/",
      "results": {
-      "R": 53.0,
+      "R": 52.0,
       "D": 48.0
      },
-     "margin": -5.0
+     "margin": -4.0
     },
     {
      "pollster": "Univision/YouGov",
@@ -2900,12 +2917,12 @@
     }
    ],
    "average": {
-    "D": 47.0,
+    "D": 46.9,
     "R": 48.9,
-    "margin": -1.9,
+    "margin": -2.0,
     "n_polls": 20,
     "window_days": 30,
-    "from": "2026-10-01",
+    "from": "2026-10-05",
     "to": "2026-10-30"
    },
    "trend": [
@@ -3141,8 +3158,8 @@
     },
     {
      "date": "2026-10-26",
-     "D": 46.6,
-     "R": 48.6
+     "D": 46.7,
+     "R": 48.5
     },
     {
      "date": "2026-10-27",
@@ -3152,12 +3169,12 @@
     {
      "date": "2026-10-28",
      "D": 46.7,
-     "R": 48.7
+     "R": 48.6
     },
     {
      "date": "2026-10-30",
      "D": 47.0,
-     "R": 48.9
+     "R": 48.8
     }
    ],
    "key": "governor",

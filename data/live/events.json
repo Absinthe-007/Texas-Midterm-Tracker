@@ -1,75 +1,6 @@
 {
- "updated": "2026-10-31T21:48:50+00:00",
+ "updated": "2026-11-01T06:18:45+00:00",
  "events": [
-  {
-   "id": "mob-1053130",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Texas Together Blockwalk in Lewisville/Flomo for Steven Shook for TX-26",
-   "type": "CANVASS",
-   "candidates": [
-    "steven-shook"
-   ],
-   "host": "Texas Together",
-   "start": "2026-10-31T22:00:00+00:00",
-   "end": "2026-11-01T01:00:00+00:00",
-   "more_times": 4,
-   "venue": "Caddo Office Building",
-   "address": "2201 Spinks Rd",
-   "city": "Flower Mound",
-   "zip": "75022",
-   "lat": 32.9982155,
-   "lng": -97.0633283,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1053130/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/FlowerMound%20%283%29_20261025214231287902.png"
-  },
-  {
-   "id": "mob-1053297",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Texas Together Block Walk - Leticia Gutierrez's Office",
-   "type": "CANVASS",
-   "candidates": [
-    "leticia-gutierrez"
-   ],
-   "host": "Texas Together",
-   "start": "2026-10-31T22:00:00+00:00",
-   "end": "2026-11-01T01:00:00+00:00",
-   "more_times": 13,
-   "venue": "Leticia Gutierrez's Office",
-   "address": "4001 Leeland St",
-   "city": "Houston",
-   "zip": "77003",
-   "lat": 29.7383077,
-   "lng": -95.341799,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1053297/",
-   "image": ""
-  },
-  {
-   "id": "mob-1044609",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Block Walk for Dr Kristin Hook",
-   "type": "CANVASS",
-   "candidates": [
-    "kristin-hook"
-   ],
-   "host": "Texas Young Democrats",
-   "start": "2026-10-31T22:30:00+00:00",
-   "end": "2026-11-01T00:30:00+00:00",
-   "more_times": 1,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "San Marcos",
-   "zip": "78666",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasyds/event/1044609/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/San%20Marcos%20%281%29_20260925221625624845.png"
-  },
   {
    "id": "mob-1073296",
    "source": "Mobilize",
@@ -232,6 +163,29 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/henry_cuellar_logo_16x8_20260724174717227768.png"
   },
   {
+   "id": "mob-1053130",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Texas Together Blockwalk in Lewisville/Flomo for Steven Shook for TX-26",
+   "type": "CANVASS",
+   "candidates": [
+    "steven-shook"
+   ],
+   "host": "Texas Together",
+   "start": "2026-11-01T16:00:00+00:00",
+   "end": "2026-11-01T19:00:00+00:00",
+   "more_times": 3,
+   "venue": "Caddo Office Building",
+   "address": "2201 Spinks Rd",
+   "city": "Flower Mound",
+   "zip": "75022",
+   "lat": 32.9982155,
+   "lng": -97.0633283,
+   "virtual": false,
+   "url": "https://www.mobilize.us/texasdemocrats/event/1053130/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/FlowerMound%20%283%29_20261025214231287902.png"
+  },
+  {
    "id": "mob-1061653",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -299,6 +253,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1020490/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/General%20Blockwalking_20260828165638158006.jpg"
+  },
+  {
+   "id": "mob-1053297",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Texas Together Block Walk - Leticia Gutierrez's Office",
+   "type": "CANVASS",
+   "candidates": [
+    "leticia-gutierrez"
+   ],
+   "host": "Texas Together",
+   "start": "2026-11-01T16:00:00+00:00",
+   "end": "2026-11-01T19:00:00+00:00",
+   "more_times": 12,
+   "venue": "Leticia Gutierrez's Office",
+   "address": "4001 Leeland St",
+   "city": "Houston",
+   "zip": "77003",
+   "lat": 29.7383077,
+   "lng": -95.341799,
+   "virtual": false,
+   "url": "https://www.mobilize.us/texasdemocrats/event/1053297/",
+   "image": ""
   },
   {
    "id": "mob-1074519",
@@ -692,6 +669,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/electevanhunt/event/1063534/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Mobilize%20%26%20Facebook%20%20%2831%29_20261013150354068723.png"
+  },
+  {
+   "id": "mob-1044609",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Block Walk for Dr Kristin Hook",
+   "type": "CANVASS",
+   "candidates": [
+    "kristin-hook"
+   ],
+   "host": "Texas Young Democrats",
+   "start": "2026-11-01T23:30:00+00:00",
+   "end": "2026-11-02T01:30:00+00:00",
+   "more_times": 0,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "San Marcos",
+   "zip": "78666",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/texasyds/event/1044609/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/San%20Marcos%20%281%29_20260925221625624845.png"
   },
   {
    "id": "mob-1078349",
@@ -1429,6 +1429,36 @@
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1078550/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/GH-Launch-AB-Meta-1200x630-3-2_20261031181414991671.png"
+  },
+  {
+   "id": "news-2052bfb108b8",
+   "source": "KHOU",
+   "kind": "reported",
+   "title": "Texas Senate race heats up as James Talarico rallies hundreds in Houston ahead of Election Day",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-11-01T02:09:00+00:00",
+   "city": "Houston",
+   "lat": 29.7857,
+   "lng": -95.3888,
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQckNJX0VKNTRoQnE0bnRteERVSGM1Yi01aWJZNV9uelVhTjR4RmdOY2RZdVhwbUppZVZBUng0ZWVsSWh6UXdQamlFRmdjMVRFVmhDVFVOVXZKbkNqSEI4aXBoWU1hcG95YkZnOFFVTGlfNjc4aEtZMmZ0WGZzalJ1Zl84a3UxamYtVmpwaEVMaWVxWDUxZ2RVZXdsZ1Iyb3E3ek11WlV6OU5uNmtLT1JvdEN2bnk0RWxJS042OHltWTdwSzI1eGY1Mzc1dUNoejh6OG0wYW9n?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-adfbd0256a56",
+   "source": "The Texas Tribune",
+   "kind": "reported",
+   "title": "Ken Paxton appears to cancel final rally of his “Come and Take It” tour at the Alamo",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-31T22:51:16+00:00",
+   "city": "San Antonio",
+   "lat": 29.4628,
+   "lng": -98.5246,
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzM3c1dnRzBiY0dTd25hRFBSMXRvVW0zVkdQc2hKYS1oODhQQ3AxTjRvTmtOb25lNGpRVVFRenJXQ2VwZ1pvb1RYbzNEcmhFVEhWX2tkNGFYOXhqLU44QkZXOXlHNWNwcEhtb1IwY0xfOHZFekdaNTZqSjdkOF80bVdvLUNIZUh2NEpvZEwtaw?oc=5",
+   "virtual": false
   },
   {
    "id": "news-2d85195b2671",
@@ -2376,6 +2406,21 @@
    "virtual": false
   },
   {
+   "id": "news-3d8c3c39be53",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "Ken Paxton to visit El Paso days before Election Day amid closely watched Senate race",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-26T07:00:00+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMExYS3FQdHVpbUhZN2pfTkRWNXFXM1ZzUGtWcUxYMjV1ZUcxckZyZnR0bk50eGNlWTRhOVVFR09RQmoyeGF4WjNvOElGWGZZMzZ6RHpTS19YVEpJbE8xMS05Zkt3ZF9XY1hreERpM2s5WkV2dWlGdzY4eGpuUy1lWk9XZVRGNy1fUnI1MDFrYVJjOFNqdmFSN1NOc1ZUZ0RQQ3JtcjktdGtJMDVnOGdodlI0Q21mc2JLMllGOVBIT3NwRDI3UE5YVTlR?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-d67aad4eaf65",
    "source": "KVUE",
    "kind": "reported",
@@ -2616,6 +2661,21 @@
    "virtual": false
   },
   {
+   "id": "news-49a13c9866ae",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "GOP candidate Brandon Herrera to campaign in Clint, Northeast El Paso",
+   "candidates": [
+    "brandon-herrera"
+   ],
+   "start": "2026-10-23T18:54:43+00:00",
+   "city": "Clint",
+   "lat": 31.5902,
+   "lng": -106.2287,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWxZMHZsSE03OWNOV3d2M3hLMnlORllid2JmbkNGQy1xRUJJc3pqNWw0U1labHJGcFRMRktkclUza3F6NEJ0dk9oOUJVbTd0NnlZOW9rM3ZfU3VyZS04SE9LbGRCcDdyRzRDMG5oaGR4UUdSSkc1WDhFLXBUdWhFVERROHZ1WEt0NWVla2RodVNlWUpYSm5fdE5NV3BRcDR3Yms0TEw4TERSOWlvME1jbw?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-908f71860b58",
    "source": "KFOX",
    "kind": "reported",
@@ -2703,21 +2763,6 @@
    "lat": 31.558,
    "lng": -97.1898,
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMTk2WjJXZi1DVkpENzdaZDFYcTNYU19ySzVkQzlxSnhfb081RUZHbE1POVRVaU5TNWkza21SUjh1RDgxRng0bVNGWWlTamxoRHBWbUREajNVdUZVT3Z4NmxTR1FPb052YWtQa0ZiVkcxM1ZKOTJFRmtWNVc0aHk5Tk04NVRISEJEazFWT2JEbWZnNndZMVpPcEZnTDF3NDlNeC1La2RPUlNua3YteEs4R0FRc2hLVHg4N2NMMVVWT0YxTFFscEVRVThsWUxUNFBvUmFyeXl5WDBFenNOZ1lYZEg0R1JKa0o1Z0NrQ0c5WEU0VDJ3RGk1U29KWEpmQQ?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-8b630cb1c994",
-   "source": "Corpus Christi Caller-Times",
-   "kind": "reported",
-   "title": "Texas Lt. Gov. Dan Patrick visits Corpus Christi urging early voting",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-10-22T16:43:22+00:00",
-   "city": "Corpus Christi",
-   "lat": 27.7543,
-   "lng": -97.1734,
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkFDY3BPUU5RNU9vYVpsVEc1YURGeVhaV0JMbmpZTXRsdFh1ZnpneGZ3X2pIM3BNc3hySlRyRkY1RmZHMlpMOWlvYnA1bEctOEF3WnpHbEU2T0h3Zm5xNFlRdUNoSXN3MU9ZWnJ6alE2NlBMTFQwTUdtSEZWMV80X0hfc1FHcWtSbERQX0Q2NmpzVkg5WF9vZTRrRlVLX0dETExnSngyOTlueGowdXhqbGgxQnAyOEdLQjBSVF9sYnRaaWk2VDhuSHE0bnNfMEU?oc=5",
    "virtual": false
   },
   {
@@ -2811,6 +2856,21 @@
    "virtual": false
   },
   {
+   "id": "news-8b630cb1c994",
+   "source": "Corpus Christi Caller-Times",
+   "kind": "reported",
+   "title": "Texas Lt. Gov. Dan Patrick visits Corpus Christi urging early voting",
+   "candidates": [
+    "dan-patrick"
+   ],
+   "start": "2026-10-22T07:00:00+00:00",
+   "city": "Corpus Christi",
+   "lat": 27.7543,
+   "lng": -97.1734,
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkFDY3BPUU5RNU9vYVpsVEc1YURGeVhaV0JMbmpZTXRsdFh1ZnpneGZ3X2pIM3BNc3hySlRyRkY1RmZHMlpMOWlvYnA1bEctOEF3WnpHbEU2T0h3Zm5xNFlRdUNoSXN3MU9ZWnJ6alE2NlBMTFQwTUdtSEZWMV80X0hfc1FHcWtSbERQX0Q2NmpzVkg5WF9vZTRrRlVLX0dETExnSngyOTlueGowdXhqbGgxQnAyOEdLQjBSVF9sYnRaaWk2VDhuSHE0bnNfMEU?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-c2771ec4578e",
    "source": "San Angelo Standard Times",
    "kind": "reported",
@@ -2898,6 +2958,21 @@
    "lat": 33.5619,
    "lng": -101.8889,
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONndCME1hQkQwa0NuMkoyZmtPUkZfZlVJaUFvZG9NWWlNU1lhbXlJVEZVZl90R2NELTQtOHpfcFBNV2Y0c2otdVhKeUJUZ1lqb1VmVW1TSGxQQU1IazBDZG0zNFZjdU1lbVZJX0UtNF9ZMmV4ckcwaDY2dEpJZnlnaW9RbDhWMlhiS0FHdmcxQzJnRFV4NjZzUWVwbU5tWDFLVHFTUkVMUlgwQW4yV25KTmJ2bnFYTWpEWlcteWNYM1BWZw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-25f3e307aafa",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "Gina Hinojosa to hold campaign rally in El Paso on Oct. 28",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-10-21T19:00:21+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHh1VVdvRzYzSUdwVzRKZWpxMV9rWlhrMGFfZ3FrWGZlUzlHRFQyX1UwOVljQ0FlSDI4R3lEZnhJbmhBWXBzZjg3S3VUX0JXM0pkemRmWVFtUVZNOWpycmg0el9IUE9hbUxHNjZscEZ6NVVYa2Z6Z3RtVTVuaWdxZkVkejFReF9xOWFuYmVxTVNfZmlv?oc=5",
    "virtual": false
   },
   {
@@ -3066,21 +3141,6 @@
    "virtual": false
   },
   {
-   "id": "news-232f31a88aba",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "U.S. Senate nominee James Talarico holds rally in Tyler",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-21T02:55:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUp3VmFSMjdqb1NtYWpXQWdGS0IwblA5Q3BiUUl3SW5FUVA3VVdVdFVOaHI5bUhvbm51N29uN0QwcF8tZ182WVBIVGlCSTFsc21ldGtVTGV2eVdtUHd1MUN1LUVEWWtSeFl3UDJldmlLdkQ4WGJhMkZySFhfVXVDOFhYZjZseExIWnRF0gGfAUFVX3lxTFBKQ1J2Mko5VW9UN3Noc1VGZ2I2MkY3UXZpemVJR1k3UlBIYnFEWmtxT0RaVzB2UTBKMzRacVRycDdXT2VMWjFTaThHNkRpcXdKMlVScEpTLWFHWkNJdDRKYTMyT09yZl9kX0Jzekd1OFVScG9zRldrNmJ4UFlXZDZmZ293a01nTkcwS2k1YTdsODhlTk9HbDFMQVB5SmpWVQ?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-71211e0e7d98",
    "source": "cbs19.tv",
    "kind": "reported",
@@ -3213,6 +3273,21 @@
    "lat": 32.3173,
    "lng": -95.3064,
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcklZNGQtckRrMEczaEJwNVJhdzQ1dWxKVU1TWG5aTEROWGJkaExoWEMydDlLYy1SbDVIUHV2bDVDN1lETHNsUlpqeTZlYkNLTGNmbC11d1pWSFVvVzh6TlFvVkt3Y1I4RDNWb1hsa1MtTDlRc21vMVpjck15Y0dMbVNuYXdOWnFTMnhJdWVCa0lFajBRZmlkY1U0QUR0ZkJsV2p1NTRuODh6alVxSkRNcTNlUzYwVTNYdzNXY0Y5ZndYVVRVMHYzZ2p1enQ4Z0Y2dVpTVGdzUQ?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-232f31a88aba",
+   "source": "KLTV.com",
+   "kind": "reported",
+   "title": "U.S. Senate nominee James Talarico holds rally in Tyler",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-20T07:00:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUp3VmFSMjdqb1NtYWpXQWdGS0IwblA5Q3BiUUl3SW5FUVA3VVdVdFVOaHI5bUhvbm51N29uN0QwcF8tZ182WVBIVGlCSTFsc21ldGtVTGV2eVdtUHd1MUN1LUVEWWtSeFl3UDJldmlLdkQ4WGJhMkZySFhfVXVDOFhYZjZseExIWnRF0gGfAUFVX3lxTFBKQ1J2Mko5VW9UN3Noc1VGZ2I2MkY3UXZpemVJR1k3UlBIYnFEWmtxT0RaVzB2UTBKMzRacVRycDdXT2VMWjFTaThHNkRpcXdKMlVScEpTLWFHWkNJdDRKYTMyT09yZl9kX0Jzekd1OFVScG9zRldrNmJ4UFlXZDZmZ293a01nTkcwS2k1YTdsODhlTk9HbDFMQVB5SmpWVQ?oc=5",
    "virtual": false
   },
   {
@@ -4068,36 +4143,6 @@
    "lat": 29.4628,
    "lng": -98.5246,
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2xhRlFFaFJzLVp6N1BLUXBiQWpKU2FNX1QwUXE0UUNRM1RtS3AwdndlLVdjcEtFTnptVENseFpoaWdESjdNc0pUb1lBNTFqZkVrYVZsYmEwamhjRFd6THREdDkwQjNjQUo3aDRaQXdBcEVOaGdCZlAxR3gwNFFiTENCSWxydlJtMEpWRnpaM21RRjhrdzNVQ1g5a1lmdk84Q1E?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-2a61a56fd750",
-   "source": "KBTX News 3",
-   "kind": "reported",
-   "title": "Texas A&M student group invites Ken Paxton, James Talarico to debate",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-09-23T07:00:00+00:00",
-   "city": "College Station",
-   "lat": 30.5852,
-   "lng": -96.2964,
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnZIeURjdklrdWtlSzNzclZXQkstV3ZYLXF5alFtMWNrN2djNnVseWE2b1dBTHFXSXpDZkVJM0lPUXFxeERVODZzel9VNEJ4ZllEd2ZWS3plbERfMjhSOS1WbWJvZ2dUR2IwaWpfLUt6eG03V1B2WTQwR3Q2TjhCdU5WeUxCa2ZXUnROMkRyNk9CX0J1b0o2TGlYbnY?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-effdc4edd66d",
-   "source": "The Killeen Daily Herald",
-   "kind": "reported",
-   "title": "Ag commissioner candidate Nate Sheets visits Jefferson",
-   "candidates": [
-    "nate-sheets"
-   ],
-   "start": "2026-09-08T07:00:00+00:00",
-   "city": "Jefferson",
-   "lat": 32.7635,
-   "lng": -94.3508,
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS2VHSXNpeG80Q2szVElMWjB1YXNEMm1pU0dld0tKX3VMSmdlek9LcmlBSm9OMWswRmZyQWpHMmFYOWd6eWJVSjhYS01GVmxaZ2N5RjlPOGt3MFA2RFk0VkJuOTlaamV3U25xU1g5eDNGdDFFa1pOMHpDVUdXSDNTUjdPck5CUkxhSldIWTZ4dDBBMGJDV0lQamlheC0wUW10bzNPOXZsYVoxRjltODlwMnRRSENEeGlVY3FzNmNKQ1lKSEt2YXFKSU5fZlgzcGFH?oc=5",
    "virtual": false
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T21:48:52+00:00",
- "days_to_election": 3,
+ "updated": "2026-11-01T06:18:46+00:00",
+ "days_to_election": 2,
  "environment": {
   "generic_ballot": -1.8,
   "district_swing": 5.4
@@ -10,7 +10,7 @@
    "mean": 2.2,
    "sd": 4.5,
    "p_dem": 0.689,
-   "lo": -3.6,
+   "lo": -3.5,
    "hi": 8.0,
    "inputs": {
     "polls": 3.0,
@@ -26,13 +26,13 @@
    "p_dem_sim": 0.69
   },
   "governor": {
-   "mean": -2.7,
+   "mean": -2.8,
    "sd": 4.5,
-   "p_dem": 0.274,
+   "p_dem": 0.268,
    "lo": -8.5,
-   "hi": 3.1,
+   "hi": 3.0,
    "inputs": {
-    "polls": -1.9,
+    "polls": -2.0,
     "n_polls": 20,
     "fundamentals": -7.7,
     "experts": -5.0,
@@ -42,7 +42,7 @@
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.275
+   "p_dem_sim": 0.267
   },
   "ltgov": {
    "mean": -4.0,
@@ -68,7 +68,7 @@
    "sd": 6.0,
    "p_dem": 0.21,
    "lo": -12.5,
-   "hi": 2.9,
+   "hi": 2.8,
    "inputs": {
     "polls": -2.5,
     "n_polls": 4,
@@ -448,7 +448,7 @@
    "sd": 6.5,
    "p_dem": 1.0,
    "lo": 17.8,
-   "hi": 34.5,
+   "hi": 34.4,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -486,7 +486,7 @@
    "sd": 6.5,
    "p_dem": 1.0,
    "lo": 44.7,
-   "hi": 61.4,
+   "hi": 61.3,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -541,7 +541,7 @@
   "tx21": {
    "mean": -14.6,
    "sd": 6.5,
-   "p_dem": 0.013,
+   "p_dem": 0.012,
    "lo": -22.9,
    "hi": -6.3,
    "inputs": {
@@ -732,7 +732,7 @@
    "mean": -16.4,
    "sd": 6.5,
    "p_dem": 0.006,
-   "lo": -24.8,
+   "lo": -24.7,
    "hi": -8.1,
    "inputs": {
     "polls": null,
@@ -790,7 +790,7 @@
    "sd": 6.5,
    "p_dem": 0.684,
    "lo": -5.2,
-   "hi": 11.5,
+   "hi": 11.4,
    "inputs": {
     "polls": 1.5,
     "n_polls": 4,
