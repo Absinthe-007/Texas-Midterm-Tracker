@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:18:45+00:00",
+ "updated": "2026-11-01T13:37:17+00:00",
  "events": [
   {
    "id": "mob-1073296",
@@ -1446,6 +1446,21 @@
    "virtual": false
   },
   {
+   "id": "news-0d2055b30347",
+   "source": "The Killeen Daily Herald",
+   "kind": "reported",
+   "title": "Texas U.S. Senate candidate Ken Paxton makes campaign stop in Tyler Sunday",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-11-01T01:13:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOHNXNEdoRndIRHN1YWx2SHdIVjdSNERkaXZwVGtfR2ZVd1Q3d3hVMTM4UDNiZW13STJjZThtQ24tQlI3SVNSTnFfTDNaU01XQVlnUkliVHJKSDlRZzZDSDJSTFl6ZW5DMUlWSGdPNGRfWUVwUFNpaUE1dVZnOHI4UC1TSHltSlQ5UTdnRjV1bXZkOFdfRTFsZ19ZUjZBWE1aZUJmWE8xQlJkWU1SeXNCblNHM1Y2ZzJDZDFfdkxuZnVEZ3AyamJsRzR3LWVSMTRaRjYwQ0djZ2RlZzFSbF9nMjVveUJQVkR4Tnc?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-adfbd0256a56",
    "source": "The Texas Tribune",
    "kind": "reported",
@@ -1473,6 +1488,21 @@
    "lat": 32.3173,
    "lng": -95.3064,
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOemc1VG9tR0VPbnpSLUpGejlRZWVuMkgzUkpmeVZMRHpuT3ZhTjE5UE95dlp3ZVpwdlhFTVgzay04c05SWjczOGR5WGRGMUNRVEJwOWZGbk9KZzE0Y2pQR211ekpJN1JWcERQM2FuZkVFd1JPSjUzQzYyeWNERGNYQW1fWWxzTUowRmMwamQ2b0VJOFVHUzBhOENnX3Y2X3pEeG5KYWJyZlJEX0g0RGZ3bjZFTHVtd1BPMVJQX1RYVlE2UTlVWDliRFZMOHpqNDd5dS12XzZaSzdNNzlwbGo0clU4bEd3eFVXMlpVUWxFRGJkNDFSekRxblZIR3lBWUdxSlk3RVNReUtWTEU1RTREZDB3?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-6a2b096c03c6",
+   "source": "CNN",
+   "kind": "reported",
+   "title": "Paxton Rally in Fort Worth",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-31T19:30:00+00:00",
+   "city": "Fort Worth",
+   "lat": 32.782,
+   "lng": -97.3486,
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb29odE96T1FNMnJyanVycG1XV2EyWE96ck80Y3BxQmtNUTNiVWVaVGVRQmN3c1BQT0NfcHZ2MGFUUWdKUlpfLWh6bkR5ekF5bURPSjFiMUl6UEZCR1R0QmU2b3dsdmFDY3ZycDhfUjRCWGExdFl5Y3AweEhaaU1FRUJlTQ?oc=5",
    "virtual": false
   },
   {
@@ -2032,7 +2062,7 @@
   },
   {
    "id": "news-a6f1c2cc185d",
-   "source": "KLBK | KAMC | EverythingLubbock.com",
+   "source": "EverythingLubbock.com",
    "kind": "reported",
    "title": "WATCH: James Talarico holds rally in Lubbock",
    "candidates": [
@@ -2563,7 +2593,7 @@
    "candidates": [
     "greg-abbott"
    ],
-   "start": "2026-10-24T10:45:16+00:00",
+   "start": "2026-10-24T07:00:00+00:00",
    "city": "Lindale",
    "lat": 32.4941,
    "lng": -95.4073,
@@ -2698,7 +2728,7 @@
    "candidates": [
     "brandon-herrera"
    ],
-   "start": "2026-10-23T15:05:53+00:00",
+   "start": "2026-10-23T07:00:00+00:00",
    "city": "Clint",
    "lat": 31.5902,
    "lng": -106.2287,
