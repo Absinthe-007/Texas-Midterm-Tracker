@@ -1,29 +1,6 @@
 {
- "updated": "2026-11-02T06:18:32+00:00",
+ "updated": "2026-11-02T16:08:04+00:00",
  "events": [
-  {
-   "id": "mob-1045815",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "GOTV Day of Action",
-   "type": "PHONE_BANK",
-   "candidates": [
-    "lizzie-fletcher"
-   ],
-   "host": "Lizzie Pannill Fletcher for Congress",
-   "start": "2026-11-02T15:00:00+00:00",
-   "end": "2026-11-02T23:00:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Houston",
-   "zip": "77098",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/fletcherforcongress/event/1045815/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/DOA_20260925170841836085.png"
-  },
   {
    "id": "mob-1078349",
    "source": "Mobilize",
@@ -116,29 +93,6 @@
    "virtual": false,
    "url": "https://www.mobilize.us/justinearlyforcongress/event/1078966/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/mobilize-where-is-carter-1200x630_20261102012117090006.jpg"
-  },
-  {
-   "id": "mob-1020494",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Kingwood Blockwalk with Team Finnie!",
-   "type": "CANVASS",
-   "candidates": [
-    "shaun-finnie"
-   ],
-   "host": "Shaun Finnie For Congress",
-   "start": "2026-11-02T17:00:00+00:00",
-   "end": "2026-11-02T19:00:00+00:00",
-   "more_times": 0,
-   "venue": "Bear Branch Gazebo Park",
-   "address": "100 Green Village Dr",
-   "city": "Houston",
-   "zip": "77339",
-   "lat": 30.0557422,
-   "lng": -95.2037171,
-   "virtual": false,
-   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1020494/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/General%20Blockwalking_20260828170054723325.jpg"
   },
   {
    "id": "mob-1020490",
@@ -279,6 +233,29 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20For%20Talarico_20261029214058237072.png"
   },
   {
+   "id": "mob-1056910",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "📋 Talarico for Texas: Volunteer in Austin",
+   "type": "RALLY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-11-02T21:45:00+00:00",
+   "end": "2026-11-03T03:00:00+00:00",
+   "more_times": 0,
+   "venue": "Stubbs - Waller Creek Amphitheater",
+   "address": "801 Red River St",
+   "city": "Austin",
+   "zip": "78701",
+   "lat": 30.2684559,
+   "lng": -97.736173,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1056910/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/volunteer%20mobilize%20last%20one%21%21_20261102064830264094.jpg"
+  },
+  {
    "id": "mob-1073297",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -371,29 +348,6 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Org%20to%20Win%20Logo%20No%20Website_20260914193846796911.png"
   },
   {
-   "id": "mob-1056910",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "📋 Talarico for Texas: Volunteer in Austin",
-   "type": "RALLY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-11-02T22:45:00+00:00",
-   "end": "2026-11-03T04:00:00+00:00",
-   "more_times": 0,
-   "venue": "Stubbs - Waller Creek Amphitheater",
-   "address": "801 Red River St",
-   "city": "Austin",
-   "zip": "78701",
-   "lat": 30.2684559,
-   "lng": -97.736173,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056910/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-10-16-09-04-50-543_20261016140542782044.png"
-  },
-  {
    "id": "mob-1076663",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -417,6 +371,29 @@
    "image": ""
   },
   {
+   "id": "mob-1056908",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "🌟 Austin Concert with James Talarico",
+   "type": "RALLY",
+   "candidates": [
+    "james-talarico"
+   ],
+   "host": "Talarico for Texas",
+   "start": "2026-11-03T00:00:00+00:00",
+   "end": "2026-11-03T03:00:00+00:00",
+   "more_times": 0,
+   "venue": "Stubb's",
+   "address": "801 Red River St",
+   "city": "Austin",
+   "zip": "78701",
+   "lat": 30.2684559,
+   "lng": -97.736173,
+   "virtual": false,
+   "url": "https://www.mobilize.us/talaricofortexas/event/1056908/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016045131323012.png"
+  },
+  {
    "id": "mob-1076163",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -438,29 +415,6 @@
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1076163/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/GOTV_Tour_AustinGOTVConcert_11.2_20261028200323279151.png"
-  },
-  {
-   "id": "mob-1056908",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🌟 Austin Concert with James Talarico",
-   "type": "RALLY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-11-03T01:00:00+00:00",
-   "end": "2026-11-03T04:00:00+00:00",
-   "more_times": 0,
-   "venue": "Stubb's",
-   "address": "801 Red River St",
-   "city": "Austin",
-   "zip": "78701",
-   "lat": 30.2684559,
-   "lng": -97.736173,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1056908/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Copy%20of%20Grocery_Placards_Updated_Dimensions%20%281200%20x%20600%20px%29_20261016045131323012.png"
   },
   {
    "id": "mob-1064438",
@@ -808,6 +762,29 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/Party%20Graphic_20261016184748889764.png"
   },
   {
+   "id": "mob-1079141",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Election Night Watch Party with Team Gina!",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-11-04T01:30:00+00:00",
+   "end": "2026-11-04T04:00:00+00:00",
+   "more_times": 0,
+   "venue": "Backyard on Broadway",
+   "address": "2411 Broadway",
+   "city": "San Antonio",
+   "zip": "78215",
+   "lat": 29.4489383,
+   "lng": -98.4753112,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1079141/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/TeamGinaWatchParty_General%20%281%29_20261102152750959699.png"
+  },
+  {
    "id": "mob-1060153",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -855,6 +832,29 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/GH-Launch-AB-Meta-1200x630-3-2_20261031181414991671.png"
   },
   {
+   "id": "mob-1074170",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Election Night Party with Gina Hinojosa for Texas Governor",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-11-04T02:00:00+00:00",
+   "end": "2026-11-04T05:45:00+00:00",
+   "more_times": 0,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Austin",
+   "zip": "78702",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1074170/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/enight%20mobilize_20261027155328964367.jpg"
+  },
+  {
    "id": "news-b3c0672f1524",
    "source": "kens5.com",
    "kind": "reported",
@@ -862,7 +862,7 @@
    "candidates": [
     "gina-hinojosa"
    ],
-   "start": "2026-11-02T05:53:28+00:00",
+   "start": "2026-11-02T05:54:23+00:00",
    "city": "San Antonio",
    "lat": 29.4628,
    "lng": -98.5246,
@@ -892,11 +892,56 @@
    "candidates": [
     "ken-paxton"
    ],
-   "start": "2026-11-02T05:07:29+00:00",
+   "start": "2026-11-02T05:07:52+00:00",
    "city": "Tyler",
    "lat": 32.3173,
    "lng": -95.3064,
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQby1OcEluX1ZYT0JpNnIxbk1HTHg5SFgxVHFwb1ZqSlpTcEFGQ2tvY2lYLW9Fd2ZiQXByLTktQWExYjUwbHF4aW1RVjQyQkxIaFM3ZFJld2lWRVN0T3JaOG1HU3hQa0tkVE94MjhkSG1uUFFjQUZ6elFhODFHOXl2aVpoS3hlb2x0a1NUQU5IU0xwWF9EYUF1NkxkNzhIQ0Nud1haUHM2dmdNZnBPQVZjOHFyN2x4eWZHM1lWQmVuZU5NMF9oYTdhTHhOQnNENkZmSmZVaXpFdGhRa2NtVW9TVmZRMFAwai1ZVWU0VG9hUVBZYWQ0bm1z?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-27a58047ad6d",
+   "source": "cbs19.tv",
+   "kind": "reported",
+   "title": "Ken Paxton rallies supporters in Tyler as Senate race enters final stretch",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-11-02T04:52:35+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGhJcTRWc1I1bXUzNGFWeEZzc3NkRk9FN3VpRjNqTTRSbTRuRkR6Z01xOVNCSHE3Zlp3UTJZZVcwZndiOGtlQjY4TF9OU0NrZ0ZNSzY4bE0yRnRGODBTd1dmWDN0YVQtU1NoRTFmZ1AyYklaeWZnN25jd3VkNS1CRUZyUlB0RHhtYkZQN2VlZ3BRNVRUZmx0eEVsTkI5V1AxUW5WclUzQ2dzZjFNdDl5eFJya1A3ckJJY2cwSW1IejEyV2FfbXY1SW4zZUZKck4yMGpvRWtHUWJoZDRvZERqaEpOcTdpNkdU?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-8500eacefb90",
+   "source": "The Killeen Daily Herald",
+   "kind": "reported",
+   "title": "Heckler pushed to ground during Ken Paxton campaign rally in Tyler",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-11-02T04:30:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM3ZiUV9DVEJ3eTQ4ejlURnZuVVVOT3RQWFBRRmlLbnpEZXQ1cjBRbGRpaXdUTzREQ0RIV2VWd0pMYkY0VkpXbk9pOVpMU00zMXdUTG9XMUNlNmU4VWZncHRCRjdieENndEFOWXdJWWQ0TjFqY0hGS09yVldPSm85TVItUU5wY0I3ajRfeUU3RnNDbVNjTGV4ZVdoYjdiZmZ6MHhZZFI4QnRTbm5FbkhoQXczTDd4cURSaHMtRmp3U3haUFFIMzhkSGF2cmY2MDVqbkNQS2M5SFNOS1I3OThzOQ?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-c804d606ab1c",
+   "source": "cbs19.tv",
+   "kind": "reported",
+   "title": "U.S. Senate candidate Ken Paxton campaigns in Tyler as part of statewide bus tour",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-11-01T22:12:08+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEVHOG5JaGxVZlN1amdyWG5VcGQwOFRuSUlZNmZJTzRmWGEzNURaNmJXcmFNMUVKU1gwVklEOW1fQVlpeVRrTjZnLVkyTU5sOWJpZTNhbEhHUlUxX08wLWswcnJZSmplVzR3R3dIWU1hbTVHX0ZyV3NJcC10eTJRa0NqbXdla2Q5dW1yQXVyRVgtVEVrT2pSTkZ5ak1sMDN6UFp3WVJUZmNpVm13bHlabnRPUFhUNTlXSVFLVHJVR3ZKVFI1bFcxa1FrYTcxVF9HMTV3NXJ2NjdTVk1EVmJsSlpEaWxoRXRtcmZvbVFpOA?oc=5",
    "virtual": false
   },
   {
@@ -1411,7 +1456,7 @@
   },
   {
    "id": "news-bf6b00efab22",
-   "source": "kcentv.com",
+   "source": "KCENTV.com",
    "kind": "reported",
    "title": "Gina Hinojosa holds rally in Waco",
    "candidates": [
@@ -1980,21 +2025,6 @@
    "virtual": false
   },
   {
-   "id": "news-d67aad4eaf65",
-   "source": "KVUE",
-   "kind": "reported",
-   "title": "Gov. Greg Abbott rallies supporters in Hutto as Texas governor's race enters final stretch",
-   "candidates": [
-    "greg-abbott"
-   ],
-   "start": "2026-10-26T01:10:00+00:00",
-   "city": "Hutto",
-   "lat": 30.541,
-   "lng": -97.543,
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXAxMGI0NGpXaThDUzg3WDg3LWJTdFdudTZObEFyNkRxeXBpeVdiZUlDcERjRHhQOEZyLVRFakNlcC12aUktODFGYmtTbzczSWNkaV9lajBQOUU0SGlMNE5kajRjRFR6cVFieWRyZmhJeGFqMDU4ODdZTWQ1cGp3RGhGS1ZCWHJrbWhkMkRyczZfdGdGM2JCREk3ODE1c0JJcVAxbzBmb0FKYnM4SlU4Nms2VlV4SUNtejk0TndoN2VzR25CaGdmdU4yWmJuNmsyUmM2UUJTbHNtYjNBUTd4MnhycXZOZ1U?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-21e870302246",
    "source": "kiiitv.com",
    "kind": "reported",
@@ -2037,6 +2067,21 @@
    "lat": 30.6681,
    "lng": -97.6987,
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMWtSZ2NfNEVZYXVBQ243Nm9YYktDbDBmUEFmaXh0NGNvTVlGRVhlc2NDOC1aa1pGbkhuMURCa0NYajRwTGRTWFMzcnBXWVFGcENMRW9BR2J6ODdzREZ6MVpTUVhRNzlqMjJXczVjVWhHLVZCSU9ud1BPOTdnSWFwNGRQaWkzZmJhZ0w2cTdEbTdPQWN3UFBZNERTT2RDWWphS2x5a2Q2SklCb2UtNG9QRU5tWHRiLXk1ajE5SVpGQ0NHVUM5c3FiZUkxWWdxeXdZSDBhXzhiQ1VPNnhHTjNLNk94TXlkdw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-d67aad4eaf65",
+   "source": "KVUE",
+   "kind": "reported",
+   "title": "Gov. Greg Abbott rallies supporters in Hutto as Texas governor's race enters final stretch",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-25T07:00:00+00:00",
+   "city": "Hutto",
+   "lat": 30.541,
+   "lng": -97.543,
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXAxMGI0NGpXaThDUzg3WDg3LWJTdFdudTZObEFyNkRxeXBpeVdiZUlDcERjRHhQOEZyLVRFakNlcC12aUktODFGYmtTbzczSWNkaV9lajBQOUU0SGlMNE5kajRjRFR6cVFieWRyZmhJeGFqMDU4ODdZTWQ1cGp3RGhGS1ZCWHJrbWhkMkRyczZfdGdGM2JCREk3ODE1c0JJcVAxbzBmb0FKYnM4SlU4Nms2VlV4SUNtejk0TndoN2VzR25CaGdmdU4yWmJuNmsyUmM2UUJTbHNtYjNBUTd4MnhycXZOZ1U?oc=5",
    "virtual": false
   },
   {
@@ -3262,7 +3307,7 @@
    "candidates": [
     "james-talarico"
    ],
-   "start": "2026-10-16T16:15:00+00:00",
+   "start": "2026-10-16T07:00:00+00:00",
    "city": "Tyler",
    "lat": 32.3173,
    "lng": -95.3064,
@@ -3690,27 +3735,12 @@
    "virtual": false
   },
   {
-   "id": "news-c8b9061f6aba",
-   "source": "Beaumont Enterprise",
-   "kind": "reported",
-   "title": "Abbott visits Beaumont to discuss manufacturing, affordability",
-   "candidates": [
-    "greg-abbott"
-   ],
-   "start": "2026-10-12T07:00:00+00:00",
-   "city": "Beaumont",
-   "lat": 30.0849,
-   "lng": -94.1453,
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUFVTFY5ZWlyZ1ZocHpxYlVxemR1Si1aNkRvTUp0X2NZbFZ0bWdhYjY5Z1B5aTZINnVySVJ0b2hnWVIxUFFycE5Kd0p3OTN1Y1ZuVl9nQXZXSklGb09tclQ2d0FfYnhIeFBZeWpzQXJmZ2Q2ZHZRQTNFdFMxY2NEZmtKNXBfSmFkV09NQ2h0T0luZzFaVDU0SzhKRTA2OGY5YnR1cUgyMA?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-efafe6e6321e",
    "source": "The Texas Tribune",
    "kind": "reported",
    "title": "Trump to visit San Antonio next week for rally with Paxton, De La Cruz",
    "candidates": [
-    "carlos-de-la-cruz"
+    "monica-de-la-cruz"
    ],
    "start": "2026-10-02T07:00:00+00:00",
    "city": "San Antonio",
