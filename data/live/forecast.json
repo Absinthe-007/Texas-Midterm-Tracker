@@ -1,39 +1,39 @@
 {
- "updated": "2026-11-01T22:13:13+00:00",
- "days_to_election": 2,
+ "updated": "2026-11-02T06:18:33+00:00",
+ "days_to_election": 1,
  "environment": {
   "generic_ballot": -1.8,
   "district_swing": 5.4
  },
  "races": {
   "senate": {
-   "mean": 2.1,
+   "mean": 2.8,
    "sd": 4.5,
-   "p_dem": 0.683,
-   "lo": -3.6,
-   "hi": 7.9,
+   "p_dem": 0.734,
+   "lo": -2.9,
+   "hi": 8.6,
    "inputs": {
-    "polls": 2.9,
-    "n_polls": 24,
+    "polls": 3.1,
+    "n_polls": 26,
     "fundamentals": -5.2,
-    "experts": 0.0,
+    "experts": 2.0,
     "weights": {
      "polls": 0.85,
      "fundamentals": 0.0,
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.681
+   "p_dem_sim": 0.737
   },
   "governor": {
-   "mean": -2.9,
+   "mean": -2.6,
    "sd": 4.5,
-   "p_dem": 0.263,
-   "lo": -8.6,
-   "hi": 2.9,
+   "p_dem": 0.279,
+   "lo": -8.4,
+   "hi": 3.1,
    "inputs": {
-    "polls": -2.1,
-    "n_polls": 20,
+    "polls": -1.8,
+    "n_polls": 22,
     "fundamentals": -7.7,
     "experts": -5.0,
     "weights": {
@@ -42,7 +42,7 @@
      "experts": 0.3
     }
    },
-   "p_dem_sim": 0.261
+   "p_dem_sim": 0.283
   },
   "ltgov": {
    "mean": -4.0,
@@ -144,7 +144,7 @@
    "sd": 4.5,
    "p_dem": 0.281,
    "lo": -8.4,
-   "hi": 3.2,
+   "hi": 3.1,
    "inputs": {
     "polls": -1.6,
     "n_polls": 5,
@@ -334,7 +334,7 @@
    "sd": 6.5,
    "p_dem": 0.016,
    "lo": -22.3,
-   "hi": -5.6,
+   "hi": -5.7,
    "inputs": {
     "polls": -7.0,
     "n_polls": 1,
@@ -429,7 +429,7 @@
    "sd": 6.5,
    "p_dem": 0.668,
    "lo": -5.5,
-   "hi": 11.2,
+   "hi": 11.1,
    "inputs": {
     "polls": 4.8,
     "n_polls": 5,
@@ -505,7 +505,7 @@
    "sd": 6.5,
    "p_dem": 0.0,
    "lo": -44.4,
-   "hi": -27.7,
+   "hi": -27.8,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -600,7 +600,7 @@
    "sd": 6.5,
    "p_dem": 0.033,
    "lo": -20.3,
-   "hi": -3.6,
+   "hi": -3.7,
    "inputs": {
     "polls": null,
     "n_polls": 0,
@@ -713,7 +713,7 @@
    "mean": 46.6,
    "sd": 6.5,
    "p_dem": 1.0,
-   "lo": 38.2,
+   "lo": 38.3,
    "hi": 54.9,
    "inputs": {
     "polls": null,
