@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:59:32+00:00",
+ "updated": "2026-11-03T01:00:32+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -81,8 +81,8 @@
     },
     {
      "source": "Sabato's Crystal Ball",
-     "rating": "Tossup",
-     "as_of": "October 29, 2026"
+     "rating": "Lean D (flip)",
+     "as_of": "November 2, 2026"
     },
     {
      "source": "Silver Bulletin",
@@ -116,6 +116,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Research Co.",
+     "partisan": null,
+     "start": "2026-10-31",
+     "end": "2026-11-02",
+     "n": 450,
+     "pop": "LV",
+     "moe": 4.6,
+     "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+     "results": {
+      "R": 46.0,
+      "D": 49.0,
+      "L": 1.0
+     },
+     "undecided": 4.0,
+     "margin": 3.0
+    },
     {
      "pollster": "Trafalgar Group",
      "partisan": "R",
@@ -1490,10 +1507,10 @@
     "D": 49.0,
     "R": 45.9,
     "margin": 3.1,
-    "n_polls": 26,
+    "n_polls": 27,
     "window_days": 30,
     "from": "2026-10-05",
-    "to": "2026-11-01"
+    "to": "2026-11-02"
    },
    "trend": [
     {
@@ -1790,6 +1807,11 @@
      "date": "2026-11-01",
      "D": 49.0,
      "R": 45.9
+    },
+    {
+     "date": "2026-11-02",
+     "D": 49.0,
+     "R": 45.9
     }
    ],
    "key": "senate",
@@ -1894,6 +1916,23 @@
     }
    },
    "polls": [
+    {
+     "pollster": "Research Co.",
+     "partisan": null,
+     "start": "2026-10-31",
+     "end": "2026-11-02",
+     "n": 450,
+     "pop": "LV",
+     "moe": 4.6,
+     "url": "https://researchco.ca/2026/11/02/midterms-2026-two/",
+     "results": {
+      "R": 46.0,
+      "D": 44.0,
+      "L": 2.0
+     },
+     "undecided": 8.0,
+     "margin": -2.0
+    },
     {
      "pollster": "AtlasIntel",
      "partisan": null,
@@ -3046,13 +3085,13 @@
     }
    ],
    "average": {
-    "D": 47.1,
-    "R": 48.9,
+    "D": 47.0,
+    "R": 48.8,
     "margin": -1.8,
-    "n_polls": 22,
+    "n_polls": 23,
     "window_days": 30,
     "from": "2026-10-05",
-    "to": "2026-11-01"
+    "to": "2026-11-02"
    },
    "trend": [
     {
@@ -3314,6 +3353,11 @@
      "date": "2026-11-01",
      "D": 47.1,
      "R": 48.9
+    },
+    {
+     "date": "2026-11-02",
+     "D": 47.0,
+     "R": 48.8
     }
    ],
    "key": "governor",

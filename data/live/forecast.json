@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T16:08:04+00:00",
- "days_to_election": 1,
+ "updated": "2026-11-03T01:09:03+00:00",
+ "days_to_election": 0,
  "environment": {
   "generic_ballot": -1.8,
   "district_swing": 5.4
@@ -14,7 +14,7 @@
    "hi": 8.6,
    "inputs": {
     "polls": 3.1,
-    "n_polls": 26,
+    "n_polls": 27,
     "fundamentals": -5.2,
     "experts": 2.0,
     "weights": {
@@ -33,7 +33,7 @@
    "hi": 3.1,
    "inputs": {
     "polls": -1.8,
-    "n_polls": 22,
+    "n_polls": 23,
     "fundamentals": -7.7,
     "experts": -5.0,
     "weights": {
@@ -788,7 +788,7 @@
   "tx34": {
    "mean": 3.1,
    "sd": 6.5,
-   "p_dem": 0.684,
+   "p_dem": 0.685,
    "lo": -5.2,
    "hi": 11.4,
    "inputs": {
