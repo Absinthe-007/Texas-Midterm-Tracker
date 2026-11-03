@@ -1,167 +1,6 @@
 {
- "updated": "2026-11-03T01:09:02+00:00",
+ "updated": "2026-11-03T14:28:52+00:00",
  "events": [
-  {
-   "id": "mob-1078349",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "🪧💥 DFW Poll Dressing with Team Talarico",
-   "type": "COMMUNITY",
-   "candidates": [
-    "james-talarico"
-   ],
-   "host": "Talarico for Texas",
-   "start": "2026-11-03T01:00:00+00:00",
-   "end": "2026-11-03T03:00:00+00:00",
-   "more_times": 0,
-   "venue": "Dallas County Democratic Party",
-   "address": "1414 N Washington Ave",
-   "city": "Dallas",
-   "zip": "75204",
-   "lat": 32.7962397,
-   "lng": -96.7838574,
-   "virtual": false,
-   "url": "https://www.mobilize.us/talaricofortexas/event/1078349/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Screenshot%202026-10-16%20153257_20261016203324345674.jpg"
-  },
-  {
-   "id": "mob-1053297",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Texas Together Block Walk - Leticia Gutierrez's Office",
-   "type": "CANVASS",
-   "candidates": [
-    "leticia-gutierrez"
-   ],
-   "host": "Texas Together",
-   "start": "2026-11-03T13:00:00+00:00",
-   "end": "2026-11-03T16:00:00+00:00",
-   "more_times": 4,
-   "venue": "Leticia Gutierrez's Office",
-   "address": "4001 Leeland St",
-   "city": "Houston",
-   "zip": "77003",
-   "lat": 29.7383077,
-   "lng": -95.341799,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1053297/",
-   "image": ""
-  },
-  {
-   "id": "mob-1064438",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting for Justin Early: Williamson County Election Day",
-   "type": "OTHER",
-   "candidates": [
-    "justin-early"
-   ],
-   "host": "Justin Early for Congress",
-   "start": "2026-11-03T13:00:00+00:00",
-   "end": "2026-11-03T17:00:00+00:00",
-   "more_times": 2,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Georgetown",
-   "zip": "78626",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/justinearlyforcongress/event/1064438/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001856206843.jpeg"
-  },
-  {
-   "id": "mob-1064437",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting for Justin Early: Bell County Election Day",
-   "type": "OTHER",
-   "candidates": [
-    "justin-early"
-   ],
-   "host": "Justin Early for Congress",
-   "start": "2026-11-03T13:00:00+00:00",
-   "end": "2026-11-03T17:00:00+00:00",
-   "more_times": 2,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
-   "city": "Belton",
-   "zip": "76513",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/justinearlyforcongress/event/1064437/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001830364856.jpeg"
-  },
-  {
-   "id": "mob-1062810",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting: Rockwall County",
-   "type": "POLL_MONITORING",
-   "candidates": [
-    "dan-barrios"
-   ],
-   "host": "Dan Barrios for Congress",
-   "start": "2026-11-03T13:00:00+00:00",
-   "end": "2026-11-03T15:00:00+00:00",
-   "more_times": 5,
-   "venue": "Rockwall County",
-   "address": "",
-   "city": "Rockwall County",
-   "zip": "75087",
-   "lat": 32.9682679,
-   "lng": -96.4609998,
-   "virtual": false,
-   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062810/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%2810%29_20261012195059013625.jpg"
-  },
-  {
-   "id": "mob-1062799",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting: Dallas County",
-   "type": "POLL_MONITORING",
-   "candidates": [
-    "dan-barrios"
-   ],
-   "host": "Dan Barrios for Congress",
-   "start": "2026-11-03T13:00:00+00:00",
-   "end": "2026-11-03T15:00:00+00:00",
-   "more_times": 5,
-   "venue": "Dallas County",
-   "address": "",
-   "city": "Dallas County",
-   "zip": "75254",
-   "lat": 32.9418531,
-   "lng": -96.8002704,
-   "virtual": false,
-   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062799/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%289%29_20261012193956373083.jpg"
-  },
-  {
-   "id": "mob-1062779",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Poll Greeting: Collin County",
-   "type": "POLL_MONITORING",
-   "candidates": [
-    "dan-barrios"
-   ],
-   "host": "Dan Barrios for Congress",
-   "start": "2026-11-03T13:00:00+00:00",
-   "end": "2026-11-03T15:00:00+00:00",
-   "more_times": 5,
-   "venue": "Collin County",
-   "address": "",
-   "city": "Collin County",
-   "zip": "75075",
-   "lat": 33.0208716,
-   "lng": -96.7386946,
-   "virtual": false,
-   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062779/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%288%29_20261012190747133436.jpg"
-  },
   {
    "id": "mob-1078375",
    "source": "Mobilize",
@@ -232,6 +71,75 @@
    "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x_20261013181947123962.png"
   },
   {
+   "id": "mob-1062810",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting: Rockwall County",
+   "type": "POLL_MONITORING",
+   "candidates": [
+    "dan-barrios"
+   ],
+   "host": "Dan Barrios for Congress",
+   "start": "2026-11-03T15:00:00+00:00",
+   "end": "2026-11-03T17:00:00+00:00",
+   "more_times": 4,
+   "venue": "Rockwall County",
+   "address": "",
+   "city": "Rockwall County",
+   "zip": "75087",
+   "lat": 32.9682679,
+   "lng": -96.4609998,
+   "virtual": false,
+   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062810/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%2810%29_20261012195059013625.jpg"
+  },
+  {
+   "id": "mob-1062799",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting: Dallas County",
+   "type": "POLL_MONITORING",
+   "candidates": [
+    "dan-barrios"
+   ],
+   "host": "Dan Barrios for Congress",
+   "start": "2026-11-03T15:00:00+00:00",
+   "end": "2026-11-03T17:00:00+00:00",
+   "more_times": 4,
+   "venue": "Dallas County",
+   "address": "",
+   "city": "Dallas County",
+   "zip": "75254",
+   "lat": 32.9418531,
+   "lng": -96.8002704,
+   "virtual": false,
+   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062799/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%289%29_20261012193956373083.jpg"
+  },
+  {
+   "id": "mob-1062779",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting: Collin County",
+   "type": "POLL_MONITORING",
+   "candidates": [
+    "dan-barrios"
+   ],
+   "host": "Dan Barrios for Congress",
+   "start": "2026-11-03T15:00:00+00:00",
+   "end": "2026-11-03T17:00:00+00:00",
+   "more_times": 4,
+   "venue": "Collin County",
+   "address": "",
+   "city": "Collin County",
+   "zip": "75075",
+   "lat": 33.0208716,
+   "lng": -96.7386946,
+   "virtual": false,
+   "url": "https://www.mobilize.us/danbarriosforcongress/event/1062779/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/Block%20Walk%20%288%29_20261012190747133436.jpg"
+  },
+  {
    "id": "mob-1061653",
    "source": "Mobilize",
    "kind": "scheduled",
@@ -299,6 +207,75 @@
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1066898/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/010326_v3_BoilerplateMobilize%403x_20261013181947123962.png"
+  },
+  {
+   "id": "mob-1053297",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Texas Together Block Walk - Leticia Gutierrez's Office",
+   "type": "CANVASS",
+   "candidates": [
+    "leticia-gutierrez"
+   ],
+   "host": "Texas Together",
+   "start": "2026-11-03T16:00:00+00:00",
+   "end": "2026-11-03T19:00:00+00:00",
+   "more_times": 3,
+   "venue": "Leticia Gutierrez's Office",
+   "address": "4001 Leeland St",
+   "city": "Houston",
+   "zip": "77003",
+   "lat": 29.7383077,
+   "lng": -95.341799,
+   "virtual": false,
+   "url": "https://www.mobilize.us/texasdemocrats/event/1053297/",
+   "image": ""
+  },
+  {
+   "id": "mob-1064438",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting for Justin Early: Williamson County Election Day",
+   "type": "OTHER",
+   "candidates": [
+    "justin-early"
+   ],
+   "host": "Justin Early for Congress",
+   "start": "2026-11-03T17:00:00+00:00",
+   "end": "2026-11-03T21:00:00+00:00",
+   "more_times": 1,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Georgetown",
+   "zip": "78626",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/justinearlyforcongress/event/1064438/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001856206843.jpeg"
+  },
+  {
+   "id": "mob-1064437",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Poll Greeting for Justin Early: Bell County Election Day",
+   "type": "OTHER",
+   "candidates": [
+    "justin-early"
+   ],
+   "host": "Justin Early for Congress",
+   "start": "2026-11-03T17:00:00+00:00",
+   "end": "2026-11-03T21:00:00+00:00",
+   "more_times": 1,
+   "venue": "This event’s address is private. Sign up for more details",
+   "address": "This event’s address is private. Sign up for more details",
+   "city": "Belton",
+   "zip": "76513",
+   "lat": null,
+   "lng": null,
+   "virtual": false,
+   "url": "https://www.mobilize.us/justinearlyforcongress/event/1064437/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/stock_fallback_1200x630_20261014001830364856.jpeg"
   },
   {
    "id": "mob-1078552",
@@ -391,6 +368,29 @@
    "virtual": false,
    "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1070250/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/EDAY%20watch%20party_20261020213529403841.jpg"
+  },
+  {
+   "id": "mob-1079481",
+   "source": "Mobilize",
+   "kind": "scheduled",
+   "title": "Election Night Watch Party with Team Gina at Lighthouse Lounge!",
+   "type": "COMMUNITY",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "host": "Gina Hinojosa for Texas Governor",
+   "start": "2026-11-04T01:00:00+00:00",
+   "end": "2026-11-04T04:00:00+00:00",
+   "more_times": 0,
+   "venue": "Lighthouse Lounge",
+   "address": "1016 Cincinnati Ave",
+   "city": "San Antonio",
+   "zip": "78201",
+   "lat": 29.4496169,
+   "lng": -98.5274639,
+   "virtual": false,
+   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1079481/",
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/TeamGinaWatchParty_General%20%281%29_20261102152750959699.png"
   },
   {
    "id": "mob-1069300",
@@ -488,7 +488,7 @@
    "id": "mob-1060153",
    "source": "Mobilize",
    "kind": "scheduled",
-   "title": "Election Night Party in Amarillo with Clayton Tucker, Cullin Knutson, Mark Nair, & more",
+   "title": "Election Night Party in Amarillo with Clayton Tucker, Mark Nair, Cullin Knutson, & more",
    "type": "OTHER",
    "candidates": [
     "clayton-tucker",
@@ -529,7 +529,7 @@
    "lng": -98.237449,
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1078550/",
-   "image": ""
+   "image": "https://mobilizeamerica.imgix.net/uploads/event/GH-Launch-AB-Meta-1200x630-3-2_20261103020151759670.png"
   },
   {
    "id": "mob-1074170",
@@ -553,6 +553,51 @@
    "virtual": false,
    "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1074170/",
    "image": "https://mobilizeamerica.imgix.net/uploads/event/enight%20mobilize_20261027155328964367.jpg"
+  },
+  {
+   "id": "news-211f0b9b9745",
+   "source": "CBS News",
+   "kind": "reported",
+   "title": "Ken Paxton holds final Senate campaign rally in Allen ahead of midterm elections",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-11-03T04:30:01+00:00",
+   "city": "Allen",
+   "lat": 33.1072,
+   "lng": -96.6747,
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWZuQnMxQmRtem9XUzNORVBZeUhoeVp5N3FyOUhvLUdaSmYySzR0R1BkUUswUllJRldfeVNjNGNKOElYUGNmSER3SURfZUJzcklOM3lCUmdlOWhnZEdVcU52cXkzTVZVTjRQRjc0UDlnSlRKb0J4dmVLOHpJNXFDdlM1WkdwcVUxaHhJY2pZWlgyNkZwSDlaZVdmQVd6Ml94eHEzUXdEYw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-16768922bf5a",
+   "source": "CBS News",
+   "kind": "reported",
+   "title": "Ken Paxton holds final campaign rally in Allen ahead of midterm elections",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-11-03T04:19:00+00:00",
+   "city": "Allen",
+   "lat": 33.1072,
+   "lng": -96.6747,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXNDX2NPd3BZQ2ZiSURYU0UzMUZRZzZYR3Nmalc5RWdTTU9OWlRrY3d6OE1oalBzOWF6QmppaUFacE5selRlRUI2QnE1cEJnUkxZSV9scm1OVENkRUtPd1M4TktqX1dtejVaNmU1UmlGOGh6ZzcyNEtoa09HY05RZ3NHQnpjSWREbEtjdTdyaENjbWhLanNlVEtHaWtqQ3Z2eTlwTzFiTC12SGJYNFBF?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-5bb655cfd1e3",
+   "source": "KSAT",
+   "kind": "reported",
+   "title": "Abbott makes final campaign stop in San Antonio as Hinojosa pushes for new direction",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-11-03T03:37:44+00:00",
+   "city": "San Antonio",
+   "lat": 29.4628,
+   "lng": -98.5246,
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmd5Yk9yM2UweExuellsT0FyVVJDQlZDdFUyWi0xT3U5WlFONU0yRUthV0x6V0VFMDRNcEtvNnBNZ3dwcDAwbWdockY3dXZGRnl6bEVOZWFGTXk2UUowRVRNZENWVjFfV0lZVVBRa0tNOWlzZ0ZPa2w2U040bE1xVzVjbllXMkhuTjZYM3VhS1MxOWRhejhiYl9jMEs3enV0Q0wtVVdLN1EtdE5mdTFoYlNQUXRlUVBCVGZaRU5KS3pza2QtTUlB?oc=5",
+   "virtual": false
   },
   {
    "id": "news-d73e5c455cdc",
@@ -687,6 +732,21 @@
    "lat": 32.3173,
    "lng": -95.3064,
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEVHOG5JaGxVZlN1amdyWG5VcGQwOFRuSUlZNmZJTzRmWGEzNURaNmJXcmFNMUVKU1gwVklEOW1fQVlpeVRrTjZnLVkyTU5sOWJpZTNhbEhHUlUxX08wLWswcnJZSmplVzR3R3dIWU1hbTVHX0ZyV3NJcC10eTJRa0NqbXdla2Q5dW1yQXVyRVgtVEVrT2pSTkZ5ak1sMDN6UFp3WVJUZmNpVm13bHlabnRPUFhUNTlXSVFLVHJVR3ZKVFI1bFcxa1FrYTcxVF9HMTV3NXJ2NjdTVk1EVmJsSlpEaWxoRXRtcmZvbVFpOA?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-14e2b223c29f",
+   "source": "WFAA",
+   "kind": "reported",
+   "title": "Talarico and Hinojosa host rally in San Antonio ahead of Election Day",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-11-01T07:00:00+00:00",
+   "city": "San Antonio",
+   "lat": 29.4628,
+   "lng": -98.5246,
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX2FQMVVkNV8wZlhvcGNJT1FtbTRQTkM1LWszTkFNaHNkMkFFTk5aanZVWUowSnBWMzJTZnB6ck80VnZrTkVxSFdFY2luemZCQVEySmVDYk0zZDVCeFhZeTVHX05JRFIwN19ad1JWN3ZJYTlNbllhRUtBUzdSdHZyWXZuSEl3X3VQZ2d6NUNESF9zSGRpRDdETmk1VWZ3SXhfWklnWC1nUi1ScVVFcmhSQmpEZ2lTMTd4a0YtNGVFdV8zdG1iTmE4NDhsMHlhOEdQRGhHNExsN3ZQVF9JNEU4Um9ieFg1M09uVVJxTlRybE9IcGJW?oc=5",
    "virtual": false
   },
   {
@@ -1935,21 +1995,6 @@
    "virtual": false
   },
   {
-   "id": "news-9a2ffd0a29b5",
-   "source": "KUT",
-   "kind": "reported",
-   "title": "U.S. Senate hopeful James Talarico holds rally at UT Austin ahead of Election Day",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-24T03:58:00+00:00",
-   "city": "Austin",
-   "lat": 30.2986,
-   "lng": -97.7541,
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXVkaFliM0NEa280OGF6LWJNR01HMHhPUy1Ea2lnd2kzNGx2NkZJRFhuNlRVaFFNQkQ4WHRaSUJTbFBxaEoyRUpQMXZpLVhaQklvelBjVXpiVUJ2anJqX2NxWEZGYm9PX0dLUEgtbFRfTVNUNEFrZjVURGdGYU1mRDQzLXZlR010YUlweUNRYi1qMWs?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-f1b23a7d6f08",
    "source": "kens5.com",
    "kind": "reported",
@@ -2055,6 +2100,21 @@
    "virtual": false
   },
   {
+   "id": "news-9a2ffd0a29b5",
+   "source": "KUT",
+   "kind": "reported",
+   "title": "U.S. Senate hopeful James Talarico holds rally at UT Austin ahead of Election Day",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-23T07:00:00+00:00",
+   "city": "Austin",
+   "lat": 30.2986,
+   "lng": -97.7541,
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXVkaFliM0NEa280OGF6LWJNR01HMHhPUy1Ea2lnd2kzNGx2NkZJRFhuNlRVaFFNQkQ4WHRaSUJTbFBxaEoyRUpQMXZpLVhaQklvelBjVXpiVUJ2anJqX2NxWEZGYm9PX0dLUEgtbFRfTVNUNEFrZjVURGdGYU1mRDQzLXZlR010YUlweUNRYi1qMWs?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-edc361222933",
    "source": "KFOX",
    "kind": "reported",
@@ -2130,21 +2190,6 @@
    "virtual": false
   },
   {
-   "id": "news-999670a8abb3",
-   "source": "Corpus Christi Caller-Times",
-   "kind": "reported",
-   "title": "Texas Gov. Greg Abbott makes a campaign stop in Corpus Christi",
-   "candidates": [
-    "greg-abbott"
-   ],
-   "start": "2026-10-22T15:54:37+00:00",
-   "city": "Corpus Christi",
-   "lat": 27.7543,
-   "lng": -97.1734,
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa21kQUpFVmU4V0hQRE1YeGpaUWhqMnJsbHBDRVhORlptaFlnOWtwbjFiSmRDR3VpSjI3SGhMbGladlFFUzVkVWtONTd6MkdBVlJid1gtaFFEYVRPam81a3l5VnAwM3pnOGZHdVhzWUJrREtrQWdTTXhrTG05WDFCYndqQjVHMmhLN2FwZU5BNDlJMXZmZFVFc20xTkdybTkyQWVuMzI2TkNCSHF5cHlxWHVibnRTUXVLTFA4OTVuQ1Q?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-dd6d3eab2858",
    "source": "12newsnow.com",
    "kind": "reported",
@@ -2202,6 +2247,21 @@
    "lat": 32.3173,
    "lng": -95.3064,
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjZVWVI1MUVPTHFkR0hJWTkzM0oydHRKVHBuZl9udWxpME00bHpwZlhOdzJZbndpZnhrMm1PdU1jdlk0UWxSUGh1TkxZQlNEV2x0SUZrV1loNTdoaEhRdVNNV3VfV2FWN3FQRDFuYmdDalo0M195ZG9aOWJlQ2VhZGMxc1FsQzd6cUFLdTctOEZkV1MzS1R2OVRua2RnNWU5VXN2UXVUYUVvdEpHdnJZ?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-999670a8abb3",
+   "source": "Corpus Christi Caller-Times",
+   "kind": "reported",
+   "title": "Texas Gov. Greg Abbott makes a campaign stop in Corpus Christi",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-22T07:00:00+00:00",
+   "city": "Corpus Christi",
+   "lat": 27.7543,
+   "lng": -97.1734,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa21kQUpFVmU4V0hQRE1YeGpaUWhqMnJsbHBDRVhORlptaFlnOWtwbjFiSmRDR3VpSjI3SGhMbGladlFFUzVkVWtONTd6MkdBVlJid1gtaFFEYVRPam81a3l5VnAwM3pnOGZHdVhzWUJrREtrQWdTTXhrTG05WDFCYndqQjVHMmhLN2FwZU5BNDlJMXZmZFVFc20xTkdybTkyQWVuMzI2TkNCSHF5cHlxWHVibnRTUXVLTFA4OTVuQ1Q?oc=5",
    "virtual": false
   },
   {
@@ -3375,111 +3435,6 @@
    "virtual": false
   },
   {
-   "id": "news-03452adee579",
-   "source": "cbs19.tv",
-   "kind": "reported",
-   "title": "Ken Paxton arrives at midterm rally in Tyler where JD Vance is guest speaker",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-13T14:22:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQlMxa3RzTjEtUnM3RGVOTUVsMXA0c2REaXRDVlRQOVZfYnBjbkttbWlCMnN2TkRLcEszcWhySHkwYkVhcUNYUTN1Tlg2Q1NpYkt0OU5pNzE0elVZbGw0SVFRdEg5TVRwdWhCUUQ2QVkwak5vbHNaRHI5LVdlY0VUZTk5R1hlRzhqVlpHRWp0SFJRbGYxOHJKdkh5eml0ZVRacGU2d0RLbUMtdmpDT0xKMldUNTV0MGVDeEprcUpVU2ljNEZYU2w0R2RJbmZZWlJYSk9Ya0lNMDhJTFQtQ0J5VVdtbV9mS2szZjRF?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-1a3aad375b1b",
-   "source": "cbs19.tv",
-   "kind": "reported",
-   "title": "Lt. Gov. Dan Patrick to make campaign stop in Hallsville",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-10-13T10:56:00+00:00",
-   "city": "Hallsville",
-   "lat": 32.4993,
-   "lng": -94.5679,
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdUF0VFVFLU5oeDZNdm85ZjA5WEhmc2dGYkl3WC1zdWM1Y1JnMzRnUDRIVk9JR2Qta2RsZW5kVWJ6V1p4WWhPTWZZNHhxOURpTi1lbHY0R2RMS0dWZjJfSklRZEQyQS13T3dNWnVOemhfSDB2dzVnZXd3NE96Z1BMaFVTNGFDWmZQQTFQNUlJT3c3bmlFUDQ0VGdHaUktR2RrSUxCbWNBRk1sSjdtUnJVeDRlR2piaXUwVzVPTTRmX1pfY04yb0l2ZWd0bG1vdw?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-0e00b817ea42",
-   "source": "cbs19.tv",
-   "kind": "reported",
-   "title": "Dan Patrick to visit Tyler after Hallsville stop on East Texas tour",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-10-13T07:00:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdVJCZEZfdlU4eWtmY2dxWXYwX18xT0FLcTF3bVNLNzNyZ01UNkRObUstUnlveGdQcF9lT2xSYmptZ2FlSDE0c1hUWDlhQnJXMWx1ZGYxQ0VyUHJFQmN0bzNlODBkOWZVTjdtaVB0Y3RlRmQxd0xvd19wOVFiZHFvMEVnWmJiUzA5ZEc1S2VrRGJpQkszeEdrYS1rSXdVVTI0UlRnSFRyQlA?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-4cd22eb096e9",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "Texas Attorney General candidate Mayes Middleton speaks at historic GOP rally in Tyler",
-   "candidates": [
-    "mayes-middleton"
-   ],
-   "start": "2026-10-13T07:00:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd295dnZGMnozRFF4TnFVWkNaVmRrRDVtSUhnV2dtcXZOeG5TblhXbkJGdUF1VWs1SWc0QnowX1FOdkJaYi01MWpGV0xxa2xFbWwwMW9LcHRCZ0lOTkVmRXdCMl9FemVYb3BwYXM1azhCXzhMV3ZZRHpybFF3V2t1RWtOcXZYQVQ4SUR0czZEcGY5X1VUMExZM3ozdC11eEdWVzBaQ0ExUTdCOElWXzNOQlRvRnZBaUZDWkow?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-48ed895ca5fd",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "Texas Comptroller Don Huffines speaks at historic GOP rally in Tyler",
-   "candidates": [
-    "don-huffines"
-   ],
-   "start": "2026-10-13T07:00:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0llcHROeFBqa1cyR3dMVWhfdzBxQUtkcTc2RDlYNGNJR3hRTjg5enkyeUNpbWFVU1ZRZThJa1hWamptN0puNXQwdWlkaUVVYjF6bFFvZktQMTd2VzJRNmFVX0ZJZ2F2c1BSXzJHelpMRnFYczlQX0ZjbFV4Wk94ckM3enJMd0ZWTWtTd25aUzBveVgya2h6ZG44YmladHBNMWRJ?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-8f87b148c8dc",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "U.S. Senate candidate Ken Paxton speaks at historic GOP rally in Tyler",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-13T07:00:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM21BQUM0eWxVYzVMVXBjcnpoN2huWEVJdjhFSjkzYXhEZC1nWkhfV0tKeEVBbDdlYkY0VG1IbFVibWtPZ2FkNlg0NV9jY09VR3hXR1l5SXdQZUk3UUQzV2lPZEptYTRIQ2hsN1QyWWxIRGFkdWgxeVFtRlNEVmx6Tkl2Q285cTFjTTdJOVVvajRLcG1Tc0pvc0VhcTZwLVZYNXo4?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-0786ff61bf7e",
-   "source": "cbs19.tv",
-   "kind": "reported",
-   "title": "Texas AG candidate Mayes Middleton campaigns for Republicans during JD Vance rally in Tyler",
-   "candidates": [
-    "mayes-middleton"
-   ],
-   "start": "2026-10-13T07:00:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLVZFSi1Nb2t4ejZzVjI0MnZYRmJMYlZYUU90QnJHVm5rdjNBdWJld3ZpTG82TUtPcFBaRkxKbktPU081MGlRbmJjY1J2X1pvaXpHQTZwWHYxRDJBRFVuT3piMm1TRnd5cTI2a3I2MW5mbWVFQjJxX1JmZGhLWnpRQlNXOEkweDAwb0o1QkZGSUp1c0JmZWRob1Q1aloyZHpRcmswVGd1c1Bwa0lvRU51RVRqTWpWRThtVjdxOF93TVBhU3lKS2FMQ0dPVzMycVEzWDYwWDc5bzdBY285U0FzNUJqZHZaMElvM0otZUo5R0NSX0pMMXRLMko4RTZneHM?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-efafe6e6321e",
    "source": "The Texas Tribune",
    "kind": "reported",
@@ -3500,13 +3455,28 @@
    "kind": "reported",
    "title": "Texas A&M student group invites Ken Paxton, James Talarico to debate",
    "candidates": [
-    "james-talarico"
+    "ken-paxton"
    ],
    "start": "2026-09-23T07:00:00+00:00",
    "city": "College Station",
    "lat": 30.5852,
    "lng": -96.2964,
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnZIeURjdklrdWtlSzNzclZXQkstV3ZYLXF5alFtMWNrN2djNnVseWE2b1dBTHFXSXpDZkVJM0lPUXFxeERVODZzel9VNEJ4ZllEd2ZWS3plbERfMjhSOS1WbWJvZ2dUR2IwaWpfLUt6eG03V1B2WTQwR3Q2TjhCdU5WeUxCa2ZXUnROMkRyNk9CX0J1b0o2TGlYbnY?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-2a2c6d3ab946",
+   "source": "Houston Public Media",
+   "kind": "reported",
+   "title": "Democratic candidate Gina Hinojosa calls Texas governor race ‘most important in America’ at Houston rally",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-08-06T07:00:00+00:00",
+   "city": "Houston",
+   "lat": 29.7857,
+   "lng": -95.3888,
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3ZFT1laWmEtNlZBTnQ3bDM0YnhyWVpCbVlseDhIZzFzb0FPS0RLaVZfRFh5OTVGLUhYQzZaQ0Y5ZHNaNFBzbFhzMUVJMjY0dEVCY1lfXzRQWUh6LTFLWlRfTEhZcVpDZzN0cXdnbDdMTFM5NmlwX18ya0ptQ0dnM2J5NjJ4amJsMURqc2s3VFZFQ2YxUmhVbTdvMkpWZjVsaFZRVnRXTnFqVVhTRGlINENWN01yQkh6dlFlLWxFa0xyMjFZS1JQdmVtVmgzcGdSNVRjLVZGUzFmQ0h1TWFaNnFjSXd4MVRLTVBXNDk5djXSAfgBQVVfeXFMTi1YRDhwdGs1ZnBaVkx0MjhZY055OEl2WFZ1MXhPOG5HNGlkMHVNZ29ESzRaMUltc2JpQjIxYWxkMjJoYU1yeUtOcUs4amRzd1pBaTIwblNqSkRqTk5mTkhhWDVRNzFHdmxRdWtYdm1aVDZmV0wwUkJ3Vkp2bE5ZbmEyMWVwTE9KQjNBREVOVWtlT3Bac05QVUhFa19tVHY4V05SWHU4S0dMTzJjSTZQeFh5NTFPNC03UTFWd0x6aEpWQ2FZUmFNQVhob0ZxZUNBZVZWZEhRSmlOb1AxVFZZTG43bEp0Y0NnQ3YyZFBJcV9GU09sVlAyZ2o?oc=5",
    "virtual": false
   },
   {
@@ -3525,18 +3495,18 @@
    "virtual": false
   },
   {
-   "id": "news-1ccf5634bea4",
-   "source": "The New York Times",
+   "id": "news-ec29769a353a",
+   "source": "Click2Houston",
    "kind": "reported",
-   "title": "Talarico Rallies in Houston, and Dials Back Past Remarks",
+   "title": "‘Chaos’: Congressman Christian Menefee addresses TSA issues at Houston airports after reported ICE involvement",
    "candidates": [
-    "james-talarico"
+    "christian-menefee"
    ],
-   "start": "2026-05-28T07:00:00+00:00",
+   "start": "2026-03-23T07:00:00+00:00",
    "city": "Houston",
    "lat": 29.7857,
    "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGxLdVBHQng3cnA0azRROUJ0VlR3OC1KQUZHaVQybjh6cEc5LTA4X0RVbVNJYVVKdnZISThiQ2h0dEVscjVBRUxIN19HNVpiejZnSWUyWWlkM2V0RXQ2OFRnMk4zaDR6U3BVUkZSeDcyb1AwSjVaQlFkV056UUpvZERUSWZPRXA3VVdZTnpTb01icnhhWXNrU1kwWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS3FMSi14dFgtRnFhMWRwNGlqdmhZUlVBZkJXcE9zb3RXNFpzal9QSU44cElXOU9wei1yeVdQMzFqbTJDaTJYZHE4Sm9RZFJ3QmFhSW9tWUtUY0RNbDIxejVVWWdYaXhxcF85UDUwVkpHbFd3QldnWW1RUFZsN0Z0VFVZY2sxRXFKNlVienlZZk9mZlZ6ejN5aTVOcl94SE13b2VuZHd4VVAyVF9BbWxFMDdRMzVIeGxOMDlmZGxYenRybV9hZ2ZYbFNXandwWWpyczJmMm1TWU8wUQ?oc=5",
    "virtual": false
   }
  ]

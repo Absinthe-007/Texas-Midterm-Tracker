@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:00:32+00:00",
+ "updated": "2026-11-03T14:20:22+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -37,22 +37,22 @@
     {
      "source": "The Cook Political Report",
      "rating": "Tossup",
-     "as_of": "October 30, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "Decision Desk HQ",
      "rating": "Lean D (flip)",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "The Economist",
      "rating": "Tossup",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "FiftyPlusOne",
      "rating": "Lean D (flip)",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "Fox News",
@@ -72,12 +72,12 @@
     {
      "source": "NBC News",
      "rating": "Tossup",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "RealClearPolitics",
      "rating": "Tossup",
-     "as_of": "October 31, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
@@ -87,12 +87,12 @@
     {
      "source": "Silver Bulletin",
      "rating": "Likely D (flip)",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "Split Ticket",
      "rating": "Likely D (flip)",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     }
    ],
    "finance": {
@@ -151,12 +151,28 @@
      "margin": 0.0
     },
     {
+     "pollster": "Emerson College",
+     "partisan": null,
+     "start": "2026-10-31",
+     "end": "2026-11-01",
+     "n": 500,
+     "pop": "LV",
+     "moe": null,
+     "url": "https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and",
+     "results": {
+      "R": 48.0,
+      "D": 50.0,
+      "L": 2.0
+     },
+     "margin": 2.0
+    },
+    {
      "pollster": "AtlasIntel",
      "partisan": null,
      "start": "2026-10-28",
      "end": "2026-11-01",
      "n": 1678,
-     "pop": "A",
+     "pop": "LV",
      "moe": 2.0,
      "url": "https://cdn1.atlasintel.org/2026_midterms__texas_110126_73e0a3a507f76a2e.pdf",
      "results": {
@@ -1862,7 +1878,7 @@
     {
      "source": "Decision Desk HQ",
      "rating": "Lean R",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "Fox News",
@@ -1877,22 +1893,22 @@
     {
      "source": "NBC News",
      "rating": "Lean R",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "RealClearPolitics",
      "rating": "Tossup",
-     "as_of": "October 30, 2026"
+     "as_of": "November 1, 2026"
     },
     {
      "source": "Sabato's Crystal Ball",
      "rating": "Lean R",
-     "as_of": "October 27, 2026"
+     "as_of": "November 2, 2026"
     },
     {
      "source": "Silver Bulletin",
      "rating": "Lean R",
-     "as_of": "November 1, 2026"
+     "as_of": "November 2, 2026"
     }
    ],
    "finance": {
@@ -1939,7 +1955,7 @@
      "start": "2026-10-28",
      "end": "2026-11-01",
      "n": 1678,
-     "pop": "A",
+     "pop": "LV",
      "moe": 2.2,
      "url": "https://cdn1.atlasintel.org/2026_midterms__texas_110126_73e0a3a507f76a2e.pdf",
      "results": {
