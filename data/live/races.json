@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T14:20:22+00:00",
+ "updated": "2026-11-03T23:26:14+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -26,8 +26,8 @@
    "ratings": [
     {
      "source": "ABC News",
-     "rating": "Tossup",
-     "as_of": "October 26, 2026"
+     "rating": "Lean D (flip)",
+     "as_of": "November 3, 2026"
     },
     {
      "source": "CBS News",
@@ -47,7 +47,7 @@
     {
      "source": "The Economist",
      "rating": "Tossup",
-     "as_of": "November 2, 2026"
+     "as_of": "November 3, 2026"
     },
     {
      "source": "FiftyPlusOne",
@@ -72,7 +72,7 @@
     {
      "source": "NBC News",
      "rating": "Tossup",
-     "as_of": "November 2, 2026"
+     "as_of": "November 3, 2026"
     },
     {
      "source": "RealClearPolitics",
@@ -87,7 +87,7 @@
     {
      "source": "Silver Bulletin",
      "rating": "Likely D (flip)",
-     "as_of": "November 2, 2026"
+     "as_of": "November 3, 2026"
     },
     {
      "source": "Split Ticket",
@@ -8047,8 +8047,8 @@
     },
     {
      "source": "Sabato's Crystal Ball",
-     "rating": "Tossup",
-     "as_of": "October 20, 2026"
+     "rating": "Lean D",
+     "as_of": "November 2, 2026"
     },
     {
      "source": "Silver Bulletin",
