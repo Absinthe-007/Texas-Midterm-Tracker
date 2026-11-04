@@ -1,236 +1,20 @@
 {
- "updated": "2026-11-03T23:36:57+00:00",
+ "updated": "2026-11-04T06:36:05+00:00",
  "events": [
   {
-   "id": "mob-1049498",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "El Paso for Gina Hinojosa Phone Bank",
-   "type": "PHONE_BANK",
+   "id": "news-f94d6d34f9fa",
+   "source": "AP News",
+   "kind": "reported",
+   "title": "Democratic US Senate candidate James Talarico speaks at rally in Austin ahead of midterm elections",
    "candidates": [
-    "gina-hinojosa"
+    "james-talarico"
    ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-11-04T00:00:00+00:00",
-   "end": "2026-11-04T01:45:00+00:00",
-   "more_times": 0,
-   "venue": "",
-   "address": "1103 Yandell Dr",
-   "city": "El Paso",
-   "zip": "79902",
-   "lat": 31.7686018,
-   "lng": -106.4829626,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1049498/",
-   "image": ""
-  },
-  {
-   "id": "mob-1075556",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Joint Election Night Watch Party with Jon Rosenthal & Odus Evbagharu",
-   "type": "COMMUNITY",
-   "candidates": [
-    "jon-rosenthal"
-   ],
-   "host": "Texas Together",
-   "start": "2026-11-04T00:00:00+00:00",
-   "end": "2026-11-04T05:00:00+00:00",
-   "more_times": 0,
-   "venue": "Cypress Event Hall",
-   "address": "7334 Fry Rd ste b",
-   "city": "Houston",
-   "zip": "77433",
-   "lat": 29.8856009,
-   "lng": -95.7208836,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1075556/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/NEW%20TEMPLATE%21%20-10_20261029174003380722.png"
-  },
-  {
-   "id": "mob-1070250",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Shaun Finnie Election Night Watch Party!",
-   "type": "COMMUNITY",
-   "candidates": [
-    "shaun-finnie"
-   ],
-   "host": "Shaun Finnie For Congress",
-   "start": "2026-11-04T00:00:00+00:00",
-   "end": "2026-11-04T05:45:00+00:00",
-   "more_times": 0,
-   "venue": "The Woodlands Waterway Marriott Hotel & Convention Center",
-   "address": "1601 Lake Robbins Dr, Montgomery Ballroom",
-   "city": "The Woodlands",
-   "zip": "77380",
-   "lat": 30.1613778,
-   "lng": -95.4604166,
-   "virtual": false,
-   "url": "https://www.mobilize.us/shaunfinnieforcongress/event/1070250/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/EDAY%20watch%20party_20261020213529403841.jpg"
-  },
-  {
-   "id": "mob-1079481",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Election Night Watch Party with Team Gina at Lighthouse Lounge!",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-11-04T01:00:00+00:00",
-   "end": "2026-11-04T04:00:00+00:00",
-   "more_times": 0,
-   "venue": "Lighthouse Lounge",
-   "address": "1016 Cincinnati Ave",
-   "city": "San Antonio",
-   "zip": "78201",
-   "lat": 29.4496169,
-   "lng": -98.5274639,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1079481/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/TeamGinaWatchParty_General%20%281%29_20261102152750959699.png"
-  },
-  {
-   "id": "mob-1078719",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "TCDP & Team Gina for Texas Election Night Watch Party",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-11-04T01:00:00+00:00",
-   "end": "2026-11-04T04:00:00+00:00",
-   "more_times": 0,
-   "venue": "Club Ritzy",
-   "address": "1201 Oakland Blvd",
-   "city": "Fort Worth",
-   "zip": "76103",
-   "lat": 32.7603364,
-   "lng": -97.2608637,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1078719/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/GH-Launch-AB-Meta-1200x630-3-2_20261031181414991671.png"
-  },
-  {
-   "id": "mob-1067005",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Election Watch Party with Steven Shook, Denise Wooten, and Will Robertson",
-   "type": "COMMUNITY",
-   "candidates": [
-    "steven-shook"
-   ],
-   "host": "Texas Together",
-   "start": "2026-11-04T01:00:00+00:00",
-   "end": "2026-11-04T04:00:00+00:00",
-   "more_times": 0,
-   "venue": "Enzo's NY Pizzeria",
-   "address": "900 Parker Square Rd, #990",
-   "city": "Flower Mound",
-   "zip": "75028",
-   "lat": 33.0382885,
-   "lng": -97.0511156,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1067005/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/Party%20Graphic_20261016184748889764.png"
-  },
-  {
-   "id": "mob-1079141",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Election Night Watch Party with Team Gina!",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-11-04T01:30:00+00:00",
-   "end": "2026-11-04T04:00:00+00:00",
-   "more_times": 0,
-   "venue": "Backyard on Broadway",
-   "address": "2411 Broadway",
-   "city": "San Antonio",
-   "zip": "78215",
-   "lat": 29.4489383,
-   "lng": -98.4753112,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1079141/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/TeamGinaWatchParty_General%20%281%29_20261102152750959699.png"
-  },
-  {
-   "id": "mob-1060153",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Election Night Party in Amarillo with Clayton Tucker, Mark Nair, Cullin Knutson, & more",
-   "type": "OTHER",
-   "candidates": [
-    "clayton-tucker",
-    "mark-nair"
-   ],
-   "host": "Texas Together",
-   "start": "2026-11-04T01:30:00+00:00",
-   "end": "2026-11-04T05:45:00+00:00",
-   "more_times": 0,
-   "venue": "Texas Panhandle Democratic Headquarters",
-   "address": "520 SW 10th Ave",
-   "city": "Amarillo",
-   "zip": "79101",
-   "lat": 35.2046483,
-   "lng": -101.8437537,
-   "virtual": false,
-   "url": "https://www.mobilize.us/texasdemocrats/event/1060153/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-10-27-16-17-39-119_20261027212510898863.jpg"
-  },
-  {
-   "id": "mob-1078550",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Gina for Texas Election Night Watch Party",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-11-04T02:00:00+00:00",
-   "end": "2026-11-04T04:00:00+00:00",
-   "more_times": 0,
-   "venue": "The Gremlin",
-   "address": "322 S 16th St",
-   "city": "McAllen",
-   "zip": "78501",
-   "lat": 26.2009678,
-   "lng": -98.237449,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1078550/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/GH-Launch-AB-Meta-1200x630-3-2_20261103020151759670.png"
-  },
-  {
-   "id": "mob-1074170",
-   "source": "Mobilize",
-   "kind": "scheduled",
-   "title": "Election Night Party with Gina Hinojosa for Texas Governor",
-   "type": "COMMUNITY",
-   "candidates": [
-    "gina-hinojosa"
-   ],
-   "host": "Gina Hinojosa for Texas Governor",
-   "start": "2026-11-04T02:00:00+00:00",
-   "end": "2026-11-04T05:45:00+00:00",
-   "more_times": 0,
-   "venue": "This event’s address is private. Sign up for more details",
-   "address": "This event’s address is private. Sign up for more details",
+   "start": "2026-11-03T07:27:00+00:00",
    "city": "Austin",
-   "zip": "78702",
-   "lat": null,
-   "lng": null,
-   "virtual": false,
-   "url": "https://www.mobilize.us/ginahinojosafortexasgovernor/event/1074170/",
-   "image": "https://mobilizeamerica.imgix.net/uploads/event/enight%20mobilize_20261027155328964367.jpg"
+   "lat": 30.2986,
+   "lng": -97.7541,
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbnNRbG9hR0dVb2kxTlJPM1d2eEVnYnYxTUlGVEplcDJPUF9MbUt2WVItVE1NWUJoX25qN2M0UnJ0MTRTOFBCRk5mUnJZWndHT3FDclRCQkQwUDJwMmYtSzRTek16emJHdFZpRWlfaDJHYUlYUW5oQ0szbU84eGxiNm9md0JpN3dNX2ZLcnF5Zjg4Z2ZVYnBSd2F2VTZ2VXNDbWZwblVxNjBWbXJPX0JNcnI0WnRKZ2lRV045bUdScDdVOUp5NGtQR0hrM3Z5STBSMTVRb1EyelYya0pxZFJ2RVJfWFQxTk1qLXBlcg?oc=5",
+   "virtual": false
   },
   {
    "id": "news-211f0b9b9745",
@@ -275,6 +59,21 @@
    "lat": 29.4628,
    "lng": -98.5246,
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmd5Yk9yM2UweExuellsT0FyVVJDQlZDdFUyWi0xT3U5WlFONU0yRUthV0x6V0VFMDRNcEtvNnBNZ3dwcDAwbWdockY3dXZGRnl6bEVOZWFGTXk2UUowRVRNZENWVjFfV0lZVVBRa0tNOWlzZ0ZPa2w2U040bE1xVzVjbllXMkhuTjZYM3VhS1MxOWRhejhiYl9jMEs3enV0Q0wtVVdLN1EtdE5mdTFoYlNQUXRlUVBCVGZaRU5KS3pza2QtTUlB?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-c3c50774c7fb",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "Gina Hinojosa to hold campaign rally in El Paso on Oct. 28",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-11-03T00:57:27+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjVnRkF2NlFHYmNfc3JCSjZsODZBRl82TElkNjRXenFscEhmWmVMcG5WdnJRT3pjRWRqd2dmeGRSelBGeE9VTGNyMHNXTU45Q2ViQTY2bnp1c0JIX2lEczFtQm9peHVZNU9sYl9qRTRnTi1rcW0xZkFxM29Pd0dDY3phWUFmSmMzRmZjVDBqdVpkcXhkRVEyOG5BcldfYllTZkRCR1hlRnRpU0thT3c?oc=5",
    "virtual": false
   },
   {
@@ -521,7 +320,7 @@
    "id": "news-6a2b096c03c6",
    "source": "CNN",
    "kind": "reported",
-   "title": "Paxton Rally in Fort Worth",
+   "title": "Paxton Rally in Fort Worth | CNN Politics",
    "candidates": [
     "ken-paxton"
    ],
@@ -1418,21 +1217,6 @@
    "virtual": false
   },
   {
-   "id": "news-fd14836a9fd8",
-   "source": "Times Record News",
-   "kind": "reported",
-   "title": "Abbott, Paxton stump in Wichita Falls Monday",
-   "candidates": [
-    "greg-abbott"
-   ],
-   "start": "2026-10-26T23:37:00+00:00",
-   "city": "Wichita Falls",
-   "lat": 33.9067,
-   "lng": -98.5258,
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUW9uSWhwdjZ4bElTMkE3c1VabG51NDZKYk1QVE1Da0NCZ0lwWTRTUnROTnZSa1RiY2V1T2ctdjZTQ2lmYVJiR3hYS3lJUl85X3VXMjh5UGdnd3dNcXJYN29PNFIwbmZwb1huNEctdUhWZnN2VXM0Tm9qcWRvbUN1Zk1scHNXaXI2QVFia3BubFNiYWdNQnRxeE5NbnpIeXdJVURZQl9hWUhtVlV2cWZTMTE4ZjFITWI1aWd4Z3ZPcmQzMVkzZmxNWUYwTVdyR1Q4WjRPWmV1M3E?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-c1f30c1b450e",
    "source": "KXAN Austin",
    "kind": "reported",
@@ -1520,6 +1304,21 @@
    "lat": 31.1049,
    "lng": -97.3885,
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNODY3eENpYU1GcXlEYTg5aXNXLW9EM0FDblpJVkNEalRJcHdydEJGdW5rMm0wUjZmelhaV2R4TjJyX1hKUU9JUGM4TGNqdXVaUm5ZR1dxOUxlQmVHcnpmSEtRLVZ4YXlmYkpwZFRPajBIMFpmZUs0eG0yQkZOUklfOWRCM0RHaUJ2SHA2NTR2TWhmZ1cwMmpPX18wSXZXNHdVOGdoU2dTUU9nSmxLdktUMTB6NW5TNE13ZmUwNUhLYmFzUG54cVJ6Mk9BU0FzNzd0b0tB?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-fd14836a9fd8",
+   "source": "Times Record News",
+   "kind": "reported",
+   "title": "Abbott, Paxton stump in Wichita Falls Monday",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-26T07:00:00+00:00",
+   "city": "Wichita Falls",
+   "lat": 33.9067,
+   "lng": -98.5258,
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUW9uSWhwdjZ4bElTMkE3c1VabG51NDZKYk1QVE1Da0NCZ0lwWTRTUnROTnZSa1RiY2V1T2ctdjZTQ2lmYVJiR3hYS3lJUl85X3VXMjh5UGdnd3dNcXJYN29PNFIwbmZwb1huNEctdUhWZnN2VXM0Tm9qcWRvbUN1Zk1scHNXaXI2QVFia3BubFNiYWdNQnRxeE5NbnpIeXdJVURZQl9hWUhtVlV2cWZTMTE4ZjFITWI1aWd4Z3ZPcmQzMVkzZmxNWUYwTVdyR1Q4WjRPWmV1M3E?oc=5",
    "virtual": false
   },
   {
@@ -3113,21 +2912,6 @@
    "virtual": false
   },
   {
-   "id": "news-6d6ac14b0555",
-   "source": "12newsnow.com",
-   "kind": "reported",
-   "title": "US Rep. Randy Weber visits Port Neches",
-   "candidates": [
-    "randy-weber"
-   ],
-   "start": "2026-10-14T03:21:00+00:00",
-   "city": "Port Neches",
-   "lat": 29.9608,
-   "lng": -93.9618,
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTdGU1FoTjVYV3hKTDZBNXpKeWRTbVA1LTBqdGRrT2ptTGpvbzFGT3ZLbnZyY0s3OG9tVk5NdHlCLWQ1ZmlvcU13RzhOWWlwMExvOTE2SmVTQVZoR21zSVk1V1ZJcmZmaEhsUGJxQUQzLW52cUN0eTJ3Y05KQjNlZ2ZMY2FyMmgwUlBLVTBpM1NXdV9PblRXc3JmUnhuOEpFeS0zLWcxTllVSGZiMmc5bGNjNWRFcXlvcllFSjNn?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-efafe6e6321e",
    "source": "The Texas Tribune",
    "kind": "reported",
@@ -3170,51 +2954,6 @@
    "lat": 29.7857,
    "lng": -95.3888,
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3ZFT1laWmEtNlZBTnQ3bDM0YnhyWVpCbVlseDhIZzFzb0FPS0RLaVZfRFh5OTVGLUhYQzZaQ0Y5ZHNaNFBzbFhzMUVJMjY0dEVCY1lfXzRQWUh6LTFLWlRfTEhZcVpDZzN0cXdnbDdMTFM5NmlwX18ya0ptQ0dnM2J5NjJ4amJsMURqc2s3VFZFQ2YxUmhVbTdvMkpWZjVsaFZRVnRXTnFqVVhTRGlINENWN01yQkh6dlFlLWxFa0xyMjFZS1JQdmVtVmgzcGdSNVRjLVZGUzFmQ0h1TWFaNnFjSXd4MVRLTVBXNDk5djXSAfgBQVVfeXFMTi1YRDhwdGs1ZnBaVkx0MjhZY055OEl2WFZ1MXhPOG5HNGlkMHVNZ29ESzRaMUltc2JpQjIxYWxkMjJoYU1yeUtOcUs4amRzd1pBaTIwblNqSkRqTk5mTkhhWDVRNzFHdmxRdWtYdm1aVDZmV0wwUkJ3Vkp2bE5ZbmEyMWVwTE9KQjNBREVOVWtlT3Bac05QVUhFa19tVHY4V05SWHU4S0dMTzJjSTZQeFh5NTFPNC03UTFWd0x6aEpWQ2FZUmFNQVhob0ZxZUNBZVZWZEhRSmlOb1AxVFZZTG43bEp0Y0NnQ3YyZFBJcV9GU09sVlAyZ2o?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-f37e0a6ecdcb",
-   "source": "Houston Public Media",
-   "kind": "reported",
-   "title": "Democratic voters voice optimism as James Talarico goes on the offensive at Houston rally",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-05-28T07:00:00+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcFRPc0lqVGNrXzV0c1htd2xycGh6bDV4YWVZY2NwdHZ1dXlweW13QkRfX0VJeFJYQkltZ2VaSmk0cXgtV2pvYTlkWjVoVHFCUDhSZmJYSjdPVGVYNkNzakozLVpPbGhHakJMNXdONC1wU2V2Z3hHN0dld3VxdW8yMTd3Uzk1UUdHczF3amxoRGxwSEdaYWhBRGtjaGdxbFp6UzRvbHEwWnhqd3RlTTlQcDRmU2w0SUsteVV5ZF9oLTlXUWdPX2lPS25jc2RfVFlEeG1wanR6RzJ6TTh4VFhTcTlobEJXWkXSAe8BQVVfeXFMTzNxQTNRMVhHX3F4QmxuODlDb2hid1liajVqSWdraHNReDdEQ3BwQTFKbVpWRXlTOGNqTHEtUUtDSjF0Yko2WkhGbFFhNU1ZUVk5VUM1RXpjYjFIaEo3UEdiQmpJaExtRFdDRFNlZk15OGc1UzY5ZUNNclU2azBvUThTdjBtX2Q0R2l1M056emJrbzJmdGNXYmNDOXo2MmtwSlhFYXYtSUkyTHcyMmFPUml3dFdRc1JnTjlPeTlwUGt2S1NoN1FMMDBoVWNVM203UGNDRlRBNkh3TUQ5cldzVWNfT0IxN3R4UW1XR2xWTFU?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-1ccf5634bea4",
-   "source": "The New York Times",
-   "kind": "reported",
-   "title": "Talarico Rallies in Houston, and Dials Back Past Remarks",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-05-28T07:00:00+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGxLdVBHQng3cnA0azRROUJ0VlR3OC1KQUZHaVQybjh6cEc5LTA4X0RVbVNJYVVKdnZISThiQ2h0dEVscjVBRUxIN19HNVpiejZnSWUyWWlkM2V0RXQ2OFRnMk4zaDR6U3BVUkZSeDcyb1AwSjVaQlFkV056UUpvZERUSWZPRXA3VVdZTnpTb01icnhhWXNrU1kwWQ?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-ec29769a353a",
-   "source": "Click2Houston",
-   "kind": "reported",
-   "title": "‘Chaos’: Congressman Christian Menefee addresses TSA issues at Houston airports after reported ICE involvement",
-   "candidates": [
-    "christian-menefee"
-   ],
-   "start": "2026-03-23T07:00:00+00:00",
-   "city": "Houston",
-   "lat": 29.7857,
-   "lng": -95.3888,
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS3FMSi14dFgtRnFhMWRwNGlqdmhZUlVBZkJXcE9zb3RXNFpzal9QSU44cElXOU9wei1yeVdQMzFqbTJDaTJYZHE4Sm9RZFJ3QmFhSW9tWUtUY0RNbDIxejVVWWdYaXhxcF85UDUwVkpHbFd3QldnWW1RUFZsN0Z0VFVZY2sxRXFKNlVienlZZk9mZlZ6ejN5aTVOcl94SE13b2VuZHd4VVAyVF9BbWxFMDdRMzVIeGxOMDlmZGxYenRybV9hZ2ZYbFNXandwWWpyczJmMm1TWU8wUQ?oc=5",
    "virtual": false
   }
  ]
