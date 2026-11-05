@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:59:40+00:00",
+ "updated": "2026-11-05T20:07:39+00:00",
  "events": [
   {
    "id": "news-f94d6d34f9fa",
@@ -1232,6 +1232,21 @@
    "virtual": false
   },
   {
+   "id": "news-0a9a4a6cc92e",
+   "source": "KXAN Austin",
+   "kind": "reported",
+   "title": "US Senate candidate Ken Paxton set to make campaign stop in Amarillo Monday",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-26T23:36:48+00:00",
+   "city": "Amarillo",
+   "lat": 35.1999,
+   "lng": -101.8302,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORV9ZLUNOQndYLXhRZGljTnQyZG1mc3lQYmFGRkNQMlFoS2JtNWUxYklGU3Q1TjNJN2tQZFY0Wi1JbEUtUXUzS2ZXSklUTHpReE9teDduajFuY0JlVlIxR2EwZEhKeEVYYXJiaHVXeEN0QlNzZm1WRlBoUzI1SzI1OWh1Yi1yNUViZ1lMLTJUNk05TGtSRWpkZzJUNE1DcUN0ekFoadIBvgFBVV95cUxPYS1ZQVRlb19yWnAtMUk0QmJ5RVZPOTFjOVpvWS1yUU1CQllZXzZYRzdFWUQ1QmZ3RXpQc1BsOHl2dTFBYkpqbkpmSndaazdhbzAyZTNqUEE3NXlCRW1DR25HWll4UHlzdEFidUpQeHBZM2RzbVp0U2Fld3lfYTE2NXVmMTAtREdEcVdZejl1eHZna1hTU2NUc3Z6Njg2RE5PWThzRGhYTmNsSXo4S25KNzJ1dDFLMEZ3R1MxVXdB?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-49bb3d141e5c",
    "source": "Denton Record-Chronicle",
    "kind": "reported",
@@ -1829,6 +1844,21 @@
    "lat": 31.8478,
    "lng": -106.4311,
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDdhS2tDX25DWENZSHc1TGpSeUpHR1pockVsWnFMSUR0SDdRbXFWUUxqWEItc0JVaTRQbjJNY2lUUUtHU1RpeDFmTVZMcEVHQjFUdjJiUUpEWU1MZGFGaTJaU0VwNHNwSDRvRXdFN20tRXQ5S1NJWGhUcFZBM1ExcG9kbDFDSkdnNXdXdnI3LTBnMVU?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-914e93075732",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "Gov. Greg Abbott to hold campaign rally in El Paso next week",
+   "candidates": [
+    "greg-abbott"
+   ],
+   "start": "2026-10-22T07:00:00+00:00",
+   "city": "El Paso",
+   "lat": 31.8478,
+   "lng": -106.4311,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVEJxU29CWFZFdzg0SEItS2lmRTRqbUtmMFpJUy1WdHEzU3A2ZXdPNFBFcjctTmswcWdwdFdRQnpNZWI5MzI5TlhYemE5VXduLW1SQURDVnVlczh4djVBbFZ2ZVhBc2FxMkJtTXNPOC1WOW04NVJ2d1JPSFk2cTRTQVJwOHBMY0lydFViT1QwWW5aUlR2Um0w?oc=5",
    "virtual": false
   },
   {
@@ -2744,81 +2774,6 @@
    "lat": 29.8736,
    "lng": -97.9367,
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uVENzNTNCUEFBam92UlVtZXB5MDhlQXlYeV9iMkE2NjgxRl9Jc2NVcnB1bUw5eTVIdU81eE5SdXl3MGxkXzc4aHdUdFNDYUtYVzM2QzFR?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-fed8e771566e",
-   "source": "The Killeen Daily Herald",
-   "kind": "reported",
-   "title": "Ken Paxton to make campaign stop in Killeen this weekend",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-15T19:35:00+00:00",
-   "city": "Killeen",
-   "lat": 31.0777,
-   "lng": -97.732,
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaHJRLUhibHNlZVhPQnY0QTRzcVFDQ01DRm9zLTNXZjlFa1puOVc0UU1jLWNnMzlhazFMcndnN2p4d0xYcDlFOFdsYU9oaUhhRFdjZlplaXZkT3JqTkxOQTFHMmhSbUx0ZGc1ZHBkV3BDU01ZNVd2UGE2T2xvcjJRMWRfM2w3R3g2V3htbm55LTZESUZEdkVOWWtQalhsRC1QVGpFbWhoVjNwS1Y1cUNGUnpNdTZZeXVMd3VMSGFPVUh3WU90Z05sVUFGeTEtRGtjbEI0?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-33d6fc25762b",
-   "source": "The Killeen Daily Herald",
-   "kind": "reported",
-   "title": "Ken Paxton may make campaign stop in Killeen this weekend; location in question",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-15T19:35:00+00:00",
-   "city": "Killeen",
-   "lat": 31.0777,
-   "lng": -97.732,
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUVTdkxic2hSZDJuQ0lOOVJTTW5VRlBvQkdrNnViUEdIc3VZcVd0a3I5RGNHc1g0WUExWGwzUTdmSjhqS0ItRGFubnVVRnNOc3BPVUdCOWthX3VyZWtuZ1BNTGJfcU5TdzR0WXZUS24wYlViNm5Jb0hiOXBnV3A0WG5QSWxfT2dHdm5LbGt1YXF2b0VGdVRxd0FvRFBLdWJvTkFRbFBaWGJOZktIZkZ0S3pXOUJzX25XWURsRVRfRnN2UWpZZWpDelV3Mk12NWhRWXZtNkxUQ2MwbUhtNmhpc2xLdlV5QTl0bTloUllfZzI?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-0eeba45349a8",
-   "source": "FOX 7 Austin",
-   "kind": "reported",
-   "title": "James Talarico's rally in San Marcos",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-15T07:00:00+00:00",
-   "city": "San Marcos",
-   "lat": 29.8736,
-   "lng": -97.9367,
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92OGhiN2tGdXZxVTM3MUw0cHBkakFZenRQLThGakdFRVYydzhoYmJKeGVPZUkzeFVQQkdHeFNlQkVMSlZPaGdIaHRMYjAyVTNxbmlVTi1acHBURnNMSTZ4NTdic9IBaEFVX3lxTE1YZ2h3ckhhTTJQcW9ObTR0NFhvZjE4aXhyNFYtazV1bEJPbG82MkFlUnlnd3pCVFF1UXhhb1A3cllfNDNWcmVMZkFlQWFVR29QLXVpV1hXc19wcE9ZR3REQXc1bUZGX2Zj?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-77824f4249ff",
-   "source": "KWTX",
-   "kind": "reported",
-   "title": "Lt. Gov. Dan Patrick visits Waco, discusses costs and November election",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-10-15T07:00:00+00:00",
-   "city": "Waco",
-   "lat": 31.558,
-   "lng": -97.1898,
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQk9PdWtMMEZ0bDNsSDlEVDJTazE2YzNoSTI1V280OUpjWUVFZ1FHNUdoX1JrekpZTmlyMU0zQjY3WGMzNGRtZFI4dmF0alF5NERlZ2JSc3l6RVh3VTRIeHplUkdxMS0ybEsyREhEQlp6Z1hqUnFndmtzWHFVOWw5a29qM1hkWS1neUJkZ1QzV3NJOE5NYk9GOFRDUWV5QdIBsgFBVV95cUxNQThLcTdCeUgtSEx4Vk1XdjJyUzhLRjV2TE1hdUVlYUtDMkZFeUlVaGdjeXdya1otLW5LVTRSeUZUdlUyajdoaWZRc3RpTmZvQUl1cDk0WDZINncyR1dDYml2ZGhaLXYyX0dqbzRCakVoV2ZkM2VEREFKd1FUTXN1SndtQUxlVEV6aFVkNWQyaTVjNW4wNmlNM051VjJZLTJMaHBDZEFVeTVieVRleVFtbTNB?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-de4ebc401811",
-   "source": "KXXV",
-   "kind": "reported",
-   "title": "Lt. Gov. Dan Patrick speaks at Waco luncheon, touts Texas economy and outlines plans",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-10-15T07:00:00+00:00",
-   "city": "Waco",
-   "lat": 31.558,
-   "lng": -97.1898,
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3d6ZE9xVzJjckI4My1Yejh4OThpby1CLW52UjJDX3V0ZloteHRDcWJvOEcxQVRQdWJUVkhPTE1GM185V0FHbmQ1b1JuODNIcGhSQ201ZE1sR1I5RDJHdjNWRk8xWS1Td1VIeHNvNHQyNUNCdUxBU3puYnNseVFlQVgwNDJ5RlAyeFI4UkowZU1CUzBiRDNPd1dqTUJFNVY1djhJNl94TmZqaW5sdXJvVjhqZW5PN3VteWFfSnhVc19JbFNlRVUtWHpKakZ6MmtkZ0NUUVRJekxYcndnTWRrNg?oc=5",
    "virtual": false
   },
   {
