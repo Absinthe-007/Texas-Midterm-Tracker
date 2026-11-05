@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:57:05+00:00",
+ "updated": "2026-11-05T06:59:40+00:00",
  "events": [
   {
    "id": "news-f94d6d34f9fa",
@@ -52,7 +52,7 @@
    "kind": "reported",
    "title": "Abbott makes final campaign stop in San Antonio as Hinojosa pushes for new direction",
    "candidates": [
-    "gina-hinojosa"
+    "greg-abbott"
    ],
    "start": "2026-11-03T03:37:44+00:00",
    "city": "San Antonio",
@@ -887,21 +887,6 @@
    "virtual": false
   },
   {
-   "id": "news-77ab26e80f5e",
-   "source": "The Texas Tribune",
-   "kind": "reported",
-   "title": "Trump, Talarico rally in Lubbock as 2026 election nears end",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-28T02:37:41+00:00",
-   "city": "Lubbock",
-   "lat": 33.5619,
-   "lng": -101.8889,
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaE1XTGpYUzdHUW5hbk9ZWkZxNXE0VVYtQWNQNkVuV3N0b1RMVlVIN2dSaDlpWFFRMG1YT1lCWFNXMExEQWpHYXd0bjJSRTVRcG1rSFd3bkJIbkV5LUR1ZGhZOXZ0THV2QnRESTZQdnhrRDI1SmtTbkFsRlVob0g0T0EzQzVFQXhfVkFwelNkVGZJUjVTTmxLWU1ZM1Q?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-985a6525dc7b",
    "source": "EverythingLubbock.com",
    "kind": "reported",
@@ -1094,6 +1079,21 @@
    "lat": 33.5619,
    "lng": -101.8889,
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVZaQkhLRU1oV2xhaEMyODljRmVzeThDTndJc0VXak9oQi0xMDd2MUZpZ1cweEgxenlBRFdxeVRxcDc4aGFtUEpva293eDlScUtvNGVPMHZlZHJyQmlHRU5fdFB4MmRkYTQxQkZJTzIzTjVXOTlkU3pRbk0xUy1WeEJtRS1teE9RREZ0anNrb1BFZ9IBpgFBVV95cUxONTJkS2pPbGpnX2picU5VUDlMSEF4UHZDMVQ5MGI3V1FNdW9lbENRbTBvTm5talU4bk8xNWprd0R4VXBMSkJVbGZlajJmcjl5dDA3QnRQQWhMX2k1RGRfU3NtOWM1SzBZX0VWdUEzcjdPdTRvNUtBLXQ1eHRyTWlDbUc1b2ZHX1ZzTnVodnRrbW5WU1h4aEpkWDRJY0tJQUVMX3JxMWVn?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-77ab26e80f5e",
+   "source": "The Texas Tribune",
+   "kind": "reported",
+   "title": "Trump, Talarico rally in Lubbock as 2026 election nears end",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-27T07:00:00+00:00",
+   "city": "Lubbock",
+   "lat": 33.5619,
+   "lng": -101.8889,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaE1XTGpYUzdHUW5hbk9ZWkZxNXE0VVYtQWNQNkVuV3N0b1RMVlVIN2dSaDlpWFFRMG1YT1lCWFNXMExEQWpHYXd0bjJSRTVRcG1rSFd3bkJIbkV5LUR1ZGhZOXZ0THV2QnRESTZQdnhrRDI1SmtTbkFsRlVob0g0T0EzQzVFQXhfVkFwelNkVGZJUjVTTmxLWU1ZM1Q?oc=5",
    "virtual": false
   },
   {
@@ -2267,6 +2267,21 @@
    "virtual": false
   },
   {
+   "id": "news-98f3f7771b6f",
+   "source": "KLTV.com",
+   "kind": "reported",
+   "title": "U.S. Senate nominee James Talarico holds rally in Tyler",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-20T07:00:00+00:00",
+   "city": "Tyler",
+   "lat": 32.3173,
+   "lng": -95.3064,
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdi15TUlac3FYLW8yd0FUVmF0M256WDZxMmxhay1tQ0Z0RnBSSlRKTGRnRUZYQXc1cVZEYVdDU243RzhjWHlvbjZ1V3FPVlByaE9jdEdfUE92bF84VVROaUtlZTJNRzFaOG9qUHM5YktwdUNmTlpycDNXOGhydUpWT0k5dDVfWlltRVpuU3pvMnJsb3c?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-856b9302e958",
    "source": "kiiitv.com",
    "kind": "reported",
@@ -2804,51 +2819,6 @@
    "lat": 31.558,
    "lng": -97.1898,
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3d6ZE9xVzJjckI4My1Yejh4OThpby1CLW52UjJDX3V0ZloteHRDcWJvOEcxQVRQdWJUVkhPTE1GM185V0FHbmQ1b1JuODNIcGhSQ201ZE1sR1I5RDJHdjNWRk8xWS1Td1VIeHNvNHQyNUNCdUxBU3puYnNseVFlQVgwNDJ5RlAyeFI4UkowZU1CUzBiRDNPd1dqTUJFNVY1djhJNl94TmZqaW5sdXJvVjhqZW5PN3VteWFfSnhVc19JbFNlRVUtWHpKakZ6MmtkZ0NUUVRJekxYcndnTWRrNg?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-f5965c85dafe",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "Lt. Gov. Dan Patrick visits Tyler, discusses homestead exemption plan",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-10-15T01:52:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm1UV0lOcUNySVMwTGtFcW9pZ1pzSzBfMHBuOUpVTlF2ZGxkTy1tTHpXWWlSSEJocUU5cXNuNGZOcXR5dzJNLVl3bUNXRXMza2JSTVdFQTRXbnZORHQzM2Q2aTdqblB6LXlWX0Z4WTNRT3BtNGlaSUtlVHRULUtnemlNMGtURTJiRHhCZDJkU3oxd20tSzNSb1Zfd1ozaDVZSnFRNnhLXzBralJpb3Jral9DdUvSAbQBQVVfeXFMUDZtVFdJTnFDcklTMExrRXFvaWdac0swXzBwbjlKVU5RdmRsZE8tbUx6V1lpUkhCaHFFOXFzbjRmTnF0eXcyTS1Zd21DV0VzM2tiUk1XRUE0V252TkR0MzNkNmk3am5Qei15Vl9GeFkzUU9wbTRpWklLZVR0VC1LZ3ppTTBrVEUyYkR4QmQyZFN6MXdtLUszUm9WX3daM2g1WUpxUTZ4S18wa2pSaW9ya2pfQ3VL?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-e61d6575b3de",
-   "source": "CBS News",
-   "kind": "reported",
-   "title": "CNN, Jubilee Town Hall with James Talarico Wednesday in Fort Worth",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-14T22:06:00+00:00",
-   "city": "Fort Worth",
-   "lat": 32.782,
-   "lng": -97.3486,
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUJxbUFaeDEzTkNJeGN4T045VFQ4MV9jc25Bb1p6YWRVSlpkbHJndm9idFQ2UWw4WkkzRDNhdzhhcm1vSnRWYlhjOUpWcndxVDZSQlR5Vl95Z0dBcXR5MC1ZVGNBZFZRcGkta05zOUl3ZUo3R0NaV0ExU2d0TlhmRUQ0Zl9mSERfdktaR2Rjd1F0OHV0WFlaTFFHcnN0bTQ4dFhTbw?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-9d519ee113bb",
-   "source": "KVUE",
-   "kind": "reported",
-   "title": "Ken Paxton to close Senate campaign with ‘Come And Take It’ bus tour ending at the Alamo",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-14T20:05:00+00:00",
-   "city": "San Antonio",
-   "lat": 29.4628,
-   "lng": -98.5246,
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdGt4Nm9RRGNZRkVFMy1LSDhpTWRUT1VxQnpqSnlBTzhtQ0RrOVhvY0NKSEc0V1lIY1FXSUZ6ZVpVQW1UMjU3TGthLVl4YmNXNHZOOS1SZXA0RThhRDZnUlJnbFlubTYzb2JiR0F1X2FpM3BLbEdtZkFYNVAwd0RaSUVRclJzbHhXSmdPS1hVd1ZwSHY0b3BQQ2ZpZEhLTkdCenByYmU5X0RTb3R2RS1zQzN0MDQyNjRrZm9NcjNDYkRtWW5hYlVqdVpTUkcyQmNiMDAzV292SDgweVAz?oc=5",
    "virtual": false
   },
   {

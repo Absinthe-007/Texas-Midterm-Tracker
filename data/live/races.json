@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:48:47+00:00",
+ "updated": "2026-11-05T06:51:25+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -1521,11 +1521,11 @@
    ],
    "average": {
     "D": 49.0,
-    "R": 45.9,
+    "R": 45.8,
     "margin": 3.1,
-    "n_polls": 27,
+    "n_polls": 26,
     "window_days": 30,
-    "from": "2026-10-05",
+    "from": "2026-10-08",
     "to": "2026-11-02"
    },
    "trend": [
@@ -1851,16 +1851,16 @@
    "label": "Governor",
    "nominees": [
     {
-     "name": "Greg Abbott",
-     "party": "R",
-     "incumbent": true,
-     "wiki": "Greg_Abbott"
-    },
-    {
      "name": "Gina Hinojosa",
      "party": "D",
      "incumbent": false,
      "wiki": "Gina_Hinojosa"
+    },
+    {
+     "name": "Greg Abbott",
+     "party": "R",
+     "incumbent": true,
+     "wiki": "Greg_Abbott"
     },
     {
      "name": "Pat Dixon",
@@ -3101,12 +3101,12 @@
     }
    ],
    "average": {
-    "D": 47.0,
+    "D": 46.9,
     "R": 48.8,
-    "margin": -1.8,
-    "n_polls": 23,
+    "margin": -2.0,
+    "n_polls": 22,
     "window_days": 30,
-    "from": "2026-10-05",
+    "from": "2026-10-08",
     "to": "2026-11-02"
    },
    "trend": [
@@ -3773,12 +3773,12 @@
     }
    ],
    "average": {
-    "D": 45.8,
-    "R": 48.0,
-    "margin": -2.2,
-    "n_polls": 4,
+    "D": 44.7,
+    "R": 48.7,
+    "margin": -4.0,
+    "n_polls": 3,
     "window_days": 30,
-    "from": "2026-10-05",
+    "from": "2026-10-14",
     "to": "2026-10-25"
    },
    "trend": [
@@ -4198,12 +4198,12 @@
     }
    ],
    "average": {
-    "D": 45.8,
-    "R": 48.2,
-    "margin": -2.5,
-    "n_polls": 4,
+    "D": 45.0,
+    "R": 48.7,
+    "margin": -3.7,
+    "n_polls": 3,
     "window_days": 30,
-    "from": "2026-10-05",
+    "from": "2026-10-14",
     "to": "2026-10-25"
    },
    "trend": [
@@ -4554,12 +4554,12 @@
     }
    ],
    "average": {
-    "D": 44.5,
-    "R": 48.5,
-    "margin": -4.0,
-    "n_polls": 4,
+    "D": 44.0,
+    "R": 49.0,
+    "margin": -5.0,
+    "n_polls": 3,
     "window_days": 30,
-    "from": "2026-10-05",
+    "from": "2026-10-14",
     "to": "2026-10-25"
    },
    "trend": [
@@ -5225,12 +5225,12 @@
     }
    ],
    "average": {
-    "D": 46.4,
-    "R": 48.0,
-    "margin": -1.6,
-    "n_polls": 5,
+    "D": 46.2,
+    "R": 48.5,
+    "margin": -2.2,
+    "n_polls": 4,
     "window_days": 30,
-    "from": "2026-10-05",
+    "from": "2026-10-14",
     "to": "2026-10-25"
    },
    "trend": [
@@ -8651,12 +8651,12 @@
    }
   ],
   "average": {
-   "D": 46.2,
+   "D": 46.0,
    "R": 48.0,
-   "margin": -1.8,
-   "n_polls": 5,
+   "margin": -2.0,
+   "n_polls": 4,
    "window_days": 30,
-   "from": "2026-10-05",
+   "from": "2026-10-08",
    "to": "2026-10-21"
   }
  }
