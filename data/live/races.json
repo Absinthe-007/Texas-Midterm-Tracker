@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:59:22+00:00",
+ "updated": "2026-11-06T06:51:53+00:00",
  "races": {
   "senate": {
    "label": "U.S. Senate",
@@ -112,6 +112,24 @@
       "raised": 14257,
       "spent": 13037,
       "cash": 1288
+     }
+    }
+   },
+   "result": {
+    "winner_party": "D",
+    "type": "gain",
+    "votes": {
+     "James Talarico": {
+      "party": "D",
+      "votes": 5445156
+     },
+     "Ken Paxton": {
+      "party": "R",
+      "votes": 4249763
+     },
+     "Ted Brown": {
+      "party": "L",
+      "votes": 190259
      }
     }
    },

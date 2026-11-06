@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:07:39+00:00",
+ "updated": "2026-11-06T07:00:07+00:00",
  "events": [
   {
    "id": "news-f94d6d34f9fa",
@@ -902,21 +902,6 @@
    "virtual": false
   },
   {
-   "id": "news-2b1d9a0fd515",
-   "source": "KXAN Austin",
-   "kind": "reported",
-   "title": "United States Senate candidate James Talarico makes campaign stop in Amarillo",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-28T01:14:07+00:00",
-   "city": "Amarillo",
-   "lat": 35.1999,
-   "lng": -101.8302,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3hQVTBvcXhyYmZUTGdBZmx5cnpKRGtLb24ydEtpRXY3WXpyTV9CLWdnRGc0ZlRjNi1CV21SVGF2OXltZWxrckx3RkVmVzNObC1TWVVoek9jY1RGd2JYbEpFbFZRUzk2ZzY2TS1mdUdweWU3ZWYyU1oxUGQ2eHZHZlBhc2sxQnJxZm9oVktyS3lobU1PQmlCLWotWDB4bHlPbkxob0FRQm9wTmU1Q2N1enE5Y3RhUkU3N2Fj0gHAAUFVX3lxTE9tV3E0UkpGdzBGYkNDTlp2RVAxNVdNVU5VSk5LX2RUMHZQaG5jdnBfclpxejBZSjBmU1FPZzVZT19wM0w2dXUwcUVkRTlEc1QzeGw5UC1TZTFhRDlVNFFOWVRsemRta2lrcFg4QVplZFNjZkJyaFY5Tm5fc0hSWGYyOG55VURXOGJIbUxaM0FuVlRFZFVOdXppYXBVdFc2a21VYUxiU1o1OVpfRWxvdlBvc3NQbEVZZG9weU5JOURUVg?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-a6f1c2cc185d",
    "source": "EverythingLubbock.com",
    "kind": "reported",
@@ -1082,6 +1067,21 @@
    "virtual": false
   },
   {
+   "id": "news-2b1d9a0fd515",
+   "source": "KXAN Austin",
+   "kind": "reported",
+   "title": "United States Senate candidate James Talarico makes campaign stop in Amarillo",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-27T07:00:00+00:00",
+   "city": "Amarillo",
+   "lat": 35.1999,
+   "lng": -101.8302,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3hQVTBvcXhyYmZUTGdBZmx5cnpKRGtLb24ydEtpRXY3WXpyTV9CLWdnRGc0ZlRjNi1CV21SVGF2OXltZWxrckx3RkVmVzNObC1TWVVoek9jY1RGd2JYbEpFbFZRUzk2ZzY2TS1mdUdweWU3ZWYyU1oxUGQ2eHZHZlBhc2sxQnJxZm9oVktyS3lobU1PQmlCLWotWDB4bHlPbkxob0FRQm9wTmU1Q2N1enE5Y3RhUkU3N2Fj0gHAAUFVX3lxTE9tV3E0UkpGdzBGYkNDTlp2RVAxNVdNVU5VSk5LX2RUMHZQaG5jdnBfclpxejBZSjBmU1FPZzVZT19wM0w2dXUwcUVkRTlEc1QzeGw5UC1TZTFhRDlVNFFOWVRsemRta2lrcFg4QVplZFNjZkJyaFY5Tm5fc0hSWGYyOG55VURXOGJIbUxaM0FuVlRFZFVOdXppYXBVdFc2a21VYUxiU1o1OVpfRWxvdlBvc3NQbEVZZG9weU5JOURUVg?oc=5",
+   "virtual": false
+  },
+  {
    "id": "news-77ab26e80f5e",
    "source": "The Texas Tribune",
    "kind": "reported",
@@ -1232,21 +1232,6 @@
    "virtual": false
   },
   {
-   "id": "news-0a9a4a6cc92e",
-   "source": "KXAN Austin",
-   "kind": "reported",
-   "title": "US Senate candidate Ken Paxton set to make campaign stop in Amarillo Monday",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-26T23:36:48+00:00",
-   "city": "Amarillo",
-   "lat": 35.1999,
-   "lng": -101.8302,
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORV9ZLUNOQndYLXhRZGljTnQyZG1mc3lQYmFGRkNQMlFoS2JtNWUxYklGU3Q1TjNJN2tQZFY0Wi1JbEUtUXUzS2ZXSklUTHpReE9teDduajFuY0JlVlIxR2EwZEhKeEVYYXJiaHVXeEN0QlNzZm1WRlBoUzI1SzI1OWh1Yi1yNUViZ1lMLTJUNk05TGtSRWpkZzJUNE1DcUN0ekFoadIBvgFBVV95cUxPYS1ZQVRlb19yWnAtMUk0QmJ5RVZPOTFjOVpvWS1yUU1CQllZXzZYRzdFWUQ1QmZ3RXpQc1BsOHl2dTFBYkpqbkpmSndaazdhbzAyZTNqUEE3NXlCRW1DR25HWll4UHlzdEFidUpQeHBZM2RzbVp0U2Fld3lfYTE2NXVmMTAtREdEcVdZejl1eHZna1hTU2NUc3Z6Njg2RE5PWThzRGhYTmNsSXo4S25KNzJ1dDFLMEZ3R1MxVXdB?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-49bb3d141e5c",
    "source": "Denton Record-Chronicle",
    "kind": "reported",
@@ -1319,6 +1304,21 @@
    "lat": 31.1049,
    "lng": -97.3885,
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNODY3eENpYU1GcXlEYTg5aXNXLW9EM0FDblpJVkNEalRJcHdydEJGdW5rMm0wUjZmelhaV2R4TjJyX1hKUU9JUGM4TGNqdXVaUm5ZR1dxOUxlQmVHcnpmSEtRLVZ4YXlmYkpwZFRPajBIMFpmZUs0eG0yQkZOUklfOWRCM0RHaUJ2SHA2NTR2TWhmZ1cwMmpPX18wSXZXNHdVOGdoU2dTUU9nSmxLdktUMTB6NW5TNE13ZmUwNUhLYmFzUG54cVJ6Mk9BU0FzNzd0b0tB?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-0a9a4a6cc92e",
+   "source": "KXAN Austin",
+   "kind": "reported",
+   "title": "US Senate candidate Ken Paxton set to make campaign stop in Amarillo Monday",
+   "candidates": [
+    "ken-paxton"
+   ],
+   "start": "2026-10-26T07:00:00+00:00",
+   "city": "Amarillo",
+   "lat": 35.1999,
+   "lng": -101.8302,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORV9ZLUNOQndYLXhRZGljTnQyZG1mc3lQYmFGRkNQMlFoS2JtNWUxYklGU3Q1TjNJN2tQZFY0Wi1JbEUtUXUzS2ZXSklUTHpReE9teDduajFuY0JlVlIxR2EwZEhKeEVYYXJiaHVXeEN0QlNzZm1WRlBoUzI1SzI1OWh1Yi1yNUViZ1lMLTJUNk05TGtSRWpkZzJUNE1DcUN0ekFoadIBvgFBVV95cUxPYS1ZQVRlb19yWnAtMUk0QmJ5RVZPOTFjOVpvWS1yUU1CQllZXzZYRzdFWUQ1QmZ3RXpQc1BsOHl2dTFBYkpqbkpmSndaazdhbzAyZTNqUEE3NXlCRW1DR25HWll4UHlzdEFidUpQeHBZM2RzbVp0U2Fld3lfYTE2NXVmMTAtREdEcVdZejl1eHZna1hTU2NUc3Z6Njg2RE5PWThzRGhYTmNsSXo4S25KNzJ1dDFLMEZ3R1MxVXdB?oc=5",
    "virtual": false
   },
   {
@@ -2657,21 +2657,6 @@
    "virtual": false
   },
   {
-   "id": "news-62c64d53454b",
-   "source": "KLTV.com",
-   "kind": "reported",
-   "title": "James Talarico plans rally in Tyler one day after early voting begins",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-16T07:00:00+00:00",
-   "city": "Tyler",
-   "lat": 32.3173,
-   "lng": -95.3064,
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFJCRG5IdHlJQVMtaDBTYkRDYXhFbDFRd1JabmxJbG4yZnU2UjdJZkVpZUFfbTd6VWFJTTFNR0lnd3NuZFZ0MXBJTjM2Uy1xcWRtMUU4LUlFZ0xHX0QzTnl2ZjRxVmtkXzBFeHEzSFZfc01VN3J4VmxwczI4NVFDUGRWODR3cGt4TjhXbUxvRkZ6TjdrdnpoNk1jS1JZNHJtMzRJOA?oc=5",
-   "virtual": false
-  },
-  {
    "id": "news-ceb2310527b5",
    "source": "kcentv.com",
    "kind": "reported",
@@ -2699,81 +2684,6 @@
    "lat": 31.8478,
    "lng": -106.4311,
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX0dRTlRTYk9SLU1hb3N6cFVaUDg2VjdrOXdhMC1OREhOYUJRclNhLXBHUG9mRmFBNEM5ZllyRW05NzFYbENzRGQ1TGJpQ2N6UUpENnBQb29oUUM0UHJURmxVcEt6TTdWbXhiTjNiNUhOV1RhNUZYLU4xdzY5em9hWUlnR1U4UWdkRl84OGhXOVF4Snl4THlfQjAzQVhaUGgyZnkxU2c3a3o4X3dUSGthVVIteG1Ebnl6TUotTzEtUjZkSjk4SXQxMTBBYktENE1PcXRqWFNZajFtSnVIRVZRYTJWOWhyaFYwdG1wS2VXUjVQNGpj?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-04c52e5f67f1",
-   "source": "kcentv.com",
-   "kind": "reported",
-   "title": "Ken Paxton heads to Killeen for tour stop",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-16T07:00:00+00:00",
-   "city": "Killeen",
-   "lat": 31.0777,
-   "lng": -97.732,
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3JwdkdzSHZOVTgzSzdQOElpQ0JVTGFuMmVpMWhOWFdfVmVkQXdNcl9tNzI1SzZ3VzhpTmlUSVU5OExDbnZTYmpVcTVFcWVmS0QwNTB3bHRfOExhYVd1QzJ1OHM3TEhtZ3l5YkdPdVRlNmRPd3NRTm9xS05LRnJYZTR6Y3d2dnZaak9ESmhOWjRKbEJPNFI1Ml82bjVfSWhSbXhkS1NzUVJPOTlZSlNXbkhtZHdhekFpcEhldUJn?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-ea637320bb09",
-   "source": "KVUE",
-   "kind": "reported",
-   "title": "Talarico rallies in San Marcos as high-stakes Texas Senate race enters final stretch",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-16T07:00:00+00:00",
-   "city": "San Marcos",
-   "lat": 29.8736,
-   "lng": -97.9367,
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVlNZNHVBZ1ZDdVIzNWdwbU5OcFBvekVKQTRMNG1fUE9VZlpXcGhubWI4OTVWVXFaSEtHbzBrWERzYTNCWDFxN3djMC1Qbkl3VFgxNVQtaWRLNlI0Z2Zja2hOdGJRMnh4WWRfVzZYMHRjRTZBX2t4TjFtNVNSeUlIanVpeGpVcWUyblNfbVdSWjdZM2NLVGtDa0l4ZkgyWlVoemdNQ0JFTXY3bDNsa0czRko0YW9PSURqZU9wMnU3MHJ1dzJFT2Q4bmxTWDl2ZUNqOWR0a0tPNE1OYXRKaDFmTXJqYWpsRW5VR1RkYWx1emQ4UFZGMVFITnhyTlFKTnVKRVNhcQ?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-afed6a627a65",
-   "source": "FOX 7 Austin",
-   "kind": "reported",
-   "title": "James Talarico's rally in San Marcos",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-16T02:25:02+00:00",
-   "city": "San Marcos",
-   "lat": 29.8736,
-   "lng": -97.9367,
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZ2h3ckhhTTJQcW9ObTR0NFhvZjE4aXhyNFYtazV1bEJPbG82MkFlUnlnd3pCVFF1UXhhb1A3cllfNDNWcmVMZkFlQWFVR29QLXVpV1hXc19wcE9ZR3REQXc1bUZGX2Zj0gFoQVVfeXFMTVhnaHdySGFNMlBxb05tNHQ0WG9mMThpeHI0Vi1rNXVsQk9sbzYyQWVSeWd3ekJUUXVReGFvUDdyWV80M1ZyZUxmQWVBYVVHb1AtdWlXWFdzX3BwT1lHdERBdzVtRkZfZmM?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-045f8ba1557b",
-   "source": "KXXV",
-   "kind": "reported",
-   "title": "Lt. Gov. Dan Patrick speaks at Waco luncheon, touts Texas economy and outlines plans for next legislative session",
-   "candidates": [
-    "dan-patrick"
-   ],
-   "start": "2026-10-15T23:26:31+00:00",
-   "city": "Waco",
-   "lat": 31.558,
-   "lng": -97.1898,
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFdkWHRPUGRjV1F2UUdlUWFKT0RjTGxsb2RNVC1aQmRLMFh2Q3V3UG9scVp0VklyeTctWS03d3I5YzByck9PbkNyc3JjZGM2bFRiVGJ4MHNDV2NQQmxXeVhQSm85R3M3ZzN4VWlIU3JHSGtHd2hlWkpGMG1HcVFObVBfUTNpOWtCZ0xUVEdMLUg1MTNZTWlFUlUwamhXZHhZbVE0M0NSZDNuSk01dWZzci1rYk5wbV9RSzVwa1FWOTdHOVZ3amVYLVVULXBtanVENmR6c1ZsaWtQbWp4YlJqLXdWczJ5VXdWWkE?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-796c656a0233",
-   "source": "Fox News",
-   "kind": "reported",
-   "title": "WATCH LIVE: Texas Senate nominee James Talarico rallies supporters in San Marcos",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-15T23:24:46+00:00",
-   "city": "San Marcos",
-   "lat": 29.8736,
-   "lng": -97.9367,
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uVENzNTNCUEFBam92UlVtZXB5MDhlQXlYeV9iMkE2NjgxRl9Jc2NVcnB1bUw5eTVIdU81eE5SdXl3MGxkXzc4aHdUdFNDYUtYVzM2QzFR?oc=5",
    "virtual": false
   },
   {
