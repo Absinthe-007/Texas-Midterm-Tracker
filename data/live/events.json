@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-06T07:00:07+00:00",
+ "updated": "2026-11-06T19:36:01+00:00",
  "events": [
+  {
+   "id": "news-86ce1c4c50f1",
+   "source": "Houston Public Media",
+   "kind": "reported",
+   "title": "Governor-elect Gina Hinojosa speaks in Austin after historic sweep",
+   "candidates": [
+    "gina-hinojosa"
+   ],
+   "start": "2026-11-05T19:57:05+00:00",
+   "city": "Austin",
+   "lat": 30.2986,
+   "lng": -97.7541,
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMTZBSzJ2Y2pjMjBnbzdOYklReHpSQlhjQlVnX2FqOUZrTkpXN0ZhclZNeFJlYlJJM0UzMmJXdFhYRGY5bXkzMWtBcmpqbzFhZ0RDVW9UN25Yc0l6djlXUy1uakJMc2haNEhfSUIyTy1CN3pMbFEwVUZDRk5aTk52SDNTNEItMTUteE1jaW14d0Y0V1ZfQ29PeDM0Z2dyc0lIODZ1dzh5MjYzZTRMN1FfekIyclo4T0ZtOUFtUGRyZXJRUm5wOEhJTWNpQzdZUmo4Zm82QURHc2p1SlIyWjYzeE9qdHlWTG5qZFRn0gHzAUFVX3lxTE1yTHdZM1FCZTY0Y3kwVWFCX0J4QWdDTTBadkZFSnBDbGxRWjlFZFJjYzRCd0RJcVdOVHBDczJxU0t0d2d4ejdUV1Y5cHBUaUtfREV0WmZiNk5HTXFjQmIwVjd3bnRVZXhBamg5S2lXaW9qblk2eGcwX1pWUlVFRlRMQTZtMUgxNWp0WlE4c2ZVQVhuOVFNWmtfY0VpZFQzQ0tMaDdqU2VfOVVCeFpfeXBYaDFFOVpKcEpZZmptRkxlU2lCZEU4Vm8yaG1UWV9mNWdmMHBKcUM0WTNXZWw0SFVWRnF2Z05vUkFfY2Zic04tR0Zwaw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-42a5a1423965",
+   "source": "KFOX",
+   "kind": "reported",
+   "title": "GOP candidate Brandon Herrera to campaign in Clint, Northeast El Paso",
+   "candidates": [
+    "brandon-herrera"
+   ],
+   "start": "2026-11-03T10:08:27+00:00",
+   "city": "Clint",
+   "lat": 31.5902,
+   "lng": -106.2287,
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXNYOFYxSWdNV1B2cTRpTUJJUmhzWEhENUpYbGloQmk0eFQ5ZHhWdXdvVV9xV0RXSVBXTlhMbVVIMU1xMTM4c2dQNXQ5LS1oeTlQQ0NyWEdxQ3RWQjFZczM0Nko0TEJSNHZHSlp1SXFXT3B1VnlBYzkxQ0FHTHRkdGhnb3MyeTI4Z19RSXlDSXM5V1Z1LVBPMmNMMWVrV2hBeWRzM2NGV3VtQnQ5Q3NtUEkwZWp5a0c1U1ZBUUdoQUhhdw?oc=5",
+   "virtual": false
+  },
   {
    "id": "news-f94d6d34f9fa",
    "source": "AP News",
@@ -467,18 +497,18 @@
    "virtual": false
   },
   {
-   "id": "news-82fc21db5126",
-   "source": "NBC 5 Dallas-Fort Worth",
+   "id": "news-49bb3d141e5c",
+   "source": "Denton Record-Chronicle",
    "kind": "reported",
-   "title": "Thousands gather for James Talarico's ‘Clear Eyes, Full Hearts' tour in Dallas",
+   "title": "Ken Paxton stops in Sanger to rally voters before the Nov. 3 election",
    "candidates": [
-    "james-talarico"
+    "ken-paxton"
    ],
-   "start": "2026-10-30T03:17:56+00:00",
-   "city": "Dallas",
-   "lat": 32.7933,
-   "lng": -96.7665,
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1hBYWI1WjlDTWtRY1dkTnU0ZzVBNWdvbUZrQld1VURUcDVPaG1ISXFCd2hmcklFTzlSbTJpNkMzLTdCY004ekpXRndydlBOTlpMQUlTVllpSzYtV3dpcDFvQjBFYXFQMC0xbGFZYTNZYlV3UGl0QTRid0MyaUYxMGlEdlNWYXM0dF85TTZkMmppQll5cEpMa3NMd19vZDdZUk9qVng3Z0phWVoxUXdpdFNaaS1haEppX1BDa1k4TXTSAcgBQVVfeXFMTkZWbVJkSzRTcm9PTERWVlJickxHNGl0bDhTdHBOOElpUFZzTjBNZ0FCemFUSno1U1JucmRMRnl2SXJ3alRnZ245QlJLeWFVLWRwajE2V25oSjBfZ2dEbmFzakRlZ1FYQUJ5SjRUeFl5R090NXhTRmZ3VjRjWUtYN21pYjJLbXBLMkpiamhvQVc4ZDlZZ0Jwd1Yydi1LcUVFWC1VNU9pUUNVU2pNVEhRMDQwWGFfUkJkR1RGeXUwR1plRzdCcU5yakg?oc=5",
+   "start": "2026-10-30T07:00:00+00:00",
+   "city": "Sanger",
+   "lat": 33.3821,
+   "lng": -97.1654,
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVlWdmI5QWw5MXMzb0FzQzA0cy0yUFI1Z21TTEhZbjBsNFcyX2c4a09MSlpxREVLMjI4VUJaMUtodVc1SGU5cW1DUmQxWDNnVTF0aEs5YzZVQkRQSTdDbkE1WVRESTZmbndRSElZSVlfQjFEZWlaVWxnNkE3cTBQUk9kYTNVS2IwRVZCNHAwbllldWZ4clR0WUREVkhSOTU5OW9taE1ZbGtHaVBXa0FrWEVzUTBYQ2FKLTNsaUIySC1ERHFEQ1FsSXA1NEpCLV9OQ0QtV1UwbmdJRnlHQVZWc2d4OA?oc=5",
    "virtual": false
   },
   {
@@ -644,6 +674,21 @@
    "lat": 32.4545,
    "lng": -99.7381,
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWXV0WUw4NVkycDUwbThhVmVPLVVZeDJUTHFtS1M4N0VWWnlnMzc2ekQyX3htY0Y1Nk1qeXV3RHhTUUszOC1wRWlSbFBROTJWcVBRZTlET3hLYk5EOHdhMHdMV0ppelQxSnVRSndBeGZjNzRlOUppYm5kQktNVFZydnhJYW51d1BOM2lhS0hmcFRqMC1hRHhORF84WHNlOHF4UFlEektBcXc5clUxU1ZqTS0ybDhxdmNuVXJyNzNNdTJCa1RaUkxrT3VsUWJDMFlqRlBkcGViMlFHdw?oc=5",
+   "virtual": false
+  },
+  {
+   "id": "news-82fc21db5126",
+   "source": "NBC 5 Dallas-Fort Worth",
+   "kind": "reported",
+   "title": "Thousands gather for James Talarico's ‘Clear Eyes, Full Hearts' tour in Dallas",
+   "candidates": [
+    "james-talarico"
+   ],
+   "start": "2026-10-29T07:00:00+00:00",
+   "city": "Dallas",
+   "lat": 32.7933,
+   "lng": -96.7665,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1hBYWI1WjlDTWtRY1dkTnU0ZzVBNWdvbUZrQld1VURUcDVPaG1ISXFCd2hmcklFTzlSbTJpNkMzLTdCY004ekpXRndydlBOTlpMQUlTVllpSzYtV3dpcDFvQjBFYXFQMC0xbGFZYTNZYlV3UGl0QTRid0MyaUYxMGlEdlNWYXM0dF85TTZkMmppQll5cEpMa3NMd19vZDdZUk9qVng3Z0phWVoxUXdpdFNaaS1haEppX1BDa1k4TXTSAcgBQVVfeXFMTkZWbVJkSzRTcm9PTERWVlJickxHNGl0bDhTdHBOOElpUFZzTjBNZ0FCemFUSno1U1JucmRMRnl2SXJ3alRnZ245QlJLeWFVLWRwajE2V25oSjBfZ2dEbmFzakRlZ1FYQUJ5SjRUeFl5R090NXhTRmZ3VjRjWUtYN21pYjJLbXBLMkpiamhvQVc4ZDlZZ0Jwd1Yydi1LcUVFWC1VNU9pUUNVU2pNVEhRMDQwWGFfUkJkR1RGeXUwR1plRzdCcU5yakg?oc=5",
    "virtual": false
   },
   {
@@ -1229,21 +1274,6 @@
    "lat": 35.1999,
    "lng": -101.8302,
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzZaUXRQSElCMVB6NjQ3dUJWYy1XSExuOW1IYk9aRjBzc2lpRlpwYlZZNk9BbDdBZ0RLclNWSS10VTJVTzhKUnQ5U2xLdEpUZUU0V2VYTV8xdGEyWEI5VXZHdHc0cXI3UEotaXA0ZjRucGJWWV9LdlNIeFd4aU9JMDFZeGRrdnkzSE5fd3g2SWR6Rmd6WHp2V1hzZWNWbVEwdEFiMS1zRkJKellZMXNlUkRhVUIxS3Jp0gG-AUFVX3lxTE9hLVlBVGVvX3JacC0xSTRCYnlFVk85MWM5Wm9ZLXJRTUJCWVlfNlhHN0VZRDVCZndFelBzUGw4eXZ1MUFiSmpuSmZKd1prN2FvMDJlM2pQQTc1eUJFbUNHbkdaWXhQeXN0QWJ1SlB4cFkzZHNtWnRTYWV3eV9hMTY1dWYxMC1ER0RxV1l6OXV4dmdrWFNTY1Rzdno2ODZETk9ZOHNEaFhOY2xJejhLbko3MnV0MUswRndHUzFVd0E?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-49bb3d141e5c",
-   "source": "Denton Record-Chronicle",
-   "kind": "reported",
-   "title": "Ken Paxton stops in Sanger to rally voters before the Nov. 3 election",
-   "candidates": [
-    "ken-paxton"
-   ],
-   "start": "2026-10-26T23:30:00+00:00",
-   "city": "Sanger",
-   "lat": 33.3821,
-   "lng": -97.1654,
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVlWdmI5QWw5MXMzb0FzQzA0cy0yUFI1Z21TTEhZbjBsNFcyX2c4a09MSlpxREVLMjI4VUJaMUtodVc1SGU5cW1DUmQxWDNnVTF0aEs5YzZVQkRQSTdDbkE1WVRESTZmbndRSElZSVlfQjFEZWlaVWxnNkE3cTBQUk9kYTNVS2IwRVZCNHAwbllldWZ4clR0WUREVkhSOTU5OW9taE1ZbGtHaVBXa0FrWEVzUTBYQ2FKLTNsaUIySC1ERHFEQ1FsSXA1NEpCLV9OQ0QtV1UwbmdJRnlHQVZWc2d4OA?oc=5",
    "virtual": false
   },
   {
@@ -2654,36 +2684,6 @@
    "lat": 31.0777,
    "lng": -97.732,
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZPR0F0YUVSMnFCS080U2JfY0IzRlUzNklJWEIzY01yUDJ2YTNlWnZaU3FNQ0I2M0N3djNLOVR5dkFvcHJtSnhpRmV4aXlGWTRfZmQ3NEx1U2xVN3VBS2kzU0pFMDFuT25NR3ZSb0FSSk1kOUxpYTgxZ3g2eEpnemM3NUxWMnQ2QXEyNUY5YW91VHR0U2ZKQkNUOUgtYm1MN1k4clowWW8yLVpnWVZaWlVUS2xDN1B3c0ljdC11WFc?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-ceb2310527b5",
-   "source": "kcentv.com",
-   "kind": "reported",
-   "title": "James Talarico heads to Temple, College Station for statewide rally",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-16T07:00:00+00:00",
-   "city": "Temple",
-   "lat": 31.1049,
-   "lng": -97.3885,
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXJDdklWT1dVZHc5dk9VUHFwSHdxcHV5SVJNeXE1YjliQWpNTWMtWGVrbzIxTElCNTNZYlRRM01PZkFmM2pFY3p6d2ppTUR0QldKeTRIQl92Q1dMSjRfdUxhdHpjSnpNamY0T0RkSzRzM3Z0cWYwVlFDTGhzdHhXQ3NVU0ZzRTdkYm1ETzgzM3AyWm02R2dwZkNXa1ZoanlHYjd1bFB5d0RIYnBhZm5yRWF3WVhSSUdkaFpRTzFHZFF1ZnlmcUJ0V2d5Q1pqM0RiRWhIT0F6U0YtalhiUXFN?oc=5",
-   "virtual": false
-  },
-  {
-   "id": "news-0e3e1cb83206",
-   "source": "El Paso Times",
-   "kind": "reported",
-   "title": "Talarico brings final Texas US Senate race tour to El Paso as election nears",
-   "candidates": [
-    "james-talarico"
-   ],
-   "start": "2026-10-16T07:00:00+00:00",
-   "city": "El Paso",
-   "lat": 31.8478,
-   "lng": -106.4311,
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX0dRTlRTYk9SLU1hb3N6cFVaUDg2VjdrOXdhMC1OREhOYUJRclNhLXBHUG9mRmFBNEM5ZllyRW05NzFYbENzRGQ1TGJpQ2N6UUpENnBQb29oUUM0UHJURmxVcEt6TTdWbXhiTjNiNUhOV1RhNUZYLU4xdzY5em9hWUlnR1U4UWdkRl84OGhXOVF4Snl4THlfQjAzQVhaUGgyZnkxU2c3a3o4X3dUSGthVVIteG1Ebnl6TUotTzEtUjZkSjk4SXQxMTBBYktENE1PcXRqWFNZajFtSnVIRVZRYTJWOWhyaFYwdG1wS2VXUjVQNGpj?oc=5",
    "virtual": false
   },
   {
